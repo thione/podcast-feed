@@ -42,9 +42,9 @@
       <guid isPermaLink="false">lorenzos-daily-deep-dive-trailer-2026-02-19</guid>
       <itunes:title>Welcome to Lorenzo's Daily Deep Dive</itunes:title>
       <itunes:summary>Lorenzo's Daily Deep Dive is a daily AI-generated podcast covering the latest in AI, tech, and business news curated from top newsletters. New episodes every morning.</itunes:summary>
-      <itunes:duration>60</itunes:duration>
+      <itunes:duration>282</itunes:duration>
       <itunes:episodeType>trailer</itunes:episodeType>
-      <enclosure url="https://thione.github.io/podcast-feed/trailer.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://data.autocontentapi.com/1771537170564-134107a4-34f2-4faa-ab16-fb6be9643ebe-1771537162384-1.mp3" length="4524126" type="audio/mpeg"/>
     </item>
 
   </channel>
