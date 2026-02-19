@@ -17,7 +17,7 @@
       <itunes:name>Lorenzo Thione</itunes:name>
       <itunes:email>lorenzo@gaingels.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://thione.github.io/podcast-feed/cover.jpg"/>
+    <itunes:image href="https://thione.github.io/podcast-feed/podcast-cover.png"/>
     <itunes:category text="News">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -29,7 +29,7 @@
     <itunes:summary>A daily analysis of all of the AI and global news of the day I find from subscribing to a bunch of interesting newsletters</itunes:summary>
     
     <image>
-      <url>https://thione.github.io/podcast-feed/cover.jpg</url>
+      <url>https://thione.github.io/podcast-feed/podcast-cover.png</url>
       <title>Lorenzo's Daily Deep Dive</title>
       <link>https://thione.github.io/podcast-feed/</link>
     </image>
