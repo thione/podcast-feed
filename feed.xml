@@ -10,6 +10,7 @@
     <link>https://thione.github.io/podcast-feed/</link>
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
+    <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -34,6 +35,17 @@
       <link>https://thione.github.io/podcast-feed/</link>
     </image>
 
-    <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Welcome to Lorenzo's Daily Deep Dive</title>
+      <description>Lorenzo's Daily Deep Dive is a daily AI-generated podcast covering the latest in AI, tech, and business news curated from top newsletters. New episodes every morning.</description>
+      <pubDate>Wed, 19 Feb 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lorenzos-daily-deep-dive-trailer-2026-02-19</guid>
+      <itunes:title>Welcome to Lorenzo's Daily Deep Dive</itunes:title>
+      <itunes:summary>Lorenzo's Daily Deep Dive is a daily AI-generated podcast covering the latest in AI, tech, and business news curated from top newsletters. New episodes every morning.</itunes:summary>
+      <itunes:duration>60</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <enclosure url="https://thione.github.io/podcast-feed/trailer.mp3" length="0" type="audio/mpeg"/>
+    </item>
+
   </channel>
 </rss>
