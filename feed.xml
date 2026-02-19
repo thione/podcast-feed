@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Lorenzo's Daily Deep Dive</title>
+    <description>A daily analysis of all of the AI and global news of the day I find from subscribing to a bunch of interesting newsletters</description>
+    <link>https://thione.github.io/podcast-feed/</link>
+    <language>en-us</language>
+    <copyright>© 2026 Lorenzo Thione</copyright>
+    <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <itunes:author>Lorenzo Thione</itunes:author>
+    <itunes:owner>
+      <itunes:name>Lorenzo Thione</itunes:name>
+      <itunes:email>lorenzo@gaingels.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://thione.github.io/podcast-feed/cover.jpg"/>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="News">
+      <itunes:category text="Business News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:summary>A daily analysis of all of the AI and global news of the day I find from subscribing to a bunch of interesting newsletters</itunes:summary>
+    
+    <image>
+      <url>https://thione.github.io/podcast-feed/cover.jpg</url>
+      <title>Lorenzo's Daily Deep Dive</title>
+      <link>https://thione.github.io/podcast-feed/</link>
+    </image>
+
+    <!-- Episodes will be added here by automation -->
+  </channel>
+</rss>
