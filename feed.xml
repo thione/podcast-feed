@@ -36,6 +36,19 @@
     </image>
 
     <item>
+      <title>Lorenzo's Daily Deep Dive - February 22, 2026</title>
+      <description>Today's AI and global news roundup covering: AI agents and the tedium frontier, the productivity staircase showing AI finally appearing in the statistics, the economics of pay-to-execute agent costs and open-source alternatives, robot insurance and minimum wage effects on automation, Pentagon using Claude via Palantir, pigeon drones with neural implants, and more from Exponential View.</description>
+      <pubDate>Sun, 22 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771758874258-918c3546-ff83-4c14-9cd8-3d8711c9eb19-1771758857090-1.mp3" length="19448194" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: AI agents and the tedium frontier, the productivity staircase showing AI finally appearing in the statistics, the economics of pay-to-execute agent costs and open-source alternatives, robot insurance and minimum wage effects on automation, Pentagon using Claude via Palantir, pigeon drones with neural implants, and more from Exponential View.</itunes:summary>
+      <itunes:duration>00:20:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/918c3546-ff83-4c14-9cd8-3d8711c9eb19/20260222</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - February 21, 2026 (Weekend Edition)</title>
       <description>Weekend roundup covering: Google's aggressive move into AI music generation threatening Spotify and startups, the booming high-tech home sauna trend in Silicon Valley, and a fascinating deep dive into longevity startup Mitrix Bio's radical mitochondrial transplant approach — including the story of 91-year-old physicist John Cramer's quest to extend his life.</description>
       <pubDate>Sat, 21 Feb 2026 19:30:00 +0000</pubDate>
