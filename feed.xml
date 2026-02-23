@@ -36,6 +36,19 @@
     </image>
 
     <item>
+      <title>Lorenzo's Daily Deep Dive - February 23, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI's scramble for computing power after the $500B Stargate project stalled, AI consciousness fellowships and alignment seminars, the SAVE Act's hidden voter suppression threats, ECPM as the future-ready skills curriculum replacing STEM, and philosophical perspectives on pain and transcendence from Schopenhauer to Pessoa.</description>
+      <pubDate>Mon, 23 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771845652610-7d804516-50f6-45ef-b2e9-f436885d964f-1771845635963-1.mp3" length="19100870" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI's scramble for computing power after the $500B Stargate project stalled, AI consciousness fellowships and alignment seminars, the SAVE Act's hidden voter suppression threats, ECPM as the future-ready skills curriculum replacing STEM, and philosophical perspectives on pain and transcendence from Schopenhauer to Pessoa.</itunes:summary>
+      <itunes:duration>00:19:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7d804516-50f6-45ef-b2e9-f436885d964f/20260223</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - February 22, 2026</title>
       <description>Today's AI and global news roundup covering: AI agents and the tedium frontier, the productivity staircase showing AI finally appearing in the statistics, the economics of pay-to-execute agent costs and open-source alternatives, robot insurance and minimum wage effects on automation, Pentagon using Claude via Palantir, pigeon drones with neural implants, and more from Exponential View.</description>
       <pubDate>Sun, 22 Feb 2026 11:00:00 +0000</pubDate>
