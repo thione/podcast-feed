@@ -36,6 +36,19 @@
     </image>
 
     <item>
+      <title>Lorenzo's Daily Deep Dive - February 25, 2026</title>
+      <description>Today's deep dive covering OpenAI and Anthropic's massive cash burn, plus the latest from The Information and Substack newsletters.</description>
+      <pubDate>Tue, 25 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772021192359-01b0339a-8f76-4f16-8751-a3bc9d46be64-1772021172723-1.mp3" length="20048802" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's deep dive covering OpenAI and Anthropic's massive cash burn, plus the latest from The Information and Substack newsletters.</itunes:summary>
+      <itunes:duration>00:20:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/01b0339a-8f76-4f16-8751-a3bc9d46be64/20260225</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - February 24, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI's Stargate infrastructure struggles and lessons for Anthropic, GPT-5 growth slowdown and agent evaluation challenges, SpaceX Starlink's land grab ahead of Amazon competition, Altman dismisses data centers in space, Trump's State of the Union preview, Gary Marcus on generative AI skepticism, weekly AI roundup highlights, and perspectives on college value and startup perfectionism.</description>
       <pubDate>Tue, 24 Feb 2026 11:00:00 +0000</pubDate>
