@@ -36,6 +36,19 @@
     </image>
 
     <item>
+      <title>Lorenzo's Daily Deep Dive - February 28, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic's showdown with the Defense Department over supply chain risk designation and likely court battle, OpenAI's massive new deals with Amazon ($138B cloud commitment), Microsoft, Nvidia ($30B), and SoftBank plus potential IPO timeline, US-China trade tensions after Supreme Court tariff ruling and implications for Trump's upcoming China visit, and the SaaSpocalypse - how AI is disrupting traditional SaaS business models with $1T wiped from software stocks.</description>
+      <pubDate>Sat, 28 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772277895362-1af41a9d-a7d3-4506-bd0c-d9df5682f16b-1772277877937-1.mp3" length="18797432" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic's showdown with the Defense Department over supply chain risk designation and likely court battle, OpenAI's massive new deals with Amazon ($138B cloud commitment), Microsoft, Nvidia ($30B), and SoftBank plus potential IPO timeline, US-China trade tensions after Supreme Court tariff ruling and implications for Trump's upcoming China visit, and the SaaSpocalypse - how AI is disrupting traditional SaaS business models with $1T wiped from software stocks.</itunes:summary>
+      <itunes:duration>00:19:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1af41a9d-a7d3-4506-bd0c-d9df5682f16b/20260228</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - February 27, 2026</title>
       <description>Today's AI and global news roundup covering: Google's multibillion-dollar TPU chip deal with Meta challenging Nvidia, OpenAI's M&amp;A war chest and $100B fundraising, Anthropic CEO Dario Amodei's historic statement refusing Pentagon demands for unrestricted AI weapons and mass surveillance, Meta's internal chip design roadblocks, Amazon's $50B OpenAI investment tied to IPO/AGI, Form Energy's iron-air battery deal with nuclear plants, enterprise AI tensions between incumbents and startups, and what comes after SaaS.</description>
       <pubDate>Thu, 27 Feb 2026 11:00:00 +0000</pubDate>
