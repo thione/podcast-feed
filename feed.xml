@@ -36,6 +36,19 @@
     </image>
 
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 9, 2026</title>
+      <description>Today's AI and global news roundup covering: Iran war imperiling $300 billion in Gulf AI spending affecting data centers by Amazon, OpenAI, xAI and others (The Information), OpenAI's massive $110B raise at $730B valuation and venture capital mega-rounds (Ignite Insights), The World the Fatwa Made examining geopolitical impacts (The Free Press), China economic and trade analysis including GDP and NEVs (Trivium China/Sinica), and startup investment strategies (Hall T Martin).</description>
+      <pubDate>Sun, 09 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773051776704-0e39e516-f62c-47af-b82b-5db1d6a73ef9-1773051766154-1.mp3" length="19189896" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Iran war imperiling $300 billion in Gulf AI spending, OpenAI's $110B raise, venture capital mega-rounds, The World the Fatwa Made, China economic analysis, and startup investment strategies.</itunes:summary>
+      <itunes:duration>00:19:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0e39e516-f62c-47af-b82b-5db1d6a73ef9/20260309</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 8, 2026</title>
       <description>Today's AI and global news roundup covering: Iranian drone strikes on AWS data centers in Bahrain and UAE, AI compute geopolitics and US chip export controls, Acemoglu's paper on AI shrinking the knowledge commons, US productivity growth hitting 2.8% in the agent era, Sam Altman controversy and OpenAI boycott movement, GPT-5.4 release, Paul Graham on Brand Age, and Jungian psychology perspectives.</description>
       <pubDate>Sun, 08 Mar 2026 11:00:00 +0000</pubDate>
