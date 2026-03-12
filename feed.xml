@@ -36,6 +36,19 @@
     </image>
 
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 12, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic in talks with Blackstone and PE firms to form AI consulting venture, Microsoft in talks to lease large Texas data center site after Oracle walked away, Iran war imperiling AI funding and data center expansion, CXL computing standard challenges, plus Substack essays on growth and loneliness.</description>
+      <pubDate>Wed, 12 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773311474998-0e8e8dc3-8551-4909-85d3-bdd48ac362be-1773311463475-1.mp3" length="19413922" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic in talks with Blackstone and PE firms to form AI consulting venture, Microsoft in talks to lease large Texas data center site after Oracle walked away, Iran war imperiling AI funding, CXL computing standard, and Substack essays on growth and loneliness.</itunes:summary>
+      <itunes:duration>00:20:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0e8e8dc3-8551-4909-85d3-bdd48ac362be/20260312</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 11, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI plans to integrate Sora video AI into ChatGPT in strategy shift, Tencent's secret WeChat AI agent project targeting 1.4B users, Microsoft's new AI Office bundle, AI startups developing scientific discovery tools, the debate about public sentiment toward AI, Gary Marcus on AI coding outages and science fraud, and more from The Information, The AI Agenda, and Marcus on AI.</description>
       <pubDate>Tue, 11 Mar 2026 11:00:00 +0000</pubDate>
