@@ -38,6 +38,19 @@
     <!-- Episodes will be added here by automation -->
 
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 17, 2026</title>
+      <description>Today's AI and global news roundup covering: xAI being rebuilt from scratch by Musk with key hires from Cursor and Thinking Machines Lab, 5 ingenious data center power hacks (tent cities, jet engines, orphaned green hydrogen sites), Musk's $109B OpenAI lawsuit heads to trial April 27, Travis Kalanick plotting new self-driving company with Uber backing, Meta planning 20% layoffs amid $115B AI capex, AI hallucinations reframed as 'shameless guesses' (Astral Codex Ten), why AI still hasn't beaten cancer (Gary Marcus), Andrew Yang on taxing AI bots, China's unbreakable 80% EV battery dominance, and key data including semiconductor sales up 46% YoY.</description>
+      <pubDate>Tue, 17 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773743185543-9539af82-987a-4f5c-a4c2-ca7cfb28bc60-1773743176486-1.mp3" length="16104939" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: xAI being rebuilt from scratch by Musk with key hires from Cursor and Thinking Machines Lab, 5 ingenious data center power hacks (tent cities, jet engines, orphaned green hydrogen sites), Musk's $109B OpenAI lawsuit heads to trial April 27, Travis Kalanick plotting new self-driving company with Uber backing, Meta planning 20% layoffs amid $115B AI capex, AI hallucinations reframed as 'shameless guesses' (Astral Codex Ten), why AI still hasn't beaten cancer (Gary Marcus), Andrew Yang on taxing AI bots, China's unbreakable 80% EV battery dominance, and key data including semiconductor sales up 46% YoY.</itunes:summary>
+      <itunes:duration>00:16:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/9539af82-987a-4f5c-a4c2-ca7cfb28bc60/20260317</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 16, 2026</title>
       <description>Today's AI and global news roundup covering: AI agents threatening enterprise software companies like Figma, HubSpot, and Workday (and what their SEC filings reveal vs. what CEOs say publicly), ByteDance suspends Seedance 2.0 global launch after Hollywood copyright disputes, a major inflection point in AI scaling debate as Sam Altman concedes breakthroughs beyond scaling are needed (with Meta and xAI also stumbling), Exponential View on autoresearch and the solar supercycle, Sweetgreen targeting protein-obsessed techies, and Patrick Collison on tech media palace intrigue.</description>
       <pubDate>Mon, 16 Mar 2026 11:00:00 +0000</pubDate>
