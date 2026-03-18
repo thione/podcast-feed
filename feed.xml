@@ -36,6 +36,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 18, 2026</title>
+      <description>Today's AI and global news roundup covering: Nvidia GTC conference highlights with Groq chip integration tackling AI inference tasks, OpenAI signs new AWS deal for US government and Pentagon contracts, Palantir's enterprise AI dominance over OpenAI and Anthropic in delivering end-to-end AI solutions, VC concerns about AI app durability at the Montgomery Summit, Alibaba's major AI reorganization under new Token Hub division, Meta's $27B deal with Nebius for AI data centers, OpenAI forming joint ventures with PE firms including TPG and Bain, and the college athlete NIL payment debate from The Free Press.</description>
+      <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773830949528-77e0c296-ef71-456d-906e-047a289fde95-1773830940110-1.mp3" length="16568456" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Nvidia GTC conference highlights with Groq chip integration, OpenAI signs new AWS deal for US government and Pentagon contracts, Palantir's enterprise AI dominance, VC concerns about AI app durability, Alibaba's AI reorganization, Meta's $27B Nebius deal, OpenAI forming PE joint ventures, and the college athlete NIL payment debate.</itunes:summary>
+      <itunes:duration>00:17:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/77e0c296-ef71-456d-906e-047a289fde95/20260318</link>
+    </item>
+
 
     <item>
       <title>Lorenzo's Daily Deep Dive - March 17, 2026</title>
