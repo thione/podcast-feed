@@ -37,6 +37,20 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 19, 2026</title>
+      <description>Today's AI and global news roundup covering: Meta's rogue AI agent security incident (Sev 1 classification), Nvidia NemoClaw open-source agent framework at GTC, Apple cracking down on vibe coding apps in the App Store, Coinbase betting on AI agent payments with Cloudflare stablecoin deal, Nscale's risky $14.6B AI data center bet in West Virginia, Microsoft Copilot leadership overhaul under Satya Nadella, Amazon AWS targeting $600B in sales, and how AI is transforming marketing through clipping and hyper-segmentation.</description>
+      <pubDate>Thu, 19 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773915883264-f122aae0-bc33-42eb-906d-c25517477758-1773915876668-1.mp3" length="11700903" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-19</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Meta's rogue AI agent security incident, Nvidia NemoClaw at GTC, Apple cracking down on vibe coding apps, Coinbase's AI agent payments bet, Nscale's risky data center play, Microsoft Copilot overhaul, Amazon AWS targeting $600B in sales, and AI transforming marketing through clipping and hyper-segmentation.</itunes:summary>
+      <itunes:duration>00:12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f122aae0-bc33-42eb-906d-c25517477758/20260319</link>
+    </item>
+
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 18, 2026</title>
       <description>Today's AI and global news roundup covering: Nvidia GTC conference highlights with Groq chip integration tackling AI inference tasks, OpenAI signs new AWS deal for US government and Pentagon contracts, Palantir's enterprise AI dominance over OpenAI and Anthropic in delivering end-to-end AI solutions, VC concerns about AI app durability at the Montgomery Summit, Alibaba's major AI reorganization under new Token Hub division, Meta's $27B deal with Nebius for AI data centers, OpenAI forming joint ventures with PE firms including TPG and Bain, and the college athlete NIL payment debate from The Free Press.</description>
       <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
@@ -260,12 +274,12 @@
 
     <item>
       <title>Lorenzo's Daily Deep Dive - March 1, 2026</title>
-      <description>Today's AI and global news roundup covering: AI progress tracked through Will Smith spaghetti videos, Pentagon targeting Anthropic while OpenAI fills the defense void, OpenAI's massive new $730B valuation deals with Amazon ($138B cloud), Microsoft, Nvidia ($30B) and SoftBank, Weekend AI roundup on the land of make-believe, the Citrini craze and AI regulation from Exponential View, Gary Marcus on AI scams, China tech policy from Trivium, and the SaaSpocalypse disrupting traditional SaaS.</description>
+      <description>Today's AI and global news roundup covering: AI progress tracked through Will Smith spaghetti videos, Pentagon targeting Anthropic while OpenAI fills the defense void, OpenAI's massive $730B valuation deals with Amazon ($138B cloud), Microsoft, Nvidia ($30B) and SoftBank, Weekend AI roundup on the land of make-believe, the Citrini craze and AI regulation from Exponential View, Gary Marcus on AI scams, China tech policy from Trivium, and the SaaSpocalypse disrupting traditional SaaS.</description>
       <pubDate>Sun, 01 Mar 2026 11:00:00 +0000</pubDate>
       <enclosure url="https://data.autocontentapi.com/1772364687824-c048722b-5c86-4287-a71f-fdffb0d9ab61-1772364661998-1.mp3" length="19169416" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-2026-03-01</guid>
       <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: AI progress tracked through Will Smith spaghetti videos, Pentagon targeting Anthropic while OpenAI fills the defense void, OpenAI's massive new $730B valuation deals with Amazon ($138B cloud), Microsoft, Nvidia ($30B) and SoftBank, Weekend AI roundup on the land of make-believe, the Citrini craze and AI regulation from Exponential View, Gary Marcus on AI scams, China tech policy from Trivium, and the SaaSpocalypse disrupting traditional SaaS.</itunes:summary>
+      <itunes:summary>Today's AI and global news roundup covering: AI progress tracked through Will Smith spaghetti videos, Pentagon targeting Anthropic while OpenAI fills the defense void, OpenAI's massive $730B valuation deals with Amazon ($138B cloud), Microsoft, Nvidia ($30B) and SoftBank, Weekend AI roundup on the land of make-believe, the Citrini craze and AI regulation from Exponential View, Gary Marcus on AI scams, China tech policy from Trivium, and the SaaSpocalypse disrupting traditional SaaS.</itunes:summary>
       <itunes:duration>00:19:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <link>https://autocontentapi.com/share/podcast/c048722b-5c86-4287-a71f-fdffb0d9ab61/20260301</link>
