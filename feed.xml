@@ -37,6 +37,20 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 20, 2026</title>
+      <description>Today's AI and global news roundup covering: Microsoft grows concerned OpenAI-AWS deal may violate Azure contract, Meta shutters Horizon VR, the US-led push to break China's grip on LFP batteries for EVs and AI data centers, ex-Andreessen GP Anjney Midha launching AMP — a 'grid for AI' servers, how Cohesity is using Claude Code to replace ServiceNow and Splunk, Giga Energy's bootstrapped $270M data center startup, SEC considering halving earnings reports to unlock the IPO market, Amazon acquires Swiss-Mile robotics startup Rivr, NFX on what artists know that founders don't in the AI era, and Sinica on a stark US-China warning from Wang Jisi and Mike Lampton.</description>
+      <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774002011053-8235dcb0-89e9-4f11-a12b-56475aa1923b-1774001989886-1.mp3" length="21660870" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Microsoft grows concerned OpenAI-AWS deal may violate Azure contract, Meta shutters Horizon VR, the US-led push to break China's grip on LFP batteries, ex-Andreessen GP Anjney Midha launching AMP — a 'grid for AI' servers, how Cohesity is using Claude Code to replace ServiceNow and Splunk, Giga Energy's bootstrapped data center story, SEC considering halving earnings reports to unlock the IPO market, Amazon acquires Rivr robotics startup, NFX on what artists know that founders don't, and Sinica on a stark US-China warning.</itunes:summary>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8235dcb0-89e9-4f11-a12b-56475aa1923b/20260320</link>
+    </item>
+
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 19, 2026</title>
       <description>Today's AI and global news roundup covering: Meta's rogue AI agent security incident (Sev 1 classification), Nvidia NemoClaw open-source agent framework at GTC, Apple cracking down on vibe coding apps in the App Store, Coinbase betting on AI agent payments with Cloudflare stablecoin deal, Nscale's risky $14.6B AI data center bet in West Virginia, Microsoft Copilot leadership overhaul under Satya Nadella, Amazon AWS targeting $600B in sales, and how AI is transforming marketing through clipping and hyper-segmentation.</description>
       <pubDate>Thu, 19 Mar 2026 11:00:00 +0000</pubDate>
