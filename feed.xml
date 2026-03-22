@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 22, 2026</title>
+      <description>Today's AI and global news roundup covering: Silicon Valley's AI enthusiasm chasm vs. the rest of the world's skepticism (Oscars AI drama, Hachette's &quot;Shy Girl&quot; removal, gamer backlash to Nvidia DLSS), Jensen Huang's $1T Nvidia sales forecast at GTC, AI startups splurging on Bay Area private parties (Vercel's Wolfsbane dinner), OpenAI's first advertisers unable to prove ChatGPT ads work, Anduril's $4B Ohio weapons factory &quot;Arsenal 1&quot;, Apple's attempted Halide camera app acquisition and the co-founder fraud scandal that followed, Exponential View on Pakistan's solar shield saving $6.3B amid the Iran energy war, the shift to an inference-first economy, AI models training their own successors (MiniMax M2.7), and the importance of not delegating human judgment to AI agents.</description>
+      <pubDate>Sun, 22 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774175146177-262c6b05-d35d-4127-b8fb-d5df9e2e54f6-1774175127344-1.mp3" length="20668635" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Silicon Valley's AI enthusiasm chasm vs. the rest of the world's skepticism (Oscars AI drama, Hachette's &quot;Shy Girl&quot; removal, gamer backlash to Nvidia DLSS), Jensen Huang's $1T Nvidia sales forecast at GTC, AI startups splurging on Bay Area private parties (Vercel's Wolfsbane dinner), OpenAI's first advertisers unable to prove ChatGPT ads work, Anduril's $4B Ohio weapons factory &quot;Arsenal 1&quot;, Apple's attempted Halide camera app acquisition and the co-founder fraud scandal that followed, Exponential View on Pakistan's solar shield saving $6.3B amid the Iran energy war, the shift to an inference-first economy, AI models training their own successors (MiniMax M2.7), and the importance of not delegating human judgment to AI agents.</itunes:summary>
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/262c6b05-d35d-4127-b8fb-d5df9e2e54f6/20260322</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 21, 2026</title>
       <description>Today's AI and global news roundup covering: CIA venture arm IQT invests in Prometheus Hyperscale AI data centers in Wyoming, Nvidia Robotics chief Deepu Talla on how AI agents will bring a ChatGPT moment for robotics, OpenAI plans a desktop SuperApp combining ChatGPT, Codex and browser Atlas, 8 key investor questions about the upcoming SpaceX mega-IPO, and Sol Rashidi's essential take on preserving critical thinking in the age of AI.</description>
       <pubDate>Sat, 21 Mar 2026 11:00:00 +0000</pubDate>
