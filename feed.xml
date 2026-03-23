@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 23, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on "pitfall majors" as AI reshapes university education.</description>
+      <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774261067265-9874df8f-9ce5-4913-afd1-6eedc23a0e18-1774261054910-1.mp3" length="21039783" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on "pitfall majors" as AI reshapes university education.</itunes:summary>
+      <itunes:duration>00:21:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/9874df8f-9ce5-4913-afd1-6eedc23a0e18/20260323</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 22, 2026</title>
       <description>Today's AI and global news roundup covering: Silicon Valley's AI enthusiasm chasm vs. the rest of the world's skepticism (Oscars AI drama, Hachette's &quot;Shy Girl&quot; removal, gamer backlash to Nvidia DLSS), Jensen Huang's $1T Nvidia sales forecast at GTC, AI startups splurging on Bay Area private parties (Vercel's Wolfsbane dinner), OpenAI's first advertisers unable to prove ChatGPT ads work, Anduril's $4B Ohio weapons factory &quot;Arsenal 1&quot;, Apple's attempted Halide camera app acquisition and the co-founder fraud scandal that followed, Exponential View on Pakistan's solar shield saving $6.3B amid the Iran energy war, the shift to an inference-first economy, AI models training their own successors (MiniMax M2.7), and the importance of not delegating human judgment to AI agents.</description>
       <pubDate>Sun, 22 Mar 2026 11:00:00 +0000</pubDate>
