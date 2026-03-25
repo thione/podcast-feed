@@ -37,6 +37,20 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 25, 2026</title>
+      <description>Today's AI and global news roundup covering: SpaceX IPO filing plans targeting $75B+ raise and $1.25T valuation, OpenAI's Spud model completion and Sora app shutdown (prompting Disney to abandon $1B investment), Sam Altman reorganizing OpenAI safety and security teams, Anthropic vs OpenAI revenue math comparison ($19B vs $25B annualized), enterprise resistance to AI agents from Slack, Workday and LinkedIn, AI coding agents using multiple personas to build better software, Jensen Huang claiming AGI achieved, AWS accelerating internal AI after layoffs, OpenAI hiring first ad executive targeting $17B consumer revenue, Meta hiring Dreamer AI agent startup founders, and health ring Oura interviewing banks for IPO.</description>
+      <pubDate>Wed, 25 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774434341431-4f693e0b-05e2-4844-8d0b-11a42ffef439-1774434329804-1.mp3" length="20192162" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: SpaceX IPO filing plans targeting $75B+ raise and $1.25T valuation, OpenAI's Spud model completion and Sora app shutdown (prompting Disney to abandon $1B investment), Sam Altman reorganizing OpenAI safety and security teams, Anthropic vs OpenAI revenue math comparison ($19B vs $25B annualized), enterprise resistance to AI agents from Slack, Workday and LinkedIn, AI coding agents using multiple personas to build better software, Jensen Huang claiming AGI achieved, AWS accelerating internal AI after layoffs, OpenAI hiring first ad executive targeting $17B consumer revenue, Meta hiring Dreamer AI agent startup founders, and health ring Oura interviewing banks for IPO.</itunes:summary>
+      <itunes:duration>00:21:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/4f693e0b-05e2-4844-8d0b-11a42ffef439/20260325</link>
+    </item>
+
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 23, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on "pitfall majors" as AI reshapes university education.</description>
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
