@@ -37,30 +37,16 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
-      <title>Lorenzo's Daily Deep Dive - March 25, 2026</title>
-      <description>Today's AI and global news roundup covering: SpaceX IPO filing plans targeting $75B+ raise and $1.25T valuation, OpenAI's Spud model completion and Sora app shutdown (prompting Disney to abandon $1B investment), Sam Altman reorganizing OpenAI safety and security teams, Anthropic vs OpenAI revenue math comparison ($19B vs $25B annualized), enterprise resistance to AI agents from Slack, Workday and LinkedIn, AI coding agents using multiple personas to build better software, Jensen Huang claiming AGI achieved, AWS accelerating internal AI after layoffs, OpenAI hiring first ad executive targeting $17B consumer revenue, Meta hiring Dreamer AI agent startup founders, and health ring Oura interviewing banks for IPO.</description>
-      <pubDate>Wed, 25 Mar 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://data.autocontentapi.com/1774434341431-4f693e0b-05e2-4844-8d0b-11a42ffef439-1774434329804-1.mp3" length="20192162" type="audio/mpeg"/>
-      <guid isPermaLink="false">episode-2026-03-25</guid>
+      <title>Lorenzo's Daily Deep Dive - March 26, 2026</title>
+      <description>Today's AI and global news roundup covering: How AI models started building themselves (recursive self-improvement via MiniMax M2.7, OpenAI Codex, Google AlphaEvolve), Apple's deeper-than-known partnership with Google Gemini including distillation rights, Jeff Bezos and private equity firms boosting AI demand, judge calling Pentagon's actions against Anthropic &quot;troubling&quot;, Meta laying off hundreds and naming Bosworth to lead AI-for-Work, Arm's new AI server CPU backed by Meta and OpenAI, software stocks plunging on AWS AI automation fears, Blackstone nearing $10B+ deal for data center firm Rowan, AMD-backed Vultr seeking $1B raise, the AI pause debate fallacy, and vibe coding safety failures at Amazon, Meta, and Replit.</description>
+      <pubDate>Thu, 26 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774520099590-e0b38598-c6f6-4346-a228-0f2417c0b004-1774520083746-1.mp3" length="16649122" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-26</guid>
       <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: SpaceX IPO filing plans targeting $75B+ raise and $1.25T valuation, OpenAI's Spud model completion and Sora app shutdown (prompting Disney to abandon $1B investment), Sam Altman reorganizing OpenAI safety and security teams, Anthropic vs OpenAI revenue math comparison ($19B vs $25B annualized), enterprise resistance to AI agents from Slack, Workday and LinkedIn, AI coding agents using multiple personas to build better software, Jensen Huang claiming AGI achieved, AWS accelerating internal AI after layoffs, OpenAI hiring first ad executive targeting $17B consumer revenue, Meta hiring Dreamer AI agent startup founders, and health ring Oura interviewing banks for IPO.</itunes:summary>
-      <itunes:duration>00:21:01</itunes:duration>
+      <itunes:summary>Today's AI and global news roundup covering: How AI models started building themselves (recursive self-improvement via MiniMax M2.7, OpenAI Codex, Google AlphaEvolve), Apple's deeper-than-known partnership with Google Gemini including distillation rights, Jeff Bezos and private equity firms boosting AI demand, judge calling Pentagon's actions against Anthropic &quot;troubling&quot;, Meta laying off hundreds and naming Bosworth to lead AI-for-Work, Arm's new AI server CPU backed by Meta and OpenAI, software stocks plunging on AWS AI automation fears, Blackstone nearing $10B+ deal for data center firm Rowan, AMD-backed Vultr seeking $1B raise, the AI pause debate fallacy, and vibe coding safety failures at Amazon, Meta, and Replit.</itunes:summary>
+      <itunes:duration>00:17:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://autocontentapi.com/share/podcast/4f693e0b-05e2-4844-8d0b-11a42ffef439/20260325</link>
-    </item>
-
-
-    <item>
-      <title>Lorenzo's Daily Deep Dive - March 24, 2026</title>
-      <description>Today's AI and global news roundup covering: Notion switching from Cursor to Claude Code/Codex; AI coding revenue race ($2.5B Claude, $2B Cursor, $1B Codex); Apple App Store cracking down on vibecoding apps; 500-year NMC battery breakthrough by Tesla adviser Jeff Dahn; EV-to-grid potential powering AI data centers; Iran war boosting EV sales; OpenAI's ChatGPT Instant Checkout pullback leaving PayPal and Etsy in limbo; Elon Musk's Terafab announcement; OpenAI headcount doubling from 4.5K to 8K; Unitree humanoid IPO; Anthropic-DoD developments; Musk Twitter jury verdict; Trump AI policy framework; Blue Origin space data centers; and Nvidia MGX ETL Rack supporting rival chips via Spectrum-X Ethernet with networking revenue up 268% to $11B.</description>
-      <pubDate>Mon, 24 Mar 2026 11:00:00 +0000</pubDate>
-      <enclosure url="https://data.autocontentapi.com/1774348049135-1299ab4a-20ee-4715-a748-b005f1bbf4cb-1774348036646-1.mp3" length="22898029" type="audio/mpeg"/>
-      <guid isPermaLink="false">episode-2026-03-24</guid>
-      <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: Notion switching from Cursor to Claude Code/Codex; AI coding revenue race ($2.5B Claude, $2B Cursor, $1B Codex); Apple App Store cracking down on vibecoding apps; 500-year NMC battery breakthrough; EV-to-grid potential for AI data centers; OpenAI's ChatGPT Instant Checkout pullback; Elon Musk's Terafab; OpenAI headcount doubling to 8K; Unitree humanoid IPO; Anthropic-DoD developments; Trump AI policy framework; Blue Origin space data centers; and Nvidia MGX ETL Rack with networking revenue up 268% to $11B.</itunes:summary>
-      <itunes:duration>00:23:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <link>https://autocontentapi.com/share/podcast/1299ab4a-20ee-4715-a748-b005f1bbf4cb/20260324</link>
+      <link>https://autocontentapi.com/share/podcast/e0b38598-c6f6-4346-a228-0f2417c0b004/20260326</link>
     </item>
 
     <item>
