@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 27, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic discussing IPO as soon as Q4 2026 with $60B+ raise expected, SpaceX filing for the biggest US IPO ever at $75B+, OpenAI CEO shifts responsibilities and preps 'Spud' AI model while winding down Sora (causing Disney to abandon $1B deal), Microsoft freezing hiring in Azure and sales groups as stock falls 24% YTD, Novo Nordisk using AI agents to shorten clinical trials by weeks or months, and rising VC stars winning deals in the era of hyper-competitive AI investing.</description>
+      <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774607324215-093857ef-737d-48da-bfb9-3063ec5772b0-1774607313858-1.mp3" length="18849259" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic discussing IPO as soon as Q4 2026 with $60B+ raise expected, SpaceX filing for the biggest US IPO ever at $75B+, OpenAI CEO shifts responsibilities and preps 'Spud' AI model while winding down Sora (causing Disney to abandon $1B deal), Microsoft freezing hiring in Azure and sales groups as stock falls 24% YTD, Novo Nordisk using AI agents to shorten clinical trials by weeks or months, and rising VC stars winning deals in the era of hyper-competitive AI investing.</itunes:summary>
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/093857ef-737d-48da-bfb9-3063ec5772b0/20260327</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 26, 2026</title>
       <description>Today's AI and global news roundup covering: How AI models started building themselves (recursive self-improvement via MiniMax M2.7, OpenAI Codex, Google AlphaEvolve), Apple's deeper-than-known partnership with Google Gemini including distillation rights, Jeff Bezos and private equity firms boosting AI demand, judge calling Pentagon's actions against Anthropic &quot;troubling&quot;, Meta laying off hundreds and naming Bosworth to lead AI-for-Work, Arm's new AI server CPU backed by Meta and OpenAI, software stocks plunging on AWS AI automation fears, Blackstone nearing $10B+ deal for data center firm Rowan, AMD-backed Vultr seeking $1B raise, the AI pause debate fallacy, and vibe coding safety failures at Amazon, Meta, and Replit.</description>
       <pubDate>Thu, 26 Mar 2026 11:00:00 +0000</pubDate>
