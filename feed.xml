@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 28, 2026</title>
+      <description>Today's AI and global news roundup covering: Midjourney's survival battle as Google's Nano Banana eats into its market share (traffic down 60% from peak, founder David Holz considering VC funding for hardware dreams), enterprise AI adoption insights from Foundation Capital's CIO dinners featuring Databricks and Visa executives (covering the pilot trap, agent observability crisis, and the process redesign imperative), and Azeem Azhar's exploration of the Karpathy Loop — an iterative AI problem-solving methodology that could transform how we approach complex research.</description>
+      <pubDate>Sat, 28 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774693324930-d4155d44-f37f-4564-8d08-2472f34737dc-1774693312737-1.mp3" length="22326679" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Midjourney's survival battle as Google's Nano Banana eats into its market share (traffic down 60% from peak, founder David Holz considering VC funding for hardware dreams), enterprise AI adoption insights from Foundation Capital's CIO dinners featuring Databricks and Visa executives (covering the pilot trap, agent observability crisis, and the process redesign imperative), and Azeem Azhar's exploration of the Karpathy Loop — an iterative AI problem-solving methodology that could transform how we approach complex research.</itunes:summary>
+      <itunes:duration>00:23:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d4155d44-f37f-4564-8d08-2472f34737dc/20260328</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 27, 2026</title>
       <description>Today's AI and global news roundup covering: Anthropic discussing IPO as soon as Q4 2026 with $60B+ raise expected, SpaceX filing for the biggest US IPO ever at $75B+, OpenAI CEO shifts responsibilities and preps 'Spud' AI model while winding down Sora (causing Disney to abandon $1B deal), Microsoft freezing hiring in Azure and sales groups as stock falls 24% YTD, Novo Nordisk using AI agents to shorten clinical trials by weeks or months, and rising VC stars winning deals in the era of hyper-competitive AI investing.</description>
       <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
