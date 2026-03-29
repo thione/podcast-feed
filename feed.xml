@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 29, 2026</title>
+      <description>Today's AI and global news roundup covering: JPMorgan Chase's Tech100 conference at Yellowstone Club with Jeff Bezos on Blue Origin, Jack Dorsey revealing AI-driven workforce halving plans, Dario Amodei on AI containment challenges, and the story of Midjourney's David Holz — how the profitable AI image startup is fighting to survive Google's Nano Banana, juggling IP lawsuits from Disney and Warner Bros., pursuing mysterious hardware dreams, and responding poorly to Version 8 criticism. Plus Exponential View on the great AI reorg reshaping companies, the World Bank revising industrial policy doctrine, and AI as a lab partner in scientific research.</description>
+      <pubDate>Sun, 29 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774779930210-f1865db9-990b-46b7-b540-192494b75d32-1774779919204-1.mp3" length="19846927" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: JPMorgan Chase's Tech100 conference at Yellowstone Club with Jeff Bezos on Blue Origin, Jack Dorsey revealing AI-driven workforce halving plans, Dario Amodei on AI containment challenges, and the story of Midjourney's David Holz — how the profitable AI image startup is fighting to survive Google's Nano Banana, juggling IP lawsuits from Disney and Warner Bros., pursuing mysterious hardware dreams, and responding poorly to Version 8 criticism. Plus Exponential View on the great AI reorg reshaping companies, the World Bank revising industrial policy doctrine, and AI as a lab partner in scientific research.</itunes:summary>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f1865db9-990b-46b7-b540-192494b75d32/20260329</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 28, 2026</title>
       <description>Today's AI and global news roundup covering: Midjourney's survival battle as Google's Nano Banana eats into its market share (traffic down 60% from peak, founder David Holz considering VC funding for hardware dreams), enterprise AI adoption insights from Foundation Capital's CIO dinners featuring Databricks and Visa executives (covering the pilot trap, agent observability crisis, and the process redesign imperative), and Azeem Azhar's exploration of the Karpathy Loop — an iterative AI problem-solving methodology that could transform how we approach complex research.</description>
       <pubDate>Sat, 28 Mar 2026 11:00:00 +0000</pubDate>
@@ -77,12 +90,12 @@
 
     <item>
       <title>Lorenzo's Daily Deep Dive - March 23, 2026</title>
-      <description>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on "pitfall majors" as AI reshapes university education.</description>
+      <description>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on &quot;pitfall majors&quot; as AI reshapes university education.</description>
       <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
       <enclosure url="https://data.autocontentapi.com/1774261067265-9874df8f-9ce5-4913-afd1-6eedc23a0e18-1774261054910-1.mp3" length="21039783" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-2026-03-23</guid>
       <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on "pitfall majors" as AI reshapes university education.</itunes:summary>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on &quot;pitfall majors&quot; as AI reshapes university education.</itunes:summary>
       <itunes:duration>00:21:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <link>https://autocontentapi.com/share/podcast/9874df8f-9ce5-4913-afd1-6eedc23a0e18/20260323</link>
@@ -328,7 +341,7 @@
 
     <item>
       <title>Lorenzo's Daily Deep Dive - March 4, 2026</title>
-      <description>Today's AI and global news roundup covering: Lux Capital's stark warning about AI startup bubble with "less than 10 that matter," Anthropic-Palantir partnership at risk after Pentagon ruling, OpenAI developing internal GitHub alternative, Amazon exploring chatbot ad sales for other apps, OpenAI's updated Pentagon agreement with stronger surveillance protections, the "Civilization Trap" in geopolitics as the post-American order emerges, Princeton study on sycophantic AI distorting beliefs, harness engineering as the new discipline for supervising AI-generated code, and a personal essay on choosing hope over AI doom.</description>
+      <description>Today's AI and global news roundup covering: Lux Capital's stark warning about AI startup bubble with &quot;less than 10 that matter,&quot; Anthropic-Palantir partnership at risk after Pentagon ruling, OpenAI developing internal GitHub alternative, Amazon exploring chatbot ad sales for other apps, OpenAI's updated Pentagon agreement with stronger surveillance protections, the &quot;Civilization Trap&quot; in geopolitics as the post-American order emerges, Princeton study on sycophantic AI distorting beliefs, harness engineering as the new discipline for supervising AI-generated code, and a personal essay on choosing hope over AI doom.</description>
       <pubDate>Tue, 04 Mar 2026 11:00:00 +0000</pubDate>
       <enclosure url="https://data.autocontentapi.com/1772623388290-1920aa10-7e3f-4343-b8d7-ecbe66393386-1772623354494-1.mp3" length="18465990" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-2026-03-04</guid>
@@ -341,12 +354,12 @@
 
     <item>
       <title>Lorenzo's Daily Deep Dive - March 3, 2026</title>
-      <description>Today's AI and global news roundup covering: Pentagon declares Anthropic a "supply chain risk" but prediction markets shrug it off, 2026 midterm election forecasting and potential voting law changes, Iran conflict analysis after Khamenei's death, Groundhog Day accuracy analysis, new crypto prediction market MNX from Manifold founders, plus Weekly AI Roundup with Google Nano Banana 2, Taalas AI chips, Perplexity Computer, Anthropic Claude Code features, and more.</description>
+      <description>Today's AI and global news roundup covering: Pentagon declares Anthropic a &quot;supply chain risk&quot; but prediction markets shrug it off, 2026 midterm election forecasting and potential voting law changes, Iran conflict analysis after Khamenei's death, Groundhog Day accuracy analysis, new crypto prediction market MNX from Manifold founders, plus Weekly AI Roundup with Google Nano Banana 2, Taalas AI chips, Perplexity Computer, Anthropic Claude Code features, and more.</description>
       <pubDate>Mon, 03 Mar 2026 11:00:00 +0000</pubDate>
       <enclosure url="https://data.autocontentapi.com/1772536593153-74ad3d72-d9e8-4c12-a63a-578782ad8d43-1772536578747-1.mp3" length="15570369" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-2026-03-03</guid>
       <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: Pentagon declares Anthropic a "supply chain risk" but prediction markets shrug it off, 2026 midterm election forecasting and potential voting law changes, Iran conflict analysis after Khamenei's death, Groundhog Day accuracy analysis, new crypto prediction market MNX from Manifold founders, plus Weekly AI Roundup with Google Nano Banana 2, Taalas AI chips, Perplexity Computer, Anthropic Claude Code features, and more.</itunes:summary>
+      <itunes:summary>Today's AI and global news roundup covering: Pentagon declares Anthropic a &quot;supply chain risk&quot; but prediction markets shrug it off, 2026 midterm election forecasting and potential voting law changes, Iran conflict analysis after Khamenei's death, Groundhog Day accuracy analysis, new crypto prediction market MNX from Manifold founders, plus Weekly AI Roundup with Google Nano Banana 2, Taalas AI chips, Perplexity Computer, Anthropic Claude Code features, and more.</itunes:summary>
       <itunes:duration>00:16:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <link>https://autocontentapi.com/share/podcast/74ad3d72-d9e8-4c12-a63a-578782ad8d43/20260303</link>
@@ -354,12 +367,12 @@
 
     <item>
       <title>Lorenzo's Daily Deep Dive - March 2, 2026</title>
-      <description>Today's AI and global news roundup covering: US-Israel strikes kill Khamenei launching Operation Epic Fury and Iranian retaliation, deep analysis of OpenAI's "all lawful use" military contract and its surveillance/autonomous weapons loopholes vs Anthropic's refusal, Gary Marcus on AI potentially killing civilians in Iran strikes, Thrive and Andreessen Horowitz leading fastest-growing VC firms with $34B raised while zombie VCs multiply, ByteDance's Seedance 2.0 creating disturbingly realistic deepfakes from single photos, and Democrats' need for structural change in Black voter engagement.</description>
+      <description>Today's AI and global news roundup covering: US-Israel strikes kill Khamenei launching Operation Epic Fury and Iranian retaliation, deep analysis of OpenAI's &quot;all lawful use&quot; military contract and its surveillance/autonomous weapons loopholes vs Anthropic's refusal, Gary Marcus on AI potentially killing civilians in Iran strikes, Thrive and Andreessen Horowitz leading fastest-growing VC firms with $34B raised while zombie VCs multiply, ByteDance's Seedance 2.0 creating disturbingly realistic deepfakes from single photos, and Democrats' need for structural change in Black voter engagement.</description>
       <pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
       <enclosure url="https://data.autocontentapi.com/1772450635149-2bd05035-2807-4fa7-a3d5-35f7fa511fb0-1772450619851-1.mp3" length="16913690" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-2026-03-02</guid>
       <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: US-Israel strikes kill Khamenei launching Operation Epic Fury and Iranian retaliation, deep analysis of OpenAI's "all lawful use" military contract and its surveillance/autonomous weapons loopholes vs Anthropic's refusal, Gary Marcus on AI potentially killing civilians in Iran strikes, Thrive and Andreessen Horowitz leading fastest-growing VC firms with $34B raised while zombie VCs multiply, ByteDance's Seedance 2.0 creating disturbingly realistic deepfakes from single photos, and Democrats' need for structural change in Black voter engagement.</itunes:summary>
+      <itunes:summary>Today's AI and global news roundup covering: US-Israel strikes kill Khamenei launching Operation Epic Fury and Iranian retaliation, deep analysis of OpenAI's &quot;all lawful use&quot; military contract and its surveillance/autonomous weapons loopholes vs Anthropic's refusal, Gary Marcus on AI potentially killing civilians in Iran strikes, Thrive and Andreessen Horowitz leading fastest-growing VC firms with $34B raised while zombie VCs multiply, ByteDance's Seedance 2.0 creating disturbingly realistic deepfakes from single photos, and Democrats' need for structural change in Black voter engagement.</itunes:summary>
       <itunes:duration>00:17:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <link>https://autocontentapi.com/share/podcast/2bd05035-2807-4fa7-a3d5-35f7fa511fb0/20260302</link>
