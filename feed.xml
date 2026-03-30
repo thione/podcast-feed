@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 30, 2026</title>
+      <description>Today's AI and global news roundup covering: Stanford research exposing "mirage reasoning" in AI vision models — frontier models generating detailed image descriptions without actually seeing images, including a chest X-ray AI achieving top benchmark rankings with no images provided (Gary Marcus / Marcus on AI); Scott Alexander's Astral Codex Ten weekly open thread discussing AI pause debates, AI policy, and the most fleshed-out AI pause plan; and Ekam Bajwa's personal reflection on discipline, identity, and the tension between diligence and ethical hedonism.</description>
+      <pubDate>Mon, 30 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774865861314-c25c99e3-1739-48dd-bf76-72727e5eaa6a-1774865850472-1.mp3" length="18705481" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Stanford research exposing "mirage reasoning" in AI vision models — frontier models generating detailed image descriptions without actually seeing images, including a chest X-ray AI achieving top benchmark rankings with no images provided (Gary Marcus / Marcus on AI); Scott Alexander's Astral Codex Ten weekly open thread discussing AI pause debates, AI policy, and the most fleshed-out AI pause plan; and Ekam Bajwa's personal reflection on discipline, identity, and the tension between diligence and ethical hedonism.</itunes:summary>
+      <itunes:duration>00:19:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c25c99e3-1739-48dd-bf76-72727e5eaa6a/20260330</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 29, 2026</title>
       <description>Today's AI and global news roundup covering: JPMorgan Chase's Tech100 conference at Yellowstone Club with Jeff Bezos on Blue Origin, Jack Dorsey revealing AI-driven workforce halving plans, Dario Amodei on AI containment challenges, and the story of Midjourney's David Holz — how the profitable AI image startup is fighting to survive Google's Nano Banana, juggling IP lawsuits from Disney and Warner Bros., pursuing mysterious hardware dreams, and responding poorly to Version 8 criticism. Plus Exponential View on the great AI reorg reshaping companies, the World Bank revising industrial policy doctrine, and AI as a lab partner in scientific research.</description>
       <pubDate>Sun, 29 Mar 2026 11:00:00 +0000</pubDate>
