@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - March 31, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic's explosive growth to $19B annualized revenue and new server capacity crunch threatening Claude uptime and IPO timeline; Apple escalating its crackdown on vibe coding apps by removing &apos;Anything&apos; from the App Store (Guideline 2.5.2); Big Tech vs. Big Energy at CERAWeek — why Google, Microsoft and data center developers are pushing for diverse energy mixes (nuclear, renewables, batteries) while Trump energy officials tout natural gas; Google reportedly in talks to finance a multibillion-dollar data center for Anthropic; The Electric on a battery recycling company going small and landing a $1B contract; the AI data center buildout&apos;s physical limits (241 GW pipeline but two-thirds stuck in grid queues, local temperatures rising 2°C, bipartisan $100B resistance); the social media legal reckoning — Meta and YouTube hit with landmark verdicts on teen mental health damages; and China&apos;s evolving economic relationship with Africa as tariff barriers fall but structural trade imbalances persist.</description>
+      <pubDate>Tue, 31 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774952324171-8c9a552f-c4de-455a-ab99-b8c6bc97036a-1774952313472-1.mp3" length="19248828" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-31</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Anthropic&apos;s explosive growth to $19B annualized revenue and new server capacity crunch; Apple escalating its crackdown on vibe coding apps; Big Tech vs. Big Energy at CERAWeek on powering AI; Google in talks to finance a multibillion-dollar data center for Anthropic; battery recycling&apos;s $1B contract; AI data center buildout&apos;s physical limits and bipartisan resistance; the social media legal reckoning with Meta and YouTube landmark verdicts; and China&apos;s evolving economic relationship with Africa.</itunes:summary>
+      <itunes:duration>00:20:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8c9a552f-c4de-455a-ab99-b8c6bc97036a/20260331</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 30, 2026</title>
       <description>Today's AI and global news roundup covering: Stanford research exposing "mirage reasoning" in AI vision models — frontier models generating detailed image descriptions without actually seeing images, including a chest X-ray AI achieving top benchmark rankings with no images provided (Gary Marcus / Marcus on AI); Scott Alexander's Astral Codex Ten weekly open thread discussing AI pause debates, AI policy, and the most fleshed-out AI pause plan; and Ekam Bajwa's personal reflection on discipline, identity, and the tension between diligence and ethical hedonism.</description>
       <pubDate>Mon, 30 Mar 2026 11:00:00 +0000</pubDate>
