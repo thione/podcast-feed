@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 1, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: SpaceX&apos;s $75 billion IPO and Nasdaq&apos;s new rule change that will force passive fund managers to buy in immediately after listing; AI guardian agents from ServiceNow, Wayfound, and others emerging to monitor rogue AI agents at hedge funds and enterprises; Sequoia Capital naming Doug Leone as chairman after two years; AI disruption pushing software syndicated bank debt prices down 7%; LTX&apos;s innovative open-source video generation model running on a laptop; the extraordinary story of Adam — a 3&apos;11&quot; robot training to win the 2028 Olympics in LA; Gary Marcus on AI helping with military operations but failing at strategy in the Iran war; Ethan Mollick on why the chatbot interface paradigm fails knowledge workers and what specialized interfaces like Claude Dispatch mean for the future; and Lorenzo Thione on Google&apos;s TurboQuant breakthrough cutting the cloud leash for frontier AI models.</description>
+      <pubDate>Wed, 01 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775039584277-0801be5e-d0d7-439c-a9d9-5d4c1a78e815-1775039571844-1.mp3" length="20176279" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-01</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: SpaceX&apos;s $75B IPO and Nasdaq rule change forcing passive fund managers to buy in; AI guardian agents monitoring rogue AI from ServiceNow, Wayfound, and others; Sequoia Capital naming Doug Leone as chairman; software debt market turmoil from AI disruption; LTX&apos;s open-source laptop video AI; Adam the robot training for the 2028 Olympics; Gary Marcus on AI strategy failures in the Iran war; Ethan Mollick on AI interfaces and Claude Dispatch; and TurboQuant breaking the cloud leash for local AI.</itunes:summary>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0801be5e-d0d7-439c-a9d9-5d4c1a78e815/20260401</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - March 31, 2026</title>
       <description>Today's AI and global news roundup covering: Anthropic's explosive growth to $19B annualized revenue and new server capacity crunch threatening Claude uptime and IPO timeline; Apple escalating its crackdown on vibe coding apps by removing &apos;Anything&apos; from the App Store (Guideline 2.5.2); Big Tech vs. Big Energy at CERAWeek — why Google, Microsoft and data center developers are pushing for diverse energy mixes (nuclear, renewables, batteries) while Trump energy officials tout natural gas; Google reportedly in talks to finance a multibillion-dollar data center for Anthropic; The Electric on a battery recycling company going small and landing a $1B contract; the AI data center buildout&apos;s physical limits (241 GW pipeline but two-thirds stuck in grid queues, local temperatures rising 2°C, bipartisan $100B resistance); the social media legal reckoning — Meta and YouTube hit with landmark verdicts on teen mental health damages; and China&apos;s evolving economic relationship with Africa as tariff barriers fall but structural trade imbalances persist.</description>
       <pubDate>Tue, 31 Mar 2026 11:00:00 +0000</pubDate>
