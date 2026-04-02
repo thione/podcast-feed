@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 2, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenRouter nearing $1.3B valuation as the multi-model API layer reaches $50M ARR; Amazon&apos;s Rufus AI chat ads yielding data but only 88 clicks vs 500,000 for traditional ads; Anthropic&apos;s Claude Code source code leak revealing upcoming &apos;Kairos&apos; always-on background agent with dream mode and proactive initiative; OpenAI raising $122B at $830B valuation with SoftBank and Nvidia committing $30B each; prediction markets boom as crypto crashes — Kalshi doubles to $22B while Bitcoin halves from $126K to $63K; Gary Marcus on why AI job displacement isn&apos;t imminent (Fortune article); China&apos;s improving economic sentiment with $13T in household savings ready to deploy (Sinica/Rothman); Adam Tooze on China&apos;s renewable energy revolution potentially bringing global CO2 to peak now; and The Free Press on Jacob Siegel&apos;s book about censorship in the information age being itself censored.</description>
+      <pubDate>Thu, 02 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775125527488-322189d5-49d0-49dc-86ad-170765d9979d-1775125517637-1.mp3" length="17910940" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-02</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: OpenRouter nearing $1.3B valuation; Amazon&apos;s Rufus AI chat ads yielding data but few sales; Anthropic&apos;s Claude Code leak revealing &apos;Kairos&apos; always-on background agent; OpenAI raising $122B at $830B valuation; prediction markets boom as crypto crashes; Gary Marcus on AI job displacement timeline; China&apos;s improving economic sentiment and green energy leadership; Adam Tooze on China&apos;s renewable energy revolution; and censorship in the information age.</itunes:summary>
+      <itunes:duration>00:18:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/322189d5-49d0-49dc-86ad-170765d9979d/20260402</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 1, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: SpaceX&apos;s $75 billion IPO and Nasdaq&apos;s new rule change that will force passive fund managers to buy in immediately after listing; AI guardian agents from ServiceNow, Wayfound, and others emerging to monitor rogue AI agents at hedge funds and enterprises; Sequoia Capital naming Doug Leone as chairman after two years; AI disruption pushing software syndicated bank debt prices down 7%; LTX&apos;s innovative open-source video generation model running on a laptop; the extraordinary story of Adam — a 3&apos;11&quot; robot training to win the 2028 Olympics in LA; Gary Marcus on AI helping with military operations but failing at strategy in the Iran war; Ethan Mollick on why the chatbot interface paradigm fails knowledge workers and what specialized interfaces like Claude Dispatch mean for the future; and Lorenzo Thione on Google&apos;s TurboQuant breakthrough cutting the cloud leash for frontier AI models.</description>
       <pubDate>Wed, 01 Apr 2026 11:00:00 +0000</pubDate>
