@@ -37,6 +37,20 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 3, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Supabase in talks for $10 billion valuation (double its fall 2025 raise), Anthropic acquires AI biotech startup Coefficient Bio for $400 million to expand its healthcare life sciences group, Blackstone extends the data center buying spree with a $3.8B stake in Rowan Digital Infrastructure, Tether makes a final push for fundraising at a $500 billion valuation, OpenAI&apos;s Fidji Simo acquired the TBPN podcast amid a campaign against internal &apos;side quests&apos;, Anthropic&apos;s upcoming &apos;Mythos&apos; model signals a new era of AI cybersecurity risks where AI is now essentially the best cybersecurity researcher in the world, Wrtn Technologies&apos; anime AI storytelling apps hitting $100 million in annual sales, private credit market turmoil at Blackstone and Apollo, the PauseAI protest march to AI company HQs in San Francisco, and Azeem Azhar&apos;s AutoBeta bringing autoresearch loops to everyday knowledge work.</description>
+      <pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775211674559-41fe1130-12d7-481c-a386-d1dc27824610-1775211664472-1.mp3" length="17060811" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Supabase in talks for $10B valuation, Anthropic acquires Coefficient Bio for $400M, Blackstone extends data center buying spree, Tether&apos;s $500B fundraising push, OpenAI&apos;s Fidji Simo and the TBPN podcast acquisition, Anthropic&apos;s &apos;Mythos&apos; model and new AI cybersecurity risks, Wrtn Technologies&apos; anime AI storytelling hitting $100M annual sales, private credit market turmoil, the PauseAI protest in San Francisco, and autoresearch as the next frontier in knowledge work.</itunes:summary>
+      <itunes:duration>00:17:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/41fe1130-12d7-481c-a386-d1dc27824610/20260403</link>
+    </item>
+
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 2, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenRouter nearing $1.3B valuation as the multi-model API layer reaches $50M ARR; Amazon&apos;s Rufus AI chat ads yielding data but only 88 clicks vs 500,000 for traditional ads; Anthropic&apos;s Claude Code source code leak revealing upcoming &apos;Kairos&apos; always-on background agent with dream mode and proactive initiative; OpenAI raising $122B at $830B valuation with SoftBank and Nvidia committing $30B each; prediction markets boom as crypto crashes — Kalshi doubles to $22B while Bitcoin halves from $126K to $63K; Gary Marcus on why AI job displacement isn&apos;t imminent (Fortune article); China&apos;s improving economic sentiment with $13T in household savings ready to deploy (Sinica/Rothman); Adam Tooze on China&apos;s renewable energy revolution potentially bringing global CO2 to peak now; and The Free Press on Jacob Siegel&apos;s book about censorship in the information age being itself censored.</description>
       <pubDate>Thu, 02 Apr 2026 11:00:00 +0000</pubDate>
