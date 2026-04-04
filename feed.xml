@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 4, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Claude Code&apos;s source code leak revealing 512,000 lines and hidden features like Kairos always-on background agent and undercover git mode; OpenAI shutting down Sora video generator (losing $1M/day) ending its Disney partnership; Google&apos;s Lyria 3 music generator rolling out to 750M+ Gemini users with full copyright licensing; LLM inference breakthrough (TTT-E2E) enabling constant-time processing of 128K-token contexts; DeepSeek&apos;s V4 model designed for Huawei chips as Chinese tech giants order 100K+ units, raising Ascend 950PR prices 20%; Blackstone acquiring 49% stake in Rowan Digital Infrastructure at $3.8B valuation; OpenAI acquiring tech podcast TBPN ($60M revenue run rate); Pentagon appealing judge&apos;s order against Anthropic blacklisting; Amazon curbing misleading Prime Day markdowns; Jay Edelson&apos;s AI copyright litigation campaign including new ChatGPT stalker case; Tesla Q1 deliveries up 6% YoY at 358K vehicles; Microsoft releasing MAI AI model suite; Amazon in talks to acquire Globalstar; and Salesforce Agentforce exec departing for rival Sierra.</description>
+      <pubDate>Sat, 04 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775300398794-df59294a-1436-4ab4-8e20-3946578101ac-1775300390115-1.mp3" length="14855659" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Claude Code&apos;s source code leak and hidden features; OpenAI shutting down Sora; Google&apos;s Lyria 3 music generator; LLM inference breakthrough (TTT-E2E); DeepSeek V4 on Huawei chips; Blackstone acquiring Rowan data center firm; OpenAI buying TBPN podcast; Pentagon appealing Anthropic blacklisting; Amazon Prime Day pricing reforms; Jay Edelson&apos;s AI litigation campaign; Tesla Q1 deliveries; Microsoft MAI models; Amazon-Globalstar talks; and Salesforce Agentforce exec departure.</itunes:summary>
+      <itunes:duration>00:15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/df59294a-1436-4ab4-8e20-3946578101ac/20260404</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 3, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Supabase in talks for $10 billion valuation (double its fall 2025 raise), Anthropic acquires AI biotech startup Coefficient Bio for $400 million to expand its healthcare life sciences group, Blackstone extends the data center buying spree with a $3.8B stake in Rowan Digital Infrastructure, Tether makes a final push for fundraising at a $500 billion valuation, OpenAI&apos;s Fidji Simo acquired the TBPN podcast amid a campaign against internal &apos;side quests&apos;, Anthropic&apos;s upcoming &apos;Mythos&apos; model signals a new era of AI cybersecurity risks where AI is now essentially the best cybersecurity researcher in the world, Wrtn Technologies&apos; anime AI storytelling apps hitting $100 million in annual sales, private credit market turmoil at Blackstone and Apollo, the PauseAI protest march to AI company HQs in San Francisco, and Azeem Azhar&apos;s AutoBeta bringing autoresearch loops to everyday knowledge work.</description>
       <pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
