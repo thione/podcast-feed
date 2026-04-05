@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 5, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The AI compute crunch as OpenAI&apos;s CFO admits passing on opportunities due to lack of compute, Codex scaling from 100K to 2M developers, Anthropic tightening session limits, H100 rental prices at 18-month highs, and Alibaba closing-sourcing Qwen; Economists forecasting AI adding 1-1.5% to annual US GDP growth by 2050 but with 10M fewer jobs; Agents reshaping markets with new efficiency gains and regulatory challenges; China&apos;s Five-Year Plans shifting from leapfrog strategy to geopolitical contest, rising in robotics with the world&apos;s first fully automated humanoid production line; Energy as economic destiny with UK wage stagnation from energy costs, agri-voltaic advances, and the Iran conflict accelerating EV two-wheelers; and notable morsels including Ukraine&apos;s drone production scaling from 2K to 4M/year, AI mirage reasoning on visual benchmarks, and chess grandmasters playing suboptimal moves to escape AI-memorized lines.</description>
+      <pubDate>Sun, 05 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775384261306-77693073-e9c5-4ce9-813d-657a4b5cc79d-1775384249410-1.mp3" length="21573935" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: The AI compute crunch and its implications; AI&apos;s economic impact forecasts; AI agents reshaping markets; China&apos;s technological rise in robotics; Energy as economic destiny; and notable morsels from Ukraine&apos;s drone surge to AI mirage reasoning.</itunes:summary>
+      <itunes:duration>00:22:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/77693073-e9c5-4ce9-813d-657a4b5cc79d/20260405</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 4, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Claude Code&apos;s source code leak revealing 512,000 lines and hidden features like Kairos always-on background agent and undercover git mode; OpenAI shutting down Sora video generator (losing $1M/day) ending its Disney partnership; Google&apos;s Lyria 3 music generator rolling out to 750M+ Gemini users with full copyright licensing; LLM inference breakthrough (TTT-E2E) enabling constant-time processing of 128K-token contexts; DeepSeek&apos;s V4 model designed for Huawei chips as Chinese tech giants order 100K+ units, raising Ascend 950PR prices 20%; Blackstone acquiring 49% stake in Rowan Digital Infrastructure at $3.8B valuation; OpenAI acquiring tech podcast TBPN ($60M revenue run rate); Pentagon appealing judge&apos;s order against Anthropic blacklisting; Amazon curbing misleading Prime Day markdowns; Jay Edelson&apos;s AI copyright litigation campaign including new ChatGPT stalker case; Tesla Q1 deliveries up 6% YoY at 358K vehicles; Microsoft releasing MAI AI model suite; Amazon in talks to acquire Globalstar; and Salesforce Agentforce exec departing for rival Sierra.</description>
       <pubDate>Sat, 04 Apr 2026 11:00:00 +0000</pubDate>
