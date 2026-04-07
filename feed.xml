@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 7, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI&apos;s $122B raise as CEO Sam Altman and CFO Sarah Friar diverge on IPO timing with Friar privately questioning 2026 readiness amid $600B compute commitments; Claude Code and Codex learning peaceful co-existence as Cursor enables parallel multi-agent coding; TensorWave and AMD challenging Nvidia&apos;s CUDA moat at Beyond Summit while Stanford&apos;s AI infrastructure course becomes &apos;Compute Coachella&apos;; Meta employees competing on an internal &apos;Claudeonomics&apos; leaderboard for &apos;Token Legend&apos; status with 60 trillion tokens burned in 30 days; SpaceX Starlink Mobile&apos;s uphill battle — T-Mobile deal worth only ~$100M while Starlink Mobile faces competition from AST SpaceMobile; Honeywell&apos;s Laila hybrid electric autonomous aircraft for drone-killing Pentagon missions; Andrew Yang on Oracle&apos;s 30K layoffs as data centers replace human salaries; the AI capacity trap — Jevons paradox driving tokens/minute from 6B to 15B in five months; The Adaptive Economy on old world cracking (Brent crude $112, Iran/Strait of Hormuz) while builders rise (Terafab $25B solar compute, Artemis II lunar mission, TSMC $65B Arizona fabs); and Baltimore&apos;s Equitech startup ecosystem refusing to wait for permission.</description>
+      <pubDate>Tue, 07 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775557631898-3b369df7-e66a-4970-87ac-9fcaaeeae42d-1775557620339-1.mp3" length="20975835" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: OpenAI CEO and CFO diverge on IPO timing; Claude Code and Codex learning co-existence; TensorWave challenging Nvidia&apos;s CUDA moat; Meta&apos;s &apos;Claudeonomics&apos; tokenmaxxing leaderboard; SpaceX Starlink Mobile&apos;s uphill battle; Honeywell&apos;s drone-killing eVTOL aircraft; Andrew Yang on Oracle layoffs as data centers replace humans; the AI capacity trap and Jevons paradox; old world cracking vs. builders rising (Terafab, Artemis II, TSMC); and Baltimore&apos;s Equitech startup ecosystem.</itunes:summary>
+      <itunes:duration>00:21:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3b369df7-e66a-4970-87ac-9fcaaeeae42d/20260407</link>
+    </item>
+
+    <item>
       <title>Lorenzo&apos;s Daily Deep Dive - April 6, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenAI CEO and CFO diverge on IPO timing as Sarah Friar questions readiness amid $600B compute commitments and $200B+ cash burn; the vibe coding revolution driving an 84% surge in Apple App Store new apps in Q1 2026; the Medvi fraud story — how the NYT glorified a supposed $1.8B solo-founder AI company that turned out to be built on spam; and Scott Alexander&apos;s Astral Codex Ten open thread on AI safety, the PauseAI protest, and EA grants.</description>
       <pubDate>Mon, 06 Apr 2026 11:00:00 +0000</pubDate>
