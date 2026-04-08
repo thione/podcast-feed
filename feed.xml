@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 8, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Anthropic surpasses $30 billion in annualized revenue (up 58% since February) — likely overtaking OpenAI which was at $25B — fueled by a new 3.5-gigawatt TPU deal with Google and Broadcom; OpenAI CEO Sam Altman and CFO Sarah Friar privately diverge on IPO timing, with Friar questioning 2026 readiness while Altman pushed a $600B five-year compute commitment; GitHub experiencing a historic 14x surge in commits from AI agents — from 1B annually to 275M per week — with Claude Code public commits up 25x in six months; Meta employees competing on a &apos;Claudeonomics&apos; token leaderboard burning 60 trillion tokens in 30 days with top users hitting 281 billion tokens; and The Free Press on the software engineering existential crisis — veterans losing jobs to AI, with under-25 developer employment down nearly 20% since ChatGPT launched.</description>
+      <pubDate>Wed, 08 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775644781590-b5306d0b-8361-4e7f-9fdc-1521be49b92b-1775644770871-1.mp3" length="19395114" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-08</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Anthropic surpasses $30B in annualized revenue overtaking OpenAI; OpenAI CEO and CFO diverge on IPO timing; GitHub&apos;s 14x AI-agent commit surge; Meta&apos;s Claudeonomics tokenmaxxing culture with 60 trillion tokens; and software engineers facing existential job displacement with under-25 employment down 20%.</itunes:summary>
+      <itunes:duration>00:20:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b5306d0b-8361-4e7f-9fdc-1521be49b92b/20260408</link>
+    </item>
+
+    <item>
       <title>Lorenzo&apos;s Daily Deep Dive - April 7, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenAI&apos;s $122B raise as CEO Sam Altman and CFO Sarah Friar diverge on IPO timing with Friar privately questioning 2026 readiness amid $600B compute commitments; Claude Code and Codex learning peaceful co-existence as Cursor enables parallel multi-agent coding; TensorWave and AMD challenging Nvidia&apos;s CUDA moat at Beyond Summit while Stanford&apos;s AI infrastructure course becomes &apos;Compute Coachella&apos;; Meta employees competing on an internal &apos;Claudeonomics&apos; leaderboard for &apos;Token Legend&apos; status with 60 trillion tokens burned in 30 days; SpaceX Starlink Mobile&apos;s uphill battle — T-Mobile deal worth only ~$100M while Starlink Mobile faces competition from AST SpaceMobile; Honeywell&apos;s Laila hybrid electric autonomous aircraft for drone-killing Pentagon missions; Andrew Yang on Oracle&apos;s 30K layoffs as data centers replace human salaries; the AI capacity trap — Jevons paradox driving tokens/minute from 6B to 15B in five months; The Adaptive Economy on old world cracking (Brent crude $112, Iran/Strait of Hormuz) while builders rise (Terafab $25B solar compute, Artemis II lunar mission, TSMC $65B Arizona fabs); and Baltimore&apos;s Equitech startup ecosystem refusing to wait for permission.</description>
       <pubDate>Tue, 07 Apr 2026 11:00:00 +0000</pubDate>
