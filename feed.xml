@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 9, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic surpasses $30B ARR overtaking OpenAI in annualized revenue; Nebius in exclusive talks to acquire AI21 Labs; Polygon Labs raising $100M for stablecoin payments platform; Amazon's tough pricing stance causing major brands to pull products; Claude Code GitHub public commits surging 25x in six months; GitButler raises $17M Series A from a16z for AI-powered git client; Intel joins Elon Musk's Terafab $25B solar compute initiative; Anthropic's Claude Mythos zero-day vulnerability hunter showing AI as the best cybersecurity researcher in the world; and The AI Agenda newsletter on software engineers' concerns about AI job displacement.</description>
+      <pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775730476382-60ae7b2d-362c-4b2a-9621-1aab486fc34d-1775730465508-1.mp3" length="19638366" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic surpasses $30B ARR overtaking OpenAI; Nebius in talks to acquire AI21 Labs; Polygon Labs raising $100M for stablecoin payments; Amazon's tough pricing stance causing brand pullouts; Claude Code GitHub commits surging 25x; GitButler $17M Series A from a16z; Intel joins Elon Musk's Terafab; Anthropic's Claude Mythos zero-day vulnerability hunter; and AI job displacement concerns from The AI Agenda.</itunes:summary>
+      <itunes:duration>00:20:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/60ae7b2d-362c-4b2a-9621-1aab486fc34d/20260409</link>
+    </item>
+    <item>
       <title>Lorenzo&apos;s Daily Deep Dive - April 8, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Anthropic surpasses $30 billion in annualized revenue (up 58% since February) — likely overtaking OpenAI which was at $25B — fueled by a new 3.5-gigawatt TPU deal with Google and Broadcom; OpenAI CEO Sam Altman and CFO Sarah Friar privately diverge on IPO timing, with Friar questioning 2026 readiness while Altman pushed a $600B five-year compute commitment; GitHub experiencing a historic 14x surge in commits from AI agents — from 1B annually to 275M per week — with Claude Code public commits up 25x in six months; Meta employees competing on a &apos;Claudeonomics&apos; token leaderboard burning 60 trillion tokens in 30 days with top users hitting 281 billion tokens; and The Free Press on the software engineering existential crisis — veterans losing jobs to AI, with under-25 developer employment down nearly 20% since ChatGPT launched.</description>
       <pubDate>Wed, 08 Apr 2026 11:00:00 +0000</pubDate>
