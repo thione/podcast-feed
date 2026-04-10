@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 10, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI Stargate leadership exits as three senior executives depart to start a new company; SpaceX-xAI loses nearly $5 billion last year from AI spending while planning the largest US IPO ever; OpenAI forecasts advertising revenue hitting $102 billion by 2030 — 36% of projected total revenue; Anthropic's Mythos AI model enables exploitation of cybersecurity vulnerabilities in minutes while defenders take days to patch; Meta launches new Spark model and Muse model family focused on personal superintelligence; former a16z GP Anjney Midha raises $1.3 billion for AMP, a new 'grid for AI' venture firm; Chapter's $3 billion AI Medicare broker backed by two vice presidents (Gore and Vance) triples revenue to $100M with just 33 employees; Western EV makers unlikely to benefit from high gas prices while Chinese BYD and Geely surge; Gary Marcus questions whether Anthropic's Mythos announcement was overblown; NFX's Omri Drory on why AI health and longevity is the last great abundance frontier; and the one-person AI company trend with lessons from MEDVi.</description>
+      <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775817563977-b8593971-d899-47af-bce1-3e0496a7d179-1775817551563-1.mp3" length="22447051" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI Stargate leadership exits; SpaceX-xAI $5B loss from AI spending ahead of mega-IPO; OpenAI forecasts $102B in ad revenue by 2030; Anthropic's Mythos AI exploiting cybersecurity flaws faster than defenders can patch; Meta launches Spark/Muse AI models; former a16z GP Anjney Midha raises $1.3B for AMP; Chapter's $3B AI Medicare broker backed by two VPs; Western EV makers unable to capitalize on high gas prices; Gary Marcus on Mythos hype; NFX on AI health as the last abundance frontier; and the one-person AI company trend.</itunes:summary>
+      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b8593971-d899-47af-bce1-3e0496a7d179/20260410</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 9, 2026</title>
       <description>Today's AI and global news roundup covering: Anthropic surpasses $30B ARR overtaking OpenAI in annualized revenue; Nebius in exclusive talks to acquire AI21 Labs; Polygon Labs raising $100M for stablecoin payments platform; Amazon's tough pricing stance causing major brands to pull products; Claude Code GitHub public commits surging 25x in six months; GitButler raises $17M Series A from a16z for AI-powered git client; Intel joins Elon Musk's Terafab $25B solar compute initiative; Anthropic's Claude Mythos zero-day vulnerability hunter showing AI as the best cybersecurity researcher in the world; and The AI Agenda newsletter on software engineers' concerns about AI job displacement.</description>
       <pubDate>Thu, 09 Apr 2026 11:00:00 +0000</pubDate>
