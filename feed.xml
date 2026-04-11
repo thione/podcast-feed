@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 11, 2026</title>
+      <description>Today's AI and global news roundup covering: Cisco in talks to acquire Israeli AI security startup Astrix for $250-350M to thwart rogue AI agents; how self-taught programmer Boris Cherny built Claude Code into a megahit propelling Anthropic to $30B ARR; SK Hynix and memory chip makers as undervalued AI plays trading at under 5x earnings vs Nvidia's 22x; OpenAI's Stargate data center leaders depart together to start a new company; PitchBook on agentic AI's $24B VC wave and the shift from per-seat to outcome-based pricing; and Exponential View on how Claude Mythos permanently fuses AI capability with danger and why critical infrastructure is systemically mispriced.</description>
+      <pubDate>Sat, 11 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775903145733-f2faacb2-9272-42af-9373-6db71d6a749d-1775903134814-1.mp3" length="19788831" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-11</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Cisco in talks to acquire Astrix AI security startup for $250-350M; Claude Code driving Anthropic to $30B ARR and the self-taught programmer behind it; SK Hynix and memory chips as undervalued AI plays; OpenAI Stargate leadership exodus; PitchBook on agentic AI's $24B VC wave and outcome-based pricing; and Exponential View on Claude Mythos fusing AI capability with danger and the mispricing of critical infrastructure cyber risk.</itunes:summary>
+      <itunes:duration>00:20:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f2faacb2-9272-42af-9373-6db71d6a749d/20260411</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 10, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI Stargate leadership exits as three senior executives depart to start a new company; SpaceX-xAI loses nearly $5 billion last year from AI spending while planning the largest US IPO ever; OpenAI forecasts advertising revenue hitting $102 billion by 2030 — 36% of projected total revenue; Anthropic's Mythos AI model enables exploitation of cybersecurity vulnerabilities in minutes while defenders take days to patch; Meta launches new Spark model and Muse model family focused on personal superintelligence; former a16z GP Anjney Midha raises $1.3 billion for AMP, a new 'grid for AI' venture firm; Chapter's $3 billion AI Medicare broker backed by two vice presidents (Gore and Vance) triples revenue to $100M with just 33 employees; Western EV makers unlikely to benefit from high gas prices while Chinese BYD and Geely surge; Gary Marcus questions whether Anthropic's Mythos announcement was overblown; NFX's Omri Drory on why AI health and longevity is the last great abundance frontier; and the one-person AI company trend with lessons from MEDVi.</description>
       <pubDate>Fri, 10 Apr 2026 11:00:00 +0000</pubDate>
