@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 12, 2026</title>
+      <description>Today's AI and global news roundup covering: AI hype hits the physical energy wall as hyperscaler capex outpaces grid capacity; The Information and Substack newsletters dive into systemic shocks, hardcoded AI logic, and what happens when infrastructure can't keep up with compute demand.</description>
+      <pubDate>Sun, 12 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775989801312-2a19fbf2-e385-4a46-859a-e6523d5792a1-1775989793261-1.mp3" length="14600286" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup: AI hype hits the physical energy wall as hyperscaler capex outpaces grid capacity; systemic shocks, hardcoded AI logic, and the limits of compute infrastructure.</itunes:summary>
+      <itunes:duration>00:15:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/2a19fbf2-e385-4a46-859a-e6523d5792a1/20260412</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 11, 2026</title>
       <description>Today's AI and global news roundup covering: Cisco in talks to acquire Israeli AI security startup Astrix for $250-350M to thwart rogue AI agents; how self-taught programmer Boris Cherny built Claude Code into a megahit propelling Anthropic to $30B ARR; SK Hynix and memory chip makers as undervalued AI plays trading at under 5x earnings vs Nvidia's 22x; OpenAI's Stargate data center leaders depart together to start a new company; PitchBook on agentic AI's $24B VC wave and the shift from per-seat to outcome-based pricing; and Exponential View on how Claude Mythos permanently fuses AI capability with danger and why critical infrastructure is systemically mispriced.</description>
       <pubDate>Sat, 11 Apr 2026 11:00:00 +0000</pubDate>
