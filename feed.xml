@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 13, 2026</title>
+      <description>Today's AI and global news roundup covering: Why advanced AI reasoning is locked away — Anthropic gates Claude Mythos for cybersecurity use only as frontier capability moves to coalition-mediated access; Atlassian and Figma lead the enterprise software R&amp;D arms race spending 51% and 97% of revenue on R&amp;D vs. competitors' 19%; Meta's Claudeonomics tokenmaxxing leaderboard rises and falls as employees burn 73 trillion tokens in 30 days; new research vindicates neurosymbolic AI over pure LLMs using NeuroLogic Decoding; and Azeem Azhar on how Claude Mythos permanently fuses AI capability with danger, forcing a repricing of critical infrastructure cyber risk.</description>
+      <pubDate>Mon, 13 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776076689492-57066234-7e68-4d80-bd53-08c76563ade4-1776076677597-1.mp3" length="21219505" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup: Anthropic gates Claude Mythos for cybersecurity; Atlassian and Figma lead enterprise R&amp;D spending at 51% and 97% of revenue; Meta's Claudeonomics tokenmaxxing leaderboard drama; neurosymbolic AI vindicated over pure LLMs; and Azeem Azhar on how Claude Mythos permanently fuses AI capability with danger and forces repricing of critical infrastructure risk.</itunes:summary>
+      <itunes:duration>00:22:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/57066234-7e68-4d80-bd53-08c76563ade4/20260413</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 12, 2026</title>
       <description>Today's AI and global news roundup covering: AI hype hits the physical energy wall as hyperscaler capex outpaces grid capacity; The Information and Substack newsletters dive into systemic shocks, hardcoded AI logic, and what happens when infrastructure can't keep up with compute demand.</description>
       <pubDate>Sun, 12 Apr 2026 11:00:00 +0000</pubDate>
