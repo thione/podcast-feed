@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 14, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: SpaceX financials show Starlink now drives 61% of revenue and 63% EBITDA margin while rockets burn cash; data labelling startups Handshake and Mercor surge on AI training demand; solid-state battery hype debunked as Chinese and Western carmakers make exaggerated claims; Microsoft&apos;s data center strategy unravels — how Amy Hood&apos;s spending cuts let Google and Oracle grab key power sites; Fleet&apos;s &apos;Reinforcement Learning Gym&apos; startup reaches $750M valuation with revenues jumping from $1M to $60M annualized in months; OpenAI Stargate executives defect to Meta&apos;s new compute unit led by Alexandr Wang; CoreWeave strikes multi-year deal with Anthropic as Sam Altman addresses Molotov cocktail attack on his home; Tesla wins EU driver assistance approval in Netherlands; Hong Kong licenses HSBC and Standard Chartered to issue stablecoins; and Exponential View on how the Middle East conflict is unexpectedly accelerating sustainable aviation fuel adoption.</description>
+      <pubDate>Tue, 14 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776162332147-2db97b95-7c33-48f6-860c-bf8207afe6cf-1776162320376-1.mp3" length="21330265" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: SpaceX Starlink dominates revenue (61%) and EBITDA (63%); Handshake and Mercor surge on AI training demand; solid-state battery hype debunked; Microsoft&apos;s data center strategy stumbles as Google and Oracle grab power sites; Fleet&apos;s RL Gym startup hits $750M valuation; OpenAI Stargate execs defect to Meta&apos;s compute unit; CoreWeave-Anthropic deal; Tesla EU driving software approval; Hong Kong stablecoin licenses; and Exponential View on war-accelerated sustainable aviation fuel adoption.</itunes:summary>
+      <itunes:duration>00:22:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/2db97b95-7c33-48f6-860c-bf8207afe6cf/20260414</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 13, 2026</title>
       <description>Today's AI and global news roundup covering: Why advanced AI reasoning is locked away — Anthropic gates Claude Mythos for cybersecurity use only as frontier capability moves to coalition-mediated access; Atlassian and Figma lead the enterprise software R&amp;D arms race spending 51% and 97% of revenue on R&amp;D vs. competitors' 19%; Meta's Claudeonomics tokenmaxxing leaderboard rises and falls as employees burn 73 trillion tokens in 30 days; new research vindicates neurosymbolic AI over pure LLMs using NeuroLogic Decoding; and Azeem Azhar on how Claude Mythos permanently fuses AI capability with danger, forcing a repricing of critical infrastructure cyber risk.</description>
       <pubDate>Mon, 13 Apr 2026 11:00:00 +0000</pubDate>
