@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 15, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Azeem Azhar&apos;s Exponential View on how armed security guards physically carried OpenAI o3 model weights in locked briefcases to Los Alamos&apos; classified air-gapped Venado supercomputer — revealing how the US is quietly taking control of who gets access to frontier AI; Anthropic&apos;s Mythos model and its classified deployment cementing a new era of state-controlled AI diffusion; Spanish PM Pedro S&#225;nchez&apos;s masterful Tsinghua University speech using Mateo Ricci&apos;s map to pitch EU-China partnership as the world&apos;s largest trading relationship amid US-China tension; the Sinica Podcast&apos;s Johns Hopkins SAIS conference on what the United States actually wants from China policy, featuring perspectives from former officials; and Brandon Brown&apos;s constitutional case for invoking the 25th Amendment as a check on presidential fitness.</description>
+      <pubDate>Wed, 15 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776248516130-4b91c1cd-8845-45d8-a520-38dd9e276a32-1776248504445-1.mp3" length="21276348" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Exponential View on armed briefcases carrying OpenAI o3 weights to Los Alamos classified networks and how the US controls frontier AI access; Anthropic&apos;s Mythos in classified deployment; Spanish PM S&#225;nchez&apos;s Tsinghua speech using Mateo Ricci to pitch EU-China partnership; Sinica Podcast&apos;s SAIS conference on what the US wants from China; and a constitutional case for the 25th Amendment.</itunes:summary>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/4b91c1cd-8845-45d8-a520-38dd9e276a32/20260415</link>
+    </item>
+    <item>
       <title>Lorenzo&apos;s Daily Deep Dive - April 14, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: SpaceX financials show Starlink now drives 61% of revenue and 63% EBITDA margin while rockets burn cash; data labelling startups Handshake and Mercor surge on AI training demand; solid-state battery hype debunked as Chinese and Western carmakers make exaggerated claims; Microsoft&apos;s data center strategy unravels — how Amy Hood&apos;s spending cuts let Google and Oracle grab key power sites; Fleet&apos;s &apos;Reinforcement Learning Gym&apos; startup reaches $750M valuation with revenues jumping from $1M to $60M annualized in months; OpenAI Stargate executives defect to Meta&apos;s new compute unit led by Alexandr Wang; CoreWeave strikes multi-year deal with Anthropic as Sam Altman addresses Molotov cocktail attack on his home; Tesla wins EU driver assistance approval in Netherlands; Hong Kong licenses HSBC and Standard Chartered to issue stablecoins; and Exponential View on how the Middle East conflict is unexpectedly accelerating sustainable aviation fuel adoption.</description>
       <pubDate>Tue, 14 Apr 2026 11:00:00 +0000</pubDate>
