@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 16, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on Apple sending Siri staffers to coding boot camp and AI buying bots reshaping payments; DeepLearning.AI&apos;s The Batch on the latest AI research and industry developments; PitchBook&apos;s VC and startup funding news; and the AI Agenda newsletter covering the latest in artificial intelligence business and policy.</description>
+      <pubDate>Thu, 16 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776335512574-6bdf1c0e-106b-41f1-9383-fcb0128c409b-1776335501014-1.mp3" length="19785069" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-16</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: The Information on Apple Siri coding boot camp and AI buying bots; DeepLearning.AI The Batch; PitchBook VC/startup news; and the AI Agenda newsletter.</itunes:summary>
+      <itunes:duration>00:20:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6bdf1c0e-106b-41f1-9383-fcb0128c409b/20260416</link>
+    </item>
+    <item>
       <title>Lorenzo&apos;s Daily Deep Dive - April 15, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Azeem Azhar&apos;s Exponential View on how armed security guards physically carried OpenAI o3 model weights in locked briefcases to Los Alamos&apos; classified air-gapped Venado supercomputer — revealing how the US is quietly taking control of who gets access to frontier AI; Anthropic&apos;s Mythos model and its classified deployment cementing a new era of state-controlled AI diffusion; Spanish PM Pedro S&#225;nchez&apos;s masterful Tsinghua University speech using Mateo Ricci&apos;s map to pitch EU-China partnership as the world&apos;s largest trading relationship amid US-China tension; the Sinica Podcast&apos;s Johns Hopkins SAIS conference on what the United States actually wants from China policy, featuring perspectives from former officials; and Brandon Brown&apos;s constitutional case for invoking the 25th Amendment as a check on presidential fitness.</description>
       <pubDate>Wed, 15 Apr 2026 11:00:00 +0000</pubDate>
