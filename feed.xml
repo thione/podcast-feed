@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 17, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information (OpenAI/Cerebras deal, enterprise AI competition), Substack (Project Mythos and JPMorgan financial risk analysis)</description>
+      <pubDate>Fri, 17 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776423965004-376da693-238d-420f-ac58-e9696cfb1e97-1776423953274-1.mp3" length="21480312" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information (OpenAI/Cerebras deal, enterprise AI competition), Substack (Project Mythos and JPMorgan financial risk analysis)</itunes:summary>
+      <itunes:duration>00:22:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/376da693-238d-420f-ac58-e9696cfb1e97/20260417</link>
+    </item>
+    <item>
       <title>Lorenzo&apos;s Daily Deep Dive - April 16, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on Apple sending Siri staffers to coding boot camp and AI buying bots reshaping payments; DeepLearning.AI&apos;s The Batch on the latest AI research and industry developments; PitchBook&apos;s VC and startup funding news; and the AI Agenda newsletter covering the latest in artificial intelligence business and policy.</description>
       <pubDate>Thu, 16 Apr 2026 11:00:00 +0000</pubDate>
