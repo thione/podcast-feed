@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 18, 2026</title>
+      <description>Today's AI and global news roundup covering: Dylan Patel and SemiAnalysis grabbing sway in Silicon Valley with exclusive Nvidia praise from Jensen Huang; China's DeepSeek raising outside capital for the first time at a $10B+ valuation; and Flock Safety's $8.4 billion valuation amid protests over police surveillance data sharing with immigration officials.</description>
+      <pubDate>Sat, 18 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776507794981-aab34e92-8a3b-448f-aa88-5917d68cad3c-1776507785240-1.mp3" length="17742085" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Dylan Patel and SemiAnalysis grabbing sway in Silicon Valley with exclusive Nvidia praise from Jensen Huang; China's DeepSeek raising outside capital for the first time at a $10B+ valuation; and Flock Safety's $8.4 billion valuation amid protests over police surveillance data sharing with immigration officials.</itunes:summary>
+      <itunes:duration>00:18:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/aab34e92-8a3b-448f-aa88-5917d68cad3c/20260418</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 17, 2026</title>
       <description>Today's AI and global news roundup covering: The Information (OpenAI/Cerebras deal, enterprise AI competition), Substack (Project Mythos and JPMorgan financial risk analysis)</description>
       <pubDate>Fri, 17 Apr 2026 11:00:00 +0000</pubDate>
