@@ -38,12 +38,12 @@
     <!-- Episodes will be added here by automation -->
     <item>
       <title>Lorenzo's Daily Deep Dive - April 19, 2026</title>
-      <description>Today's AI and global news roundup covering: Anthropic CFO Krishna Rao's power behind the scenes securing $60B in funding and an $800B+ valuation path; SemiAnalysis founder Dylan Patel's rise as Silicon Valley's most influential AI analyst with $100M revenue; Jensen Huang's "electron to token" worldview and Nvidia's orchestration of the AI supply chain; AI employees declining tender offers at Anthropic, OpenAI, and SpaceX as IPOs approach; and the math behind why investing in 150 companies beats a 30-company concentrated fund by 2x.</description>
+      <description>Today's AI and global news roundup covering: Anthropic CFO Krishna Rao's power behind the scenes securing $60B in funding and an $800B+ valuation path; SemiAnalysis founder Dylan Patel's rise as Silicon Valley's most influential AI analyst with $100M revenue; Jensen Huang's &quot;electron to token&quot; worldview and Nvidia's orchestration of the AI supply chain; AI employees declining tender offers at Anthropic, OpenAI, and SpaceX as IPOs approach; and the math behind why investing in 150 companies beats a 30-company concentrated fund by 2x.</description>
       <pubDate>Sun, 19 Apr 2026 11:00:00 +0000</pubDate>
       <enclosure url="https://data.autocontentapi.com/1776594358048-dbf6b4d1-21a5-4d98-b212-2779a2f5d043-1776594345422-1.mp3" length="22551541" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-2026-04-19</guid>
       <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: Anthropic CFO Krishna Rao's power behind the scenes securing $60B in funding and an $800B+ valuation path; SemiAnalysis founder Dylan Patel's rise as Silicon Valley's most influential AI analyst with $100M revenue; Jensen Huang's "electron to token" worldview and Nvidia's orchestration of the AI supply chain; AI employees declining tender offers at Anthropic, OpenAI, and SpaceX as IPOs approach; and the math behind why investing in 150 companies beats a 30-company concentrated fund by 2x.</itunes:summary>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic CFO Krishna Rao's power behind the scenes securing $60B in funding and an $800B+ valuation path; SemiAnalysis founder Dylan Patel's rise as Silicon Valley's most influential AI analyst with $100M revenue; Jensen Huang's &quot;electron to token&quot; worldview and Nvidia's orchestration of the AI supply chain; AI employees declining tender offers at Anthropic, OpenAI, and SpaceX as IPOs approach; and the math behind why investing in 150 companies beats a 30-company concentrated fund by 2x.</itunes:summary>
       <itunes:duration>00:23:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <link>https://autocontentapi.com/share/podcast/dbf6b4d1-21a5-4d98-b212-2779a2f5d043/20260419</link>
@@ -169,5 +169,631 @@
       <itunes:explicit>false</itunes:explicit>
       <link>https://autocontentapi.com/share/podcast/60ae7b2d-362c-4b2a-9621-1aab486fc34d/20260409</link>
     </item>
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 8, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Anthropic surpasses $30 billion in annualized revenue (up 58% since February) — likely overtaking OpenAI which was at $25B — fueled by a new 3.5-gigawatt TPU deal with Google and Broadcom; OpenAI CEO Sam Altman and CFO Sarah Friar privately diverge on IPO timing, with Friar questioning 2026 readiness while Altman pushed a $600B five-year compute commitment; GitHub experiencing a historic 14x surge in commits from AI agents — from 1B annually to 275M per week — with Claude Code public commits up 25x in six months; Meta employees competing on a &apos;Claudeonomics&apos; token leaderboard burning 60 trillion tokens in 30 days with top users hitting 281 billion tokens; and The Free Press on the software engineering existential crisis — veterans losing jobs to AI, with under-25 developer employment down nearly 20% since ChatGPT launched.</description>
+      <pubDate>Wed, 08 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775644781590-b5306d0b-8361-4e7f-9fdc-1521be49b92b-1775644770871-1.mp3" length="19395114" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-08</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Anthropic surpasses $30B in annualized revenue overtaking OpenAI; OpenAI CEO and CFO diverge on IPO timing; GitHub&apos;s 14x AI-agent commit surge; Meta&apos;s Claudeonomics tokenmaxxing culture with 60 trillion tokens; and software engineers facing existential job displacement with under-25 employment down 20%.</itunes:summary>
+      <itunes:duration>00:20:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b5306d0b-8361-4e7f-9fdc-1521be49b92b/20260408</link>
+    </item>
+
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 7, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI&apos;s $122B raise as CEO Sam Altman and CFO Sarah Friar diverge on IPO timing with Friar privately questioning 2026 readiness amid $600B compute commitments; Claude Code and Codex learning peaceful co-existence as Cursor enables parallel multi-agent coding; TensorWave and AMD challenging Nvidia&apos;s CUDA moat at Beyond Summit while Stanford&apos;s AI infrastructure course becomes &apos;Compute Coachella&apos;; Meta employees competing on an internal &apos;Claudeonomics&apos; leaderboard for &apos;Token Legend&apos; status with 60 trillion tokens burned in 30 days; SpaceX Starlink Mobile&apos;s uphill battle — T-Mobile deal worth only ~$100M while Starlink Mobile faces competition from AST SpaceMobile; Honeywell&apos;s Laila hybrid electric autonomous aircraft for drone-killing Pentagon missions; Andrew Yang on Oracle&apos;s 30K layoffs as data centers replace human salaries; the AI capacity trap — Jevons paradox driving tokens/minute from 6B to 15B in five months; The Adaptive Economy on old world cracking (Brent crude $112, Iran/Strait of Hormuz) while builders rise (Terafab $25B solar compute, Artemis II lunar mission, TSMC $65B Arizona fabs); and Baltimore&apos;s Equitech startup ecosystem refusing to wait for permission.</description>
+      <pubDate>Tue, 07 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775557631898-3b369df7-e66a-4970-87ac-9fcaaeeae42d-1775557620339-1.mp3" length="20975835" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: OpenAI CEO and CFO diverge on IPO timing; Claude Code and Codex learning co-existence; TensorWave challenging Nvidia&apos;s CUDA moat; Meta&apos;s &apos;Claudeonomics&apos; tokenmaxxing leaderboard; SpaceX Starlink Mobile&apos;s uphill battle; Honeywell&apos;s drone-killing eVTOL aircraft; Andrew Yang on Oracle layoffs as data centers replace humans; the AI capacity trap and Jevons paradox; old world cracking vs. builders rising (Terafab, Artemis II, TSMC); and Baltimore&apos;s Equitech startup ecosystem.</itunes:summary>
+      <itunes:duration>00:21:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3b369df7-e66a-4970-87ac-9fcaaeeae42d/20260407</link>
+    </item>
+
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - April 6, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI CEO and CFO diverge on IPO timing as Sarah Friar questions readiness amid $600B compute commitments and $200B+ cash burn; the vibe coding revolution driving an 84% surge in Apple App Store new apps in Q1 2026; the Medvi fraud story — how the NYT glorified a supposed $1.8B solo-founder AI company that turned out to be built on spam; and Scott Alexander&apos;s Astral Codex Ten open thread on AI safety, the PauseAI protest, and EA grants.</description>
+      <pubDate>Mon, 06 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775471377557-a7740fe0-e4ec-4f17-b066-c893d9490786-1775471370581-1.mp3" length="12133073" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-06</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: OpenAI CEO and CFO diverge on IPO timing; vibe coding driving 84% surge in App Store apps; the Medvi $1.8B AI fraud story; and ACX Open Thread on AI safety and EA grants.</itunes:summary>
+      <itunes:duration>00:12:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a7740fe0-e4ec-4f17-b066-c893d9490786/20260406</link>
+    </item>
+    <item>
+      <title>Lorenzo's Daily Deep Dive - April 5, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The AI compute crunch as OpenAI&apos;s CFO admits passing on opportunities due to lack of compute, Codex scaling from 100K to 2M developers, Anthropic tightening session limits, H100 rental prices at 18-month highs, and Alibaba closing-sourcing Qwen; Economists forecasting AI adding 1-1.5% to annual US GDP growth by 2050 but with 10M fewer jobs; Agents reshaping markets with new efficiency gains and regulatory challenges; China&apos;s Five-Year Plans shifting from leapfrog strategy to geopolitical contest, rising in robotics with the world&apos;s first fully automated humanoid production line; Energy as economic destiny with UK wage stagnation from energy costs, agri-voltaic advances, and the Iran conflict accelerating EV two-wheelers; and notable morsels including Ukraine&apos;s drone production scaling from 2K to 4M/year, AI mirage reasoning on visual benchmarks, and chess grandmasters playing suboptimal moves to escape AI-memorized lines.</description>
+      <pubDate>Sun, 05 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775384261306-77693073-e9c5-4ce9-813d-657a4b5cc79d-1775384249410-1.mp3" length="21573935" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: The AI compute crunch and its implications; AI&apos;s economic impact forecasts; AI agents reshaping markets; China&apos;s technological rise in robotics; Energy as economic destiny; and notable morsels from Ukraine&apos;s drone surge to AI mirage reasoning.</itunes:summary>
+      <itunes:duration>00:22:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/77693073-e9c5-4ce9-813d-657a4b5cc79d/20260405</link>
+    </item>
+    <item>
+      <title>Lorenzo's Daily Deep Dive - April 4, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Claude Code&apos;s source code leak revealing 512,000 lines and hidden features like Kairos always-on background agent and undercover git mode; OpenAI shutting down Sora video generator (losing $1M/day) ending its Disney partnership; Google&apos;s Lyria 3 music generator rolling out to 750M+ Gemini users with full copyright licensing; LLM inference breakthrough (TTT-E2E) enabling constant-time processing of 128K-token contexts; DeepSeek&apos;s V4 model designed for Huawei chips as Chinese tech giants order 100K+ units, raising Ascend 950PR prices 20%; Blackstone acquiring 49% stake in Rowan Digital Infrastructure at $3.8B valuation; OpenAI acquiring tech podcast TBPN ($60M revenue run rate); Pentagon appealing judge&apos;s order against Anthropic blacklisting; Amazon curbing misleading Prime Day markdowns; Jay Edelson&apos;s AI copyright litigation campaign including new ChatGPT stalker case; Tesla Q1 deliveries up 6% YoY at 358K vehicles; Microsoft releasing MAI AI model suite; Amazon in talks to acquire Globalstar; and Salesforce Agentforce exec departing for rival Sierra.</description>
+      <pubDate>Sat, 04 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775300398794-df59294a-1436-4ab4-8e20-3946578101ac-1775300390115-1.mp3" length="14855659" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Claude Code&apos;s source code leak and hidden features; OpenAI shutting down Sora; Google&apos;s Lyria 3 music generator; LLM inference breakthrough (TTT-E2E); DeepSeek V4 on Huawei chips; Blackstone acquiring Rowan data center firm; OpenAI buying TBPN podcast; Pentagon appealing Anthropic blacklisting; Amazon Prime Day pricing reforms; Jay Edelson&apos;s AI litigation campaign; Tesla Q1 deliveries; Microsoft MAI models; Amazon-Globalstar talks; and Salesforce Agentforce exec departure.</itunes:summary>
+      <itunes:duration>00:15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/df59294a-1436-4ab4-8e20-3946578101ac/20260404</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - April 3, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Supabase in talks for $10 billion valuation (double its fall 2025 raise), Anthropic acquires AI biotech startup Coefficient Bio for $400 million to expand its healthcare life sciences group, Blackstone extends the data center buying spree with a $3.8B stake in Rowan Digital Infrastructure, Tether makes a final push for fundraising at a $500 billion valuation, OpenAI&apos;s Fidji Simo acquired the TBPN podcast amid a campaign against internal &apos;side quests&apos;, Anthropic&apos;s upcoming &apos;Mythos&apos; model signals a new era of AI cybersecurity risks where AI is now essentially the best cybersecurity researcher in the world, Wrtn Technologies&apos; anime AI storytelling apps hitting $100 million in annual sales, private credit market turmoil at Blackstone and Apollo, the PauseAI protest march to AI company HQs in San Francisco, and Azeem Azhar&apos;s AutoBeta bringing autoresearch loops to everyday knowledge work.</description>
+      <pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775211674559-41fe1130-12d7-481c-a386-d1dc27824610-1775211664472-1.mp3" length="17060811" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Supabase in talks for $10B valuation, Anthropic acquires Coefficient Bio for $400M, Blackstone extends data center buying spree, Tether&apos;s $500B fundraising push, OpenAI&apos;s Fidji Simo and the TBPN podcast acquisition, Anthropic&apos;s &apos;Mythos&apos; model and new AI cybersecurity risks, Wrtn Technologies&apos; anime AI storytelling hitting $100M annual sales, private credit market turmoil, the PauseAI protest in San Francisco, and autoresearch as the next frontier in knowledge work.</itunes:summary>
+      <itunes:duration>00:17:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/41fe1130-12d7-481c-a386-d1dc27824610/20260403</link>
+    </item>
+
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - April 2, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenRouter nearing $1.3B valuation as the multi-model API layer reaches $50M ARR; Amazon&apos;s Rufus AI chat ads yielding data but only 88 clicks vs 500,000 for traditional ads; Anthropic&apos;s Claude Code source code leak revealing upcoming &apos;Kairos&apos; always-on background agent with dream mode and proactive initiative; OpenAI raising $122B at $830B valuation with SoftBank and Nvidia committing $30B each; prediction markets boom as crypto crashes — Kalshi doubles to $22B while Bitcoin halves from $126K to $63K; Gary Marcus on why AI job displacement isn&apos;t imminent (Fortune article); China&apos;s improving economic sentiment with $13T in household savings ready to deploy (Sinica/Rothman); Adam Tooze on China&apos;s renewable energy revolution potentially bringing global CO2 to peak now; and The Free Press on Jacob Siegel&apos;s book about censorship in the information age being itself censored.</description>
+      <pubDate>Thu, 02 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775125527488-322189d5-49d0-49dc-86ad-170765d9979d-1775125517637-1.mp3" length="17910940" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-02</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: OpenRouter nearing $1.3B valuation; Amazon&apos;s Rufus AI chat ads yielding data but few sales; Anthropic&apos;s Claude Code leak revealing &apos;Kairos&apos; always-on background agent; OpenAI raising $122B at $830B valuation; prediction markets boom as crypto crashes; Gary Marcus on AI job displacement timeline; China&apos;s improving economic sentiment and green energy leadership; Adam Tooze on China&apos;s renewable energy revolution; and censorship in the information age.</itunes:summary>
+      <itunes:duration>00:18:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/322189d5-49d0-49dc-86ad-170765d9979d/20260402</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - April 1, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: SpaceX&apos;s $75 billion IPO and Nasdaq&apos;s new rule change that will force passive fund managers to buy in immediately after listing; AI guardian agents from ServiceNow, Wayfound, and others emerging to monitor rogue AI agents at hedge funds and enterprises; Sequoia Capital naming Doug Leone as chairman after two years; AI disruption pushing software syndicated bank debt prices down 7%; LTX&apos;s innovative open-source video generation model running on a laptop; the extraordinary story of Adam — a 3&apos;11&quot; robot training to win the 2028 Olympics in LA; Gary Marcus on AI helping with military operations but failing at strategy in the Iran war; Ethan Mollick on why the chatbot interface paradigm fails knowledge workers and what specialized interfaces like Claude Dispatch mean for the future; and Lorenzo Thione on Google&apos;s TurboQuant breakthrough cutting the cloud leash for frontier AI models.</description>
+      <pubDate>Wed, 01 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1775039584277-0801be5e-d0d7-439c-a9d9-5d4c1a78e815-1775039571844-1.mp3" length="20176279" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-01</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: SpaceX&apos;s $75B IPO and Nasdaq rule change forcing passive fund managers to buy in; AI guardian agents monitoring rogue AI from ServiceNow, Wayfound, and others; Sequoia Capital naming Doug Leone as chairman; software debt market turmoil from AI disruption; LTX&apos;s open-source laptop video AI; Adam the robot training for the 2028 Olympics; Gary Marcus on AI strategy failures in the Iran war; Ethan Mollick on AI interfaces and Claude Dispatch; and TurboQuant breaking the cloud leash for local AI.</itunes:summary>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0801be5e-d0d7-439c-a9d9-5d4c1a78e815/20260401</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 31, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic's explosive growth to $19B annualized revenue and new server capacity crunch threatening Claude uptime and IPO timeline; Apple escalating its crackdown on vibe coding apps by removing &apos;Anything&apos; from the App Store (Guideline 2.5.2); Big Tech vs. Big Energy at CERAWeek — why Google, Microsoft and data center developers are pushing for diverse energy mixes (nuclear, renewables, batteries) while Trump energy officials tout natural gas; Google reportedly in talks to finance a multibillion-dollar data center for Anthropic; The Electric on a battery recycling company going small and landing a $1B contract; the AI data center buildout&apos;s physical limits (241 GW pipeline but two-thirds stuck in grid queues, local temperatures rising 2°C, bipartisan $100B resistance); the social media legal reckoning — Meta and YouTube hit with landmark verdicts on teen mental health damages; and China&apos;s evolving economic relationship with Africa as tariff barriers fall but structural trade imbalances persist.</description>
+      <pubDate>Tue, 31 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774952324171-8c9a552f-c4de-455a-ab99-b8c6bc97036a-1774952313472-1.mp3" length="19248828" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-31</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Anthropic&apos;s explosive growth to $19B annualized revenue and new server capacity crunch; Apple escalating its crackdown on vibe coding apps; Big Tech vs. Big Energy at CERAWeek on powering AI; Google in talks to finance a multibillion-dollar data center for Anthropic; battery recycling&apos;s $1B contract; AI data center buildout&apos;s physical limits and bipartisan resistance; the social media legal reckoning with Meta and YouTube landmark verdicts; and China&apos;s evolving economic relationship with Africa.</itunes:summary>
+      <itunes:duration>00:20:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8c9a552f-c4de-455a-ab99-b8c6bc97036a/20260331</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 30, 2026</title>
+      <description>Today's AI and global news roundup covering: Stanford research exposing "mirage reasoning" in AI vision models — frontier models generating detailed image descriptions without actually seeing images, including a chest X-ray AI achieving top benchmark rankings with no images provided (Gary Marcus / Marcus on AI); Scott Alexander's Astral Codex Ten weekly open thread discussing AI pause debates, AI policy, and the most fleshed-out AI pause plan; and Ekam Bajwa's personal reflection on discipline, identity, and the tension between diligence and ethical hedonism.</description>
+      <pubDate>Mon, 30 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774865861314-c25c99e3-1739-48dd-bf76-72727e5eaa6a-1774865850472-1.mp3" length="18705481" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Stanford research exposing "mirage reasoning" in AI vision models — frontier models generating detailed image descriptions without actually seeing images, including a chest X-ray AI achieving top benchmark rankings with no images provided (Gary Marcus / Marcus on AI); Scott Alexander's Astral Codex Ten weekly open thread discussing AI pause debates, AI policy, and the most fleshed-out AI pause plan; and Ekam Bajwa's personal reflection on discipline, identity, and the tension between diligence and ethical hedonism.</itunes:summary>
+      <itunes:duration>00:19:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c25c99e3-1739-48dd-bf76-72727e5eaa6a/20260330</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 29, 2026</title>
+      <description>Today's AI and global news roundup covering: JPMorgan Chase's Tech100 conference at Yellowstone Club with Jeff Bezos on Blue Origin, Jack Dorsey revealing AI-driven workforce halving plans, Dario Amodei on AI containment challenges, and the story of Midjourney's David Holz — how the profitable AI image startup is fighting to survive Google's Nano Banana, juggling IP lawsuits from Disney and Warner Bros., pursuing mysterious hardware dreams, and responding poorly to Version 8 criticism. Plus Exponential View on the great AI reorg reshaping companies, the World Bank revising industrial policy doctrine, and AI as a lab partner in scientific research.</description>
+      <pubDate>Sun, 29 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774779930210-f1865db9-990b-46b7-b540-192494b75d32-1774779919204-1.mp3" length="19846927" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: JPMorgan Chase's Tech100 conference at Yellowstone Club with Jeff Bezos on Blue Origin, Jack Dorsey revealing AI-driven workforce halving plans, Dario Amodei on AI containment challenges, and the story of Midjourney's David Holz — how the profitable AI image startup is fighting to survive Google's Nano Banana, juggling IP lawsuits from Disney and Warner Bros., pursuing mysterious hardware dreams, and responding poorly to Version 8 criticism. Plus Exponential View on the great AI reorg reshaping companies, the World Bank revising industrial policy doctrine, and AI as a lab partner in scientific research.</itunes:summary>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f1865db9-990b-46b7-b540-192494b75d32/20260329</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 28, 2026</title>
+      <description>Today's AI and global news roundup covering: Midjourney's survival battle as Google's Nano Banana eats into its market share (traffic down 60% from peak, founder David Holz considering VC funding for hardware dreams), enterprise AI adoption insights from Foundation Capital's CIO dinners featuring Databricks and Visa executives (covering the pilot trap, agent observability crisis, and the process redesign imperative), and Azeem Azhar's exploration of the Karpathy Loop — an iterative AI problem-solving methodology that could transform how we approach complex research.</description>
+      <pubDate>Sat, 28 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774693324930-d4155d44-f37f-4564-8d08-2472f34737dc-1774693312737-1.mp3" length="22326679" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Midjourney's survival battle as Google's Nano Banana eats into its market share (traffic down 60% from peak, founder David Holz considering VC funding for hardware dreams), enterprise AI adoption insights from Foundation Capital's CIO dinners featuring Databricks and Visa executives (covering the pilot trap, agent observability crisis, and the process redesign imperative), and Azeem Azhar's exploration of the Karpathy Loop — an iterative AI problem-solving methodology that could transform how we approach complex research.</itunes:summary>
+      <itunes:duration>00:23:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d4155d44-f37f-4564-8d08-2472f34737dc/20260328</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 27, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic discussing IPO as soon as Q4 2026 with $60B+ raise expected, SpaceX filing for the biggest US IPO ever at $75B+, OpenAI CEO shifts responsibilities and preps 'Spud' AI model while winding down Sora (causing Disney to abandon $1B deal), Microsoft freezing hiring in Azure and sales groups as stock falls 24% YTD, Novo Nordisk using AI agents to shorten clinical trials by weeks or months, and rising VC stars winning deals in the era of hyper-competitive AI investing.</description>
+      <pubDate>Fri, 27 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774607324215-093857ef-737d-48da-bfb9-3063ec5772b0-1774607313858-1.mp3" length="18849259" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic discussing IPO as soon as Q4 2026 with $60B+ raise expected, SpaceX filing for the biggest US IPO ever at $75B+, OpenAI CEO shifts responsibilities and preps 'Spud' AI model while winding down Sora (causing Disney to abandon $1B deal), Microsoft freezing hiring in Azure and sales groups as stock falls 24% YTD, Novo Nordisk using AI agents to shorten clinical trials by weeks or months, and rising VC stars winning deals in the era of hyper-competitive AI investing.</itunes:summary>
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/093857ef-737d-48da-bfb9-3063ec5772b0/20260327</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 26, 2026</title>
+      <description>Today's AI and global news roundup covering: How AI models started building themselves (recursive self-improvement via MiniMax M2.7, OpenAI Codex, Google AlphaEvolve), Apple's deeper-than-known partnership with Google Gemini including distillation rights, Jeff Bezos and private equity firms boosting AI demand, judge calling Pentagon's actions against Anthropic "troubling", Meta laying off hundreds and naming Bosworth to lead AI-for-Work, Arm's new AI server CPU backed by Meta and OpenAI, software stocks plunging on AWS AI automation fears, Blackstone nearing $10B+ deal for data center firm Rowan, AMD-backed Vultr seeking $1B raise, the AI pause debate fallacy, and vibe coding safety failures at Amazon, Meta, and Replit.</description>
+      <pubDate>Thu, 26 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774520099590-e0b38598-c6f6-4346-a228-0f2417c0b004-1774520083746-1.mp3" length="16649122" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: How AI models started building themselves (recursive self-improvement via MiniMax M2.7, OpenAI Codex, Google AlphaEvolve), Apple's deeper-than-known partnership with Google Gemini including distillation rights, Jeff Bezos and private equity firms boosting AI demand, judge calling Pentagon's actions against Anthropic "troubling", Meta laying off hundreds and naming Bosworth to lead AI-for-Work, Arm's new AI server CPU backed by Meta and OpenAI, software stocks plunging on AWS AI automation fears, Blackstone nearing $10B+ deal for data center firm Rowan, AMD-backed Vultr seeking $1B raise, the AI pause debate fallacy, and vibe coding safety failures at Amazon, Meta, and Replit.</itunes:summary>
+      <itunes:duration>00:17:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e0b38598-c6f6-4346-a228-0f2417c0b004/20260326</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 23, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on "pitfall majors" as AI reshapes university education.</description>
+      <pubDate>Mon, 23 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774261067265-9874df8f-9ce5-4913-afd1-6eedc23a0e18-1774261054910-1.mp3" length="21039783" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI's strategic toolchain grab with Astral acquisition (uv, Ruff, ty) plus GPT-5.4 mini/nano compressing the AI startup space, SEC/CFTC joint crypto taxonomy giving builders a regulatory map, Fed holding rates amid elevated uncertainty, Nasdaq Private Market tender offers normalizing as talent strategy, X-energy's draft S-1 for nuclear IPO, DOJ indictment on AI chip smuggling to China, Sam Harris on the moral complexity of the US-Iran war (right war, wrong people), Trivium China on Beijing's energy security vindication and strategic reserves insulating China from oil shock, the postponed Xi-Trump summit, and Sinica's Chinese phrase of the week on "pitfall majors" as AI reshapes university education.</itunes:summary>
+      <itunes:duration>00:21:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/9874df8f-9ce5-4913-afd1-6eedc23a0e18/20260323</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 22, 2026</title>
+      <description>Today's AI and global news roundup covering: Silicon Valley's AI enthusiasm chasm vs. the rest of the world's skepticism (Oscars AI drama, Hachette's "Shy Girl" removal, gamer backlash to Nvidia DLSS), Jensen Huang's $1T Nvidia sales forecast at GTC, AI startups splurging on Bay Area private parties (Vercel's Wolfsbane dinner), OpenAI's first advertisers unable to prove ChatGPT ads work, Anduril's $4B Ohio weapons factory "Arsenal 1", Apple's attempted Halide camera app acquisition and the co-founder fraud scandal that followed, Exponential View on Pakistan's solar shield saving $6.3B amid the Iran energy war, the shift to an inference-first economy, AI models training their own successors (MiniMax M2.7), and the importance of not delegating human judgment to AI agents.</description>
+      <pubDate>Sun, 22 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774175146177-262c6b05-d35d-4127-b8fb-d5df9e2e54f6-1774175127344-1.mp3" length="20668635" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Silicon Valley's AI enthusiasm chasm vs. the rest of the world's skepticism (Oscars AI drama, Hachette's "Shy Girl" removal, gamer backlash to Nvidia DLSS), Jensen Huang's $1T Nvidia sales forecast at GTC, AI startups splurging on Bay Area private parties (Vercel's Wolfsbane dinner), OpenAI's first advertisers unable to prove ChatGPT ads work, Anduril's $4B Ohio weapons factory "Arsenal 1", Apple's attempted Halide camera app acquisition and the co-founder fraud scandal that followed, Exponential View on Pakistan's solar shield saving $6.3B amid the Iran energy war, the shift to an inference-first economy, AI models training their own successors (MiniMax M2.7), and the importance of not delegating human judgment to AI agents.</itunes:summary>
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/262c6b05-d35d-4127-b8fb-d5df9e2e54f6/20260322</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 21, 2026</title>
+      <description>Today's AI and global news roundup covering: CIA venture arm IQT invests in Prometheus Hyperscale AI data centers in Wyoming, Nvidia Robotics chief Deepu Talla on how AI agents will bring a ChatGPT moment for robotics, OpenAI plans a desktop SuperApp combining ChatGPT, Codex and browser Atlas, 8 key investor questions about the upcoming SpaceX mega-IPO, and Sol Rashidi's essential take on preserving critical thinking in the age of AI.</description>
+      <pubDate>Sat, 21 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774089037397-8f88702a-766b-4d8b-8b15-e34a045dbc0f-1774089019714-1.mp3" length="18824181" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: CIA venture arm IQT invests in Prometheus Hyperscale AI data centers in Wyoming, Nvidia Robotics chief on how AI agents will bring a ChatGPT moment for robotics, OpenAI plans a desktop SuperApp combining ChatGPT, Codex and browser Atlas, 8 key investor questions about the upcoming SpaceX mega-IPO, and Sol Rashidi's essential take on preserving critical thinking in the age of AI.</itunes:summary>
+      <itunes:duration>00:19:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8f88702a-766b-4d8b-8b15-e34a045dbc0f/20260321</link>
+    </item>
+
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 20, 2026</title>
+      <description>Today's AI and global news roundup covering: Microsoft grows concerned OpenAI-AWS deal may violate Azure contract, Meta shutters Horizon VR, the US-led push to break China's grip on LFP batteries for EVs and AI data centers, ex-Andreessen GP Anjney Midha launching AMP — a 'grid for AI' servers, how Cohesity is using Claude Code to replace ServiceNow and Splunk, Giga Energy's bootstrapped $270M data center startup, SEC considering halving earnings reports to unlock the IPO market, Amazon acquires Swiss-Mile robotics startup Rivr, NFX on what artists know that founders don't in the AI era, and Sinica on a stark US-China warning from Wang Jisi and Mike Lampton.</description>
+      <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1774002011053-8235dcb0-89e9-4f11-a12b-56475aa1923b-1774001989886-1.mp3" length="21660870" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Microsoft grows concerned OpenAI-AWS deal may violate Azure contract, Meta shutters Horizon VR, the US-led push to break China's grip on LFP batteries, ex-Andreessen GP Anjney Midha launching AMP — a 'grid for AI' servers, how Cohesity is using Claude Code to replace ServiceNow and Splunk, Giga Energy's bootstrapped data center story, SEC considering halving earnings reports to unlock the IPO market, Amazon acquires Rivr robotics startup, NFX on what artists know that founders don't, and Sinica on a stark US-China warning.</itunes:summary>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8235dcb0-89e9-4f11-a12b-56475aa1923b/20260320</link>
+    </item>
+
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 19, 2026</title>
+      <description>Today's AI and global news roundup covering: Meta's rogue AI agent security incident (Sev 1 classification), Nvidia NemoClaw open-source agent framework at GTC, Apple cracking down on vibe coding apps in the App Store, Coinbase betting on AI agent payments with Cloudflare stablecoin deal, Nscale's risky $14.6B AI data center bet in West Virginia, Microsoft Copilot leadership overhaul under Satya Nadella, Amazon AWS targeting $600B in sales, and how AI is transforming marketing through clipping and hyper-segmentation.</description>
+      <pubDate>Thu, 19 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773915883264-f122aae0-bc33-42eb-906d-c25517477758-1773915876668-1.mp3" length="11700903" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-19</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Meta's rogue AI agent security incident, Nvidia NemoClaw at GTC, Apple cracking down on vibe coding apps, Coinbase's AI agent payments bet, Nscale's risky data center play, Microsoft Copilot overhaul, Amazon AWS targeting $600B in sales, and AI transforming marketing through clipping and hyper-segmentation.</itunes:summary>
+      <itunes:duration>00:12:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f122aae0-bc33-42eb-906d-c25517477758/20260319</link>
+    </item>
+
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 18, 2026</title>
+      <description>Today's AI and global news roundup covering: Nvidia GTC conference highlights with Groq chip integration tackling AI inference tasks, OpenAI signs new AWS deal for US government and Pentagon contracts, Palantir's enterprise AI dominance over OpenAI and Anthropic in delivering end-to-end AI solutions, VC concerns about AI app durability at the Montgomery Summit, Alibaba's major AI reorganization under new Token Hub division, Meta's $27B deal with Nebius for AI data centers, OpenAI forming joint ventures with PE firms including TPG and Bain, and the college athlete NIL payment debate from The Free Press.</description>
+      <pubDate>Wed, 18 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773830949528-77e0c296-ef71-456d-906e-047a289fde95-1773830940110-1.mp3" length="16568456" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Nvidia GTC conference highlights with Groq chip integration, OpenAI signs new AWS deal for US government and Pentagon contracts, Palantir's enterprise AI dominance, VC concerns about AI app durability, Alibaba's AI reorganization, Meta's $27B Nebius deal, OpenAI forming PE joint ventures, and the college athlete NIL payment debate.</itunes:summary>
+      <itunes:duration>00:17:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/77e0c296-ef71-456d-906e-047a289fde95/20260318</link>
+    </item>
+
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 17, 2026</title>
+      <description>Today's AI and global news roundup covering: xAI being rebuilt from scratch by Musk with key hires from Cursor and Thinking Machines Lab, 5 ingenious data center power hacks (tent cities, jet engines, orphaned green hydrogen sites), Musk's $109B OpenAI lawsuit heads to trial April 27, Travis Kalanick plotting new self-driving company with Uber backing, Meta planning 20% layoffs amid $115B AI capex, AI hallucinations reframed as 'shameless guesses' (Astral Codex Ten), why AI still hasn't beaten cancer (Gary Marcus), Andrew Yang on taxing AI bots, China's unbreakable 80% EV battery dominance, and key data including semiconductor sales up 46% YoY.</description>
+      <pubDate>Tue, 17 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773743185543-9539af82-987a-4f5c-a4c2-ca7cfb28bc60-1773743176486-1.mp3" length="16104939" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: xAI being rebuilt from scratch by Musk with key hires from Cursor and Thinking Machines Lab, 5 ingenious data center power hacks (tent cities, jet engines, orphaned green hydrogen sites), Musk's $109B OpenAI lawsuit heads to trial April 27, Travis Kalanick plotting new self-driving company with Uber backing, Meta planning 20% layoffs amid $115B AI capex, AI hallucinations reframed as 'shameless guesses' (Astral Codex Ten), why AI still hasn't beaten cancer (Gary Marcus), Andrew Yang on taxing AI bots, China's unbreakable 80% EV battery dominance, and key data including semiconductor sales up 46% YoY.</itunes:summary>
+      <itunes:duration>00:16:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/9539af82-987a-4f5c-a4c2-ca7cfb28bc60/20260317</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 16, 2026</title>
+      <description>Today's AI and global news roundup covering: AI agents threatening enterprise software companies like Figma, HubSpot, and Workday (and what their SEC filings reveal vs. what CEOs say publicly), ByteDance suspends Seedance 2.0 global launch after Hollywood copyright disputes, a major inflection point in AI scaling debate as Sam Altman concedes breakthroughs beyond scaling are needed (with Meta and xAI also stumbling), Exponential View on autoresearch and the solar supercycle, Sweetgreen targeting protein-obsessed techies, and Patrick Collison on tech media palace intrigue.</description>
+      <pubDate>Mon, 16 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773656782372-a853cadf-9acb-4dfe-85b7-e962affb152b-1773656770928-1.mp3" length="20962460" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-16</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: AI agents threatening enterprise software (Figma, HubSpot, Workday), ByteDance Seedance 2.0 halted by Hollywood copyright disputes, Sam Altman concedes scaling limits with Meta and xAI stumbling, Exponential View on autoresearch and solar supercycle, Sweetgreen's protein-obsessed tech strategy, and Patrick Collison on tech media palace intrigue.</itunes:summary>
+      <itunes:duration>00:21:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a853cadf-9acb-4dfe-85b7-e962affb152b/20260316</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 15, 2026</title>
+      <description>Today's AI and global news roundup covering: Sweetgreen's protein-obsessed tech strategy to win back customers, ByteDance halts Seedance 2.0 global launch over Hollywood copyright disputes, Patrick Collison on tech media palace intrigue vs. boring incumbents, Gary Marcus on expensive evidence that AI scaling isn't enough (Meta and xAI setbacks), and Exponential View on the solar supercycle, China's OpenClaw AI agent revolution, Andrej Karpathy's autoresearch breakthrough, and how interdependence beats sovereignty in AI chips.</description>
+      <pubDate>Sun, 15 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773570244751-0c470eb2-8a17-4cf3-b857-54d72bb197f7-1773570234430-1.mp3" length="18461811" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Sweetgreen's protein-obsessed tech strategy, ByteDance halts Seedance 2.0 over Hollywood copyright disputes, Patrick Collison on tech media palace intrigue, Gary Marcus on expensive evidence that AI scaling isn't enough, and Exponential View on the solar supercycle, China's OpenClaw AI agent revolution, Karpathy's autoresearch breakthrough, and AI interdependence beats sovereignty.</itunes:summary>
+      <itunes:duration>00:19:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0c470eb2-8a17-4cf3-b857-54d72bb197f7/20260315</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 14, 2026</title>
+      <description>Today's AI and global news roundup covering: Meta delays Avocado AI model launch to May, former Anthropic researchers launch Mirendil scientific AI startup targeting $1B valuation, Travis Kalanick plots new self-driving venture with Levandowski and Uber backing, SpaceX eyes Alibaba-style bank split for monster IPO, Musk's $109B OpenAI lawsuit enters critical trial phase, GPT-5.4 highlights and AI on mobile from DeepLearning.AI The Batch, Azeem Azhar on protecting your thinking while using AI constantly, Kings League's internet-first soccer disruption and US expansion, China's 15th Five Year Plan and compute ambitions, and Oussama Ammar on the journalism crisis.</description>
+      <pubDate>Sat, 14 Mar 2026 10:34:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773484453322-79c36af8-32be-49f0-889d-16202fdf9cbc-1773484442402-1.mp3" length="19054059" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Meta delays Avocado AI model to May, Mirendil scientific AI startup from ex-Anthropic researchers targets $1B valuation, Travis Kalanick plus Levandowski plus Uber self-driving venture, SpaceX monster IPO bank strategy, Musk vs OpenAI $109B lawsuit trial, GPT-5.4 and AI on mobile, Azeem Azhar on cognitive offloading vs surrender, Kings League sports media disruption, China 15th Five Year Plan, and journalism crisis.</itunes:summary>
+      <itunes:duration>00:19:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/79c36af8-32be-49f0-889d-16202fdf9cbc/20260314</link>
+    </item>
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 13, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic in talks with Blackstone and PE firms to form AI consulting venture, Nscale/Nvidia eyeing major West Virginia data center site ahead of IPO, Google-Wiz deal completion greenlights tech M&amp;A surge, Oracle offering free AI features to combat SaaS apocalypse, xAI hires two senior Cursor leaders as Musk admits coding gap, enterprises racing to make OpenClaw safe, Winklevoss crypto losses post-IPO, Trump picks conventional electric aircraft over flying taxis, Gary Marcus on Pentagon's illogical Anthropic supply chain risk ruling, Ethan Mollick on the shift to AI agent management era, and Azeem Azhar on the solar supercycle replacing fossil fuels.</description>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773398217983-f4b45bd0-dd21-49e5-ac9e-d1bb444c3ebf-1773398206888-1.mp3" length="19773367" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic in talks with Blackstone and PE firms to form AI consulting venture, Nscale/Nvidia eyeing major West Virginia data center site, Google-Wiz deal greenlights M&amp;A surge, Oracle offering free AI features, xAI hires from Cursor, enterprises racing to make OpenClaw safe, Winklevoss crypto losses, Trump picks conventional electric aircraft, Pentagon's illogical Anthropic supply chain risk ruling, Ethan Mollick on the AI agent era, and Azeem Azhar on the solar supercycle.</itunes:summary>
+      <itunes:duration>00:20:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f4b45bd0-dd21-49e5-ac9e-d1bb444c3ebf/20260313</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 12, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic in talks with Blackstone and PE firms to form AI consulting venture, Microsoft in talks to lease large Texas data center site after Oracle walked away, Iran war imperiling AI funding and data center expansion, CXL computing standard challenges, plus Substack essays on growth and loneliness.</description>
+      <pubDate>Wed, 12 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773311474998-0e8e8dc3-8551-4909-85d3-bdd48ac362be-1773311463475-1.mp3" length="19413922" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic in talks with Blackstone and PE firms to form AI consulting venture, Microsoft in talks to lease large Texas data center site after Oracle walked away, Iran war imperiling AI funding, CXL computing standard, and Substack essays on growth and loneliness.</itunes:summary>
+      <itunes:duration>00:20:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0e8e8dc3-8551-4909-85d3-bdd48ac362be/20260312</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 11, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI plans to integrate Sora video AI into ChatGPT in strategy shift, Tencent's secret WeChat AI agent project targeting 1.4B users, Microsoft's new AI Office bundle, AI startups developing scientific discovery tools, the debate about public sentiment toward AI, Gary Marcus on AI coding outages and science fraud, and more from The Information, The AI Agenda, and Marcus on AI.</description>
+      <pubDate>Tue, 11 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773224424583-7aeb0343-6b8a-4310-8460-c2ac5ba27319-1773224414256-1.mp3" length="18552090" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-11</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI plans to integrate Sora video AI into ChatGPT, Tencent's secret WeChat AI agent project, Microsoft's new AI Office bundle, AI for scientific discovery, public sentiment toward AI, Gary Marcus on AI coding outages and science fraud.</itunes:summary>
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7aeb0343-6b8a-4310-8460-c2ac5ba27319/20260311</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 10, 2026</title>
+      <description>Today's AI and global news roundup covering: Spark Capital targeting $3 billion in new funds after nearly 100x Anthropic gains, OpenAI walking away from Oracle Stargate expansion in Abilene, Anthropic likely to win its promised lawsuit against the DoD, OpenAI's IPO hopes facing skeptical investors, BYD fighting back with a new battery amid sliding sales, OpenAI's robotics head quitting over Defense Dept deal, Claude commanding nearly 70% of US business AI subscriptions, and Ozempic linked to 50% fewer drug-related deaths.</description>
+      <pubDate>Tue, 10 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773137808898-219c0f8e-74ab-4d03-a979-bc1d074b5fdd-1773137798754-1.mp3" length="18279163" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Spark Capital targeting $3B in new funds after Anthropic gains, OpenAI walking away from Oracle Stargate in Abilene, Anthropic vs DoD lawsuit, OpenAI IPO skepticism, BYD's new battery, OpenAI robotics head quits, Claude's 70% market share, and Ozempic's new health benefits.</itunes:summary>
+      <itunes:duration>00:19:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/219c0f8e-74ab-4d03-a979-bc1d074b5fdd/20260310</link>
+    </item>
+
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 9, 2026</title>
+      <description>Today's AI and global news roundup covering: Iran war imperiling $300 billion in Gulf AI spending affecting data centers by Amazon, OpenAI, xAI and others (The Information), OpenAI's massive $110B raise at $730B valuation and venture capital mega-rounds (Ignite Insights), The World the Fatwa Made examining geopolitical impacts (The Free Press), China economic and trade analysis including GDP and NEVs (Trivium China/Sinica), and startup investment strategies (Hall T Martin).</description>
+      <pubDate>Sun, 09 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1773051776704-0e39e516-f62c-47af-b82b-5db1d6a73ef9-1773051766154-1.mp3" length="19189896" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Iran war imperiling $300 billion in Gulf AI spending, OpenAI's $110B raise, venture capital mega-rounds, The World the Fatwa Made, China economic analysis, and startup investment strategies.</itunes:summary>
+      <itunes:duration>00:19:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0e39e516-f62c-47af-b82b-5db1d6a73ef9/20260309</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 8, 2026</title>
+      <description>Today's AI and global news roundup covering: Iranian drone strikes on AWS data centers in Bahrain and UAE, AI compute geopolitics and US chip export controls, Acemoglu's paper on AI shrinking the knowledge commons, US productivity growth hitting 2.8% in the agent era, Sam Altman controversy and OpenAI boycott movement, GPT-5.4 release, Paul Graham on Brand Age, and Jungian psychology perspectives.</description>
+      <pubDate>Sun, 08 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772964729138-8485aa8a-0dc2-418a-8000-9b7c59f93cbd-1772964718312-1.mp3" length="18848841" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-08</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Iranian drone strikes on AWS data centers in Bahrain and UAE, AI compute geopolitics and US chip export controls, Acemoglu's paper on AI shrinking the knowledge commons, US productivity growth hitting 2.8% in the agent era, Sam Altman controversy and OpenAI boycott movement, GPT-5.4 release, Paul Graham on Brand Age, and Jungian psychology perspectives.</itunes:summary>
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8485aa8a-0dc2-418a-8000-9b7c59f93cbd/20260308</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 7, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic-Pentagon feud deepens as Dario Amodei's leaked internal memo attacking OpenAI derails talks, Anne Wojcicki's $305M nonprofit plan to revive 23andMe with rich donors and MAHA connections, David Ellison's transformation of Paramount into a Gen Z-focused media empire, plus Substack perspectives on geopolitical shifts and labor politics.</description>
+      <pubDate>Sat, 07 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772882548754-941ecb47-7bde-4dd8-8156-9413448c8664-1772882538400-1.mp3" length="18851767" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic-Pentagon feud deepens as Dario Amodei's leaked internal memo attacking OpenAI derails talks, Anne Wojcicki's $305M nonprofit plan to revive 23andMe with rich donors and MAHA connections, David Ellison's transformation of Paramount into a Gen Z-focused media empire, plus Substack perspectives on geopolitical shifts and labor politics.</itunes:summary>
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/941ecb47-7bde-4dd8-8156-9413448c8664/20260307</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 6, 2026</title>
+      <description>Today's AI and global news roundup covering: Quince retail startup eyeing $10B+ valuation with $2B revenue run rate, Anthropic spoiling the software debate at Morgan Stanley's tech conference, Nvidia cloud ally Together AI raising at $7.5B valuation, Alibaba moving faster than Amazon and OpenAI in AI for commerce, Anduril forecasting $4B+ in sales with $1B in losses, OpenAI developing bidirectional audio model for voice assistants, China's homegrown memory suppliers boosted by Alibaba demand, Iran conflict setback for flying taxi companies, AI context layers as the newest category, Niall Ferguson on potential WWIII, Gary Marcus on AI reliability for taxes, and Auren Hoffman on AI-driven baby boom.</description>
+      <pubDate>Fri, 06 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772795849463-83f9ce10-6116-4c1f-8df3-f21618e6fd9a-1772795838730-1.mp3" length="19398875" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-06</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Quince eyeing $10B+ valuation, Anthropic at Morgan Stanley tech conference, Together AI raising at $7.5B, Alibaba's AI commerce push, Anduril's $4B sales forecast, OpenAI's bidirectional audio model, China's memory chip suppliers, flying taxi setback from Iran conflict, AI context layers, Niall Ferguson on WWIII, Gary Marcus on AI reliability, and AI-driven baby boom prediction.</itunes:summary>
+      <itunes:duration>00:20:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/83f9ce10-6116-4c1f-8df3-f21618e6fd9a/20260306</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 5, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI tops $25 billion in annualized revenue while Anthropic narrows the gap to $19 billion, OpenAI selects Cooley and Wachtell law firms for potential blockbuster IPO at $730B valuation, Anthropic CEO Dario Amodei's 1,600-word memo attacking OpenAI's Pentagon deal as 'safety theater', OpenAI holds early talks with The Trade Desk to sell ads in ChatGPT, OpenAI scales back shopping plans for ChatGPT, SpaceX pitches Starlink to wary telecom firms, OpenAI's next AI model with 'extreme' reasoning, OpenClaw disrupting China's tech landscape, and OpenAI developing an internal alternative to GitHub.</description>
+      <pubDate>Wed, 05 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772710835276-b20baf86-e404-4177-8a44-16536fef9362-1772710792588-1.mp3" length="17155688" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI tops $25 billion in annualized revenue while Anthropic narrows the gap to $19 billion, OpenAI selects Cooley and Wachtell law firms for potential blockbuster IPO at $730B valuation, Anthropic CEO Dario Amodei's 1,600-word memo attacking OpenAI's Pentagon deal as 'safety theater', OpenAI holds early talks with The Trade Desk to sell ads in ChatGPT, OpenAI scales back shopping plans for ChatGPT, SpaceX pitches Starlink to wary telecom firms, OpenAI's next AI model with 'extreme' reasoning, OpenClaw disrupting China's tech landscape, and OpenAI developing an internal alternative to GitHub.</itunes:summary>
+      <itunes:duration>00:17:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b20baf86-e404-4177-8a44-16536fef9362/20260305</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 4, 2026</title>
+      <description>Today's AI and global news roundup covering: Lux Capital's stark warning about AI startup bubble with "less than 10 that matter," Anthropic-Palantir partnership at risk after Pentagon ruling, OpenAI developing internal GitHub alternative, Amazon exploring chatbot ad sales for other apps, OpenAI's updated Pentagon agreement with stronger surveillance protections, the "Civilization Trap" in geopolitics as the post-American order emerges, Princeton study on sycophantic AI distorting beliefs, harness engineering as the new discipline for supervising AI-generated code, and a personal essay on choosing hope over AI doom.</description>
+      <pubDate>Tue, 04 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772623388290-1920aa10-7e3f-4343-b8d7-ecbe66393386-1772623354494-1.mp3" length="18465990" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Lux Capital's stark warning about AI startup bubble, Anthropic-Palantir partnership at risk, OpenAI developing GitHub alternative, Amazon exploring chatbot ads, OpenAI Pentagon agreement updates, the Civilization Trap in geopolitics, sycophantic AI distorting beliefs, harness engineering for AI-generated code, and choosing hope over AI doom.</itunes:summary>
+      <itunes:duration>00:19:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1920aa10-7e3f-4343-b8d7-ecbe66393386/20260304</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 3, 2026</title>
+      <description>Today's AI and global news roundup covering: Pentagon declares Anthropic a "supply chain risk" but prediction markets shrug it off, 2026 midterm election forecasting and potential voting law changes, Iran conflict analysis after Khamenei's death, Groundhog Day accuracy analysis, new crypto prediction market MNX from Manifold founders, plus Weekly AI Roundup with Google Nano Banana 2, Taalas AI chips, Perplexity Computer, Anthropic Claude Code features, and more.</description>
+      <pubDate>Mon, 03 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772536593153-74ad3d72-d9e8-4c12-a63a-578782ad8d43-1772536578747-1.mp3" length="15570369" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Pentagon declares Anthropic a "supply chain risk" but prediction markets shrug it off, 2026 midterm election forecasting and potential voting law changes, Iran conflict analysis after Khamenei's death, Groundhog Day accuracy analysis, new crypto prediction market MNX from Manifold founders, plus Weekly AI Roundup with Google Nano Banana 2, Taalas AI chips, Perplexity Computer, Anthropic Claude Code features, and more.</itunes:summary>
+      <itunes:duration>00:16:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/74ad3d72-d9e8-4c12-a63a-578782ad8d43/20260303</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 2, 2026</title>
+      <description>Today's AI and global news roundup covering: US-Israel strikes kill Khamenei launching Operation Epic Fury and Iranian retaliation, deep analysis of OpenAI's "all lawful use" military contract and its surveillance/autonomous weapons loopholes vs Anthropic's refusal, Gary Marcus on AI potentially killing civilians in Iran strikes, Thrive and Andreessen Horowitz leading fastest-growing VC firms with $34B raised while zombie VCs multiply, ByteDance's Seedance 2.0 creating disturbingly realistic deepfakes from single photos, and Democrats' need for structural change in Black voter engagement.</description>
+      <pubDate>Mon, 02 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772450635149-2bd05035-2807-4fa7-a3d5-35f7fa511fb0-1772450619851-1.mp3" length="16913690" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-02</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: US-Israel strikes kill Khamenei launching Operation Epic Fury and Iranian retaliation, deep analysis of OpenAI's "all lawful use" military contract and its surveillance/autonomous weapons loopholes vs Anthropic's refusal, Gary Marcus on AI potentially killing civilians in Iran strikes, Thrive and Andreessen Horowitz leading fastest-growing VC firms with $34B raised while zombie VCs multiply, ByteDance's Seedance 2.0 creating disturbingly realistic deepfakes from single photos, and Democrats' need for structural change in Black voter engagement.</itunes:summary>
+      <itunes:duration>00:17:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/2bd05035-2807-4fa7-a3d5-35f7fa511fb0/20260302</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - March 1, 2026</title>
+      <description>Today's AI and global news roundup covering: AI progress tracked through Will Smith spaghetti videos, Pentagon targeting Anthropic while OpenAI fills the defense void, OpenAI's massive $730B valuation deals with Amazon ($138B cloud), Microsoft, Nvidia ($30B) and SoftBank, Weekend AI roundup on the land of make-believe, the Citrini craze and AI regulation from Exponential View, Gary Marcus on AI scams, China tech policy from Trivium, and the SaaSpocalypse disrupting traditional SaaS.</description>
+      <pubDate>Sun, 01 Mar 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772364687824-c048722b-5c86-4287-a71f-fdffb0d9ab61-1772364661998-1.mp3" length="19169416" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-03-01</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: AI progress tracked through Will Smith spaghetti videos, Pentagon targeting Anthropic while OpenAI fills the defense void, OpenAI's massive $730B valuation deals with Amazon ($138B cloud), Microsoft, Nvidia ($30B) and SoftBank, Weekend AI roundup on the land of make-believe, the Citrini craze and AI regulation from Exponential View, Gary Marcus on AI scams, China tech policy from Trivium, and the SaaSpocalypse disrupting traditional SaaS.</itunes:summary>
+      <itunes:duration>00:19:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c048722b-5c86-4287-a71f-fdffb0d9ab61/20260301</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 28, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic's showdown with the Defense Department over supply chain risk designation and likely court battle, OpenAI's massive new deals with Amazon ($138B cloud commitment), Microsoft, Nvidia ($30B), and SoftBank plus potential IPO timeline, US-China trade tensions after Supreme Court tariff ruling and implications for Trump's upcoming China visit, and the SaaSpocalypse - how AI is disrupting traditional SaaS business models with $1T wiped from software stocks.</description>
+      <pubDate>Sat, 28 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772277895362-1af41a9d-a7d3-4506-bd0c-d9df5682f16b-1772277877937-1.mp3" length="18797432" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic's showdown with the Defense Department over supply chain risk designation and likely court battle, OpenAI's massive new deals with Amazon ($138B cloud commitment), Microsoft, Nvidia ($30B), and SoftBank plus potential IPO timeline, US-China trade tensions after Supreme Court tariff ruling and implications for Trump's upcoming China visit, and the SaaSpocalypse - how AI is disrupting traditional SaaS business models with $1T wiped from software stocks.</itunes:summary>
+      <itunes:duration>00:19:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1af41a9d-a7d3-4506-bd0c-d9df5682f16b/20260228</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 27, 2026</title>
+      <description>Today's AI and global news roundup covering: Google's multibillion-dollar TPU chip deal with Meta challenging Nvidia, OpenAI's M&amp;A war chest and $100B fundraising, Anthropic CEO Dario Amodei's historic statement refusing Pentagon demands for unrestricted AI weapons and mass surveillance, Meta's internal chip design roadblocks, Amazon's $50B OpenAI investment tied to IPO/AGI, Form Energy's iron-air battery deal with nuclear plants, enterprise AI tensions between incumbents and startups, and what comes after SaaS.</description>
+      <pubDate>Thu, 27 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772191426707-5684971b-5d79-4de9-9f4a-09d7999a6244-1772191409084-1.mp3" length="17934764" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Google's multibillion-dollar TPU chip deal with Meta challenging Nvidia, OpenAI's M&amp;A war chest and $100B fundraising, Anthropic CEO Dario Amodei's historic statement refusing Pentagon demands for unrestricted AI weapons and mass surveillance, Meta's internal chip design roadblocks, Amazon's $50B OpenAI investment tied to IPO/AGI, Form Energy's iron-air battery deal with nuclear plants, enterprise AI tensions between incumbents and startups, and what comes after SaaS.</itunes:summary>
+      <itunes:duration>00:18:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/5684971b-5d79-4de9-9f4a-09d7999a6244/20260227</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 26, 2026</title>
+      <description>Today's AI and global news roundup covering: Amazon's $50B OpenAI investment tied to IPO/AGI milestones, autonomous warship startup Saronic's $7.5B valuation, Blue Owl's AI data center financing risks, OpenAI's Cerebras chip deal, Pentagon's Anthropic contract deadline, the 17 key people in AI shopping, next-token prediction philosophy, conspiracy theory podcast grift, AI safety code red, where humans end and AI begins, and State of the Union reactions.</description>
+      <pubDate>Thu, 26 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772104670650-3d54264e-644b-4842-9c93-958989e32b55-1772104646782-1.mp3" length="17991607" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Amazon's $50B OpenAI investment tied to IPO/AGI milestones, autonomous warship startup Saronic's $7.5B valuation, Blue Owl's AI data center financing risks, OpenAI's Cerebras chip deal, Pentagon's Anthropic contract deadline, the 17 key people in AI shopping, next-token prediction philosophy, conspiracy theory podcast grift, AI safety code red, where humans end and AI begins, and State of the Union reactions.</itunes:summary>
+      <itunes:duration>00:18:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3d54264e-644b-4842-9c93-958989e32b55/20260226</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 25, 2026</title>
+      <description>Today's deep dive covering OpenAI and Anthropic's massive cash burn, plus the latest from The Information and Substack newsletters.</description>
+      <pubDate>Tue, 25 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1772021192359-01b0339a-8f76-4f16-8751-a3bc9d46be64-1772021172723-1.mp3" length="20048802" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's deep dive covering OpenAI and Anthropic's massive cash burn, plus the latest from The Information and Substack newsletters.</itunes:summary>
+      <itunes:duration>00:20:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/01b0339a-8f76-4f16-8751-a3bc9d46be64/20260225</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 24, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI's Stargate infrastructure struggles and lessons for Anthropic, GPT-5 growth slowdown and agent evaluation challenges, SpaceX Starlink's land grab ahead of Amazon competition, Altman dismisses data centers in space, Trump's State of the Union preview, Gary Marcus on generative AI skepticism, weekly AI roundup highlights, and perspectives on college value and startup perfectionism.</description>
+      <pubDate>Tue, 24 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771931795890-3696ecd0-b0e3-437c-a38e-c72e9faaa709-1771931773495-1.mp3" length="20461327" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-24</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI's Stargate infrastructure struggles and lessons for Anthropic, GPT-5 growth slowdown and agent evaluation challenges, SpaceX Starlink's land grab ahead of Amazon competition, Altman dismisses data centers in space, Trump's State of the Union preview, Gary Marcus on generative AI skepticism, weekly AI roundup highlights, and perspectives on college value and startup perfectionism.</itunes:summary>
+      <itunes:duration>00:21:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3696ecd0-b0e3-437c-a38e-c72e9faaa709/20260224</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 23, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI's scramble for computing power after the $500B Stargate project stalled, AI consciousness fellowships and alignment seminars, the SAVE Act's hidden voter suppression threats, ECPM as the future-ready skills curriculum replacing STEM, and philosophical perspectives on pain and transcendence from Schopenhauer to Pessoa.</description>
+      <pubDate>Mon, 23 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771845652610-7d804516-50f6-45ef-b2e9-f436885d964f-1771845635963-1.mp3" length="19100870" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI's scramble for computing power after the $500B Stargate project stalled, AI consciousness fellowships and alignment seminars, the SAVE Act's hidden voter suppression threats, ECPM as the future-ready skills curriculum replacing STEM, and philosophical perspectives on pain and transcendence from Schopenhauer to Pessoa.</itunes:summary>
+      <itunes:duration>00:19:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7d804516-50f6-45ef-b2e9-f436885d964f/20260223</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 22, 2026</title>
+      <description>Today's AI and global news roundup covering: AI agents and the tedium frontier, the productivity staircase showing AI finally appearing in the statistics, the economics of pay-to-execute agent costs and open-source alternatives, robot insurance and minimum wage effects on automation, Pentagon using Claude via Palantir, pigeon drones with neural implants, and more from Exponential View.</description>
+      <pubDate>Sun, 22 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771758874258-918c3546-ff83-4c14-9cd8-3d8711c9eb19-1771758857090-1.mp3" length="19448194" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: AI agents and the tedium frontier, the productivity staircase showing AI finally appearing in the statistics, the economics of pay-to-execute agent costs and open-source alternatives, robot insurance and minimum wage effects on automation, Pentagon using Claude via Palantir, pigeon drones with neural implants, and more from Exponential View.</itunes:summary>
+      <itunes:duration>00:20:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/918c3546-ff83-4c14-9cd8-3d8711c9eb19/20260222</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 21, 2026 (Weekend Edition)</title>
+      <description>Weekend roundup covering: Google's aggressive move into AI music generation threatening Spotify and startups, the booming high-tech home sauna trend in Silicon Valley, and a fascinating deep dive into longevity startup Mitrix Bio's radical mitochondrial transplant approach — including the story of 91-year-old physicist John Cramer's quest to extend his life.</description>
+      <pubDate>Sat, 21 Feb 2026 19:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771728201493-d3c425ed-24b7-456d-8b00-0c0b4c9581b4-1771728184646-1.mp3" length="16576397" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-21-weekend</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Weekend roundup covering: Google's aggressive move into AI music generation threatening Spotify and startups, the booming high-tech home sauna trend in Silicon Valley, and a fascinating deep dive into longevity startup Mitrix Bio's radical mitochondrial transplant approach — including the story of 91-year-old physicist John Cramer's quest to extend his life.</itunes:summary>
+      <itunes:duration>00:17:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d3c425ed-24b7-456d-8b00-0c0b4c9581b4/20260222</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 21, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI's boosted revenue forecasts and $112B cash burn through 2030, OpenAI's 200-person AI device team building smart speakers, Silicon Valley's longevity race, AMD backstops $300M Crusoe loan, Supreme Court strikes down Trump's tariffs, GLM-5 as new open-weights AI leader, Big AI's $100M+ lobbying spend, Azeem Azhar's personal AI agent experience, the trillion-agent economy, Texas aerospace ecosystem, Meta cutting stock awards, AI predicting illness from sleep data, and women mourning deleted AI boyfriends.</description>
+      <pubDate>Sat, 21 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771672366762-529c7557-ca4a-471c-b70d-19a6f780a13e-1771672349531-1.mp3" length="16856429" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI's boosted revenue forecasts and $112B cash burn through 2030, OpenAI's 200-person AI device team building smart speakers, Silicon Valley's longevity race, AMD backstops $300M Crusoe loan, Supreme Court strikes down Trump's tariffs, GLM-5 as new open-weights AI leader, Big AI's $100M+ lobbying spend, Azeem Azhar's personal AI agent experience, the trillion-agent economy, Texas aerospace ecosystem, Meta cutting stock awards, AI predicting illness from sleep data, and women mourning deleted AI boyfriends.</itunes:summary>
+      <itunes:duration>00:17:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/529c7557-ca4a-471c-b70d-19a6f780a13e/20260221</link>
+    </item>
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - February 20, 2026</title>
+      <description>Today's AI and tech news roundup covering: eBay acquires Depop for $1.2B, Amazon's AI employee tracking via Clarity, AMD backstops $300M Crusoe AI chip loan, ZaiNar's $1B GPS alternative for physical AI, Hungryroot eyes 2026 IPO after 55% growth, Ford's $30K EV pickup bet, Zuckerberg testifies in social media trial, Perplexity drops ads, and more from The Information.</description>
+      <pubDate>Fri, 20 Feb 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1771588219460-8d0104ad-f4ae-4146-aac7-12a0a2d6852a-1771588201709-1.mp3" length="18210199" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-02-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and tech news roundup covering: eBay acquires Depop for $1.2B, Amazon's AI employee tracking via Clarity, AMD backstops $300M Crusoe AI chip loan, ZaiNar's $1B GPS alternative for physical AI, Hungryroot eyes 2026 IPO after 55% growth, Ford's $30K EV pickup bet, Zuckerberg testifies in social media trial, Perplexity drops ads, and more from The Information.</itunes:summary>
+      <itunes:duration>1138</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8d0104ad-f4ae-4146-aac7-12a0a2d6852a/20260220</link>
+    </item>
+
+    <item>
+      <title>Welcome to Lorenzo's Daily Deep Dive</title>
+      <description>Lorenzo's Daily Deep Dive is a daily AI-generated podcast covering the latest in AI, tech, and business news curated from top newsletters. New episodes every morning.</description>
+      <pubDate>Wed, 19 Feb 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lorenzos-daily-deep-dive-trailer-2026-02-19</guid>
+      <itunes:title>Welcome to Lorenzo's Daily Deep Dive</itunes:title>
+      <itunes:summary>Lorenzo's Daily Deep Dive is a daily AI-generated podcast covering the latest in AI, tech, and business news curated from top newsletters. New episodes every morning.</itunes:summary>
+      <itunes:duration>282</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <enclosure url="https://data.autocontentapi.com/1771537170564-134107a4-34f2-4faa-ab16-fb6be9643ebe-1771537162384-1.mp3" length="4524126" type="audio/mpeg"/>
+    </item>
+
   </channel>
 </rss>
