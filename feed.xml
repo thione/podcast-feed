@@ -37,6 +37,19 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 20, 2026</title>
+      <description>Today's AI and global news roundup covering: Polymarket in talks to raise $400 million in new funding at a $15 billion valuation (adding to $600M from NYSE parent ICE); China's 10 most important AI chip design firms challenging Nvidia, with Chinese AI chip revenue expected to surge from $2B in 2023 to $82B in 2028 and Nvidia's market share expected to drop to just 8% in China; and Google in talks with Marvell Technology to develop two new AI inference chips — a memory processing unit and a new TPU — as Google diversifies its chip design partners from Broadcom.</description>
+      <pubDate>Mon, 20 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776681903809-59d9ee34-2fc2-4105-bf46-e4e459ccd944-1776681892630-1.mp3" length="20476374" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Polymarket in talks to raise $400M at a $15B valuation; China's 10 most important AI chip firms challenging Nvidia with $82B revenue projected by 2028; and Google in talks with Marvell Technology to develop new AI inference chips.</itunes:summary>
+      <itunes:duration>00:21:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/59d9ee34-2fc2-4105-bf46-e4e459ccd944/20260420</link>
+    </item>
+
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 19, 2026</title>
       <description>Today's AI and global news roundup covering: Anthropic CFO Krishna Rao's power behind the scenes securing $60B in funding and an $800B+ valuation path; SemiAnalysis founder Dylan Patel's rise as Silicon Valley's most influential AI analyst with $100M revenue; Jensen Huang's &quot;electron to token&quot; worldview and Nvidia's orchestration of the AI supply chain; AI employees declining tender offers at Anthropic, OpenAI, and SpaceX as IPOs approach; and the math behind why investing in 150 companies beats a 30-company concentrated fund by 2x.</description>
       <pubDate>Sun, 19 Apr 2026 11:00:00 +0000</pubDate>
