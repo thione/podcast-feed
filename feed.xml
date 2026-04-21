@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 21, 2026</title>
+      <description>Today's AI and global news roundup covering: Elon Musk bought $1.4 billion in SpaceX shares to boost control ahead of the $75B IPO, with a new pay plan worth tens of millions if SpaceX hits $6.6 trillion market cap; AI data center cooling startup Phononic discusses a $1.5 billion+ valuation sale with Lazard; three big questions for Apple's next CEO John Ternus; Google creates a strike team to improve coding models; OpenAI executive backs an AI agent for exhausted data center operators; AI Agenda on OpenAI taking aim at Google with new image models; PitchBook on frontier biotech, agentic AI themes, and private capital fueling a record MLB sale.</description>
+      <pubDate>Tue, 21 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776768296549-1fc262a7-dfa4-4f38-8b49-407a228baa30-1776768289322-1.mp3" length="13061360" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Elon Musk bought $1.4B in SpaceX shares ahead of IPO; Phononic AI cooling startup discusses $1.5B+ valuation sale; three big questions for Apple's next CEO John Ternus; Google creates strike team to improve coding models; OpenAI executive backs AI agent for data centers; OpenAI taking aim at Google with new image models; PitchBook on frontier biotech and agentic AI.</itunes:summary>
+      <itunes:duration>00:13:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1fc262a7-dfa4-4f38-8b49-407a228baa30/20260421</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 20, 2026</title>
       <description>Today's AI and global news roundup covering: Polymarket in talks to raise $400 million in new funding at a $15 billion valuation (adding to $600M from NYSE parent ICE); China's 10 most important AI chip design firms challenging Nvidia, with Chinese AI chip revenue expected to surge from $2B in 2023 to $82B in 2028 and Nvidia's market share expected to drop to just 8% in China; and Google in talks with Marvell Technology to develop two new AI inference chips — a memory processing unit and a new TPU — as Google diversifies its chip design partners from Broadcom.</description>
       <pubDate>Mon, 20 Apr 2026 11:00:00 +0000</pubDate>
