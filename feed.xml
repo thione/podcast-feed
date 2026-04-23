@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 23, 2026</title>
+      <description>Today's AI and global news roundup covering: SpaceX's $60 billion option to acquire AI coding app Cursor, giving xAI a major foothold in the developer tools market; The Information AI Agenda asking whether OpenAI and Anthropic are quietly moving away from reasoning-heavy models and what that means for the race to AGI; The Information Finance on how CoreWeave seduced the bond market with GPU-backed debt, with shares up 55% this month; Tencent and Alibaba in early talks to invest in DeepSeek at a $20 billion-plus valuation; OpenClaw's open-source growing pains — the fastest-growing AI agent project in history is struggling to balance rapid innovation with enterprise stability as major companies stay stuck on outdated versions; and PitchBook on why some IPOs are roaring back even as the broader market cools.</description>
+      <pubDate>Thu, 23 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1776940381638-7a9ce13a-55f1-4c98-8283-acee666d427b-1776940361274-1.mp3" length="19345794" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: SpaceX's $60B option to buy Cursor AI coding app; OpenAI and Anthropic moving away from reasoning models; CoreWeave seducing the bond market with GPU-backed debt; Tencent and Alibaba in talks to invest in DeepSeek at $20B+; OpenClaw's open-source growing pains balancing innovation and enterprise stability; and PitchBook on the IPO market revival.</itunes:summary>
+      <itunes:duration>00:20:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7a9ce13a-55f1-4c98-8283-acee666d427b/20260423</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 22, 2026</title>
       <description>Today's AI and global news roundup covering: SpaceX debt jumped to $23 billion with the confidential IPO prospectus revealing xAI-driven capex at nearly $21B and Starlink generating $7.2B in adjusted EBITDA; Goldman Sachs and Morgan Stanley's top bankers in "Project Apex" working toward a June IPO — plus SpaceX's $60B option to buy Cursor AI coding tool; Amazon doubling down with up to $25B in Anthropic investment tied to commercial milestones and $100B+ in AWS spending commitments; Anthropic's new government ID verification requirement cutting off Chinese founders from Claude Code; Adobe's shift to outcome-based AI pricing where customers only pay when AI agents complete tasks; the Allbirds GPU pivot — how a failed sneaker brand rebranded as "NewBird AI" and saw its stock surge 582% in a day; the future of software design as AI makes code infinite and taste becomes the differentiator; and Exponential View on the AI jobs paradox — Anthropic staff believe junior engineers can be replaced in 3 months, yet adoption is still lagging at most companies.</description>
       <pubDate>Wed, 22 Apr 2026 11:00:00 +0000</pubDate>
