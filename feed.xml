@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 25, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information on Elon Musk's legal war with Sam Altman heading to trial in June and what's really at stake for OpenAI's non-profit conversion; Microsoft's GPU squeeze on AI customers as it tightens control over compute resources; DeepLearning.AI's The Batch on the latest AI research and industry developments; Cassie Kozyrkov on tokenmaxxing — the new gold rush where AI engineers compete to maximize LLM token usage; and Paul O'Brien on why the UK has the most startup accelerators in the world per capita.</description>
+      <pubDate>Sat, 25 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777112621087-06c7876c-efad-4eaa-ba8d-e1dccbc6bc30-1777112609062-1.mp3" length="22018643" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Musk vs. Altman trial set for June; Microsoft GPU squeeze on AI customers; DeepLearning.AI The Batch on AI research; tokenmaxxing — the new AI gold rush; and why the UK leads the world in startup accelerators.</itunes:summary>
+      <itunes:duration>00:22:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/06c7876c-efad-4eaa-ba8d-e1dccbc6bc30/20260425</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 24, 2026</title>
       <description>Today's AI and global news roundup covering: NFX's Pete Flint on "Functional AGI Is Here" and the critical mass theory of startups — why this is the single most important moment for AI founders; The Information's exclusive on how Anthropic fear among investors complicated Cursor's fundraising before its $60B SpaceX acquisition deal, with negative 23% gross margins turning positive and $2.7B ARR; a $290M crypto hack toppling Aave, the largest decentralized lender with $45B in deposits now fallen to $29B; Berkshire Hathaway, Chubb, and Travelers winning state regulatory approval to drop AI coverage from corporate insurance policies; Israeli software M&amp;A activity and the VC secondaries market heating up ahead of mega-IPOs; Google Cloud Next showing enterprises struggling to deploy AI at scale; new security breaches at Anthropic and OpenAI proving Mark Zuckerberg right about open-source AI; PitchBook on VC secondaries market dynamics; and Tesla Q1 earnings showing 16% revenue growth to $22.4B as the company pivots to Robotaxi and Optimus.</description>
       <pubDate>Fri, 24 Apr 2026 11:00:00 +0000</pubDate>
