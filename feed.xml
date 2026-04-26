@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 26, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information's Big Read on how tech CEO Alex Kalogeropoulos used AI to devise a $250,000+ cancer treatment plan for his wife including the "Galileo Plan" with IDH1 vaccines, checkpoint blockade immunotherapy, and novel repurposed drugs; Exponential View #571 on drone warfare iteration cycles compressing to 7 days in Ukraine, DeepSeek showing AI capability gains without proportional compute scaling, and solar energy hitting new milestones; PitchBook on tertiary PE funds — the "secondaries of secondaries" emerging as PE liquidity issues run deeper than anyone admits; PitchBook Research on record $26B raised by private digital infrastructure funds in 2025 and SpaceX's Cursor acquisition; PitchBook Credit on the new LCD Default Predictor as distress ratios climb to 7.23% while Blackstone's BCRED moves debt to non-accrual; and Goldman Sachs Q1 analysis showing the firm's second-best quarter ever at $17.2B revenue and 21.3% ROTE.</description>
+      <pubDate>Sun, 26 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777199330344-6a2f3323-c19e-486b-9911-268935df4261-1777199317895-1.mp3" length="22509327" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: AI-powered cancer treatment planning ($250K+ Galileo Plan); drone warfare iteration at 7-day cycles in Ukraine; DeepSeek disproving compute-scaling orthodoxy; tertiary PE funds as PE liquidity crisis deepens; record $26B in private digital infrastructure funds; PitchBook LCD Default Predictor launch with distress ratios at 7.23%; and Goldman Sachs Q1 second-best quarter in firm history.</itunes:summary>
+      <itunes:duration>00:23:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6a2f3323-c19e-486b-9911-268935df4261/20260426</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 25, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on Elon Musk's legal war with Sam Altman heading to trial in June and what's really at stake for OpenAI's non-profit conversion; Microsoft's GPU squeeze on AI customers as it tightens control over compute resources; DeepLearning.AI's The Batch on the latest AI research and industry developments; Cassie Kozyrkov on tokenmaxxing — the new gold rush where AI engineers compete to maximize LLM token usage; and Paul O'Brien on why the UK has the most startup accelerators in the world per capita.</description>
       <pubDate>Sat, 25 Apr 2026 11:00:00 +0000</pubDate>
