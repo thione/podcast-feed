@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 27, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information on the enterprise software industry's shift from flat AI fees to usage-based and outcome-based pricing (Atlassian, HubSpot, Salesforce, Anthropic, OpenAI); The Information on Silicon Valley's boom in executive bodyguard services following the Sam Altman Molotov cocktail attack and rising anti-AI sentiment; Bay Area Founders Club on the Startup Grind Conference 2026 bringing 5,000+ founders and 400+ VCs; Brandon Brown on the US housing crisis with foreclosures up 28% year-over-year and South Carolina having the highest foreclosure rate in the nation; Oussama Ammar's philosophical essay on consciousness and the body as a costume; and The Free Press's firsthand account of the shooting at the White House Correspondents' Dinner.</description>
+      <pubDate>Mon, 27 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777285489429-c3c8eac8-9845-481e-b72c-1f42732d987d-1777285478559-1.mp3" length="19985272" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Enterprise software AI pricing shift from flat fees to usage/outcome-based (Atlassian, HubSpot, Salesforce, Anthropic, OpenAI); Silicon Valley executive security boom following Sam Altman Molotov cocktail attack; Startup Grind Conference 2026 with 5,000+ founders and 400+ VCs; US housing crisis with foreclosures up 28% YoY; philosophical essay on consciousness and the body as a costume; and firsthand account of the White House Correspondents' Dinner shooting.</itunes:summary>
+      <itunes:duration>00:20:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c3c8eac8-9845-481e-b72c-1f42732d987d/20260427</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 26, 2026</title>
       <description>Today's AI and global news roundup covering: The Information's Big Read on how tech CEO Alex Kalogeropoulos used AI to devise a $250,000+ cancer treatment plan for his wife including the "Galileo Plan" with IDH1 vaccines, checkpoint blockade immunotherapy, and novel repurposed drugs; Exponential View #571 on drone warfare iteration cycles compressing to 7 days in Ukraine, DeepSeek showing AI capability gains without proportional compute scaling, and solar energy hitting new milestones; PitchBook on tertiary PE funds — the "secondaries of secondaries" emerging as PE liquidity issues run deeper than anyone admits; PitchBook Research on record $26B raised by private digital infrastructure funds in 2025 and SpaceX's Cursor acquisition; PitchBook Credit on the new LCD Default Predictor as distress ratios climb to 7.23% while Blackstone's BCRED moves debt to non-accrual; and Goldman Sachs Q1 analysis showing the firm's second-best quarter ever at $17.2B revenue and 21.3% ROTE.</description>
       <pubDate>Sun, 26 Apr 2026 11:00:00 +0000</pubDate>
