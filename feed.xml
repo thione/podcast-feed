@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 28, 2026</title>
+      <description>Today's AI and global news roundup covering: Google signs a classified AI deal with the Pentagon allowing use of its AI for "any lawful government purpose," joining xAI and OpenAI in classified AI deals; Google invests up to $40 billion in Anthropic plus 5 gigawatts of compute; Nvidia hits a $5 trillion market cap all-time high; Cursor's negative 23% gross margins and creative accounting revealed; GPT-5.5 nearly matches Claude Mythos on benchmarks; SpaceX and AI IPOs hold risks for the AI buildout; GridCare uses AI to find hidden power grid capacity; OpenAI's AWS push as customers embrace Claude and Amazon Nova; Gary Marcus on AI safety, Dario Amodei hype, and vibe-coded AI disasters; Paul O'Brien on Kansas City's startup ecosystem; and Lorenzo Thione's weekly AI roundup including ChatGPT Images 2.0, OpenAI Workspace Agents, and Grok 4 Fast.</description>
+      <pubDate>Tue, 28 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777376413903-0eb1338c-9f9f-4c9c-aac8-e0066bcd8770-1777376391205-1.mp3" length="21450219" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Google's classified Pentagon AI deal; Google's $40B Anthropic investment plus 5GW compute; Nvidia's $5T market cap; Cursor's negative gross margins revealed; GPT-5.5 vs Claude Mythos benchmarks; AI IPO risks for the AI buildout; GridCare's hidden power grid capacity; OpenAI AWS push; Gary Marcus on AI safety and vibe-coded disasters; Kansas City startup ecosystem; and Lorenzo Thione's weekly AI roundup.</itunes:summary>
+      <itunes:duration>00:22:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0eb1338c-9f9f-4c9c-aac8-e0066bcd8770/20260428</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 27, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on the enterprise software industry's shift from flat AI fees to usage-based and outcome-based pricing (Atlassian, HubSpot, Salesforce, Anthropic, OpenAI); The Information on Silicon Valley's boom in executive bodyguard services following the Sam Altman Molotov cocktail attack and rising anti-AI sentiment; Bay Area Founders Club on the Startup Grind Conference 2026 bringing 5,000+ founders and 400+ VCs; Brandon Brown on the US housing crisis with foreclosures up 28% year-over-year and South Carolina having the highest foreclosure rate in the nation; Oussama Ammar's philosophical essay on consciousness and the body as a costume; and The Free Press's firsthand account of the shooting at the White House Correspondents' Dinner.</description>
       <pubDate>Mon, 27 Apr 2026 11:00:00 +0000</pubDate>
