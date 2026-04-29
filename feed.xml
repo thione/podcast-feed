@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 29, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI missing internal Q1 revenue targets amid ChatGPT user growth slowdown and Anthropic closing the gap; Microsoft and OpenAI restructuring their partnership to end cloud exclusivity, giving OpenAI freedom to sell via AWS; how Nadella and Altman averted a legal war over the AWS deal; Tencent's Hy3 AI model gaining developer praise despite using Anthropic's Claude in violation of Anthropic's China ban; AWS joining the superagent race with Amazon Quick desktop app; startup Dream Labs from ex-Nvidia Project Groot researcher targeting world models; and PitchBook on OpenAI's Microsoft exclusivity shake-up and its IPO implications.</description>
+      <pubDate>Wed, 29 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777458342916-8a4d41c4-d737-4a6d-8928-a65d9718860f-1777458331689-1.mp3" length="20175443" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI missing internal Q1 revenue targets; Microsoft-OpenAI cloud exclusivity restructuring and the Nadella-Altman legal war averted; Tencent's Hy3 model using Anthropic's Claude despite China ban; AWS launching Amazon Quick superagent app; startup Dream Labs targeting world models; and PitchBook on OpenAI's partnership restructuring ahead of IPO.</itunes:summary>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8a4d41c4-d737-4a6d-8928-a65d9718860f/20260429</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 28, 2026</title>
       <description>Today's AI and global news roundup covering: Google signs a classified AI deal with the Pentagon allowing use of its AI for "any lawful government purpose," joining xAI and OpenAI in classified AI deals; Google invests up to $40 billion in Anthropic plus 5 gigawatts of compute; Nvidia hits a $5 trillion market cap all-time high; Cursor's negative 23% gross margins and creative accounting revealed; GPT-5.5 nearly matches Claude Mythos on benchmarks; SpaceX and AI IPOs hold risks for the AI buildout; GridCare uses AI to find hidden power grid capacity; OpenAI's AWS push as customers embrace Claude and Amazon Nova; Gary Marcus on AI safety, Dario Amodei hype, and vibe-coded AI disasters; Paul O'Brien on Kansas City's startup ecosystem; and Lorenzo Thione's weekly AI roundup including ChatGPT Images 2.0, OpenAI Workspace Agents, and Grok 4 Fast.</description>
       <pubDate>Tue, 28 Apr 2026 11:00:00 +0000</pubDate>
