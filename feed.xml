@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - April 30, 2026</title>
+      <description>Today's AI and global news roundup covering: Musk vs. OpenAI trial drama as OpenAI's lawyer seeks to undermine Musk's case in cross-examination; SpaceX Starlink ARPU fell 18% to $81 as subscribers quadrupled ahead of SpaceX's IPO; hidden risks in AI funding including second-derivative demand concerns and CoreWeave's supply-demand timing mismatch; developers artificially inflating GPU utilization metrics; CrowdStrike and Palo Alto Networks as underappreciated AI cybersecurity bets; Gary Marcus's three thoughts on the Musk-OpenAI lawsuit and why Musk has a point despite suspect motives; and what happens if OpenAI can't pay its AI infrastructure bills.</description>
+      <pubDate>Thu, 30 Apr 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777544519815-2cfa3e27-7ade-4304-a812-b2e42bf10bc9-1777544508059-1.mp3" length="20974999" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-04-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Musk vs. OpenAI trial drama; SpaceX Starlink ARPU fell 18% ahead of IPO; hidden risks in AI funding and CoreWeave's supply-demand mismatch; developers inflating GPU utilization metrics; CrowdStrike and Palo Alto as AI cybersecurity plays; Gary Marcus on the Musk-OpenAI lawsuit; and what happens if OpenAI can't pay its bills.</itunes:summary>
+      <itunes:duration>00:21:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/2cfa3e27-7ade-4304-a812-b2e42bf10bc9/20260430</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 29, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI missing internal Q1 revenue targets amid ChatGPT user growth slowdown and Anthropic closing the gap; Microsoft and OpenAI restructuring their partnership to end cloud exclusivity, giving OpenAI freedom to sell via AWS; how Nadella and Altman averted a legal war over the AWS deal; Tencent's Hy3 AI model gaining developer praise despite using Anthropic's Claude in violation of Anthropic's China ban; AWS joining the superagent race with Amazon Quick desktop app; startup Dream Labs from ex-Nvidia Project Groot researcher targeting world models; and PitchBook on OpenAI's Microsoft exclusivity shake-up and its IPO implications.</description>
       <pubDate>Wed, 29 Apr 2026 11:00:00 +0000</pubDate>
