@@ -37,6 +37,18 @@
 
     <!-- Episodes will be added here by automation -->
     <item>
+      <title>Lorenzo's Daily Deep Dive - May 1, 2026</title>
+      <description>Today's AI and global news roundup covering: Big Tech Q1 earnings bonanza with Meta ($145B capex), Microsoft (Azure +40%, 20M Copilot users), Alphabet (Cloud +63%, Search +19%), and AWS (+28%) all beating expectations; Anthropic in talks at a staggering $900 billion valuation as annualized revenue approaches $40 billion; OpenAI's cheaper ad-supported ChatGPT Go strategy targeting 112M subscribers; Google defends its classified Pentagon AI contract after 600+ employee petition; AI healthcare opportunity as US care deserts push regulators toward AI-friendly policies; the M&A boom driven by SpaceX's $250B xAI acquisition accounting for 15% of global Q1 deal volume; NFX's James Currier on why founder optimism is the most underrated trait in 2026; Gary Marcus calling big tech's $700B AI infrastructure spend the greatest capital misallocation in history; and Auren Hoffman's five mind-expanding links including KGB spies who became Americans and why Nvidia's market cap exceeds all of France and Italy's public companies combined.</description>
+      <pubDate>Fri, 01 May 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777630689957-48454fe0-5d83-43c6-ada5-20df9f2303cd-1777630680006-1.mp3" length="18109471" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-01</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Big Tech Q1 earnings with Meta, Microsoft, Alphabet, and AWS all beating expectations; Anthropic approaching $900B valuation as revenue nears $40B; OpenAI's cheaper ChatGPT Go strategy; Google's Pentagon AI contract controversy; AI healthcare in US care deserts; SpaceX/xAI M&A driving record deal volume; NFX on founder optimism as the most underrated trait; Gary Marcus on the $700B AI capital misallocation; and Auren Hoffman's five fascinating links.</itunes:summary>
+      <itunes:duration>00:18:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/48454fe0-5d83-43c6-ada5-20df9f2303cd/20260501</link>
+    </item>
+    <item>
       <title>Lorenzo's Daily Deep Dive - April 30, 2026</title>
       <description>Today's AI and global news roundup covering: Musk vs. OpenAI trial drama as OpenAI's lawyer seeks to undermine Musk's case in cross-examination; SpaceX Starlink ARPU fell 18% to $81 as subscribers quadrupled ahead of SpaceX's IPO; hidden risks in AI funding including second-derivative demand concerns and CoreWeave's supply-demand timing mismatch; developers artificially inflating GPU utilization metrics; CrowdStrike and Palo Alto Networks as underappreciated AI cybersecurity bets; Gary Marcus's three thoughts on the Musk-OpenAI lawsuit and why Musk has a point despite suspect motives; and what happens if OpenAI can't pay its AI infrastructure bills.</description>
       <pubDate>Thu, 30 Apr 2026 11:00:00 +0000</pubDate>
