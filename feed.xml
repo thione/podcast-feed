@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtds/podcast-1.0.dtd"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
   xmlns:podcast="https://podcastindex.org/namespace/1.0">
@@ -11,6 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
+    <lastBuildDate>Sat, 02 May 2026 23:07:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -55,7 +56,7 @@
       <enclosure url="https://data.autocontentapi.com/1777630689957-48454fe0-5d83-43c6-ada5-20df9f2303cd-1777630680006-1.mp3" length="18109471" type="audio/mpeg"/>
       <guid isPermaLink="false">episode-2026-05-01</guid>
       <itunes:author>Lorenzo Thione</itunes:author>
-      <itunes:summary>Today's AI and global news roundup covering: Big Tech Q1 earnings with Meta, Microsoft, Alphabet, and AWS all beating expectations; Anthropic approaching $900B valuation as revenue nears $40B; OpenAI's cheaper ChatGPT Go strategy; Google's Pentagon AI contract controversy; AI healthcare in US care deserts; SpaceX/xAI M&A driving record deal volume; NFX on founder optimism as the most underrated trait; Gary Marcus on the $700B AI capital misallocation; and Auren Hoffman's five fascinating links.</itunes:summary>
+      <itunes:summary>Today's AI and global news roundup covering: Big Tech Q1 earnings with Meta, Microsoft, Alphabet, and AWS all beating expectations; Anthropic approaching $900B valuation as revenue nears $40B; OpenAI's cheaper ChatGPT Go strategy; Google's Pentagon AI contract controversy; AI healthcare in US care deserts; SpaceX/xAI M&amp;A driving record deal volume; NFX on founder optimism as the most underrated trait; Gary Marcus on the $700B AI capital misallocation; and Auren Hoffman's five fascinating links.</itunes:summary>
       <itunes:duration>00:18:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <link>https://autocontentapi.com/share/podcast/48454fe0-5d83-43c6-ada5-20df9f2303cd/20260501</link>
