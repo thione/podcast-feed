@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 02 May 2026 23:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 3, 2026</title>
+      <description>Today's AI and global news roundup covering: The Musk v. OpenAI trial enters full swing as OpenAI's lawyer cross-examines key witnesses and Musk's personal texts are presented in court — revealing the ideological battle over OpenAI's for-profit conversion and what Musk actually believed he was funding; Anthropic strikes an exclusive deal with UK chip startup Fractile to develop custom AI inference chips, a strategic move to diversify away from Nvidia dominance in the AI compute stack; Azeem Azhar's Exponential View #572 after visiting China's top AI labs — Moonshot AI, DeepRoute, Zhipu AI, and Manus — finding the &quot;no moats&quot; thesis is wrong and Chinese AI companies are building deep competitive advantages in verticals; the Sinica Podcast's debate between leading China experts on whether the US-China tech rivalry is a repeat of Soviet competition or something fundamentally new; Cool Climate Collective on the Semafor DC conference — insights on American capitalism's resilience, energy security as the new geopolitical currency, and AI's role in reshaping both; Gary Marcus on Richard Dawkins publicly claiming Claude is conscious and why the world's most famous evolutionary biologist falls for the same AI anthropomorphism trap that misleads millions; and Ashlee Vance's Matter Reader weekend reading picks including deep reporting from the edges of science, politics, and technology.</description>
+      <pubDate>Sun, 03 May 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777803885595-d6d9f905-96f6-4b0c-8819-48db76eb2ffd-1777803874495-1.mp3" length="20016201" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Musk v. OpenAI trial cross-examination drama and Musk's personal texts; Anthropic's exclusive deal with UK startup Fractile for custom AI inference chips to diversify from Nvidia; Azeem Azhar's Exponential View after visiting China's top AI labs debunking the &quot;no moats&quot; thesis; Sinica Podcast debate on US-China tech rivalry; Semafor DC conference on American capitalism, energy security, and AI; Gary Marcus on Richard Dawkins claiming Claude is conscious; and Ashlee Vance's curated weekend reading picks.</itunes:summary>
+      <itunes:duration>00:20:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d6d9f905-96f6-4b0c-8819-48db76eb2ffd/20260503</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 2, 2026</title>
       <description>Today's AI and global news roundup covering: ZaiNar's secretive exit from stealth — a 9-year GPS alternative startup targeting $5B in deals with inch-accurate tracking tech for robots and physical AI using radio signals that can't be blocked; Chinese AI firms including Moonshot AI and DeepRoute weighing corporate overhaul to domestic incorporation after China's securities regulator toughened stance post the Meta-Manus deal reversal; NSA using Anthropic's Mythos to find Microsoft software flaws; Apple iPhone revenue up 22% to $57B as China rebounds 28%; Atlassian shares surge 25% as AI-powered Rovo search doubles customer ARR; Zuckerberg tells Meta employees their computer activity will train AI because they're smarter than contractors; GPT-5.5 tops benchmarks but hallucinates more; Kimi K2.6 leads open-weights models with 1T parameters and 300-agent swarms; AI strains tech company climate pledges as data centers return to natural gas; Q1 2026 global M&amp;A hits $1.6T record driven by xAI's $250B SpaceX acquisition; crossover investors made record $220.9B in US VC deals (11x jump); PitchBook's 25-layer AI technology investment stack and the AI supercycle roadmap; and CoreWeave's $3.1B term loan for GPU acquisition.</description>
