@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 04 May 2026 10:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 5, 2026</title>
+      <description>Today's AI and global news roundup covering: Pentagon signs classified AI deals with 7 companies including xAI, OpenAI, Google, and Nvidia after Anthropic declines and gets labeled a supply chain threat; GameStop's surprise $56B bid for eBay at $125/share; SpaceX IPO expected mid-June at $1T+ valuation raising $75B; Anthropic finalizing $1.5B PE joint venture with Blackstone and Goldman Sachs; Cursor staying independent from xAI despite SpaceX's $60B acquisition offer; Google announces selling TPUs directly but Nebius, Lambda, and CoreWeave all say no; SAP blocks unauthorized AI agents with license violation threats; Boop launches as first insurtech for humanoid robots backed by Cyan Banister; Nvidia B200 GPU prices surge 114% in 6 weeks as enterprise AI demand still largely latent; infrastructure-as-a-service vs SaaS business models and why APIs will contribute $14.2T to global economy by 2027; the growing AI backlash with 44% of Gen Z workers sabotaging company AI strategy and a QuitGPT movement rising; and MDMA-assisted therapy for couples rebuilding trust in Phase 2 trials.</description>
+      <pubDate>Tue, 05 May 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1777976984070-6d2b21d9-55dc-4b8f-a73d-cc9bd1b4b615-1777976975721-1.mp3" length="14991078" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Pentagon's classified AI deals and Anthropic's refusal; GameStop's $56B eBay bid; SpaceX IPO at $1T+; Anthropic $1.5B PE joint venture; Cursor staying independent; Google TPU rollout rejected by cloud providers; SAP blocking unauthorized AI agents; Boop's humanoid robot insurance; Nvidia B200 price surge 114%; latent enterprise AI demand; infrastructure-as-a-service business model thesis; growing anti-AI backlash and QuitGPT movement; and MDMA-assisted couples therapy research.</itunes:summary>
+      <itunes:duration>00:15:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6d2b21d9-55dc-4b8f-a73d-cc9bd1b4b615/20260505</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 4, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on how SpaceX's upcoming IPO is set to drive billions in tech stock sales as fund managers plan to trim Magnificent 7 positions — Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia, and Tesla — to make room for SpaceX at a potential $1.5 trillion valuation; The Information on CFTC Chair Michael Selig racing to stop states from killing prediction markets, with Kalshi at $22B and Polymarket at $15B valuations, as he files lawsuits against five states and positions himself as Washington's unlikely prediction markets czar; PitchBook's Weekend Pitch on how mid-market PE investors are telling their story to LPs — with distributions and exit track records now at the center of due diligence, and AI implementation becoming a key differentiator; Trivium China Podcast on Beijing unwinding the high-profile Meta-Manus deal as Chinese authorities pushed back against data sharing with a major US tech company, reflecting broader US-China AI tensions; Brandon Brown on the night 17,000 Spirit Airlines workers were left behind when the ultra-low-cost carrier filed for bankruptcy — a human story about airline workers who built careers at Spirit and faced sudden uncertainty; and Gary Marcus questioning whether LLMs have meaningfully improved patient outcomes, finding that despite impressive benchmark performance, real-world clinical evidence remains surprisingly thin.</description>
