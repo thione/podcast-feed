@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 05 May 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 6, 2026</title>
+      <description>Today's AI and global news roundup covering: Meta building an AI agent called &#x27;Hatch&#x27; (OpenClaw-inspired) targeting internal testing by end of June, plus an agentic shopping tool for Instagram; Anthropic committing to spend $200 billion on Google Cloud over five years &amp;mdash; making OpenAI and Anthropic together 50% of the $2 trillion cloud provider revenue backlog; xAI&#x27;s fast, cheap data center build-outs at Macrohard have hidden costs including uptime problems, worker injuries, and 11% Model Flops Utilization; Amazon weighing &apos;hybrid mode&apos; AI search combining conversational blurbs with traditional search results for certain queries; ServiceNow building tollgates for AI agents with new licensing requirements; Greg Brockman&#x27;s private diary revealed in the Musk vs. OpenAI trial showing he wanted Musk out and considered the nonprofit structure a lie; new Stanford-MIT research showing 91% of autonomous agent deployments vulnerable to tool-chaining attacks with 770K agents simultaneously compromised in the OpenClaw/Moltbook incident; Digital Native&#x27;s Rex Woodbury on Walter Benjamin&#x27;s framework applied to knowledge &amp;mdash; when knowledge costs collapse to zero, credentialed institutions like McKinsey and Goldman become more valuable not less; and a Sequoia Capital fireside chat on the cognitive revolution, the scarcity of human taste in an AI-flooded world, and the risk of &apos;mental obesity.&apos;</description>
+      <pubDate>Wed, 06 May 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778063067502-90bc9163-9ad9-4347-9cf5-e9b88ea788b7-1778063052724-1.mp3" length="23948779" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-06</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Meta building &#x27;Hatch&#x27; AI agent and Instagram shopping tool; Anthropic&#x27;s $200B Google Cloud commitment making OpenAI+Anthropic 50% of $2T cloud backlog; xAI data center hidden costs including 11% MFU and worker injuries; Amazon&#x27;s hybrid AI search mode; ServiceNow AI agent tollgates; Musk vs. OpenAI trial with Brockman&#x27;s damaging private diary; 91% of AI agents vulnerable to tool-chaining attacks; Digital Native on knowledge economics post-AI; and Sequoia on the cognitive revolution.</itunes:summary>
+      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/90bc9163-9ad9-4347-9cf5-e9b88ea788b7/20260506</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 5, 2026</title>
       <description>Today's AI and global news roundup covering: Pentagon signs classified AI deals with 7 companies including xAI, OpenAI, Google, and Nvidia after Anthropic declines and gets labeled a supply chain threat; GameStop's surprise $56B bid for eBay at $125/share; SpaceX IPO expected mid-June at $1T+ valuation raising $75B; Anthropic finalizing $1.5B PE joint venture with Blackstone and Goldman Sachs; Cursor staying independent from xAI despite SpaceX's $60B acquisition offer; Google announces selling TPUs directly but Nebius, Lambda, and CoreWeave all say no; SAP blocks unauthorized AI agents with license violation threats; Boop launches as first insurtech for humanoid robots backed by Cyan Banister; Nvidia B200 GPU prices surge 114% in 6 weeks as enterprise AI demand still largely latent; infrastructure-as-a-service vs SaaS business models and why APIs will contribute $14.2T to global economy by 2027; the growing AI backlash with 44% of Gen Z workers sabotaging company AI strategy and a QuitGPT movement rising; and MDMA-assisted therapy for couples rebuilding trust in Phase 2 trials.</description>
