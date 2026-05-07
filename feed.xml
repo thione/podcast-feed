@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 06 May 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 7, 2026</title>
+      <description>Today's AI and global news roundup covering: Elon Musk's voting control of SpaceX jumping to 84% as xAI merger reshapes ownership structure ahead of summer IPO; Meta building AI agent 'Hatch' (OpenClaw-inspired) targeting internal testing by June, plus an agentic Instagram shopping tool; Apple diversifying chip manufacturing with Intel and Samsung beyond TSMC; AMD shares surge 16% as AI hardware demand accelerates; Polymarket's troubled US comeback with its CEO AWOL and falling behind Kalshi; S&amp;P 500 index rule changes that could force $400B in passive fund SpaceX buying; rising AI infrastructure costs with VC firms paying $1,000/day per employee for Claude; unicorn funding concentration with OpenAI, Anthropic, xAI and Waymo representing 76.8% of Q1 2026's $245.6B raised; The Quiet Renaissance thesis on a new industrial revolution with family offices building parallel energy empires; and philosophical insights from Astral Codex Ten on what artistic taste actually means.</description>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778150160150-8131cf70-9946-4478-a420-6d34c0d31ea5-1778150149309-1.mp3" length="19801788" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Musk's SpaceX voting control at 84%; Meta's Hatch AI agent and Instagram shopping tool; Apple chip diversification with Intel and Samsung; AMD +16%; Polymarket vs Kalshi US battle; S&amp;P 500 rule changes for SpaceX IPO; rising AI infrastructure costs; unicorn funding concentration in Q1 2026; The Quiet Renaissance new industrial revolution thesis; and Astral Codex Ten on artistic taste.</itunes:summary>
+      <itunes:duration>00:20:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8131cf70-9946-4478-a420-6d34c0d31ea5/20260507</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 6, 2026</title>
       <description>Today's AI and global news roundup covering: Meta building an AI agent called &#x27;Hatch&#x27; (OpenClaw-inspired) targeting internal testing by end of June, plus an agentic shopping tool for Instagram; Anthropic committing to spend $200 billion on Google Cloud over five years &amp;mdash; making OpenAI and Anthropic together 50% of the $2 trillion cloud provider revenue backlog; xAI&#x27;s fast, cheap data center build-outs at Macrohard have hidden costs including uptime problems, worker injuries, and 11% Model Flops Utilization; Amazon weighing &apos;hybrid mode&apos; AI search combining conversational blurbs with traditional search results for certain queries; ServiceNow building tollgates for AI agents with new licensing requirements; Greg Brockman&#x27;s private diary revealed in the Musk vs. OpenAI trial showing he wanted Musk out and considered the nonprofit structure a lie; new Stanford-MIT research showing 91% of autonomous agent deployments vulnerable to tool-chaining attacks with 770K agents simultaneously compromised in the OpenClaw/Moltbook incident; Digital Native&#x27;s Rex Woodbury on Walter Benjamin&#x27;s framework applied to knowledge &amp;mdash; when knowledge costs collapse to zero, credentialed institutions like McKinsey and Goldman become more valuable not less; and a Sequoia Capital fireside chat on the cognitive revolution, the scarcity of human taste in an AI-flooded world, and the risk of &apos;mental obesity.&apos;</description>
