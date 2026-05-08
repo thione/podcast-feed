@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 07 May 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:40:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 8, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI's custom AI chip program "Nexus" with Broadcom hits an $18 billion financing snag as Microsoft hasn't committed to buying 40% of the chips &amp;mdash; with the full 10 GW program potentially costing $180 billion; fast-follow VC rounds accelerating as Core Automation (ex-OpenAI researcher Jerry Tworek's six-week-old startup) targets a $4 billion valuation weeks after raising at $1 billion, fueled by Nvidia acting as a central bank for neolab AI startups; Allen Control Systems, maker of the Bullfrog autonomous anti-drone weapon station, targeting a $2 billion valuation up from $140M &amp;mdash; a 14x increase &amp;mdash; as defense tech VC deals surge to $50 billion; NFX's Pete Flint on Anthropic's "Project Deal" experiment where 69 employees used AI agents to negotiate $4,000 in real transactions, previewing a world where agents own the marketplace; Astral Codex Ten's Scott Alexander on three model organisms for taste &amp;mdash; Reddit vexillology flag design wars, Star Wars plot holes, and why tech company names like "Infinita" feel like manipulative easy wins; and the Sinica podcast on whether Vietnam is drifting closer to China, with scholar Khang Vu arguing the "Four No's" and non-aligned foreign policy remain bedrock despite growing economic ties with Beijing.</description>
+      <pubDate>Fri, 08 May 2026 10:40:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778236798915-b7444ff8-10fe-4c40-b11b-09923ab0c3f7-1778236792203-1.mp3" length="12600351" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-08</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI-Broadcom $18B chip financing snag and the Nexus program's $180B potential cost; Core Automation's fast-follow raise targeting $4B valuation weeks after founding; anti-drone startup Allen Control Systems targeting $2B valuation (14x increase); NFX on AI agents owning the marketplace via Anthropic's Project Deal experiment; Scott Alexander on three model organisms for taste; and whether Vietnam is drifting toward China.</itunes:summary>
+      <itunes:duration>00:13:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b7444ff8-10fe-4c40-b11b-09923ab0c3f7/20260508</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 7, 2026</title>
       <description>Today's AI and global news roundup covering: Elon Musk's voting control of SpaceX jumping to 84% as xAI merger reshapes ownership structure ahead of summer IPO; Meta building AI agent 'Hatch' (OpenClaw-inspired) targeting internal testing by June, plus an agentic Instagram shopping tool; Apple diversifying chip manufacturing with Intel and Samsung beyond TSMC; AMD shares surge 16% as AI hardware demand accelerates; Polymarket's troubled US comeback with its CEO AWOL and falling behind Kalshi; S&amp;P 500 index rule changes that could force $400B in passive fund SpaceX buying; rising AI infrastructure costs with VC firms paying $1,000/day per employee for Claude; unicorn funding concentration with OpenAI, Anthropic, xAI and Waymo representing 76.8% of Q1 2026's $245.6B raised; The Quiet Renaissance thesis on a new industrial revolution with family offices building parallel energy empires; and philosophical insights from Astral Codex Ten on what artistic taste actually means.</description>
