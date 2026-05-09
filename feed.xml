@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 08 May 2026 10:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 10:53:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 9, 2026</title>
+      <description>Today's AI and global news roundup covering: Cursor staff meeting with xAI employees as layoffs and exits mount at the $60B SpaceX acquisition target; Corning's stock rally risks outpacing reality as AI fiber demand projections get ahead of fundamentals; DeepSeek expediting plans to commercialize its technology as Chinese AI labs race to monetize; Cloudflare citing AI in cutting a fifth of its workforce as enterprise AI automation starts displacing tech jobs; PitchBook on why scale wins in private equity even when returns don't and the hidden cracks forming in private credit portfolios; Trivium China on China sanctions pushback, macro resilience, and more fallout from the Iran war; DeepLearning.AI The Batch covering Seedance video AI making a splash, Nvidia's AI-guided chip designs, and new techniques for helping robots retain memory across tasks; and new research on how psilocybin permanently changes brain structure after just a single trip.</description>
+      <pubDate>Sat, 09 May 2026 10:53:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778323992383-4eaa2e64-4007-42c1-b606-c3df68d9b5be-1778323982408-1.mp3" length="20069700" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Cursor staff meeting with xAI employees amid layoffs and exits; Corning stock rally outpacing fundamentals; DeepSeek commercializing its technology; Cloudflare cuts 20% of workforce citing AI; PitchBook on PE scale wins and hidden private credit cracks; Trivium China on sanctions pushback and Iran war fallout; DeepLearning.AI on Seedance, Nvidia AI chip designs, and robot memory; and psilocybin permanently changing brain structure after a single trip.</itunes:summary>
+      <itunes:duration>00:20:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/4eaa2e64-4007-42c1-b606-c3df68d9b5be/20260509</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 8, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI's custom AI chip program "Nexus" with Broadcom hits an $18 billion financing snag as Microsoft hasn't committed to buying 40% of the chips &amp;mdash; with the full 10 GW program potentially costing $180 billion; fast-follow VC rounds accelerating as Core Automation (ex-OpenAI researcher Jerry Tworek's six-week-old startup) targets a $4 billion valuation weeks after raising at $1 billion, fueled by Nvidia acting as a central bank for neolab AI startups; Allen Control Systems, maker of the Bullfrog autonomous anti-drone weapon station, targeting a $2 billion valuation up from $140M &amp;mdash; a 14x increase &amp;mdash; as defense tech VC deals surge to $50 billion; NFX's Pete Flint on Anthropic's "Project Deal" experiment where 69 employees used AI agents to negotiate $4,000 in real transactions, previewing a world where agents own the marketplace; Astral Codex Ten's Scott Alexander on three model organisms for taste &amp;mdash; Reddit vexillology flag design wars, Star Wars plot holes, and why tech company names like "Infinita" feel like manipulative easy wins; and the Sinica podcast on whether Vietnam is drifting closer to China, with scholar Khang Vu arguing the "Four No's" and non-aligned foreign policy remain bedrock despite growing economic ties with Beijing.</description>
