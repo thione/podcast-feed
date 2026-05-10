@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 09 May 2026 10:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 10:27:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 10, 2026</title>
+      <description>Today's AI and global news roundup covering: Exponential View #573 on whether AI labs are building for an intelligence explosion — examining if AI is now training its own successors and whether we are approaching a recursive self-improvement threshold by 2028; PitchBook on the new star employees of VC firms — AI agents like Daisy at Patron Fund and Eli replacing junior analysts with surprisingly distinct personalities and backgrounds, plus Nasdaq's new SpaceX fast-entry IPO rule scrambling exit calculus for early backers; The Information's Weekend Edition on AI's necessary frenemies — the strategic partnerships and rivalries shaping Big Tech's AI future; The Information on billionaire tax refugees flocking to a ritzy Nevada lake town as high-tax states push ultra-high-net-worth individuals to relocate; Bay Area Founders Club events for the week of May 11; and enter Messenger's Michael Pollan interview on food, consciousness, and culture.</description>
+      <pubDate>Sun, 10 May 2026 10:27:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778408614266-f4346a29-6483-42d4-a9a8-efb8e7a91803-1778408607728-1.mp3" length="12940152" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Exponential View #573 on AI labs building for an intelligence explosion and recursive self-improvement by 2028; PitchBook on AI agents replacing junior analysts at VC firms with distinct personalities; Nasdaq's SpaceX fast-entry IPO rule scrambling exit calculus; The Information on AI's necessary frenemies and billionaire tax refugees in Nevada; Bay Area Founders Club events; and Michael Pollan interview.</itunes:summary>
+      <itunes:duration>00:13:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f4346a29-6483-42d4-a9a8-efb8e7a91803/20260510</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 9, 2026</title>
       <description>Today's AI and global news roundup covering: Cursor staff meeting with xAI employees as layoffs and exits mount at the $60B SpaceX acquisition target; Corning's stock rally risks outpacing reality as AI fiber demand projections get ahead of fundamentals; DeepSeek expediting plans to commercialize its technology as Chinese AI labs race to monetize; Cloudflare citing AI in cutting a fifth of its workforce as enterprise AI automation starts displacing tech jobs; PitchBook on why scale wins in private equity even when returns don't and the hidden cracks forming in private credit portfolios; Trivium China on China sanctions pushback, macro resilience, and more fallout from the Iran war; DeepLearning.AI The Batch covering Seedance video AI making a splash, Nvidia's AI-guided chip designs, and new techniques for helping robots retain memory across tasks; and new research on how psilocybin permanently changes brain structure after just a single trip.</description>
