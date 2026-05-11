@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 10 May 2026 10:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 11, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information on how AI is improving tech company margins but rising AI costs and unpredictable token usage threaten the equation — analysis of 100 public tech companies' Q1 earnings calls shows many companies shipping more with same headcount while others see margins squeezed by surging AI costs; Gary Marcus on why the panic over AI progress is misplaced, questioning recent AI capability claims and the hype cycle; Astral Codex Ten's Open Thread 433 discussing US agricultural legislation threatening all state animal welfare protections, Hampshire College's bankruptcy, and community discussions on AI safety and effective altruism; Hall T Martin's TEN Capital Connect with the latest venture capital network updates; and Matter Reader's Bentham's Bulldog essay examining philosopher Peter Singer, the ethics of suffering, and effective altruism.</description>
+      <pubDate>Mon, 11 May 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778495145959-66fd8968-1e63-440e-b164-1a61bb797817-1778495136022-1.mp3" length="19911711" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-11</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information on AI improving tech company margins but rising AI costs threatening the equation; Gary Marcus on misplaced panic over AI progress; Astral Codex Ten Open Thread 433 on animal welfare legislation and Hampshire College bankruptcy; Hall T Martin's TEN Capital Connect; and Matter Reader's Bentham's Bulldog on Peter Singer and the ethics of suffering.</itunes:summary>
+      <itunes:duration>00:20:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/66fd8968-1e63-440e-b164-1a61bb797817/20260511</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 10, 2026</title>
       <description>Today's AI and global news roundup covering: Exponential View #573 on whether AI labs are building for an intelligence explosion — examining if AI is now training its own successors and whether we are approaching a recursive self-improvement threshold by 2028; PitchBook on the new star employees of VC firms — AI agents like Daisy at Patron Fund and Eli replacing junior analysts with surprisingly distinct personalities and backgrounds, plus Nasdaq's new SpaceX fast-entry IPO rule scrambling exit calculus for early backers; The Information's Weekend Edition on AI's necessary frenemies — the strategic partnerships and rivalries shaping Big Tech's AI future; The Information on billionaire tax refugees flocking to a ritzy Nevada lake town as high-tax states push ultra-high-net-worth individuals to relocate; Bay Area Founders Club events for the week of May 11; and enter Messenger's Michael Pollan interview on food, consciousness, and culture.</description>
