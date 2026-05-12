@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 11 May 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 10:28:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 12, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information exclusive on OpenAI saving $97 billion through 2030 in its renegotiated Microsoft revenue-sharing deal, with payments capped at $38 billion — boosting IPO prospects but increasing short-term cash burn; Kuaishou planning to spin off its Kling AI video unit at a $20 billion valuation ahead of a 2027 IPO, as Chinese AI companies rush to tap public markets; Anthropic signing a $1.8 billion cloud deal with Akamai, diversifying away from hyperscaler dependence; PitchBook on the $500 million North Carolina quartz mine holding up the world's AI chip supply chain — a single Spruce Pine facility produces 90% of the world's ultra-high-purity quartz critical for semiconductor fabs; China's battery swapping boom as NIO's network hits 4 million swaps per day and BYD, CATL, and Geely build competing standards; Andrew Yang's warning that AI is already destroying jobs at scale with data pointing to structural unemployment for white-collar workers; DeepLearning.AI The Batch on the latest AI research breakthroughs; Moore's Law economics and how cost-per-token improvements are reshaping the AI competitive landscape; and venture capital funding rounds and startup news from across the AI ecosystem.</description>
+      <pubDate>Tue, 12 May 2026 10:28:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778581679565-d554dac4-4f40-4820-ac66-e2f0d9c0963e-1778581669777-1.mp3" length="19561043" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI saves $97 billion through 2030 in renegotiated Microsoft deal capped at $38 billion; Kuaishou spinning off Kling AI video unit at $20 billion for 2027 IPO; Anthropic's $1.8 billion Akamai cloud deal; North Carolina quartz mine as critical AI chip supply chain chokepoint; China's battery swapping boom; Andrew Yang on structural AI-driven unemployment; DeepLearning.AI The Batch; Moore's Law economics reshaping AI; and venture funding roundup.</itunes:summary>
+      <itunes:duration>00:20:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d554dac4-4f40-4820-ac66-e2f0d9c0963e/20260512</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 11, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on how AI is improving tech company margins but rising AI costs and unpredictable token usage threaten the equation — analysis of 100 public tech companies' Q1 earnings calls shows many companies shipping more with same headcount while others see margins squeezed by surging AI costs; Gary Marcus on why the panic over AI progress is misplaced, questioning recent AI capability claims and the hype cycle; Astral Codex Ten's Open Thread 433 discussing US agricultural legislation threatening all state animal welfare protections, Hampshire College's bankruptcy, and community discussions on AI safety and effective altruism; Hall T Martin's TEN Capital Connect with the latest venture capital network updates; and Matter Reader's Bentham's Bulldog essay examining philosopher Peter Singer, the ethics of suffering, and effective altruism.</description>
