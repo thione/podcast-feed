@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 12 May 2026 10:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:41:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 13, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information exclusive on former Alibaba star researcher Lin Wei launching a new AI lab seeking a $2 billion valuation, with backing from top Chinese investors; Anthropic in talks to acquire developer tools startup Sketch — used by both OpenAI and Google — signaling Anthropic's push into the enterprise software stack beyond just model APIs; Microsoft generating over $30 billion in revenue from OpenAI's technology while managing a complex financial relationship where spending and revenue are tightly intertwined; OpenAI making billions just by promising to buy from suppliers — a strategy of using purchase commitments as a fundraising instrument that has implications for the entire AI compute ecosystem; The Humanly Possible Substack on the supercharging of art and creativity through AI, examining how generative tools are transforming artistic practice and what that means for human creative identity; Paul O'Brien on Houston's emerging startup ecosystem and why the Bayou City is becoming a serious contender in the US technology landscape with unique advantages in energy, healthcare, and space; and the broader industrialization of AI infrastructure as the race to build compute at civilizational scale accelerates.</description>
+      <pubDate>Wed, 13 May 2026 10:41:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778668835146-e910cafb-8ccb-4df2-aa39-8e4f662e9f5c-1778668825641-1.mp3" length="18441331" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Former Alibaba star researcher Lin Wei's new AI lab seeking $2B valuation; Anthropic in talks to acquire Sketch developer tools startup used by OpenAI and Google; Microsoft generating $30B+ in revenue from OpenAI technology; OpenAI making billions from supplier purchase commitments; The Humanly Possible on AI supercharging art and creativity; Paul O'Brien on Houston's emerging startup ecosystem; and the bare-knuckle industrialization of AI infrastructure at civilizational scale.</itunes:summary>
+      <itunes:duration>00:19:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e910cafb-8ccb-4df2-aa39-8e4f662e9f5c/20260513</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 12, 2026</title>
       <description>Today's AI and global news roundup covering: The Information exclusive on OpenAI saving $97 billion through 2030 in its renegotiated Microsoft revenue-sharing deal, with payments capped at $38 billion — boosting IPO prospects but increasing short-term cash burn; Kuaishou planning to spin off its Kling AI video unit at a $20 billion valuation ahead of a 2027 IPO, as Chinese AI companies rush to tap public markets; Anthropic signing a $1.8 billion cloud deal with Akamai, diversifying away from hyperscaler dependence; PitchBook on the $500 million North Carolina quartz mine holding up the world's AI chip supply chain — a single Spruce Pine facility produces 90% of the world's ultra-high-purity quartz critical for semiconductor fabs; China's battery swapping boom as NIO's network hits 4 million swaps per day and BYD, CATL, and Geely build competing standards; Andrew Yang's warning that AI is already destroying jobs at scale with data pointing to structural unemployment for white-collar workers; DeepLearning.AI The Batch on the latest AI research breakthroughs; Moore's Law economics and how cost-per-token improvements are reshaping the AI competitive landscape; and venture capital funding rounds and startup news from across the AI ecosystem.</description>
