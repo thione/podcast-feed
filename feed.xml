@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 13 May 2026 10:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:36:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 14, 2026</title>
+      <description>Today's AI and global news roundup covering: House Oversight Committee opens investigation into OpenAI CEO Sam Altman's personal investments in Helion and Stoke Space and their ties to OpenAI partnerships, plus 10 GOP attorneys general calling on the SEC to investigate OpenAI's nonprofit-to-for-profit conversion; PitchBook reveals AI startups raised $255.5 billion in Q1 2026 — surpassing all of 2025 — with OpenAI, Anthropic, and xAI accounting for 67.3% of all deals as sovereign wealth funds pour into the AI boom; Anthropic triples annualized revenue to $30 billion as enterprise customers like PagerDuty willingly absorb rising Claude costs because productivity gains are too compelling; Anthropic in talks to acquire developer tools startup Stainless for at least $300 million — an SDK maker used by OpenAI and Google — which could force rivals to find new tooling partners; The Information's Clarity Act deep dive on whether crypto's golden moment in Congress will slip away as the Senate Banking Committee prepares to vote this week; Apple secretly exploring how to integrate AI agents into the App Store after months of blocking vibe coding tools, with new Siri powered by Google Gemini managing cross-app tasks; startup Modal raising at a $4.5 billion valuation — an 80% premium from just months ago — after annualized revenue surged 5x to $300 million driven by AI agent sandbox demand from Ramp and Lovable; Exponential View's on-the-ground report from 14 Chinese AI and robotics labs including DeepSeek, MoonshotAI, ByteDance, Unitree, and Galbot — finding that US export controls paradoxically created a more efficient competitor with 3-5x better compute efficiency and a robotics industry years ahead of Western equivalents; and Astral Codex Ten's philosophical deep dive into Nostalgebraist's Hydrogen Jukebox theory of AI taste — why AI writing optimizes for the surface appearance of quality rather than quality itself, and what that means for the era of AI-generated content.</description>
+      <pubDate>Thu, 14 May 2026 10:36:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778754985893-1c3e12d3-5c6d-45a7-9a2b-be54739fafc3-1778754974067-1.mp3" length="21657109" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: House GOP probe and SEC investigation into Sam Altman's personal investments; AI startups raise $255.5B in Q1 2026 with OpenAI, Anthropic, and xAI at 67.3%; Anthropic triples revenue to $30B ARR; Anthropic in talks to acquire SDK startup Stainless for $300M threatening OpenAI and Google tooling; Crypto Clarity Act nearing Senate vote; Apple exploring AI agent integration in App Store; Modal raises at $4.5B valuation on $300M ARR; Exponential View's ground report from 14 Chinese AI labs finding 3-5x compute efficiency advantage; and Astral Codex Ten on the Hydrogen Jukebox theory of AI creativity and taste.</itunes:summary>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1c3e12d3-5c6d-45a7-9a2b-be54739fafc3/20260514</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 13, 2026</title>
       <description>Today's AI and global news roundup covering: The Information exclusive on former Alibaba star researcher Lin Wei launching a new AI lab seeking a $2 billion valuation, with backing from top Chinese investors; Anthropic in talks to acquire developer tools startup Sketch — used by both OpenAI and Google — signaling Anthropic's push into the enterprise software stack beyond just model APIs; Microsoft generating over $30 billion in revenue from OpenAI's technology while managing a complex financial relationship where spending and revenue are tightly intertwined; OpenAI making billions just by promising to buy from suppliers — a strategy of using purchase commitments as a fundraising instrument that has implications for the entire AI compute ecosystem; The Humanly Possible Substack on the supercharging of art and creativity through AI, examining how generative tools are transforming artistic practice and what that means for human creative identity; Paul O'Brien on Houston's emerging startup ecosystem and why the Bayou City is becoming a serious contender in the US technology landscape with unique advantages in energy, healthcare, and space; and the broader industrialization of AI infrastructure as the race to build compute at civilizational scale accelerates.</description>
