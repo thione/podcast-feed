@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 14 May 2026 10:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:37:47 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 15, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI considering legal action against Apple over breach of their ChatGPT partnership deal as Apple grows closer to Google and Anthropic; Cerebras IPO closes at $311/share with Tiger Global returning $1B and Benchmark earning 12x via SPVs; more than 50 researchers and engineers have left SpaceXAI since February as Meta and Thinking Machines hire them away; Anthropic customers like ServiceNow and PagerDuty unable to predict costs due to lack of telemetry data and SLAs; NFX's Pete Flint on how AI expands markets rather than destroying them, using the Kodak Brownie camera analogy; Musk vs. OpenAI trial closing arguments focusing on artificial general intelligence; Astral Codex Ten's Scott Alexander on why sigmoid curves won't necessarily save us from AI capabilities growth; and Exponential View's Azeem Azhar on what Cerebras' IPO pop signals about market understanding of AI inference demand.</description>
+      <pubDate>Fri, 15 May 2026 10:37:47 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1778841431597-e64586fb-3ae2-4e33-877b-b2ec94e71ee0-1778841422409-1.mp3" length="17668942" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI vs Apple legal threat over ChatGPT deal breach; Cerebras IPO pop with Tiger Global returning $1B and Benchmark earning 12x; SpaceXAI exodus of 50+ researchers to Meta and Thinking Machines; Anthropic cost unpredictability issues; NFX on AI market expansion; Musk vs. OpenAI trial closing arguments on AGI; ACX on sigmoid curves and AI capabilities; and Exponential View on what Cerebras' IPO signals about AI inference demand.</itunes:summary>
+      <itunes:duration>00:18:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e64586fb-3ae2-4e33-877b-b2ec94e71ee0/20260515</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - May 14, 2026</title>
       <description>Today's AI and global news roundup covering: House Oversight Committee opens investigation into OpenAI CEO Sam Altman's personal investments in Helion and Stoke Space and their ties to OpenAI partnerships, plus 10 GOP attorneys general calling on the SEC to investigate OpenAI's nonprofit-to-for-profit conversion; PitchBook reveals AI startups raised $255.5 billion in Q1 2026 — surpassing all of 2025 — with OpenAI, Anthropic, and xAI accounting for 67.3% of all deals as sovereign wealth funds pour into the AI boom; Anthropic triples annualized revenue to $30 billion as enterprise customers like PagerDuty willingly absorb rising Claude costs because productivity gains are too compelling; Anthropic in talks to acquire developer tools startup Stainless for at least $300 million — an SDK maker used by OpenAI and Google — which could force rivals to find new tooling partners; The Information's Clarity Act deep dive on whether crypto's golden moment in Congress will slip away as the Senate Banking Committee prepares to vote this week; Apple secretly exploring how to integrate AI agents into the App Store after months of blocking vibe coding tools, with new Siri powered by Google Gemini managing cross-app tasks; startup Modal raising at a $4.5 billion valuation — an 80% premium from just months ago — after annualized revenue surged 5x to $300 million driven by AI agent sandbox demand from Ramp and Lovable; Exponential View's on-the-ground report from 14 Chinese AI and robotics labs including DeepSeek, MoonshotAI, ByteDance, Unitree, and Galbot — finding that US export controls paradoxically created a more efficient competitor with 3-5x better compute efficiency and a robotics industry years ahead of Western equivalents; and Astral Codex Ten's philosophical deep dive into Nostalgebraist's Hydrogen Jukebox theory of AI taste — why AI writing optimizes for the surface appearance of quality rather than quality itself, and what that means for the era of AI-generated content.</description>
