@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 16 May 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 17, 2026</title>
+      <description>Today's AI and global news roundup covering: PitchBook on humanoid robot investment boom with $5 billion invested this year surpassing last year's record, but questions about VC value and practical use cases; The Information Weekend edition on SF Robot Fight Night as a marketing stunt for Nebius cloud computing and the broader robotics hype; The Information's Big Read on Valar Atomics nuclear startup building a 40-foot reactor in Utah desert with brute-force approach embraced by Trump officials and VCs; The Information on disappearing gene-edited embryo startups and the biotech failures; The Information on a VC firm's divisive virality; Gary Marcus on the illusion of generative AI and the dangers of hyperscaling without proper grounding; Exponential View #574 on Anthropic's explosive growth as the AI arms race intensifies; BlackRock reportedly in talks to invest in SpaceX ahead of its long-anticipated IPO at a valuation exceeding $1 trillion; and Bay Area Founders Club events for the week of May 17th.</description>
+      <pubDate>Sun, 17 May 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779013733046-523a4bc9-9508-4942-9fa4-09474332d391-1779013722874-1.mp3" length="19210376" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: PitchBook on the humanoid robot investment boom and VC value questions; SF Robot Fight Night as Nebius marketing stunt; Valar Atomics brute-force nuclear reactor in Utah desert; disappearing gene-edited embryo startups; Gary Marcus on the illusion of generative AI and hyperscaling dangers; Exponential View #574 on Anthropic's explosive growth; BlackRock in talks to invest in SpaceX ahead of $1T+ IPO; and Bay Area events for May 17th.</itunes:summary>
+      <itunes:duration>00:20:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/523a4bc9-9508-4942-9fa4-09474332d391/20260517</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - May 16, 2026</title>
       <description>Today's AI and global news roundup covering: Cerebras Systems blockbuster IPO closing up 68% at $311 on first day as the largest semiconductor IPO of all time; Anthropic raising at $900 billion valuation with Dragoneer, Greenoaks, Sequoia, and Altimeter co-leading; Musk vs. OpenAI and Microsoft closing arguments in San Francisco; Valar Atomics nuclear startup building a 40-foot reactor in the Utah desert aiming to achieve criticality by July 4th; PitchBook on AI VC records with defense sector deal count up 382%; US government announcing TRAINS multi-agency task force to evaluate frontier AI models before public release; China blocking Meta's $2.5 billion acquisition of Manus killing the Singapore strategy for Chinese founders; OpenAI's GPT-Realtime-2 speech model with configurable reasoning effort; Google's AI mammogram diagnosis study achieving 54.1% sensitivity vs. human 43.7%; FDA Commissioner Makary resignation and psychedelics research momentum; gaming console price increases driven by memory price quadrupling; and US AI policy patchwork examined by Gary Marcus and Fortune essay co-authors.</description>
