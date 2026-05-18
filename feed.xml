@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 17 May 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 18, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information on Anthropic and OpenAI widening their revenue dominance to 89% of all top AI startup revenues as 34 leading AI startups generate nearly $80 billion in annualized revenue — up 112% in six months — while facing significant cash burn; and The Adaptive Economy's Djoann Fal on the energy wall facing AGI, with Rob Walton personally investing in NuCube Energy's 15 MW modular nuclear microreactor, Sam Altman backing thermal batteries for data centers, Microsoft reopening Three Mile Island, and what the world's richest families see about the 2027 energy crunch that most people do not yet.</description>
+      <pubDate>Mon, 18 May 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779099580233-02d7f071-e160-416d-9b49-8585eabffee2-1779099573287-1.mp3" length="12302764" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information on Anthropic and OpenAI controlling 89% of top AI startup revenues as 34 startups hit $80B ARR, up 112% in six months; and The Adaptive Economy on the energy wall facing AGI with Rob Walton backing NuCube nuclear microreactors, Sam Altman funding thermal batteries, and Microsoft reopening Three Mile Island.</itunes:summary>
+      <itunes:duration>00:12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/02d7f071-e160-416d-9b49-8585eabffee2/20260518</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - May 17, 2026</title>
       <description>Today's AI and global news roundup covering: PitchBook on humanoid robot investment boom with $5 billion invested this year surpassing last year's record, but questions about VC value and practical use cases; The Information Weekend edition on SF Robot Fight Night as a marketing stunt for Nebius cloud computing and the broader robotics hype; The Information's Big Read on Valar Atomics nuclear startup building a 40-foot reactor in Utah desert with brute-force approach embraced by Trump officials and VCs; The Information on disappearing gene-edited embryo startups and the biotech failures; The Information on a VC firm's divisive virality; Gary Marcus on the illusion of generative AI and the dangers of hyperscaling without proper grounding; Exponential View #574 on Anthropic's explosive growth as the AI arms race intensifies; BlackRock reportedly in talks to invest in SpaceX ahead of its long-anticipated IPO at a valuation exceeding $1 trillion; and Bay Area Founders Club events for the week of May 17th.</description>
