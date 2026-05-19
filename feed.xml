@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 18 May 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 10:31:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 19, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information on Analog Devices in talks to acquire AI power chip startup Empower Semiconductor for $1.5 billion; Musk loses OpenAI lawsuit in a victory for Altman; GPU optimization startup winning Nvidia's attention; Tesla EVs in China vs. Musk's brand; edge inference chip startup SiMa.ai raising at $1B+; Microsoft executives sounding alarm over GitHub's eroding market position; SpaceX picking Nasdaq for mid-June IPO; PitchBook charting Anthropic vs. OpenAI; Gary Marcus on AI; The Humanly Possible weekly AI roundup; Andrew Yang on becoming independent; China Global South Podcast; Better Call Ouss; and Exponential View by Azeem Azhar.</description>
+      <pubDate>Tue, 19 May 2026 10:31:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779186644626-017965bd-6cbb-4cad-8099-1d5141021847-1779186634268-1.mp3" length="18698376" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-19</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information on Analog Devices in talks to acquire AI power chip startup Empower Semiconductor for $1.5 billion; Musk loses OpenAI lawsuit in a victory for Altman; GPU optimization startup winning Nvidia's attention; Tesla EVs in China vs. Musk's brand; edge inference chip startup SiMa.ai raising at $1B+; Microsoft executives sounding alarm over GitHub's eroding market position; SpaceX picking Nasdaq for mid-June IPO; PitchBook charting Anthropic vs. OpenAI; Gary Marcus on AI; The Humanly Possible weekly AI roundup; Andrew Yang on becoming independent; China Global South Podcast; Better Call Ouss; and Exponential View by Azeem Azhar.</itunes:summary>
+      <itunes:duration>00:19:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/017965bd-6cbb-4cad-8099-1d5141021847/20260519</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - May 18, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on Anthropic and OpenAI widening their revenue dominance to 89% of all top AI startup revenues as 34 leading AI startups generate nearly $80 billion in annualized revenue — up 112% in six months — while facing significant cash burn; and The Adaptive Economy's Djoann Fal on the energy wall facing AGI, with Rob Walton personally investing in NuCube Energy's 15 MW modular nuclear microreactor, Sam Altman backing thermal batteries for data centers, Microsoft reopening Three Mile Island, and what the world's richest families see about the 2027 energy crunch that most people do not yet.</description>
