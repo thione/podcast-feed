@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 19 May 2026 10:31:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - May 20, 2026</title>
+      <description>Today's AI and global news roundup covering: Musk loses OpenAI lawsuit after just two hours of jury deliberation ending the three-week trial — a major victory for Sam Altman; SpaceX IPO expected to return more than $60 billion each to Founders Fund and Valor Equity at a $1.75 trillion valuation, the largest venture returns in history; Microsoft training AI models on 100,000 employees' code via GitHub Copilot and Xbox game studio source code as a competitive moat; the rising costs of frontier AI models driving enterprise customers like Uber and Airbnb to hybrid open-source strategies with Kimi K2.6 and DeepSeek V4; PitchBook on the patent battle in VC secondaries between Nasdaq Private Market and Hiive, plus the end of ARR loans as all 2026 software loans shift to EBITDA-based pricing; Scott Galloway's Prof G Media consolidating on Substack after $20 million in annual podcast revenue and 400,000 newsletter subscribers; Rex Woodbury's Digital Native on Nourish and the decade of consumer health driven by GLP-1 drugs and insurance-covered dietitian access; and Scott Alexander's Astral Codex Ten on California's 60-candidate governor's race and the surreal top-two primary system.</description>
+      <pubDate>Wed, 20 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779302441289-ed4e8de3-b723-4d99-964f-c0ebabfd048b-1779302432437-1.mp3" length="17094248" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Musk loses OpenAI lawsuit after two-hour jury deliberation; SpaceX IPO set to return $60B+ each to Founders Fund and Valor at $1.75T valuation; Microsoft training AI on 100K employees' code via GitHub Copilot; enterprise shift to hybrid open-source AI as frontier costs soar; PitchBook on VC secondaries patent battle and end of ARR loans; Scott Galloway consolidating $20M podcast empire on Substack; Digital Native on Nourish and the consumer health decade; and Scott Alexander on California's 60-candidate governor's race.</itunes:summary>
+      <itunes:duration>00:17:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ed4e8de3-b723-4d99-964f-c0ebabfd048b/20260520</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - May 19, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on Analog Devices in talks to acquire AI power chip startup Empower Semiconductor for $1.5 billion; Musk loses OpenAI lawsuit in a victory for Altman; GPU optimization startup winning Nvidia's attention; Tesla EVs in China vs. Musk's brand; edge inference chip startup SiMa.ai raising at $1B+; Microsoft executives sounding alarm over GitHub's eroding market position; SpaceX picking Nasdaq for mid-June IPO; PitchBook charting Anthropic vs. OpenAI; Gary Marcus on AI; The Humanly Possible weekly AI roundup; Andrew Yang on becoming independent; China Global South Podcast; Better Call Ouss; and Exponential View by Azeem Azhar.</description>
