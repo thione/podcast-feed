@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 20 May 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 10:23:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 21, 2026</title>
+      <description>Today's newsletter podcast covering: SpaceX S-1 &amp; Anthropic's $40B deal; SpaceX IPO returns for Founders Fund &amp; Valor; Gary Marcus on generative AI's future; consumer health &amp; Nourish; Scott Galloway on AI &amp; media; California governor's race analysis; and emerging startup investor opportunities.</description>
+      <pubDate>Thu, 21 May 2026 10:23:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779358978702-6aa8f535-6b6a-4bd0-b4bb-fa95054a6399-1779358967665-1.mp3" length="20103554" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's newsletter podcast covering: SpaceX S-1 &amp; Anthropic's $40B deal; SpaceX IPO returns for Founders Fund &amp; Valor; Gary Marcus on generative AI's future; consumer health &amp; Nourish; Scott Galloway on AI &amp; media; California governor's race analysis; and emerging startup investor opportunities.</itunes:summary>
+      <itunes:duration>00:20:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6aa8f535-6b6a-4bd0-b4bb-fa95054a6399/20260521</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - May 20, 2026</title>
       <description>Today's AI and global news roundup covering: Musk loses OpenAI lawsuit after just two hours of jury deliberation ending the three-week trial — a major victory for Sam Altman; SpaceX IPO expected to return more than $60 billion each to Founders Fund and Valor Equity at a $1.75 trillion valuation, the largest venture returns in history; Microsoft training AI models on 100,000 employees' code via GitHub Copilot and Xbox game studio source code as a competitive moat; the rising costs of frontier AI models driving enterprise customers like Uber and Airbnb to hybrid open-source strategies with Kimi K2.6 and DeepSeek V4; PitchBook on the patent battle in VC secondaries between Nasdaq Private Market and Hiive, plus the end of ARR loans as all 2026 software loans shift to EBITDA-based pricing; Scott Galloway's Prof G Media consolidating on Substack after $20 million in annual podcast revenue and 400,000 newsletter subscribers; Rex Woodbury's Digital Native on Nourish and the decade of consumer health driven by GLP-1 drugs and insurance-covered dietitian access; and Scott Alexander's Astral Codex Ten on California's 60-candidate governor's race and the surreal top-two primary system.</description>
