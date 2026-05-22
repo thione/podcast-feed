@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 21 May 2026 10:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 22, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI Q1 revenue of $5.7B led Anthropic by $1B before Anthropic&apos;s annualized revenue surged to $45B; Anthropic in talks to use Microsoft&apos;s custom Maia 200 AI chips diversifying from Nvidia; OpenAI preparing to file for IPO in coming weeks at $300B valuation; Cursor seeing an opening as GitHub Copilot struggles; AI data centers requiring more batteries as power grids become unsteady; trio of trillion-dollar IPOs in the Dealmaker pipeline; enterprise AI customers negotiating SaaS escape hatches; Scott Alexander&apos;s Astral Codex Ten on why new AI paradigms won&apos;t save us from capability risks; and Gary Marcus checking the math behind OpenAI and Anthropic&apos;s latest revenue headlines.</description>
+      <pubDate>Fri, 22 May 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779446167758-b4d6d8c5-7c8f-47ae-beaf-2aa5815f5d03-1779446156489-1.mp3" length="21367463" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: OpenAI Q1 revenue of $5.7B led Anthropic by $1B; Anthropic in talks to use Microsoft&apos;s Maia 200 AI chips; OpenAI preparing IPO filing; Cursor&apos;s opening as GitHub Copilot struggles; AI data center power and battery challenges; trillion-dollar IPO pipeline; enterprise SaaS escape hatches; Astral Codex Ten on why new paradigms won&apos;t save us; and Gary Marcus fact-checking AI revenue headlines.</itunes:summary>
+      <itunes:duration>00:22:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b4d6d8c5-7c8f-47ae-beaf-2aa5815f5d03/20260522</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 21, 2026</title>
       <description>Today's newsletter podcast covering: SpaceX S-1 &amp; Anthropic's $40B deal; SpaceX IPO returns for Founders Fund &amp; Valor; Gary Marcus on generative AI's future; consumer health &amp; Nourish; Scott Galloway on AI &amp; media; California governor's race analysis; and emerging startup investor opportunities.</description>
