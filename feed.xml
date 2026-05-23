@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 22 May 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 23, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on San Francisco&apos;s tech elite real estate boom with Alexander Lurie — Mayor Daniel Lurie&apos;s brother — as the must-know broker for AI wealth from Anthropic, OpenAI, Apple, Google, and Sequoia, with SF median home prices hitting a record $2.15M (up 18% YoY) and luxury home sales at all-time highs; The Information on Microsoft blocking Databricks and Snowflake from connecting data tools to Power BI as it fights to control the &quot;semantic layer&quot; critical for making AI agents more accurate and cheaper to run; The Information exclusive on Chinese battery giant CATL planning to invest in DeepSeek&apos;s first-ever $7.35B fundraising round targeting a $51.4B valuation as JD.com and NetEase also join, with CATL betting on future data center power collaborations; The Information AM on OpenAI CEO Sam Altman talking to staff about IPO timing; PitchBook on Oura and the state of healthtech exits; Gary Marcus on the hidden retirement fund risk from AI; AI Snakeoil by Arvind and Sayash asking whether Google&apos;s AI agents really built an operating system for $916; DeepLearning.AI The Batch on Hermes vs. OpenClaw, rising cybersecurity alarms, more-interactive AI conversations, and whether agents can truly do human work; and Joseph Gordon-Levitt on AI, filmmaking, and the need for guardrails.</description>
+      <pubDate>Sat, 23 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779531628768-ce35256d-d189-41cb-8668-9fc49f6369da-1779531619125-1.mp3" length="19056149" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: The Information on SF tech elite real estate boom with Alexander Lurie (Mayor&apos;s brother) as go-to broker for AI wealth; Microsoft blocking Databricks from Power BI to control the AI agent semantic layer; CATL planning to invest in DeepSeek&apos;s $7.35B fundraising round at $51.4B valuation with JD.com and NetEase joining; OpenAI&apos;s Altman discussing IPO timing with staff; PitchBook on healthtech exits; Gary Marcus on retirement fund AI risk; AI Snakeoil on Google&apos;s $916 AI agent OS claim; DeepLearning.AI The Batch on Hermes vs. OpenClaw and AI agent capabilities; and Joseph Gordon-Levitt on AI and filmmaking guardrails.</itunes:summary>
+      <itunes:duration>00:19:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ce35256d-d189-41cb-8668-9fc49f6369da/20260523</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 22, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenAI Q1 revenue of $5.7B led Anthropic by $1B before Anthropic&apos;s annualized revenue surged to $45B; Anthropic in talks to use Microsoft&apos;s custom Maia 200 AI chips diversifying from Nvidia; OpenAI preparing to file for IPO in coming weeks at $300B valuation; Cursor seeing an opening as GitHub Copilot struggles; AI data centers requiring more batteries as power grids become unsteady; trio of trillion-dollar IPOs in the Dealmaker pipeline; enterprise AI customers negotiating SaaS escape hatches; Scott Alexander&apos;s Astral Codex Ten on why new AI paradigms won&apos;t save us from capability risks; and Gary Marcus checking the math behind OpenAI and Anthropic&apos;s latest revenue headlines.</description>
