@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 23 May 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 24, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information Weekend on Stanford ex-president Marc Tessier-Lavigne&apos;s complex comeback at Xaira Therapeutics — his $1 billion AI drug discovery startup — three years after resigning amid research misconduct allegations, now pitching AI&apos;s ability to identify which patients will benefit from drugs and connecting separate fields of science; The Information on how Alexander Lurie — younger brother of San Francisco Mayor Daniel Lurie — has become the go-to real estate broker for AI wealth from Anthropic, Apple, Google, OpenAI, and Sequoia as SF luxury home sales hit record highs; The Information on crypto&apos;s Washington command center at 1155 F Street as the Blockchain Association and Digital Chamber push the Clarity Act to legitimize crypto in mainstream financial markets; 20 great books for summer 2026 including AI-themed dystopias, San Francisco chronicles, and tech dark comedies; Exponential View #575 by Azeem Azhar on AI&apos;s math breakthrough — an OpenAI reasoning model solving an 80-year-old geometry problem by connecting discrete geometry with algebraic number theory in a move reminiscent of AlphaGo&apos;s Move 37 — plus AI&apos;s creative limits and milquetoast writing; and Azeem Azhar on the growing AI backlash — college graduates booing Eric Schmidt at commencements, AOC showing mud-brown water from Georgia taps near Meta data centers, bipartisan opposition to data centers, and Anthropic turning a profit two years ahead of schedule even as AI&apos;s critics grow louder.</description>
+      <pubDate>Sun, 24 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779617842248-134489bc-5728-469a-bb9c-fc119fa09ef4-1779617831389-1.mp3" length="20363943" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-24</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: Stanford ex-president Marc Tessier-Lavigne&apos;s comeback at Xaira Therapeutics AI drug discovery startup; SF&apos;s Alexander Lurie as the go-to real estate broker for AI wealth; crypto&apos;s Washington command center and the Clarity Act; 20 great summer books; Exponential View on AI solving an 80-year-old math problem; and the growing AI backlash from college campuses to data center construction fights.</itunes:summary>
+      <itunes:duration>00:21:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/134489bc-5728-469a-bb9c-fc119fa09ef4/20260524</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 23, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on San Francisco&apos;s tech elite real estate boom with Alexander Lurie — Mayor Daniel Lurie&apos;s brother — as the must-know broker for AI wealth from Anthropic, OpenAI, Apple, Google, and Sequoia, with SF median home prices hitting a record $2.15M (up 18% YoY) and luxury home sales at all-time highs; The Information on Microsoft blocking Databricks and Snowflake from connecting data tools to Power BI as it fights to control the &quot;semantic layer&quot; critical for making AI agents more accurate and cheaper to run; The Information exclusive on Chinese battery giant CATL planning to invest in DeepSeek&apos;s first-ever $7.35B fundraising round targeting a $51.4B valuation as JD.com and NetEase also join, with CATL betting on future data center power collaborations; The Information AM on OpenAI CEO Sam Altman talking to staff about IPO timing; PitchBook on Oura and the state of healthtech exits; Gary Marcus on the hidden retirement fund risk from AI; AI Snakeoil by Arvind and Sayash asking whether Google&apos;s AI agents really built an operating system for $916; DeepLearning.AI The Batch on Hermes vs. OpenClaw, rising cybersecurity alarms, more-interactive AI conversations, and whether agents can truly do human work; and Joseph Gordon-Levitt on AI, filmmaking, and the need for guardrails.</description>
