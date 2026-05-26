@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 25 May 2026 14:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:51:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 26, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on Twilio&apos;s AI-driven stock surge and the double-edged sword of AI cannibalizing its own SMS and communications revenue as Segment acquisition context comes into focus; The Information&apos;s The Electric on the Pentagon advocating for low-cost drone and AI military programs as a strategic counterweight to high-cost weapons platforms; The Information on crypto markets and Washington&apos;s evolving regulatory posture toward digital assets; and Substack on personal productivity and how to become someone who actually follows through on goals and commitments.</description>
+      <pubDate>Tue, 26 May 2026 10:51:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779792603952-9059132a-459f-41ce-886a-971f86114f62-1779792589890-1.mp3" length="21413856" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: The Information on Twilio&apos;s AI boost as a double-edged sword; the Pentagon advocating for low-cost drone &amp; AI programs; crypto Washington dynamics; and Substack on personal productivity and follow-through.</itunes:summary>
+      <itunes:duration>00:22:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/9059132a-459f-41ce-886a-971f86114f62/20260526</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 25, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on SpaceX, Oura, and Blockchain.com&apos;s IPO filings as AI-tied stocks like Cerebras (+40%) outperform while last year&apos;s tech IPOs have fallen a median 32% — CoreWeave and Circle are the outliers at +160% and +265% — and OpenAI prepares to file confidentially ahead of rival Anthropic both targeting tens of billions in public listings; PitchBook&apos;s Weekend Pitch on OpenAI and Anthropic racing to prove their public benefit corporation status means something after Musk&apos;s lawsuit was dismissed in 90 minutes — with legal scholars saying the PBC structure changes little in practice; Ignite Insights on the remarkable week where Anthropic is paying rival xAI $1.25 billion per month for Colossus compute (the ultimate customer-landlord-competitor dynamic), Andrej Karpathy joins Anthropic for pre-training, an OpenAI reasoning model solves an 80-year-old Erdos math conjecture confirmed by W.T. Gowers and Thomas Bloom, AI superforecasters match human superforecasters for the first time, Nvidia reports $82B revenue at 85% growth, and Intuit and Meta both cut staff while raising guidance as cities ban data centers over power constraints; Exponential View by Azeem Azhar on why AI token costs keep rising even as per-token prices fall — tokens processed grew 17,000x in four years, agents amplify usage 55x per task, active inference is only 15-20% of actual token consumption, and frontier models cannot accurately forecast their own costs (30x variance across the same task); Passing the Torch Newsletter on Gen Z as one of the biggest mispricings in equity market history, with the peptide and injectable body-modification value chain as the key investable thesis driven by Gen Z&apos;s desensitization to cosmetic injectables; and TEN Capital Connect on 28 red flags in startup pitches and the neuromodulation market growing at 9.6% CAGR with over $2.5 billion raised in 2025 led by Neuralink, Synchron, and Inspire Medical.</description>
