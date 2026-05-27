@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 26 May 2026 10:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 27, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information Dealmaker on boom times for inference providers as Baseten nears a $1 billion raise at $11 billion valuation; The Information Applied AI on Uber COO Andrew Macdonald saying AI lacks proportional ROI after blowing through the year&apos;s token budget in months — echoed by Microsoft cutting Claude Code licenses and Starbucks shutting down its AI inventory experiment; The Information AI Agenda on OpenAI&apos;s PR challenge as the company navigates safety concerns from former employees and its expansion into advertising; The Information AM on Pope Leo and Anthropic co-founder Dario Amodei both warning of AI power concentration and labor displacement; The Information exclusive on OpenAI targeting smaller advertisers with a new self-serve ads platform; PitchBook on music catalogs striking a chord with private capital as streaming royalties create stable yield instruments; Scott Alexander&apos;s Astral Codex Ten on using AI as a voting research assistant for the June 2026 California primary; Ethan Mollick&apos;s One Useful Thing on choosing to stay human and the cognitive cost of defaulting to AI; Gary Marcus on the AI bubble risk as Uber, Microsoft, and Starbucks all report disappointing AI ROI; and Lorenzo Thione&apos;s weekly AI roundup covering Meta SAM3, Google Antigravity 2.0, the Musk vs. OpenAI verdict, Cursor Composer 2.5, OpenAI solving an 80-year Erdos conjecture, and Anthropic&apos;s Colossus compute deal.</description>
+      <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779877056253-6587087a-60af-4a87-956d-ddab0b2fd8e4-1779877045967-1.mp3" length="20169174" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: inference providers boom and Baseten&apos;s $1B raise; Uber COO says AI lacks ROI as Microsoft cuts Claude Code and Starbucks shuts AI inventory; OpenAI&apos;s PR challenge and ad expansion; Pope Leo &amp; Anthropic co-founder warn of AI power concentration; PitchBook on music catalog private capital; Scott Alexander on using AI for voting research; Ethan Mollick on choosing to stay human; Gary Marcus on the AI bubble; and Lorenzo Thione&apos;s weekly AI roundup.</itunes:summary>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6587087a-60af-4a87-956d-ddab0b2fd8e4/20260527</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 26, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on Twilio&apos;s AI-driven stock surge and the double-edged sword of AI cannibalizing its own SMS and communications revenue as Segment acquisition context comes into focus; The Information&apos;s The Electric on the Pentagon advocating for low-cost drone and AI military programs as a strategic counterweight to high-cost weapons platforms; The Information on crypto markets and Washington&apos;s evolving regulatory posture toward digital assets; and Substack on personal productivity and how to become someone who actually follows through on goals and commitments.</description>
