@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 27 May 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 28, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information AI Agenda on how AI startups like Basis are moving to voice interfaces and whispered dictation as faster AI agent communication, with Micron hitting a $1T market cap, ServiceNow CMO joining OpenAI, and $15B-valued Fireworks AI and $11B-valued Baseten both raising new rounds; The Information Finance on prediction market bettors piling into SpaceX and Anthropic pre-IPO wagers via Polymarket and Kalshi, with SpaceX wagers showing 98% odds of a $1.2T+ first-day market cap and Anthropic at 93% odds of hitting $1T valuation by June; The Information exclusive on Khosla partner Ethan Choi leaving to launch Atomus, a new $500M venture fund targeting growth-stage AI investments; The Information exclusive on Meta launching an Enterprise Solutions unit to embed engineers inside large corporate customers and boost AI tool adoption; The Information exclusive on Polymarket clamping down on VPN usage and introducing identity verification for traders as it faces sanctions and legal risks from Russian users; PitchBook on SpaceX&apos;s IPO lockup ladder structure and what it means for early investors; and Exponential View by Azeem Azhar on why AI productivity gains aren&apos;t showing up on company bottom lines despite massive adoption.</description>
+      <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1779964026568-e831e83c-7a2f-4423-a303-59ef198bdd5d-1779964014724-1.mp3" length="20866330" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: The Information AI Agenda on AI voice interfaces and whispered dictation; TI Finance on Polymarket and Kalshi pre-IPO bets on SpaceX &amp; Anthropic; TI exclusive on Khosla partner Ethan Choi launching $500M Atomus fund; TI exclusive on Meta&apos;s new Enterprise Solutions unit embedding engineers with clients; TI exclusive on Polymarket clamping down on VPN usage and adding identity verification; PitchBook on SpaceX&apos;s IPO lockup ladder; and Exponential View on why AI isn&apos;t showing up on your bottom line.</itunes:summary>
+      <itunes:duration>00:21:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e831e83c-7a2f-4423-a303-59ef198bdd5d/20260528</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 27, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information Dealmaker on boom times for inference providers as Baseten nears a $1 billion raise at $11 billion valuation; The Information Applied AI on Uber COO Andrew Macdonald saying AI lacks proportional ROI after blowing through the year&apos;s token budget in months — echoed by Microsoft cutting Claude Code licenses and Starbucks shutting down its AI inventory experiment; The Information AI Agenda on OpenAI&apos;s PR challenge as the company navigates safety concerns from former employees and its expansion into advertising; The Information AM on Pope Leo and Anthropic co-founder Dario Amodei both warning of AI power concentration and labor displacement; The Information exclusive on OpenAI targeting smaller advertisers with a new self-serve ads platform; PitchBook on music catalogs striking a chord with private capital as streaming royalties create stable yield instruments; Scott Alexander&apos;s Astral Codex Ten on using AI as a voting research assistant for the June 2026 California primary; Ethan Mollick&apos;s One Useful Thing on choosing to stay human and the cognitive cost of defaulting to AI; Gary Marcus on the AI bubble risk as Uber, Microsoft, and Starbucks all report disappointing AI ROI; and Lorenzo Thione&apos;s weekly AI roundup covering Meta SAM3, Google Antigravity 2.0, the Musk vs. OpenAI verdict, Cursor Composer 2.5, OpenAI solving an 80-year Erdos conjecture, and Anthropic&apos;s Colossus compute deal.</description>
