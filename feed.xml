@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 29 May 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 30, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Anthropic&apos;s historic $65B raise at a $965B valuation with Micron, Samsung, and SK Hynix joining as new investors as Anthropic revenue passes $47B; Claude Opus 4.8 launch with a 2.5x faster and 3x cheaper fast mode; Blue Origin&apos;s New Glenn rocket explosion on the Florida launch pad setting back Bezos&apos;s space ambitions by 12 months; Illinois AI safety bill passing with bipartisan support including from both OpenAI and Anthropic; Dell shares rising 38% on 88% revenue growth and 757% AI server surge; Meta&apos;s ambitious wearables roadmap including a new AI pendant and eight new glasses codenames targeting 10 million device sales by year-end; ByteDance building Groq-like AI inference chips using RRAM memory to circumvent US export controls; DeepLearning.AI&apos;s Andrew Ng on the surge in AI Engineer jobs versus Forward Deployed Engineers; Foundation Capital&apos;s Ashu Garg on why graduates are actually earlier than they think in the AI era; Gary Marcus on evidence of tokenmaxxing&apos;s decline as Nvidia H200 rental rates collapse 40% and AI ROI numbers look ugly; PitchBook on VC&apos;s $2 trillion AUM forecast depending on SpaceX, OpenAI, and Anthropic IPOs as the three magic doors; and Warner Bros. Discovery closing a $15B leveraged loan, the largest since the Global Financial Crisis, signaling renewed credit market confidence.</description>
+      <pubDate>Fri, 30 May 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780136941643-ff42aade-bf70-4f2d-9d5a-24c6d73ac989-1780136928726-1.mp3" length="21126300" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Anthropic&apos;s $65B raise at $965B valuation with Micron, Samsung, SK Hynix; Claude Opus 4.8 launch; Blue Origin rocket explosion; Illinois AI safety bill; Dell +38% on 88% revenue growth and 757% AI server surge; Meta&apos;s AI pendant and ambitious wearables roadmap; ByteDance building Groq-like chips using RRAM to dodge US export controls; Andrew Ng on AI Engineer jobs; Ashu Garg on why you&apos;re earlier than you think; Gary Marcus on tokenmaxxing&apos;s decline; PitchBook on VC&apos;s $2T AUM and three IPO magic doors; and Warner Bros. Discovery&apos;s $15B leveraged loan.</itunes:summary>
+      <itunes:duration>00:22:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ff42aade-bf70-4f2d-9d5a-24c6d73ac989/20260530</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 29, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information Dealmaker on Big Law firms like Kirkland &amp;amp; Ellis planning to build their own AI apps with Anthropic and OpenAI rather than buying from legal AI startups Harvey and Legora; The Information Electric on the AI data center boom igniting a resurgence in lithium mining stocks with Albemarle up 202%, SQM up 156%, and PLS Group up 376% as lithium-ion batteries power AI data centers; The Information AI Agenda exclusive on Microsoft planning to release a new coding model at Build conference to compete with Cursor and Claude Code in the AI coding market; The Information AM on Meta launching paid AI chatbot subscriptions for Facebook, Instagram, and WhatsApp as Facebook Plus, Instagram Plus, and WhatsApp Plus; The Information exclusive on Base Power raising at a $12 billion valuation led by Ribbit Capital; The Information exclusive on Apple planning to showcase on-device AI at WWDC to differentiate from cloud-based AI; PitchBook on defense tech VC investment reaching its highest quarter ever at $19.8 billion in Q1 2026; DeFi Research on crypto market drivers with Hyperliquid surging 36% on ETF launches, Zcash up 28% after SEC closed its investigation, and MicroStrategy signaling Bitcoin sales to cover dividends; Ignite Insights on the brutal economic reality of AI as a labor market replacement and the dual nature of AI investment as both opportunity and economic disruption; Precision AI Solutions on building a new operating system for oncology using RNA sequencing, AI-guided treatment matching, and functional testing for pancreatic and rare pediatric cancers; Astral Codex Ten on the Frankfurt School and the origins of critical theory in modern academia; Gary Marcus on bad news for three of the biggest IPOs as AI tokenmaxxing shows diminishing ROI for Anthropic and OpenAI; The Free Press on Scooter Braun and his fall from music industry power as the go-to manager of Justin Bieber and the villain in Taylor Swift&apos;s story; Open Tab featuring Kevin Kelly, founding editor of Wired, on starting the publication, the early internet, the 1,000 True Fans theory, and why you can only steer technology by using it; and Auren Hoffman&apos;s five mind-expanding links for June 2026 including the Great Cousin Decline and how millennial dads doubled childcare time.</description>
