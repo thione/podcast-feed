@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 30 May 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - May 31, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Exponential View #576 by Azeem Azhar on why AI analysts using linear thinking keep missing exponential gains &amp;mdash; consensus analyst forecasts have been wrong by orders of magnitude on Micron, Google, and hyperscaler capex, with JPMorgan consensus showing a predicted 25-40% crash in AI capex in 2027 that has no rational basis; the AI cognitive impact debate &amp;mdash; new research on 370,000 college personal statements shows AI produces colorful language but less creative ideas, while AlphaGo paradoxically improved human Go play, raising the question of whether we need new incentives that value actual thinking over credential theater; Ignite Insights &quot;The 801st Lifetime&quot; on Alvin Toffler&apos;s Future Shock at 56 years &amp;mdash; the speed of AI change has not broken us but created a widening gap between the fast and the rest, with Claude releasing v4.5, 4.6, 4.7, and 4.8 in under a year, Garry Tan seeing 10% weekly growth across entire YC batches, and Cursor reaching $500M ARR with fewer than 50 employees; The Information on defense tech growing up as Silicon Valley finally embraces the defense market, with Anduril, Shield AI, and Sarcos attracting major venture dollars and the Pentagon&apos;s Project Maven driving adoption; The Information on OpenAI&apos;s Revenue Chief barnstorming for business customers as the company races to prove its enterprise sales model at scale; PitchBook on VC&apos;s defense tech new playbook with record investment reaching 382% growth year over year; and Bay Area startup events for the week of June 1, 2026.</description>
+      <pubDate>Sun, 31 May 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780223483849-6c1edecb-7a23-429c-85d7-cdb8ed1c1227-1780223475279-1.mp3" length="16976802" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-05-31</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Exponential View #576 on why linear analysts keep missing exponential AI gains; the AI cognitive impact debate &amp;mdash; does AI make us dumb or smarter?; Ignite Insights on Toffler&apos;s Future Shock in the age of Claude 4.8 and 10% weekly YC growth; The Information on defense tech growing up in Silicon Valley; The Information on OpenAI&apos;s enterprise revenue barnstorm; PitchBook on defense tech VC at record 382% growth; and Bay Area startup events for June 1 week.</itunes:summary>
+      <itunes:duration>00:17:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6c1edecb-7a23-429c-85d7-cdb8ed1c1227/20260531</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 30, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Anthropic&apos;s historic $65B raise at a $965B valuation with Micron, Samsung, and SK Hynix joining as new investors as Anthropic revenue passes $47B; Claude Opus 4.8 launch with a 2.5x faster and 3x cheaper fast mode; Blue Origin&apos;s New Glenn rocket explosion on the Florida launch pad setting back Bezos&apos;s space ambitions by 12 months; Illinois AI safety bill passing with bipartisan support including from both OpenAI and Anthropic; Dell shares rising 38% on 88% revenue growth and 757% AI server surge; Meta&apos;s ambitious wearables roadmap including a new AI pendant and eight new glasses codenames targeting 10 million device sales by year-end; ByteDance building Groq-like AI inference chips using RRAM memory to circumvent US export controls; DeepLearning.AI&apos;s Andrew Ng on the surge in AI Engineer jobs versus Forward Deployed Engineers; Foundation Capital&apos;s Ashu Garg on why graduates are actually earlier than they think in the AI era; Gary Marcus on evidence of tokenmaxxing&apos;s decline as Nvidia H200 rental rates collapse 40% and AI ROI numbers look ugly; PitchBook on VC&apos;s $2 trillion AUM forecast depending on SpaceX, OpenAI, and Anthropic IPOs as the three magic doors; and Warner Bros. Discovery closing a $15B leveraged loan, the largest since the Global Financial Crisis, signaling renewed credit market confidence.</description>
