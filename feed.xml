@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 31 May 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 1, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on why forward-deployed engineers are the rage &amp;mdash; FDE job listings tripled year-over-year as OpenAI&apos;s DeployCo and Anthropic partner with PE firms to hire thousands; experienced FDEs earn $250K&amp;ndash;$300K, up 10&amp;ndash;25% in the past year, as Meta, Google Cloud, Replit, and Palantir all race to staff up; Gary Marcus on why the Pope understands AI better than Geoffrey Hinton, arguing LLMs produce interactive fiction trained to predict human language rather than genuine beings with internal states; Cassie Kozyrkov&apos;s monthly roundup of 26 AI stories from May 2026 including Anthropic surpassing OpenAI as the most valuable AI startup at $965B, a company accidentally spending $500 million on AI in a single month by forgetting to set usage limits, algorithmic monoculture in hiring with the same 90% of employers rejecting the same candidates, an OpenAI model solving an 80-year-old Erdos math problem, Pope Leo XIV&apos;s AI encyclical with Anthropic co-founder Christopher Olah at his side, and the FDA&apos;s in-house AI tool scaling from 1% to 80% staff adoption in a year; and data showing AI-driven layoffs are backfiring on companies with 56% of stock prices declining post-announcement and 55% of employers regretting their AI-driven layoffs.</description>
+      <pubDate>Mon, 01 Jun 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780309285473-34316e27-db11-475b-8ef3-b85253da771b-1780309275447-1.mp3" length="19733660" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-01</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: The Information on the forward-deployed engineer boom with FDE listings tripled and OpenAI&apos;s DeployCo hiring thousands with PE firms; Gary Marcus on why the Pope understands AI better than Hinton; Cassie Kozyrkov&apos;s May 2026 roundup including Anthropic surpassing OpenAI at $965B, a $500M accidental AI spend, algorithmic hiring monoculture, OpenAI solving an 80-year Erdos problem, and data showing AI-driven layoffs are backfiring.</itunes:summary>
+      <itunes:duration>00:20:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/34316e27-db11-475b-8ef3-b85253da771b/20260601</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - May 31, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Exponential View #576 by Azeem Azhar on why AI analysts using linear thinking keep missing exponential gains &amp;mdash; consensus analyst forecasts have been wrong by orders of magnitude on Micron, Google, and hyperscaler capex, with JPMorgan consensus showing a predicted 25-40% crash in AI capex in 2027 that has no rational basis; the AI cognitive impact debate &amp;mdash; new research on 370,000 college personal statements shows AI produces colorful language but less creative ideas, while AlphaGo paradoxically improved human Go play, raising the question of whether we need new incentives that value actual thinking over credential theater; Ignite Insights &quot;The 801st Lifetime&quot; on Alvin Toffler&apos;s Future Shock at 56 years &amp;mdash; the speed of AI change has not broken us but created a widening gap between the fast and the rest, with Claude releasing v4.5, 4.6, 4.7, and 4.8 in under a year, Garry Tan seeing 10% weekly growth across entire YC batches, and Cursor reaching $500M ARR with fewer than 50 employees; The Information on defense tech growing up as Silicon Valley finally embraces the defense market, with Anduril, Shield AI, and Sarcos attracting major venture dollars and the Pentagon&apos;s Project Maven driving adoption; The Information on OpenAI&apos;s Revenue Chief barnstorming for business customers as the company races to prove its enterprise sales model at scale; PitchBook on VC&apos;s defense tech new playbook with record investment reaching 382% growth year over year; and Bay Area startup events for the week of June 1, 2026.</description>
