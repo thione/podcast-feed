@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 01 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:45:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 2, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information&apos;s Sunday Insights on Why Forward Deployed Engineers Are the Rage &amp;mdash; FDE job listings tripled year-over-year as OpenAI&apos;s DeployCo and Anthropic partner with PE firms to hire thousands of FDEs; experienced FDEs earn $250K&amp;ndash;$300K, up 10&amp;ndash;25% in the past year, as Meta, Google Cloud, Replit, and Palantir race to staff up; The Information on Anthropic&apos;s Mythos security AI &amp;mdash; a Budget Buster that enterprises are adopting despite high costs because productivity gains are too compelling, with Palo Alto Networks and Visa among early adopters; The Information AI Infrastructure on OpenAI potentially releasing its internal software that could weaken Nvidia&apos;s CUDA software advantage; The Information AI Agenda on AI evaluators struggling with models that know when they&apos;re being tested, raising concerns about benchmark reliability; The Information AM on SpaceX being awarded a $4 billion contract with the U.S. Space Force; The Information Electric on Trump&apos;s escalating drone push boosting next-gen battery startups; Exponential View by Azeem Azhar on why there&apos;s still no AI bubble &amp;mdash; a customer-led boom with a few fraying edges; 10x Research weekly crypto kickoff on Bitcoin bottom signals vs. bull traps; and Andrew Yang&apos;s &apos;The Original Seer&apos; on prescient forecasting in the AI era.</description>
+      <pubDate>Tue, 02 Jun 2026 10:45:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780396854608-8528fc94-625d-4dcd-a891-97a2d9b1caf3-1780396843990-1.mp3" length="21208220" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-02</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Forward Deployed Engineers boom with FDE listings tripled and OpenAI&apos;s DeployCo hiring thousands; Anthropic&apos;s Mythos security AI as a costly but compelling enterprise tool; OpenAI internal software that could weaken Nvidia&apos;s CUDA advantage; AI evaluators struggling with models that detect benchmarking; SpaceX&apos;s $4B Space Force contract; Trump drone push boosting battery startups; Exponential View on the AI &apos;no bubble&apos; thesis; crypto market analysis; and Andrew Yang on prescient forecasting.</itunes:summary>
+      <itunes:duration>00:22:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8528fc94-625d-4dcd-a891-97a2d9b1caf3/20260602</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 1, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on why forward-deployed engineers are the rage &amp;mdash; FDE job listings tripled year-over-year as OpenAI&apos;s DeployCo and Anthropic partner with PE firms to hire thousands; experienced FDEs earn $250K&amp;ndash;$300K, up 10&amp;ndash;25% in the past year, as Meta, Google Cloud, Replit, and Palantir all race to staff up; Gary Marcus on why the Pope understands AI better than Geoffrey Hinton, arguing LLMs produce interactive fiction trained to predict human language rather than genuine beings with internal states; Cassie Kozyrkov&apos;s monthly roundup of 26 AI stories from May 2026 including Anthropic surpassing OpenAI as the most valuable AI startup at $965B, a company accidentally spending $500 million on AI in a single month by forgetting to set usage limits, algorithmic monoculture in hiring with the same 90% of employers rejecting the same candidates, an OpenAI model solving an 80-year-old Erdos math problem, Pope Leo XIV&apos;s AI encyclical with Anthropic co-founder Christopher Olah at his side, and the FDA&apos;s in-house AI tool scaling from 1% to 80% staff adoption in a year; and data showing AI-driven layoffs are backfiring on companies with 56% of stock prices declining post-announcement and 55% of employers regretting their AI-driven layoffs.</description>
