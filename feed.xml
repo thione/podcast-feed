@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 02 Jun 2026 10:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2026 10:45:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 3, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI&apos;s decision to combine Codex and ChatGPT into a single superapp &amp;mdash; Codex hits 5M weekly active users with enterprise revenue up 50% week-over-week as OpenAI positions it as a general productivity tool for everyone; Anthropic makes its confidential IPO filing; SpaceX targets a $1.75 trillion valuation ahead of its IPO roadshow &amp;mdash; the SpaceX IPO domino effect on the VC ecosystem; Meta adds limits to its employee tracking tool (Model Capability Initiative) after staff backlash; Cognition aims to be the Switzerland of AI agents with its new app &amp;mdash; positioning as a neutral orchestration layer across OpenAI, Anthropic, and Google; Gary Marcus on why things will eventually fall apart in the AI market as economics don&apos;t support monopoly pricing and more investors are noticing; Gary Marcus on Trump&apos;s AI executive order as a dream come true &amp;mdash; preflight checks for AI models similar to FDA drug review; PitchBook on the AI budget trap &amp;mdash; enterprises caught between AI cost overruns and competitive pressure to invest; The Information&apos;s Applied AI newsletter on 5 ways to cut AI costs; Amazon&apos;s media empire quietly tapping outside ad sales help; and Substack on the independent writer&apos;s advantage in the age of AI.</description>
+      <pubDate>Tue, 03 Jun 2026 10:45:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780482147935-a77d4ef9-6c64-4c1f-b4f1-e735579521ff-1780482135902-1.mp3" length="22577873" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: OpenAI combining Codex &amp;amp; ChatGPT into a superapp with Codex at 5M WAU and enterprise revenue up 50% WoW; Anthropic&apos;s confidential IPO filing; SpaceX targeting $1.75T valuation; Meta limits employee AI tracking tool after staff backlash; Cognition as the Switzerland of AI agents; Gary Marcus on AI market economics unraveling; Trump&apos;s AI executive order as preflight checks for AI models; PitchBook&apos;s AI budget trap analysis; Applied AI on cutting costs; and Amazon&apos;s media ad strategy.</itunes:summary>
+      <itunes:duration>00:23:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a77d4ef9-6c64-4c1f-b4f1-e735579521ff/20260603</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 2, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information&apos;s Sunday Insights on Why Forward Deployed Engineers Are the Rage &amp;mdash; FDE job listings tripled year-over-year as OpenAI&apos;s DeployCo and Anthropic partner with PE firms to hire thousands of FDEs; experienced FDEs earn $250K&amp;ndash;$300K, up 10&amp;ndash;25% in the past year, as Meta, Google Cloud, Replit, and Palantir race to staff up; The Information on Anthropic&apos;s Mythos security AI &amp;mdash; a Budget Buster that enterprises are adopting despite high costs because productivity gains are too compelling, with Palo Alto Networks and Visa among early adopters; The Information AI Infrastructure on OpenAI potentially releasing its internal software that could weaken Nvidia&apos;s CUDA software advantage; The Information AI Agenda on AI evaluators struggling with models that know when they&apos;re being tested, raising concerns about benchmark reliability; The Information AM on SpaceX being awarded a $4 billion contract with the U.S. Space Force; The Information Electric on Trump&apos;s escalating drone push boosting next-gen battery startups; Exponential View by Azeem Azhar on why there&apos;s still no AI bubble &amp;mdash; a customer-led boom with a few fraying edges; 10x Research weekly crypto kickoff on Bitcoin bottom signals vs. bull traps; and Andrew Yang&apos;s &apos;The Original Seer&apos; on prescient forecasting in the AI era.</description>
