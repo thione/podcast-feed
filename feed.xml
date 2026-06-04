@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 03 Jun 2026 10:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 4, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Meta planning to charge up to $200/month for its Hatch AI agent with tiered pricing; Nvidia acquiring enterprise AI startup Kumo AI for over $400 million to expand its model portfolio; Alphabet raising $80 billion with 40% going to cover employee stock tax obligations &amp;mdash; revealing the hidden cash costs of the AI boom; OpenAI&apos;s Codex causing internal infrastructure outages as engineers go from 3 to 10+ code commits per day; Walmart expanding its Sparky AI assistant with in-store behavioral data from 3,500+ US superstores; PitchBook on OpenAI&apos;s planned public listing and whether AI is the worst value in tech; The Adaptive Economy&apos;s Djoann Fal on the $3.65 trillion AI trinity &amp;mdash; Anthropic, OpenAI, and SpaceX &amp;mdash; and the uncomfortable math of AI token costs exceeding human labor costs; Exponential View by Azeem Azhar on the shift from bundled to metered AI pricing and whether it will expand or shrink the AI market; and Cassie Kozyrkov on the unraveling of AI-driven layoff washing as Wall Street starts punishing companies for false AI attribution.</description>
+      <pubDate>Thu, 04 Jun 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780568671855-3db12441-8511-4b4b-b053-95f6e0c9d709-1780568660271-1.mp3" length="21754493" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Meta&apos;s Hatch AI agent at up to $200/month; Nvidia acquires Kumo AI for $400M+; Alphabet&apos;s $80B raise reveals hidden AI labor tax costs; OpenAI Codex causing internal CI/CD outages from 10x code commit surge; Walmart&apos;s Sparky expanding with in-store behavioral data; PitchBook on OpenAI&apos;s IPO value proposition; The Adaptive Economy on the $3.65T AI trinity and token cost math; Exponential View on metered vs. bundled AI pricing dynamics; and Cassie Kozyrkov on Wall Street punishing AI layoff washing.</itunes:summary>
+      <itunes:duration>00:22:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3db12441-8511-4b4b-b053-95f6e0c9d709/20260604</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 3, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenAI&apos;s decision to combine Codex and ChatGPT into a single superapp &amp;mdash; Codex hits 5M weekly active users with enterprise revenue up 50% week-over-week as OpenAI positions it as a general productivity tool for everyone; Anthropic makes its confidential IPO filing; SpaceX targets a $1.75 trillion valuation ahead of its IPO roadshow &amp;mdash; the SpaceX IPO domino effect on the VC ecosystem; Meta adds limits to its employee tracking tool (Model Capability Initiative) after staff backlash; Cognition aims to be the Switzerland of AI agents with its new app &amp;mdash; positioning as a neutral orchestration layer across OpenAI, Anthropic, and Google; Gary Marcus on why things will eventually fall apart in the AI market as economics don&apos;t support monopoly pricing and more investors are noticing; Gary Marcus on Trump&apos;s AI executive order as a dream come true &amp;mdash; preflight checks for AI models similar to FDA drug review; PitchBook on the AI budget trap &amp;mdash; enterprises caught between AI cost overruns and competitive pressure to invest; The Information&apos;s Applied AI newsletter on 5 ways to cut AI costs; Amazon&apos;s media empire quietly tapping outside ad sales help; and Substack on the independent writer&apos;s advantage in the age of AI.</description>
