@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 04 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 5, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Switch data center developer in talks to raise billions at a new valuation; Benchmark joining the late-stage investment crowd in a shift from its traditional early-stage focus; Rubrik deserving a Palo Alto Networks-like valuation premium in cybersecurity; Wall Street projecting SpaceX to burn $350 billion in cash through 2030 ahead of its IPO; Snowflake&apos;s CIO using AI-driven layoffs to prove ROI &amp;mdash; and the broader debate about using AI to justify headcount reductions; GM rehiring former Cruise autonomous vehicle team members; Databricks and Perplexity co-founder pitching a new AI researcher role; Helion fusion startup nearly tripling its valuation to $15.5 billion; SpaceX setting a $135 per share IPO target price; Gary Marcus analyzing Anthropic&apos;s new recursive self-improvement blog post; and Ethan Mollick on co-existence and the end of co-intelligence &amp;mdash; how working alongside AI is changing the nature of human expertise and collaboration.</description>
+      <pubDate>Fri, 05 Jun 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780655123374-12a45af7-6d19-4473-9baf-4d0a5ac710f3-1780655112893-1.mp3" length="20344717" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Switch data center in talks to raise billions; Benchmark joins late-stage investing; Rubrik&apos;s valuation case vs. Palo Alto Networks; SpaceX $350B cash burn projection ahead of IPO; Snowflake CIO using AI to justify layoffs; GM rehiring Cruise team; Helion fusion at $15.5B valuation; SpaceX IPO target $135/share; Gary Marcus on Anthropic&apos;s recursive self-improvement claims; and Ethan Mollick on co-existence and co-intelligence in the AI age.</itunes:summary>
+      <itunes:duration>00:21:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/12a45af7-6d19-4473-9baf-4d0a5ac710f3/20260605</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 4, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Meta planning to charge up to $200/month for its Hatch AI agent with tiered pricing; Nvidia acquiring enterprise AI startup Kumo AI for over $400 million to expand its model portfolio; Alphabet raising $80 billion with 40% going to cover employee stock tax obligations &amp;mdash; revealing the hidden cash costs of the AI boom; OpenAI&apos;s Codex causing internal infrastructure outages as engineers go from 3 to 10+ code commits per day; Walmart expanding its Sparky AI assistant with in-store behavioral data from 3,500+ US superstores; PitchBook on OpenAI&apos;s planned public listing and whether AI is the worst value in tech; The Adaptive Economy&apos;s Djoann Fal on the $3.65 trillion AI trinity &amp;mdash; Anthropic, OpenAI, and SpaceX &amp;mdash; and the uncomfortable math of AI token costs exceeding human labor costs; Exponential View by Azeem Azhar on the shift from bundled to metered AI pricing and whether it will expand or shrink the AI market; and Cassie Kozyrkov on the unraveling of AI-driven layoff washing as Wall Street starts punishing companies for false AI attribution.</description>
