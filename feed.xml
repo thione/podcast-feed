@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 05 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 6, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: SpaceX CFO Bret Johnsen — the quiet VIP orchestrating the biggest IPO in history, folding xAI into SpaceX at $75B and taking the combined company public; how xAI went from chasing Anthropic to powering it — the cat-and-mouse compute deal now worth $1.25B/month in a wild customer-landlord-competitor dynamic ahead of the SpaceX IPO; Microsoft CEO Satya Nadella rebuking an internal exec&apos;s memo proposing to make users &quot;addicted&quot; to AI assistants — a rare public rebuke inside Microsoft&apos;s AI strategy; Jasper Gould&apos;s analysis of Anthropic&apos;s stunning call to stop developing more powerful AI — an AI lab saying its own products should not exist; PitchBook on Big Tech&apos;s buying boycott and what it means for M&amp;amp;A markets; DeepLearning.AI The Batch on Qwen3.7-Max challenging Google for third place in AI rankings and AI saving endangered whales; Gary Marcus on Sir Demis Hassabis vs. Sir Demis Hassabis — the contradiction at the heart of Google DeepMind&apos;s AGI timeline claims; Sam Harris on why he won&apos;t debate critics of Israel; The Microdose on dispatches from the psychedelics policy scene in The Netherlands; SuperAngel.Fund&apos;s Founder Friday featuring Alessandro Chesser, Edison Salman, and Kyle Hanson; and DeFi Research on why every Bitcoin bull market has a preacher and this one has run out of sermons.</description>
+      <pubDate>Sat, 06 Jun 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780740901860-b94306db-8c71-4c54-9a2c-feac4093bd31-1780740891419-1.mp3" length="20696220" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-06</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: SpaceX CFO Bret Johnsen as the quiet VIP of a wild IPO; xAI going from chasing Anthropic to powering it at $1.25B/month; Nadella rebukes Microsoft exec&apos;s plan to make users addicted to AI; Anthropic calling for a halt on more powerful AI development; PitchBook on Big Tech&apos;s M&amp;amp;A buying boycott; Qwen3.7-Max challenging Google for third place; Gary Marcus on the Hassabis AGI contradiction; Sam Harris on Israel debate critics; and DeFi Research on the Bitcoin bull market preacher.</itunes:summary>
+      <itunes:duration>00:21:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b94306db-8c71-4c54-9a2c-feac4093bd31/20260606</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 5, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Switch data center developer in talks to raise billions at a new valuation; Benchmark joining the late-stage investment crowd in a shift from its traditional early-stage focus; Rubrik deserving a Palo Alto Networks-like valuation premium in cybersecurity; Wall Street projecting SpaceX to burn $350 billion in cash through 2030 ahead of its IPO; Snowflake&apos;s CIO using AI-driven layoffs to prove ROI &amp;mdash; and the broader debate about using AI to justify headcount reductions; GM rehiring former Cruise autonomous vehicle team members; Databricks and Perplexity co-founder pitching a new AI researcher role; Helion fusion startup nearly tripling its valuation to $15.5 billion; SpaceX setting a $135 per share IPO target price; Gary Marcus analyzing Anthropic&apos;s new recursive self-improvement blog post; and Ethan Mollick on co-existence and the end of co-intelligence &amp;mdash; how working alongside AI is changing the nature of human expertise and collaboration.</description>
