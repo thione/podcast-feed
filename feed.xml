@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 06 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 7, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Exponential View #577 by Azeem Azhar on how the AI boom is becoming an entrepreneurship boom &amp;mdash; companies spending the most on AI see revenue grow five times faster than the economy; AI fuelling a surge in new business formation as LLMs lower the cost of starting companies; Anthropic&apos;s data on Claude building itself with 8x more code per developer; Anthropic warning about recursive self-improvement risks while advocating for an optional pause in frontier AI development; a large-scale study of 100,000+ GitHub developers showing coding agents drive 180% more commits but only 30% more shipped software releases; the &quot;congestion&quot; problem in agentic coding where decision pipelines lag behind code production; and Morsels including Unitree&apos;s Shanghai IPO, Putin&apos;s $26B longevity program, Amazon scrapping its AI usage leaderboard after gaming, OpenAI&apos;s dreaming memory system, and Huawei&apos;s new scaling law.</description>
+      <pubDate>Sun, 07 Jun 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780827174101-19a640ea-3809-4aa1-8c7a-6c422df159ca-1780827165762-1.mp3" length="16327711" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Exponential View #577 on the AI entrepreneurship boom with companies spending most on AI seeing 5x revenue growth; Anthropic&apos;s data on Claude writing 8x more code per developer; recursive self-improvement warnings; coding agents driving 180% more commits but only 30% more shipped software; the agentic coding congestion problem; and Morsels including Unitree IPO, Putin&apos;s longevity program, Amazon&apos;s AI leaderboard gaming, OpenAI&apos;s dreaming memory, and Huawei&apos;s new scaling law.</itunes:summary>
+      <itunes:duration>00:17:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/19a640ea-3809-4aa1-8c7a-6c422df159ca/20260607</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 6, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: SpaceX CFO Bret Johnsen — the quiet VIP orchestrating the biggest IPO in history, folding xAI into SpaceX at $75B and taking the combined company public; how xAI went from chasing Anthropic to powering it — the cat-and-mouse compute deal now worth $1.25B/month in a wild customer-landlord-competitor dynamic ahead of the SpaceX IPO; Microsoft CEO Satya Nadella rebuking an internal exec&apos;s memo proposing to make users &quot;addicted&quot; to AI assistants — a rare public rebuke inside Microsoft&apos;s AI strategy; Jasper Gould&apos;s analysis of Anthropic&apos;s stunning call to stop developing more powerful AI — an AI lab saying its own products should not exist; PitchBook on Big Tech&apos;s buying boycott and what it means for M&amp;amp;A markets; DeepLearning.AI The Batch on Qwen3.7-Max challenging Google for third place in AI rankings and AI saving endangered whales; Gary Marcus on Sir Demis Hassabis vs. Sir Demis Hassabis — the contradiction at the heart of Google DeepMind&apos;s AGI timeline claims; Sam Harris on why he won&apos;t debate critics of Israel; The Microdose on dispatches from the psychedelics policy scene in The Netherlands; SuperAngel.Fund&apos;s Founder Friday featuring Alessandro Chesser, Edison Salman, and Kyle Hanson; and DeFi Research on why every Bitcoin bull market has a preacher and this one has run out of sermons.</description>
