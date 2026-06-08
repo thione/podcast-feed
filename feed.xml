@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 07 Jun 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:17:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 8, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Revolut targeting at least $750 million in a secondary share sale with potential to reach $2 billion amid strong investor demand at a $109 billion valuation; Anthropic vs. OpenAI in the IPO race &amp;mdash; Anthropic pulling ahead with its IPO filing, and why being first to market does not guarantee superior stock returns, with combined IPOs potentially raising $100 billion; SpaceX millionaires mulling their IPO windfall &amp;mdash; overnight billionaires and millionaires like early employees reflecting on life-changing wealth ahead of the historic SpaceX IPO; and a fascinating Substack essay from Oussama Ammar on how an OpenAI model solved Paul Erd&#337;s&apos;s 80-year-old unit distance problem by exploring algebraic number theory &amp;mdash; a direction no human mathematician had tried &amp;mdash; and what this means for our understanding of human genius and intuition.</description>
+      <pubDate>Mon, 08 Jun 2026 10:17:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1780913866199-2c9f4d1f-bb2d-4378-8756-b25d34b3c1e0-1780913855319-1.mp3" length="21475714" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-08</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Revolut&apos;s $750M+ secondary sale at $109B valuation; Anthropic vs. OpenAI IPO race and why first doesn&apos;t mean best; SpaceX millionaires reflecting on life-changing IPO wealth; and Oussama Ammar on how an OpenAI model solved Erd&#337;s&apos;s 80-year-old math problem by going where no human mathematician dared to look.</itunes:summary>
+      <itunes:duration>00:22:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/2c9f4d1f-bb2d-4378-8756-b25d34b3c1e0/20260608</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 7, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Exponential View #577 by Azeem Azhar on how the AI boom is becoming an entrepreneurship boom &amp;mdash; companies spending the most on AI see revenue grow five times faster than the economy; AI fuelling a surge in new business formation as LLMs lower the cost of starting companies; Anthropic&apos;s data on Claude building itself with 8x more code per developer; Anthropic warning about recursive self-improvement risks while advocating for an optional pause in frontier AI development; a large-scale study of 100,000+ GitHub developers showing coding agents drive 180% more commits but only 30% more shipped software releases; the &quot;congestion&quot; problem in agentic coding where decision pipelines lag behind code production; and Morsels including Unitree&apos;s Shanghai IPO, Putin&apos;s $26B longevity program, Amazon scrapping its AI usage leaderboard after gaming, OpenAI&apos;s dreaming memory system, and Huawei&apos;s new scaling law.</description>
