@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 08 Jun 2026 10:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 9, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Databricks in talks to raise at $165 billion to $175 billion valuation as it delays its IPO and eyes a public offering as soon as next year; Beta Technologies taking the lead in the eVTOL (electric vertical takeoff and landing) race with its fixed-wing aircraft approach; OpenAI facing challenges in Stargate data center construction with developer errors reportedly delaying builds; Goldman Sachs and JPMorgan exploring compute futures markets; Anthropic sounding the alarm on recursive self-improvement risks in AI; Google and Nvidia reportedly considering Intel as a chip supplier; PitchBook on who&apos;s paying Trump&apos;s H-1B visa fees and the impact on tech hiring; and the top White House AI advisor announcing plans to leave.</description>
+      <pubDate>Tue, 09 Jun 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781000698803-bee4c704-7d9e-4a44-ab07-fb43bd119096-1781000687763-1.mp3" length="21527123" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Databricks eyes $165B&ndash;$175B funding round; Beta Technologies leads the eVTOL race; OpenAI Stargate construction delays; Goldman &amp;amp; JPMorgan exploring compute futures; Anthropic warns on recursive self-improvement; Google &amp;amp; Nvidia mulling Intel chips; PitchBook on H-1B fees and tech hiring; and the top White House AI advisor departing.</itunes:summary>
+      <itunes:duration>00:22:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/bee4c704-7d9e-4a44-ab07-fb43bd119096/20260609</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 8, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Revolut targeting at least $750 million in a secondary share sale with potential to reach $2 billion amid strong investor demand at a $109 billion valuation; Anthropic vs. OpenAI in the IPO race &amp;mdash; Anthropic pulling ahead with its IPO filing, and why being first to market does not guarantee superior stock returns, with combined IPOs potentially raising $100 billion; SpaceX millionaires mulling their IPO windfall &amp;mdash; overnight billionaires and millionaires like early employees reflecting on life-changing wealth ahead of the historic SpaceX IPO; and a fascinating Substack essay from Oussama Ammar on how an OpenAI model solved Paul Erd&#337;s&apos;s 80-year-old unit distance problem by exploring algebraic number theory &amp;mdash; a direction no human mathematician had tried &amp;mdash; and what this means for our understanding of human genius and intuition.</description>
