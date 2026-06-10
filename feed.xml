@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 09 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 10, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI in advanced talks to lease a proposed 10 gigawatt data center campus on federal land in Ohio with potential financial backing from Nvidia &amp;mdash; a 20-year lease commitment representing OpenAI&apos;s largest infrastructure bet to date, with Phase 1 expected in 2028 and total build-out cost estimated at over $500 billion; the three-way AI IPO race &amp;mdash; OpenAI confidentially filing its S-1 following SpaceX and Anthropic, with PitchBook calling OpenAI the highest price per unit of quality; Big Law firms taking on legal AI startups as Kirkland &amp;amp; Ellis plans to spend $500 million building its own AI platform and Freshfields partners directly with Anthropic to build customized tools, raising investor questions about Harvey and Legora&apos;s $2 billion in combined funding; Blackstone looking to sell $2 billion in fund positions via a collateralized fund obligation structure as secondary funds themselves face a liquidity crunch &amp;mdash; with PE distributions at the lowest level since 2010 at just 9% of NAV; major deal flow including Revolut&apos;s $750 million secondary sale at $109 billion valuation, Moonshot AI raising $2 billion at $30 billion valuation, PhysicsX&apos;s $300 million Series C at $2.4 billion, Carlyle acquiring Chung Ho Group for $700 million, and SFR&apos;s 20.4 billion euro telecom takeover in France; and a live webinar on investment and tech trends shaping the running and endurance sports market &amp;mdash; exploring AI applications in race tech, capital flows into running companies, and the future of mass participation events.</description>
+      <pubDate>Wed, 10 Jun 2026 10:07:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781086708276-892257e0-89c7-41ac-a147-968c1953a0a1-1781086698570-1.mp3" length="11829634" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: OpenAI in talks to lease a 10 GW Ohio data center with Nvidia backing; the three-way AI IPO race as OpenAI files its S-1 following SpaceX and Anthropic; Big Law building its own AI tools to compete with Harvey &amp;amp; Legora; Blackstone&apos;s $2B secondary sale as PE distributions hit a 15-year low; major VC &amp;amp; PE deal flow including Revolut at $109B, Moonshot AI, PhysicsX, Carlyle, and SFR telecom; and AI &amp;amp; investment trends shaping the running and endurance sports market.</itunes:summary>
+      <itunes:duration>00:12:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/892257e0-89c7-41ac-a147-968c1953a0a1/20260610</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 9, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Databricks in talks to raise at $165 billion to $175 billion valuation as it delays its IPO and eyes a public offering as soon as next year; Beta Technologies taking the lead in the eVTOL (electric vertical takeoff and landing) race with its fixed-wing aircraft approach; OpenAI facing challenges in Stargate data center construction with developer errors reportedly delaying builds; Goldman Sachs and JPMorgan exploring compute futures markets; Anthropic sounding the alarm on recursive self-improvement risks in AI; Google and Nvidia reportedly considering Intel as a chip supplier; PitchBook on who&apos;s paying Trump&apos;s H-1B visa fees and the impact on tech hiring; and the top White House AI advisor announcing plans to leave.</description>
