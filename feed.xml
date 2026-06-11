@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 10 Jun 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:20:12 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 11, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Elon Musk challenging unwritten IPO rules by tweeting details about SpaceX&apos;s Anthropic deal &amp;mdash; and what it means for upcoming AI IPOs; Anthropic&apos;s new Claude Fable 5 model targeting power users with advanced capabilities; Nasdaq turning its index into a listings weapon and what that means for the tech IPO market; Starlink&apos;s India regulatory approval stalling; PitchBook&apos;s analysis of Anthropic&apos;s gross margins as the key metric to watch; why AI hasn&apos;t replaced software engineers and why it won&apos;t; Gary Marcus on Section 230 and AI liability; and breaking news on how the AI regulation end game might begin.</description>
+      <pubDate>Thu, 11 Jun 2026 10:20:12 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781173161260-64f583e9-5ea3-4810-91be-20fde3cbf16f-1781173149331-1.mp3" length="20320475" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-11</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Musk challenging IPO rules with SpaceX-Anthropic deal leak; Anthropic&apos;s Claude Fable 5 power user model; Nasdaq as a listings weapon; Starlink India stall; PitchBook on Anthropic gross margins; why AI won&apos;t replace software engineers; Gary Marcus on AI &amp;amp; Section 230 liability; and breaking news on AI regulation end game.</itunes:summary>
+      <itunes:duration>00:21:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/64f583e9-5ea3-4810-91be-20fde3cbf16f/20260611</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 10, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenAI in advanced talks to lease a proposed 10 gigawatt data center campus on federal land in Ohio with potential financial backing from Nvidia &amp;mdash; a 20-year lease commitment representing OpenAI&apos;s largest infrastructure bet to date, with Phase 1 expected in 2028 and total build-out cost estimated at over $500 billion; the three-way AI IPO race &amp;mdash; OpenAI confidentially filing its S-1 following SpaceX and Anthropic, with PitchBook calling OpenAI the highest price per unit of quality; Big Law firms taking on legal AI startups as Kirkland &amp;amp; Ellis plans to spend $500 million building its own AI platform and Freshfields partners directly with Anthropic to build customized tools, raising investor questions about Harvey and Legora&apos;s $2 billion in combined funding; Blackstone looking to sell $2 billion in fund positions via a collateralized fund obligation structure as secondary funds themselves face a liquidity crunch &amp;mdash; with PE distributions at the lowest level since 2010 at just 9% of NAV; major deal flow including Revolut&apos;s $750 million secondary sale at $109 billion valuation, Moonshot AI raising $2 billion at $30 billion valuation, PhysicsX&apos;s $300 million Series C at $2.4 billion, Carlyle acquiring Chung Ho Group for $700 million, and SFR&apos;s 20.4 billion euro telecom takeover in France; and a live webinar on investment and tech trends shaping the running and endurance sports market &amp;mdash; exploring AI applications in race tech, capital flows into running companies, and the future of mass participation events.</description>
