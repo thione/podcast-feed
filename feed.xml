@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 11 Jun 2026 10:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:26:21 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 12, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Anthropic blindsiding its business partners by competing directly with customers including Figma and Canva; Anthropic&apos;s annualized sales rising five times to nearly $50 billion as it pursues its first data center leases and Google financial backing; Google turning to Samsung for future AI chip manufacturing as capacity tightens; Microsoft and other Anthropic customers holding off on adopting Claude Fable over concerns about competitive behavior; Xbox planning layoffs amid declining revenue and profit margins; SpaceX, Sierra Space, and Axiom all readying for IPOs; Snowflake mounting a full-court press to get employees using AI tools; NFX&apos;s Omri Drori on why venture capital is society&apos;s targeting system in the age of superintelligence; Scott Alexander&apos;s nuanced probability-based AI timeline predictions from Astral Codex Ten; and Gary Marcus on what OpenAI&apos;s potential drastic price cuts signal about competitive pressure in the AI market.</description>
+      <pubDate>Fri, 12 Jun 2026 10:26:21 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781259978626-cf766c7a-9090-445f-a9b9-82331cd96553-1781259947954-1.mp3" length="21591071" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Anthropic blindsiding Figma and Canva by competing with its own API customers; Anthropic at $50B annualized revenue pursuing data centers with Google&apos;s backing; Google turning to Samsung for AI chips; Microsoft holding off on Claude Fable; Xbox layoffs; SpaceX/Sierra Space/Axiom IPO readiness; Snowflake&apos;s AI adoption push; NFX on VC in the age of superintelligence; Scott Alexander&apos;s nuanced AI timeline predictions; and Gary Marcus on OpenAI&apos;s potential drastic price cuts.</itunes:summary>
+      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/cf766c7a-9090-445f-a9b9-82331cd96553/20260612</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 11, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Elon Musk challenging unwritten IPO rules by tweeting details about SpaceX&apos;s Anthropic deal &amp;mdash; and what it means for upcoming AI IPOs; Anthropic&apos;s new Claude Fable 5 model targeting power users with advanced capabilities; Nasdaq turning its index into a listings weapon and what that means for the tech IPO market; Starlink&apos;s India regulatory approval stalling; PitchBook&apos;s analysis of Anthropic&apos;s gross margins as the key metric to watch; why AI hasn&apos;t replaced software engineers and why it won&apos;t; Gary Marcus on Section 230 and AI liability; and breaking news on how the AI regulation end game might begin.</description>
