@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 12 Jun 2026 10:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 13, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: How Musk kept bankers guessing in the sprint to SpaceX&apos;s $135/share IPO — Goldman Sachs and Morgan Stanley toasting the largest IPO in history at $1.75 trillion; Meta moving to curb skyrocketing employee AI usage by imposing token limits and building an AI Gateway to track spending projected to cost billions in 2026; Microsoft considering spinning out Xbox as a subsidiary while planning new Halo, Fallout, and Elder Scrolls games; Silicon Valley&apos;s feverish demand for retatrutide, a supposed super peptide promising greater weight loss without muscle depletion; Meta&apos;s Rivos chip acquisition struggling six months in with integration issues, strategy shifts, and over a quarter of Rivos employees laid off; PitchBook&apos;s analysis of SpaceX&apos;s IPO debut with Starlink as its only profitable business line and $29B in debt; KKR-owned Arctos eyeing investments in the Indian Premier League cricket with $18.5B valuation; Jeff Bezos&apos; Prometheus AI startup securing $12 billion from JPMorgan, Goldman Sachs, and BlackRock at $41B valuation; KKR and Nvidia launching Helix Digital Infrastructure with $10B in capital commitments; Anthropic&apos;s Claude Mythos 5 and Fable 5 launch — top rankings but controversial safety restrictions on building competing AI; Cursor&apos;s Composer 2.5 rivaling Claude Opus 4.7 and GPT-5.5 at half the cost; the recursive self-improvement debate after Anthropic reported 80% of its code is now authored by AI; and research showing state media is influencing LLM responses in different languages.</description>
+      <pubDate>Fri, 13 Jun 2026 10:05:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781345908326-86701fc1-97c7-43a8-8601-a5b0873f6b5d-1781345896780-1.mp3" length="22005269" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: SpaceX IPO at $135/share — how Musk kept bankers guessing for 7 months; Meta imposing AI token limits as internal AI costs reach billions; Microsoft mulling Xbox spinout; tech&apos;s retatrutide peptide craze; Meta&apos;s Rivos chip acquisition struggles; PitchBook on SpaceX IPO implications; Arctos/KKR eyeing Indian cricket; Bezos&apos; Prometheus raises $12B; KKR/Nvidia&apos;s Helix data center group; Anthropic&apos;s Claude Mythos 5 and Fable 5 launch; Cursor Composer 2.5; the RSI debate; and state media influencing LLMs.</itunes:summary>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/86701fc1-97c7-43a8-8601-a5b0873f6b5d/20260613</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 12, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Anthropic blindsiding its business partners by competing directly with customers including Figma and Canva; Anthropic&apos;s annualized sales rising five times to nearly $50 billion as it pursues its first data center leases and Google financial backing; Google turning to Samsung for future AI chip manufacturing as capacity tightens; Microsoft and other Anthropic customers holding off on adopting Claude Fable over concerns about competitive behavior; Xbox planning layoffs amid declining revenue and profit margins; SpaceX, Sierra Space, and Axiom all readying for IPOs; Snowflake mounting a full-court press to get employees using AI tools; NFX&apos;s Omri Drori on why venture capital is society&apos;s targeting system in the age of superintelligence; Scott Alexander&apos;s nuanced probability-based AI timeline predictions from Astral Codex Ten; and Gary Marcus on what OpenAI&apos;s potential drastic price cuts signal about competitive pressure in the AI market.</description>
