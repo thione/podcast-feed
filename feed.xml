@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 13 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 14, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Anthropic&apos;s Claude Mythos 5 and Fable 5 hit by Trump administration export restrictions after Amazon CEO Andy Jassy raised security concerns — what the jailbreaking discovery means for the entire US AI industry; Crusoe&apos;s Stargate woes as gas power costs nearly triple to $3 billion per gigawatt and turbine troubles force a work pause; OpenAI in advanced talks to lease a 10 gigawatt Ohio data center for at least $500 billion; Anthropic pursuing its first data center leases with Google as financial backstop; SpaceX&apos;s IPO biggest winners including Valor Equity at 100x+ MOIC, Founders Fund at $50 billion, and Elon Musk crossing the first-ever $1 trillion personal stake; longevity startups&apos; conundrum — why NewLimit, Retro Biosciences, and Life Biosciences can&apos;t actually run longevity trials yet; Exponential View #578 on distributing AI wealth through sovereign funds, the iPhone vs. babies fertility study, and what a pause in AI development would actually mean; Gary Marcus on why the White House&apos;s AI policy is shambolic — voluntary EOs, Florida&apos;s OpenAI lawsuit, and the case for bipartisan, technically-informed oversight; and Azeem Azhar&apos;s blueprint for managed decline — a critique of Thomas Piketty&apos;s global justice proposals.</description>
+      <pubDate>Sun, 14 Jun 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781432306176-e0b74dd6-d506-48b5-b015-d3bfc7852d44-1781432296173-1.mp3" length="18842571" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Anthropic&apos;s Fable 5 and Mythos 5 hit by Trump export restrictions after Amazon CEO Jassy raised security concerns; Crusoe&apos;s Stargate woes with tripling gas costs; OpenAI&apos;s $500B Ohio data center talks; SpaceX IPO winners including Valor at 100x+ MOIC and Musk&apos;s first trillion-dollar stake; longevity startups&apos; conundrum with the FDA; Exponential View #578 on AI wealth distribution and pause proposals; Gary Marcus on shambolic White House AI policy; and Azeem Azhar on Piketty&apos;s blueprint for managed decline.</itunes:summary>
+      <itunes:duration>00:19:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e0b74dd6-d506-48b5-b015-d3bfc7852d44/20260614</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 13, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: How Musk kept bankers guessing in the sprint to SpaceX&apos;s $135/share IPO — Goldman Sachs and Morgan Stanley toasting the largest IPO in history at $1.75 trillion; Meta moving to curb skyrocketing employee AI usage by imposing token limits and building an AI Gateway to track spending projected to cost billions in 2026; Microsoft considering spinning out Xbox as a subsidiary while planning new Halo, Fallout, and Elder Scrolls games; Silicon Valley&apos;s feverish demand for retatrutide, a supposed super peptide promising greater weight loss without muscle depletion; Meta&apos;s Rivos chip acquisition struggling six months in with integration issues, strategy shifts, and over a quarter of Rivos employees laid off; PitchBook&apos;s analysis of SpaceX&apos;s IPO debut with Starlink as its only profitable business line and $29B in debt; KKR-owned Arctos eyeing investments in the Indian Premier League cricket with $18.5B valuation; Jeff Bezos&apos; Prometheus AI startup securing $12 billion from JPMorgan, Goldman Sachs, and BlackRock at $41B valuation; KKR and Nvidia launching Helix Digital Infrastructure with $10B in capital commitments; Anthropic&apos;s Claude Mythos 5 and Fable 5 launch — top rankings but controversial safety restrictions on building competing AI; Cursor&apos;s Composer 2.5 rivaling Claude Opus 4.7 and GPT-5.5 at half the cost; the recursive self-improvement debate after Anthropic reported 80% of its code is now authored by AI; and research showing state media is influencing LLM responses in different languages.</description>
