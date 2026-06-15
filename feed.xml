@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 14 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 15, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI and Anthropic employees cashing out a combined $14 billion in shares over the last five years — OpenAI facilitated over $9 billion via tender offers while both companies still need massive public capital for model training; the longevity startup paradox where NewLimit ($630M+ raised), Retro Biosciences ($1.8B valuation), and Life Biosciences have dosed their first patients yet none can legally run longevity drug trials due to FDA regulatory constraints; Gary Marcus on Washington&apos;s arbitrary and potentially corrupt AI governance after the White House blocked Anthropic&apos;s Mythos model in less than 24 hours while benefiting OpenAI investors including Greg Brockman and Jared Kushner&apos;s brother — calling for an independent AI agency like Rep. Ro Khanna proposes; and the Trivium China Podcast on Xi Jinping&apos;s first foreign trip of 2026 to North Korea after nearly seven years, reasserting Chinese influence as Pyongyang tilts toward Russia with 16,000 soldiers fighting in Ukraine, plus the brewing EU-China trade war with Chinese EVs hitting 15% EU market share in April 2026.</description>
+      <pubDate>Mon, 15 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781518872123-3a37b2bd-c509-4c65-bb2e-759d26a8cdf0-1781518863094-1.mp3" length="18551672" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: OpenAI and Anthropic employees cash out $14B in shares; longevity startups NewLimit, Retro Biosciences, and Life Biosciences face FDA regulatory constraints preventing actual longevity drug trials; Gary Marcus on the White House&apos;s arbitrary, corrupt-appearing block of Anthropic&apos;s Mythos model and the case for an independent AI agency; and Xi Jinping&apos;s North Korea visit to reassert Chinese influence as Pyongyang tilts toward Russia, plus the EU-China trade war escalation with Chinese EVs at 15% EU market share.</itunes:summary>
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3a37b2bd-c509-4c65-bb2e-759d26a8cdf0/20260615</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 14, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Anthropic&apos;s Claude Mythos 5 and Fable 5 hit by Trump administration export restrictions after Amazon CEO Andy Jassy raised security concerns — what the jailbreaking discovery means for the entire US AI industry; Crusoe&apos;s Stargate woes as gas power costs nearly triple to $3 billion per gigawatt and turbine troubles force a work pause; OpenAI in advanced talks to lease a 10 gigawatt Ohio data center for at least $500 billion; Anthropic pursuing its first data center leases with Google as financial backstop; SpaceX&apos;s IPO biggest winners including Valor Equity at 100x+ MOIC, Founders Fund at $50 billion, and Elon Musk crossing the first-ever $1 trillion personal stake; longevity startups&apos; conundrum — why NewLimit, Retro Biosciences, and Life Biosciences can&apos;t actually run longevity trials yet; Exponential View #578 on distributing AI wealth through sovereign funds, the iPhone vs. babies fertility study, and what a pause in AI development would actually mean; Gary Marcus on why the White House&apos;s AI policy is shambolic — voluntary EOs, Florida&apos;s OpenAI lawsuit, and the case for bipartisan, technically-informed oversight; and Azeem Azhar&apos;s blueprint for managed decline — a critique of Thomas Piketty&apos;s global justice proposals.</description>
