@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 15 Jun 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 16, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: DeepSeek closes its first funding round raising over $7.4 billion with an unusual limited partnership structure that lets CEO Liang Wenfeng retain absolute control, with a five-year investor lockup; Qualcomm in talks to acquire Tenstorrent, the AI chip startup backed by Jeff Hinton and Hyundai, to expand its AI capabilities; Inside Broadcom&apos;s bold move to offer financing to hyperscalers for custom AI chip projects; Nvidia&apos;s share of the AI inference market appears to be rising despite new competitors; Chinese EV makers including BYD profiting from increased demand tied to the Iran war despite US sanctions pressure; AI&apos;s cost problem becomes front and center in Asia as enterprises weigh ROI; The Batch from DeepLearning.AI on Cursor&apos;s Composer 2.5, agents building agents, and myth-inspired AI storytelling; Oussama Ammar on why AI interfaces need warmth and kawaii aesthetics; Azeem Azhar&apos;s Exponential View data on AI productivity metrics; and the Sinica Podcast&apos;s review of Korean Messiah, Jonathan Cheng&apos;s book on Jim Jones and South Korean evangelism.</description>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781605096770-8a405b1c-fc45-4ca9-8750-0989cddbade1-1781605089423-1.mp3" length="14232900" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-16</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: DeepSeek closes record $7.4B funding with unusual deal structure; Qualcomm in talks to acquire AI chip startup Tenstorrent; Broadcom&apos;s chip financing bold move; Nvidia&apos;s rising AI inference market share; Chinese EVs profiting from Iran war; AI cost challenges in Asia; Cursor Composer 2.5 and agents building agents; the case for warm, kawaii AI interfaces; Exponential View data on AI productivity; and Sinica Podcast&apos;s Korean Messiah book review.</itunes:summary>
+      <itunes:duration>00:14:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8a405b1c-fc45-4ca9-8750-0989cddbade1/20260616</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 15, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenAI and Anthropic employees cashing out a combined $14 billion in shares over the last five years — OpenAI facilitated over $9 billion via tender offers while both companies still need massive public capital for model training; the longevity startup paradox where NewLimit ($630M+ raised), Retro Biosciences ($1.8B valuation), and Life Biosciences have dosed their first patients yet none can legally run longevity drug trials due to FDA regulatory constraints; Gary Marcus on Washington&apos;s arbitrary and potentially corrupt AI governance after the White House blocked Anthropic&apos;s Mythos model in less than 24 hours while benefiting OpenAI investors including Greg Brockman and Jared Kushner&apos;s brother — calling for an independent AI agency like Rep. Ro Khanna proposes; and the Trivium China Podcast on Xi Jinping&apos;s first foreign trip of 2026 to North Korea after nearly seven years, reasserting Chinese influence as Pyongyang tilts toward Russia with 16,000 soldiers fighting in Ukraine, plus the brewing EU-China trade war with Chinese EVs hitting 15% EU market share in April 2026.</description>
