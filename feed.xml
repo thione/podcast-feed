@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 16 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 17, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI burned $3.7 billion in Q1 2026 with $5.7B in revenue but $3.7B in losses; Anthropic banning staff from helping foreign governments build AI amid escalating export control scrutiny from the White House; DeepSeek closing its first-ever funding round raising over $7.4 billion with an unusual structure giving CEO Liang Wenfeng absolute control; enterprise AI cost management strategies and token-minimizing approaches; cybersecurity VC investments tracking; and prediction market growth at Polymarket and Kalshi.</description>
+      <pubDate>Tue, 17 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781691548476-50718f57-0134-46d0-b418-d70708097f87-1781691539175-1.mp3" length="19079136" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: OpenAI&apos;s $3.7B Q1 2026 losses despite $5.7B in revenue; Anthropic banning staff from aiding foreign government AI programs; DeepSeek&apos;s $7.4B first funding round with unusual CEO control structure; enterprise AI cost management and token-minimizing strategies; cybersecurity VC investment trends; and prediction market growth at Polymarket and Kalshi.</itunes:summary>
+      <itunes:duration>00:19:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/50718f57-0134-46d0-b418-d70708097f87/20260617</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 16, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: DeepSeek closes its first funding round raising over $7.4 billion with an unusual limited partnership structure that lets CEO Liang Wenfeng retain absolute control, with a five-year investor lockup; Qualcomm in talks to acquire Tenstorrent, the AI chip startup backed by Jeff Hinton and Hyundai, to expand its AI capabilities; Inside Broadcom&apos;s bold move to offer financing to hyperscalers for custom AI chip projects; Nvidia&apos;s share of the AI inference market appears to be rising despite new competitors; Chinese EV makers including BYD profiting from increased demand tied to the Iran war despite US sanctions pressure; AI&apos;s cost problem becomes front and center in Asia as enterprises weigh ROI; The Batch from DeepLearning.AI on Cursor&apos;s Composer 2.5, agents building agents, and myth-inspired AI storytelling; Oussama Ammar on why AI interfaces need warmth and kawaii aesthetics; Azeem Azhar&apos;s Exponential View data on AI productivity metrics; and the Sinica Podcast&apos;s review of Korean Messiah, Jonathan Cheng&apos;s book on Jim Jones and South Korean evangelism.</description>
