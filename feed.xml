@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 17 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 18, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Noam Shazeer — the legendary Google AI researcher who created the transformer architecture improvements and co-authored "Attention Is All You Need" — joining OpenAI after years at Character.ai, in what sources call the biggest individual AI talent acquisition ever; SpaceX finalizing a $60 billion deal to acquire Cursor (Anysphere), the AI coding assistant, creating the largest VC-backed acquisition in history and adding it to SpaceX&apos;s growing AI tools portfolio alongside xAI; OpenAI and Anthropic aggressively recruiting from Salesforce, poaching Salesforce AI and engineering talent as the enterprise AI hiring wars heat up; Amazon CEO Andy Jassy raising concerns with Anthropic about its content moderation policies and AI safety restrictions, which are creating friction with Amazon&apos;s AWS customers; Anthropic blindsiding business partners like Figma and Canva by building competing tools directly after deploying Claude in their products; OpenAI burning $3.7 billion in losses in Q1 2026 on $5.7 billion in revenue, showing the massive scale of capital required to compete in frontier AI; Temasek&apos;s deepening AI investment push across infrastructure and model companies; Azeem Azhar&apos;s Exponential View examining whether AI development is immune to groupthink and the risks of consensus thinking in a fast-moving field; What&apos;s Really Behind So-Called AI Layoffs from Gary Marcus&apos;s newsletter; and Scott Alexander&apos;s Astral Codex Ten essay &quot;Waiting For The Miracle&quot; on long-term AI expectations.</description>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781778149630-d672d402-7b5e-44cf-b7a5-e800800a92e4-1781778139573-1.mp3" length="19851107" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Noam Shazeer joins OpenAI from Character.ai in the biggest individual AI talent acquisition ever; SpaceX acquires Cursor for $60 billion in the largest VC-backed M&amp;A deal in history; OpenAI and Anthropic poach Salesforce talent; Amazon CEO Jassy raises moderation concerns with Anthropic; Anthropic blindsides business partners by competing with its own API customers; OpenAI burns $3.7 billion in Q1 2026 losses; Temasek&apos;s AI push; Exponential View on AI groupthink risk; and Scott Alexander&apos;s &quot;Waiting For The Miracle.&quot;</itunes:summary>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d672d402-7b5e-44cf-b7a5-e800800a92e4/20260618</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 17, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: OpenAI burned $3.7 billion in Q1 2026 with $5.7B in revenue but $3.7B in losses; Anthropic banning staff from helping foreign governments build AI amid escalating export control scrutiny from the White House; DeepSeek closing its first-ever funding round raising over $7.4 billion with an unusual structure giving CEO Liang Wenfeng absolute control; enterprise AI cost management strategies and token-minimizing approaches; cybersecurity VC investments tracking; and prediction market growth at Polymarket and Kalshi.</description>
