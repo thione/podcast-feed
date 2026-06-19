@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 18 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:54:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 19, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: SpaceX&apos;s $60 billion acquisition of Cursor spurring hopes for more mega VC-backed deals as M&amp;A markets heat up; Kalshi passes $2 billion in annualized revenue and enters early IPO talks; Google and Microsoft teaming up to beat back Anthropic and OpenAI in the enterprise AI market; Amazon giving big brands more control over product listings; NFX on AI as the New Industrial Revolution and the existential limiter facing the current wave of AI; a competitor to OpenClaw emerges in the AI coding tools space; Manus&apos; revenue soars as original investors move to reverse their Meta deal; Apple preparing to raise prices amid memory and storage shortages; Scott Alexander&apos;s Astral Codex Ten with preliminary thoughts on the Midjourney Scanner; Gary Marcus on Accenture then and now as a signifier of broader enterprise AI trends; and Auren Hoffman on disposable software — how software is becoming paper plates in the AI age.</description>
+      <pubDate>Fri, 19 Jun 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781866297633-b32356c5-63f2-4139-a2a3-e84ab81ded45-1781866286973-1.mp3" length="20664456" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-19</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: SpaceX&apos;s $60B Cursor acquisition spurs M&amp;A hopes; Kalshi at $2B annualized revenue in early IPO talks; Google and Microsoft team up against Anthropic and OpenAI; Amazon brand control over listings; NFX on AI as the New Industrial Revolution; a competitor to OpenClaw emerges; Manus&apos; revenue surges as investors try to reverse Meta deal; Apple price hikes amid memory shortages; Scott Alexander on the Midjourney Scanner; Gary Marcus on Accenture as an AI bellwether; and Auren Hoffman on software becoming paper plates.</itunes:summary>
+      <itunes:duration>00:21:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b32356c5-63f2-4139-a2a3-e84ab81ded45/20260619</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 18, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Noam Shazeer — the legendary Google AI researcher who created the transformer architecture improvements and co-authored "Attention Is All You Need" — joining OpenAI after years at Character.ai, in what sources call the biggest individual AI talent acquisition ever; SpaceX finalizing a $60 billion deal to acquire Cursor (Anysphere), the AI coding assistant, creating the largest VC-backed acquisition in history and adding it to SpaceX&apos;s growing AI tools portfolio alongside xAI; OpenAI and Anthropic aggressively recruiting from Salesforce, poaching Salesforce AI and engineering talent as the enterprise AI hiring wars heat up; Amazon CEO Andy Jassy raising concerns with Anthropic about its content moderation policies and AI safety restrictions, which are creating friction with Amazon&apos;s AWS customers; Anthropic blindsiding business partners like Figma and Canva by building competing tools directly after deploying Claude in their products; OpenAI burning $3.7 billion in losses in Q1 2026 on $5.7 billion in revenue, showing the massive scale of capital required to compete in frontier AI; Temasek&apos;s deepening AI investment push across infrastructure and model companies; Azeem Azhar&apos;s Exponential View examining whether AI development is immune to groupthink and the risks of consensus thinking in a fast-moving field; What&apos;s Really Behind So-Called AI Layoffs from Gary Marcus&apos;s newsletter; and Scott Alexander&apos;s Astral Codex Ten essay &quot;Waiting For The Miracle&quot; on long-term AI expectations.</description>
