@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 19 Jun 2026 10:54:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:21:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 20, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: NFX on AI&apos;s New Industrial Revolution and the existential power infrastructure limiter; SpaceX&apos;s $60 billion acquisition of Cursor — the largest VC-backed startup acquisition in history; Google and Microsoft unveiling the ARD standard to challenge Anthropic&apos;s MCP in enterprise AI; Cursor launching Origin to compete with GitHub; Kalshi passing $2 billion in annualized revenue with early IPO talks; Manus&apos; revenue soaring to $400M-$500M ARR as Chinese investors move to reverse the Meta deal under government order; Apple raising prices amid memory chip shortages; Hermes from Nous Research emerging as a competitor to OpenClaw with self-teaching capabilities; clean energy PE reaching a record $63.8 billion in Q1 2026; and middle market PE trends with sponsor-to-sponsor deals dominating exits at 69.5% of exit value.</description>
+      <pubDate>Sat, 20 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1781950802837-0b879fac-b15e-4903-9823-381775a5d8c2-1781950794140-1.mp3" length="17950647" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: NFX on AI&apos;s New Industrial Revolution; SpaceX&apos;s $60B Cursor acquisition — largest VC-backed deal ever; Google and Microsoft&apos;s ARD standard vs. Anthropic MCP; Cursor launching Origin to compete with GitHub; Kalshi at $2B annualized revenue in early IPO talks; Manus at $400M-$500M ARR as China reverses Meta deal; Apple price hikes; Hermes challenging OpenClaw; clean energy PE record $63.8B in Q1; and middle market PE exits dominated by sponsor-to-sponsor deals.</itunes:summary>
+      <itunes:duration>00:18:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0b879fac-b15e-4903-9823-381775a5d8c2/20260620</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 19, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: SpaceX&apos;s $60 billion acquisition of Cursor spurring hopes for more mega VC-backed deals as M&amp;A markets heat up; Kalshi passes $2 billion in annualized revenue and enters early IPO talks; Google and Microsoft teaming up to beat back Anthropic and OpenAI in the enterprise AI market; Amazon giving big brands more control over product listings; NFX on AI as the New Industrial Revolution and the existential limiter facing the current wave of AI; a competitor to OpenClaw emerges in the AI coding tools space; Manus&apos; revenue soars as original investors move to reverse their Meta deal; Apple preparing to raise prices amid memory and storage shortages; Scott Alexander&apos;s Astral Codex Ten with preliminary thoughts on the Midjourney Scanner; Gary Marcus on Accenture then and now as a signifier of broader enterprise AI trends; and Auren Hoffman on disposable software — how software is becoming paper plates in the AI age.</description>
