@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 20 Jun 2026 10:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 21, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: PitchBook on how private equity firms are racing to embed AI into portfolio companies but struggling to show financial results — 73% of executives expect AI to increase portfolio value over the next 12 months but only 8% report material EBITDA impact, while most AI adoption remains focused on back-office efficiency rather than revenue growth; private credit lenders shutting the door on software buyouts leaving PE sponsors with signed due diligence and no funding; Blackstone, Apollo Global Management, and FS KKR taking over software company Medallia from Thoma Bravo; SpaceX&apos;s $60 billion acquisition of AI coding startup Cursor; Azeem Azhar&apos;s Exponential View #579 on how AI-native startups are 25% smaller with more engineers and fewer managers than peers, the critical importance of rebuilding products around AI closed loops rather than just giving workers AI tools, Sam Altman on how AI has transformed what a startup can accomplish, and the Bitter Lesson — generalist frontier AI models outperforming best-in-class specialist medical tools in head-to-head tests with two-thirds of US physicians now using OpenEvidence; GenAI driving nearly 2% of traffic to Walmart and Target; and the Sinica Podcast on the Tianjin Massacre of June 21, 1870 — when anti-Christian riots led to the killing of French diplomats, nuns, and Chinese converts, bringing China and France to the brink of war and revealing deep fault lines between Chinese society and Western colonial presence.</description>
+      <pubDate>Sun, 21 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782036968256-e1d91532-ef03-48f4-a30d-cb101777058e-1782036958548-1.mp3" length="19955179" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: PitchBook on PE firms failing to turn AI into revenue growth — 73% expect AI gains but only 8% report material EBITDA impact; private credit shutting the door on software buyouts; Blackstone, Apollo, and FS KKR taking Medallia from Thoma Bravo; SpaceX&apos;s $60B Cursor acquisition; Exponential View #579 on AI-native startups being 25% smaller, rebuilding products around AI closed loops, Sam Altman on startup transformation, and generalist AI beating specialist medical models; GenAI driving 2% of Walmart &amp; Target traffic; and Sinica Podcast on the Tianjin Massacre of 1870 — when anti-Christian riots brought China and France to the brink of war.</itunes:summary>
+      <itunes:duration>00:20:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e1d91532-ef03-48f4-a30d-cb101777058e/20260621</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 20, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: NFX on AI&apos;s New Industrial Revolution and the existential power infrastructure limiter; SpaceX&apos;s $60 billion acquisition of Cursor — the largest VC-backed startup acquisition in history; Google and Microsoft unveiling the ARD standard to challenge Anthropic&apos;s MCP in enterprise AI; Cursor launching Origin to compete with GitHub; Kalshi passing $2 billion in annualized revenue with early IPO talks; Manus&apos; revenue soaring to $400M-$500M ARR as Chinese investors move to reverse the Meta deal under government order; Apple raising prices amid memory chip shortages; Hermes from Nous Research emerging as a competitor to OpenClaw with self-teaching capabilities; clean energy PE reaching a record $63.8 billion in Q1 2026; and middle market PE trends with sponsor-to-sponsor deals dominating exits at 69.5% of exit value.</description>
