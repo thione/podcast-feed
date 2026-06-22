@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 21 Jun 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 22, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on Lime&apos;s IPO — Uber named as anchor investor raising $200M at a $1.8B valuation with Uber&apos;s &gt;10% stake and $85M invested in 2020, guaranteeing Lime&apos;s loan and driving 14% of its revenue; The Information on Morgan Stanley pitching data center developers to tap the $1.4T leveraged loan market — the CoreWeave $3.1B CLO deal drew $19B in orders, with JPMorgan projecting $350B across bonds and loans over five years; The Information on SpaceX&apos;s 74-day IPO setting pace for OpenAI and Anthropic — the Trump SEC&apos;s hands-off approach shaved 37% off the typical IPO timeline, with mid-August listings now possible for both companies; Passing the Torch Newsletter on the Thirty-Minute Ceasefire — analyzing the Islamabad MOU between the US and Iran, why Hezbollah&apos;s firing on Israel ended it within hours, and the classic geopolitical whodunit of who started it; Sinica Podcast&apos;s Kaiser Kuo on how China built the energy system the world now needs — using the Iran war&apos;s Strait of Hormuz disruption to show how China&apos;s EV fleet alone displaces 1 million barrels of oil per day and how structural electrification created real energy resilience; and Words That Matter&apos;s guest curator Afra Wang on AI and human expression, Ken Liu&apos;s view of technology as fundamentally humanistic, the question of AI consciousness, and whether machines can truly create.</description>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782123561943-06fb084d-83be-4c4a-a5f4-a99d8a5afe7a-1782123550989-1.mp3" length="22469203" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Lime IPO names Uber as anchor investor at $1.8B valuation; Morgan Stanley pitches data centers on the $1.4T leveraged loan market with CoreWeave CLO drawing $19B in orders; SpaceX&apos;s 74-day IPO sets pace for OpenAI and Anthropic mid-August listings; the Thirty-Minute Ceasefire — why the Islamabad MOU broke down within hours; Sinica Podcast on how China&apos;s EV-driven energy transformation created real resilience when the Strait of Hormuz closed; and Afra Wang on AI consciousness, human expression, and Ken Liu&apos;s humanistic view of technology.</itunes:summary>
+      <itunes:duration>00:23:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/06fb084d-83be-4c4a-a5f4-a99d8a5afe7a/20260622</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 21, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: PitchBook on how private equity firms are racing to embed AI into portfolio companies but struggling to show financial results — 73% of executives expect AI to increase portfolio value over the next 12 months but only 8% report material EBITDA impact, while most AI adoption remains focused on back-office efficiency rather than revenue growth; private credit lenders shutting the door on software buyouts leaving PE sponsors with signed due diligence and no funding; Blackstone, Apollo Global Management, and FS KKR taking over software company Medallia from Thoma Bravo; SpaceX&apos;s $60 billion acquisition of AI coding startup Cursor; Azeem Azhar&apos;s Exponential View #579 on how AI-native startups are 25% smaller with more engineers and fewer managers than peers, the critical importance of rebuilding products around AI closed loops rather than just giving workers AI tools, Sam Altman on how AI has transformed what a startup can accomplish, and the Bitter Lesson — generalist frontier AI models outperforming best-in-class specialist medical tools in head-to-head tests with two-thirds of US physicians now using OpenEvidence; GenAI driving nearly 2% of traffic to Walmart and Target; and the Sinica Podcast on the Tianjin Massacre of June 21, 1870 — when anti-Christian riots led to the killing of French diplomats, nuns, and Chinese converts, bringing China and France to the brink of war and revealing deep fault lines between Chinese society and Western colonial presence.</description>
