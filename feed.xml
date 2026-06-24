@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 23 Jun 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2026 10:21:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 24, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on XLight, a U.S.-backed chipmaking startup chaired by former Intel CEO Pat Gelsinger, raising $350 million amid the domestic semiconductor push; The Information AM covering how AI customers including major enterprises are lowering their Anthropic and OpenAI bills by using smaller, cheaper models and negotiating volume discounts as AI spending faces ROI scrutiny; The Information AI Agenda on agent loops and how the shift from single-step AI to multi-step agentic workflows is transforming enterprise software deployment; The Information Applied AI on Together AI and Hugging Face competing to serve the open source AI market as Together AI doubles its revenue and Hugging Face expands its enterprise offerings; The Information Dealmaker on Walmart acquiring Vibe, a connected TV advertising platform, to bolster its retail media network and compete with Amazon&apos;s advertising business; and PitchBook on the venture capital market outlook, emerging manager fundraising dynamics, and the latest VC deal flow and exit trends in the current market environment.</description>
+      <pubDate>Tue, 24 Jun 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782296465546-83b89a38-4cd9-4576-80d7-bd4ff71fae25-1782296454914-1.mp3" length="19509634" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-24</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: XLight raises $350M for U.S. domestic chipmaking under former Intel CEO Pat Gelsinger; enterprises cutting Anthropic and OpenAI bills with smaller models and volume deals; agent loops transforming enterprise software; Together AI and Hugging Face battle for the open source AI market; Walmart acquires connected TV ad platform Vibe to compete with Amazon retail media; and PitchBook on VC market dynamics and deal flow.</itunes:summary>
+      <itunes:duration>00:20:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/83b89a38-4cd9-4576-80d7-bd4ff71fae25/20260624</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 23, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on ex-DOGE employees Brooks Morgan and Adam Ramada raising $225 million for Banner VC while co-leading a $75 million investment in orbital infrastructure startup Impulse Space; The Information AM covering Uber named as anchor investor for Lime&apos;s IPO at a $1.8 billion valuation with Uber owning 10%+ of Lime and generating 14% of its revenue, Nobel laureate John Jumper departing Google DeepMind for Anthropic, Amazon MGM Studios dropping its nearly-complete Sam Altman movie, Sen. Bernie Sanders introducing a $7 trillion AI sovereign wealth fund bill for 50% public ownership of top AI companies, Manus revenue soaring to $400M-$500M annualized as original Chinese investors move to reverse the Meta deal, Penske Media acquiring Vox Media titles including The Verge and SB Nation, and Accenture stock falling 18% to a 9-year low on declining bookings; The Information AI Agenda on why Canva sees ChatGPT and Claude as complementary distribution channels rather than competitors — adding millions of new users via chatbot integrations — plus John Jumper and Noam Shazeer joining Anthropic and OpenAI respectively in a deepening AI talent drain from Google; The Information AI Infrastructure on data centers transforming rural American communities — from $50,000 teacher bonuses in Louisiana to 5,970 permanent jobs in Wisconsin — and why communities have more leverage than they realize to negotiate benefits from tech developers; The Information Electric on Lithium Americas and its Thacker Pass Nevada mine containing the largest known U.S. lithium deposit, with GM claiming its entire 20-year output and the U.S. government taking a 5% equity stake; The Information on OpenAI&apos;s unusual IPO balance sheet showing zero debt and just $46M in quarterly capex despite $665 billion in off-balance-sheet chip and data center commitments; and Astral Codex Ten on the medical debate over whole-body screening — whether the benefit of catching cancers early outweighs the harm of false positives, anxiety, and unnecessary procedures.</description>
