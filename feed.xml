@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 24 Jun 2026 10:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:23:03 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 25, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on Intel-backed AI chip firm SambaNova quintupling its valuation to $10 billion following an $800 million-plus funding round; The Information on 300-plus local bans and moratoriums threatening the U.S. data center boom as communities push back against power consumption and noise; xAI betting on Grok&apos;s racy side as Elon Musk&apos;s AI lab leans into adult content generation to monetize its user base; Kalshi passing $2 billion in annualized revenue and holding early IPO talks; Microsoft tightening its grip on GPU allocations and pressuring AI customers to commit to longer-term cloud contracts; The Information AM covering OpenAI executives touting ad business progress at Cannes Lions with 20% of ChatGPT queries showing direct commercial intent, Meta unveiling new smart glasses at $299 targeting mass market adoption ahead of Apple and Google rivals, and Alibaba suing the Pentagon over a government contract; PitchBook on the PE midyear outlook, record robotics VC investment, European defense tech investment surge, and the global data center market; and the Sinica Podcast on agile governance as Tsinghua&apos;s Xue Lan explains how China regulates transformative technologies without stifling innovation, recorded at the World Economic Forum in Dalian.</description>
+      <pubDate>Thu, 25 Jun 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782382724039-dd8e627b-e73c-496f-8fec-a163271f8fd6-1782382712536-1.mp3" length="19833553" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Intel-backed SambaNova quintuples valuation to $10B; 300-plus data center bans threatening the U.S. AI infrastructure boom; xAI monetizing Grok with adult content; Kalshi at $2B annualized revenue in early IPO talks; Microsoft squeezing AI customers on GPU allocations; OpenAI touts 20% commercial-intent ChatGPT queries at Cannes; Meta launches $299 smart glasses; Alibaba sues the Pentagon; PitchBook on PE midyear, record robotics VC, and European defense tech; and Sinica Podcast on China&apos;s agile governance approach to regulating AI.</itunes:summary>
+      <itunes:duration>00:20:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/dd8e627b-e73c-496f-8fec-a163271f8fd6/20260625</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 24, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on XLight, a U.S.-backed chipmaking startup chaired by former Intel CEO Pat Gelsinger, raising $350 million amid the domestic semiconductor push; The Information AM covering how AI customers including major enterprises are lowering their Anthropic and OpenAI bills by using smaller, cheaper models and negotiating volume discounts as AI spending faces ROI scrutiny; The Information AI Agenda on agent loops and how the shift from single-step AI to multi-step agentic workflows is transforming enterprise software deployment; The Information Applied AI on Together AI and Hugging Face competing to serve the open source AI market as Together AI doubles its revenue and Hugging Face expands its enterprise offerings; The Information Dealmaker on Walmart acquiring Vibe, a connected TV advertising platform, to bolster its retail media network and compete with Amazon&apos;s advertising business; and PitchBook on the venture capital market outlook, emerging manager fundraising dynamics, and the latest VC deal flow and exit trends in the current market environment.</description>
