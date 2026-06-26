@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 25 Jun 2026 10:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:23:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 26, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on the Trump administration asking OpenAI to stagger the release of its new GPT-5.6 model over national security concerns, highlighting growing industry confusion around government review processes for new AI models; The Information on Google striking a tough negotiating stance with publishers on AI licensing, pitching a pilot program that ties content licensing to AI promotion features while offering below-market rates; The Information AI Agenda on the rift between World Models and Vision-Language-Action models dividing the physical AI field as robotics companies bet on fundamentally different approaches to machine intelligence; The Information Applied AI on Anthropic customers discovering errant billing charges that overstated their actual compute usage, as an AI auditing startup uncovers systematic discrepancies; The Information Dealmaker on Citi pitching a cleanup of the murky Special Purpose Vehicle market; The Information on Google revamping its AI coding strike team amid struggles to catch up with Anthropic; The Information AM covering OpenAI and Broadcom unveiling a new AI server chip; PitchBook on the Whoop-ification of the World Cup and how wearable health technology is transforming elite sports monitoring; Astral Codex Ten on the Metaculus Democracy Threat Index, a crowdsourced prediction-market-style tool for measuring threats to American democracy that currently shows declining concern since November 2025; Gary Marcus on the Generative AI Fizzle, tracking declining AI stock valuations and questioning whether the AI bubble is deflating slowly rather than popping; and Exponential View&apos;s first bottom-up measure of the AI economy showing $110 billion in deduplicated revenue over the past 12 months with a $175 billion annualized run rate.</description>
+      <pubDate>Fri, 26 Jun 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782469393883-75a7e7d0-382a-4026-9351-21cc615043da-1782469383334-1.mp3" length="21020139" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Trump administration asks OpenAI to stagger GPT-5.6 release over security concerns; Google strikes tough AI licensing stance with publishers; World Models vs. VLAs dividing physical AI and robotics; Anthropic customers discover errant billing overcharges; Citi pitches SPV market cleanup; Google revamps AI coding strike team to chase Anthropic; OpenAI and Broadcom unveil new AI server chip; PitchBook on Whoop tech at the World Cup; Metaculus Democracy Threat Index showing declining threat levels since November 2025; Gary Marcus on the Generative AI Fizzle and deflating AI stocks; and Exponential View&apos;s $110B bottom-up measure of the AI economy.</itunes:summary>
+      <itunes:duration>00:21:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/75a7e7d0-382a-4026-9351-21cc615043da/20260626</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 25, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on Intel-backed AI chip firm SambaNova quintupling its valuation to $10 billion following an $800 million-plus funding round; The Information on 300-plus local bans and moratoriums threatening the U.S. data center boom as communities push back against power consumption and noise; xAI betting on Grok&apos;s racy side as Elon Musk&apos;s AI lab leans into adult content generation to monetize its user base; Kalshi passing $2 billion in annualized revenue and holding early IPO talks; Microsoft tightening its grip on GPU allocations and pressuring AI customers to commit to longer-term cloud contracts; The Information AM covering OpenAI executives touting ad business progress at Cannes Lions with 20% of ChatGPT queries showing direct commercial intent, Meta unveiling new smart glasses at $299 targeting mass market adoption ahead of Apple and Google rivals, and Alibaba suing the Pentagon over a government contract; PitchBook on the PE midyear outlook, record robotics VC investment, European defense tech investment surge, and the global data center market; and the Sinica Podcast on agile governance as Tsinghua&apos;s Xue Lan explains how China regulates transformative technologies without stifling innovation, recorded at the World Economic Forum in Dalian.</description>
