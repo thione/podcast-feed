@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 26 Jun 2026 10:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 27, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information&apos;s Big Read on Robin Zeng and CATL — how China&apos;s battery giant, which controls 40% of the world&apos;s lithium-ion battery supply, became indispensable to AI data centers, EVs, and the global energy transition, with $10.5 billion in 2024 profits and a $56 billion founder net worth; The Information exclusive on how Anthropic&apos;s Mythos model spooked DeepSeek, prompting CEO Liang Wenfeng to complete a record $7.4 billion first-time fundraising at a $50+ billion valuation and plan to at least double its 300-person workforce; The Information AM on Apple raising Mac and iPad prices due to an &apos;extraordinary&apos; surge in memory and storage component costs driven by AI data center demand, with the MacBook Neo jumping from $599 to $699 and MacBook Pro from $1,699 to $1,999; PitchBook&apos;s Quantum Leap on quantum computing&apos;s record investment run; and The Batch from DeepLearning.AI on the latest in AI research and applications.</description>
+      <pubDate>Sat, 27 Jun 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782556040133-c8c7f2fb-b213-469f-8e2f-1bc0965a2006-1782556028496-1.mp3" length="22719979" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Robin Zeng and CATL — the Chinese battery giant controlling 40% of global lithium-ion supply with $10.5B in 2024 profits, powering AI data centers and EVs; Anthropic&apos;s Mythos spooked DeepSeek into completing a record $7.4B first fundraising at $50B+ valuation, planning to double its 300-person team; Apple raises Mac and iPad prices due to extraordinary AI-driven memory component shortage; PitchBook on quantum computing&apos;s record investment run; and DeepLearning.AI&apos;s The Batch.</itunes:summary>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c8c7f2fb-b213-469f-8e2f-1bc0965a2006/20260627</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 26, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on the Trump administration asking OpenAI to stagger the release of its new GPT-5.6 model over national security concerns, highlighting growing industry confusion around government review processes for new AI models; The Information on Google striking a tough negotiating stance with publishers on AI licensing, pitching a pilot program that ties content licensing to AI promotion features while offering below-market rates; The Information AI Agenda on the rift between World Models and Vision-Language-Action models dividing the physical AI field as robotics companies bet on fundamentally different approaches to machine intelligence; The Information Applied AI on Anthropic customers discovering errant billing charges that overstated their actual compute usage, as an AI auditing startup uncovers systematic discrepancies; The Information Dealmaker on Citi pitching a cleanup of the murky Special Purpose Vehicle market; The Information on Google revamping its AI coding strike team amid struggles to catch up with Anthropic; The Information AM covering OpenAI and Broadcom unveiling a new AI server chip; PitchBook on the Whoop-ification of the World Cup and how wearable health technology is transforming elite sports monitoring; Astral Codex Ten on the Metaculus Democracy Threat Index, a crowdsourced prediction-market-style tool for measuring threats to American democracy that currently shows declining concern since November 2025; Gary Marcus on the Generative AI Fizzle, tracking declining AI stock valuations and questioning whether the AI bubble is deflating slowly rather than popping; and Exponential View&apos;s first bottom-up measure of the AI economy showing $110 billion in deduplicated revenue over the past 12 months with a $175 billion annualized run rate.</description>
