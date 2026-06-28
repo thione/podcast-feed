@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 27 Jun 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 15:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 28, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Salesforce employees&apos; concerns over Anthropic&apos;s Claude Tag invading Slack -- how Anthropic launched a competing AI teammate directly inside Slack while Salesforce CEO Benioff calls it a partner, not a competitor; The Information Weekend on where tech political spending goes next after AI-affiliated groups spent $30 million in the New York Congressional primary won by Micah Lasher over AI regulation author Alex Bores by 5,000 votes; Passing the Torch Newsletter on the AI Memory Tax -- how DRAM contract prices jumped 98% in Q1 2026 as Micron signs $100 billion in take-or-pay agreements and SK Hynix sells 90% of its premier AI memory to a single customer, transferring costs to consumers via $300 Apple laptop price hikes; Azeem Azhar&apos;s Exponential View on fifty years of Moore&apos;s Law not being fast enough for AI -- tracking the break in the 50-year compute growth trend driven by AI accelerators with implications for the next decade; The Batch from DeepLearning.AI on a new generation studying AI, Apple&apos;s recipe for on-device models, and GLM5.2 tackling open-ended problems; PitchBook on where the LBOs aren&apos;t as private credit lenders shut the door on software buyouts; and PitchBook Research on how SpaceX prices the AI race.</description>
+      <pubDate>Sun, 28 Jun 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782641829175-7abf8888-d54e-425f-bccd-a47184d0cb11-1782641818507-1.mp3" length="19814327" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Anthropic&apos;s Claude Tag invades Slack creating tensions inside Salesforce; tech political spending heats up after $30M NY Congressional primary battle; the AI Memory Tax with DRAM prices up 98% in Q1 2026 and $300 Apple laptop surcharges; Exponential View on breaking the 50-year Moore&apos;s Law compute trend; DeepLearning.AI Batch on AI education; PitchBook on LBO drought and SpaceX pricing the AI race.</itunes:summary>
+      <itunes:duration>00:20:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7abf8888-d54e-425f-bccd-a47184d0cb11/20260628</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 27, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information&apos;s Big Read on Robin Zeng and CATL — how China&apos;s battery giant, which controls 40% of the world&apos;s lithium-ion battery supply, became indispensable to AI data centers, EVs, and the global energy transition, with $10.5 billion in 2024 profits and a $56 billion founder net worth; The Information exclusive on how Anthropic&apos;s Mythos model spooked DeepSeek, prompting CEO Liang Wenfeng to complete a record $7.4 billion first-time fundraising at a $50+ billion valuation and plan to at least double its 300-person workforce; The Information AM on Apple raising Mac and iPad prices due to an &apos;extraordinary&apos; surge in memory and storage component costs driven by AI data center demand, with the MacBook Neo jumping from $599 to $699 and MacBook Pro from $1,699 to $1,999; PitchBook&apos;s Quantum Leap on quantum computing&apos;s record investment run; and The Batch from DeepLearning.AI on the latest in AI research and applications.</description>
