@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 28 Jun 2026 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2026 11:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 29, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Baidu&apos;s AI chip unit Kunlunxin planning a $50 billion Hong Kong IPO while requiring investors to commit to buying chips worth 3-7x their subscription amount -- a novel arrangement reflecting intense competition in China&apos;s crowded domestic AI chip market as the company seeks SMIC manufacturing after missing China&apos;s secure chip certification list; The Information Sunday Insights on how five Chinese firms now rank among the world&apos;s 10 biggest ad sellers as retail media spending surges to $175.7 billion globally and traditional media companies disappear from the top rankings -- with China as the largest retail media market at $77.6 billion and ByteDance, Tencent, Alibaba, PDD, JD.com, and Kuaishou all making the list; and PitchBook on how AI video investment is evolving from model funding to studios and interactive infrastructure -- with $5.6 billion invested in 2026 already up 43% from 2025, Google DeepMind&apos;s $75 million A24 investment signaling a shift beyond pure video-generation tools, and AI-native studios like Wonder and Promise raising VC to build IP catalogs as the new content plays.</description>
+      <pubDate>Sun, 29 Jun 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782729691523-1a45e21c-29a4-4d24-8729-7272da82145f-1782729685740-1.mp3" length="11839247" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Baidu&apos;s Kunlunxin targets $50B Hong Kong IPO while demanding investors buy chips worth 3-7x their investment -- competing in China&apos;s crowded domestic AI chip market; five Chinese firms including ByteDance, Tencent, Alibaba, PDD, and JD.com now rank in the world&apos;s 10 biggest ad sellers as retail media hits $175.7B globally; and PitchBook on AI video investment evolving from models to studios with Google DeepMind&apos;s A24 bet and $5.6B invested in 2026 already up 43% from all of 2025.</itunes:summary>
+      <itunes:duration>00:12:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1a45e21c-29a4-4d24-8729-7272da82145f/20260629</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 28, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Salesforce employees&apos; concerns over Anthropic&apos;s Claude Tag invading Slack -- how Anthropic launched a competing AI teammate directly inside Slack while Salesforce CEO Benioff calls it a partner, not a competitor; The Information Weekend on where tech political spending goes next after AI-affiliated groups spent $30 million in the New York Congressional primary won by Micah Lasher over AI regulation author Alex Bores by 5,000 votes; Passing the Torch Newsletter on the AI Memory Tax -- how DRAM contract prices jumped 98% in Q1 2026 as Micron signs $100 billion in take-or-pay agreements and SK Hynix sells 90% of its premier AI memory to a single customer, transferring costs to consumers via $300 Apple laptop price hikes; Azeem Azhar&apos;s Exponential View on fifty years of Moore&apos;s Law not being fast enough for AI -- tracking the break in the 50-year compute growth trend driven by AI accelerators with implications for the next decade; The Batch from DeepLearning.AI on a new generation studying AI, Apple&apos;s recipe for on-device models, and GLM5.2 tackling open-ended problems; PitchBook on where the LBOs aren&apos;t as private credit lenders shut the door on software buyouts; and PitchBook Research on how SpaceX prices the AI race.</description>
