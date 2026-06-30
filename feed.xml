@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 29 Jun 2026 11:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - June 30, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Oncology CoPilot on Marlo — a pediatric oncology precision medicine platform connecting patients with personalized treatment options and clinical trials, built by cancer survivors and advocates who experienced firsthand the gap between diagnosis and finding the right specialized care; PitchBook on how liquidity is loosening in Asia-Pacific private markets with APAC VC deals picking up across sectors including AI infrastructure and fintech, and LPs starting to receive long-awaited distributions as the regional private capital cycle turns; PitchBook on the billions flowing into AI video as Google DeepMind&apos;s $75 million investment in A24 signals a shift from pure model-building to AI-native studios and interactive content infrastructure — with $5.6 billion invested in AI video in 2026 already up 43% from 2025; Oussama Ammar&apos;s philosophical essay Reveiller le Golem on Norbert Wiener — the founder of cybernetics who warned in 1950 that machines cannot be given instructions abstract enough to avoid catastrophic outcomes, drawing the parallel between Wiener&apos;s Golem of Prague allegory and today&apos;s AI alignment challenges; and Exponential View&apos;s weekly data roundup showing AI quarterly revenues now exceeding AI capex depreciation expense, China&apos;s AI labs hiring talent with just 1.6 years of experience versus 5.5 years in the US, SK Hynix overtaking Samsung Electronics in market value for the first time, Morgan Stanley tripling its humanoid robot forecast to 50,000 Chinese shipments this year, and roughly half of workers believing AI can already do half or more of their work tasks.</description>
+      <pubDate>Mon, 30 Jun 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1782814460903-320ddfc2-9abe-465d-b9c3-dea9b0480297-1782814450715-1.mp3" length="19590300" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-06-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Oncology CoPilot on Marlo — precision medicine for pediatric oncology connecting patients with clinical trials; PitchBook on APAC private capital liquidity loosening with VC deals picking up; PitchBook on billions flowing into AI video with Google DeepMind&apos;s $75M A24 bet and $5.6B invested YTD up 43%; Oussama Ammar&apos;s philosophical essay on Norbert Wiener and AI alignment — the Golem allegory for why you cannot specify instructions abstractly enough; and Exponential View data: AI revenues now exceed capex depreciation, China hires AI talent at 1.6 years experience vs. 5.5 in US, SK Hynix overtakes Samsung, and half of workers think AI can do half their job.</itunes:summary>
+      <itunes:duration>00:20:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/320ddfc2-9abe-465d-b9c3-dea9b0480297/20260630</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - June 29, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Baidu&apos;s AI chip unit Kunlunxin planning a $50 billion Hong Kong IPO while requiring investors to commit to buying chips worth 3-7x their subscription amount -- a novel arrangement reflecting intense competition in China&apos;s crowded domestic AI chip market as the company seeks SMIC manufacturing after missing China&apos;s secure chip certification list; The Information Sunday Insights on how five Chinese firms now rank among the world&apos;s 10 biggest ad sellers as retail media spending surges to $175.7 billion globally and traditional media companies disappear from the top rankings -- with China as the largest retail media market at $77.6 billion and ByteDance, Tencent, Alibaba, PDD, JD.com, and Kuaishou all making the list; and PitchBook on how AI video investment is evolving from model funding to studios and interactive infrastructure -- with $5.6 billion invested in 2026 already up 43% from 2025, Google DeepMind&apos;s $75 million A24 investment signaling a shift beyond pure video-generation tools, and AI-native studios like Wonder and Promise raising VC to build IP catalogs as the new content plays.</description>
