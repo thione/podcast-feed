@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 08 Jul 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - July 9, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Marc Lore&apos;s Wonder raising at a $9 billion valuation tied to a future IPO; The Information exclusive on the DOJ warning staff that Binance will cooperate less on crypto cases, with Binance denying any changes; The Information exclusive on China planning to allow top AI firms to buy limited Nvidia H200 chips to offset AI compute shortages; The Information exclusive on Tesla&apos;s Robotaxi Miami launch testing a new lean-staffing blueprint for rapid expansion without safety monitors; The Information AM on SpaceXAI planning to launch a new model with Cursor as soon as Wednesday; The Information AI Agenda on OpenAI researcher saying GPT-5.6 is better at AI research than most human interns; The Information Finance on Trump&apos;s crypto legacy shifting to traditional finance; and the Startup Economist newsletter on why your startup can&apos;t raise money and the importance of customer discovery over premature pitching.</description>
+      <pubDate>Wed, 09 Jul 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1783592431196-585c3464-7ac9-49ce-9b4a-34070c40f484-1783592420676-1.mp3" length="21790020" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Wonder raising at $9B tied to future IPO; DOJ warns staff Binance will cooperate less on crypto cases; China to allow limited Nvidia H200 chip purchases for top AI firms; Tesla Robotaxi Miami launch tests lean-staffing rapid expansion model; SpaceXAI launching new model with Cursor; GPT-5.6 better than most human AI research interns per OpenAI researcher; Trump&apos;s crypto legacy shifting to TradFi; and why your startup can&apos;t raise money.</itunes:summary>
+      <itunes:duration>00:22:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/585c3464-7ac9-49ce-9b4a-34070c40f484/20260709</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - July 8, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information Applied AI newsletter on HubSpot reversing its AI data-sharing policy after a customer revolt -- HubSpot announced it would use customer CRM data including business contacts and email signals to power a new AI lead-finding feature and share it with other customers, prompting fury on LinkedIn and plans to switch providers, before CPO Duncan Lennox apologized four days later calling it &quot;a mistake,&quot; as HubSpot shares sit 75% below their early-2025 peak; The Information Dealmaker on how DataRobot, Airtable, and Gusto have seen mutual fund markdowns of 60-100% on their 2021 valuations as AI fears hammer enterprise software, with Airtable down 60%, DataRobot nearly entirely marked down by T. Rowe Price, and Gusto down nearly 30% -- while Databricks is a rare winner with mutual funds tripling their stakes since 2021 as it discusses raising at a $175 billion valuation; The Information article on how small firms are using Claude Code and Replit to quit Salesforce and HubSpot -- Greenleaf Management saving $100K annually by replacing Salesforce with a $300/month custom app, the Seattle Seawolves rugby club building a replacement ticketing and CRM system in four months with revenue up 25%, and Sanofi cutting 80% of ServiceNow usage to save $10 million annually; The Information exclusive on Mark Dyne, the South African-born &quot;fixer&quot; known as &quot;The Wolf&quot; who handles crises for Andreessen Horowitz, Silver Lake, and California Forever -- helping engineer the $8.5 billion Skype sale to Microsoft, advising Deel during its Rippling corporate-spying lawsuit, and running Morpheus Ventures with the tagline &quot;professional fixers for complex situations;&quot; The Information exclusive on Thrive Holdings raising $2 billion from SoftBank, Altimeter, and D1 Capital Partners -- the Josh Kushner-founded holding company that buys controlling stakes in accounting and IT services firms and rebuilds them with AI, with OpenAI holding a stake and providing engineering talent, and Current having already acquired 48 accounting firms; and The Information AI Agenda on how xAI, Meta, and Anthropic are entering each other&apos;s territory -- xAI renting out server capacity, Meta launching enterprise AI agents, Anthropic developing custom chips with Samsung, and the entire group becoming more interconnected through a web of alliances despite competing fiercely, with Mercor hitting $2 billion in gross revenue run rate and Anthropic signing a 20-year $19 billion lease with TeraWulf for a 400 MW Kentucky data center.</description>
