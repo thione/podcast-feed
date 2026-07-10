@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 09 Jul 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - July 10, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information AM on Blue Origin raising $10 billion at a $130 billion valuation -- its first outside funding after 25 years of self-funding by Jeff Bezos -- with Coatue leading at $4 billion and Bezos himself putting in $2 billion; Bank of America extending a $520 million credit line to OpenAI bringing total available credit to over $5 billion; Anthropic responding to China&apos;s backdoor warning about Claude Code, clarifying it was an anti-abuse mechanism not a backdoor; SpaceXAI and Cursor launching Grok 4.5 jointly, touted as an Opus-class coding model but faster and cheaper; The Information exclusive on Lancium -- the power developer behind OpenAI&apos;s Stargate Texas data center -- in talks to sell a minority stake to tech companies including Nvidia at a $7-10 billion valuation; The Information exclusive on Cursor developing &apos;Sand,&apos; a general-purpose AI agent to compete with Claude Cowork, built using SpaceXAI compute after SpaceX&apos;s $60 billion Cursor acquisition; The Information exclusive on PrismML claiming a breakthrough with a 27-billion parameter model compressed to under 4 gigabytes running on an iPhone 17 Pro, backed by Khosla Ventures, with Apple in discussions about the technology; The Information Dealmaker on ScaleFlux -- a memory chip startup for AI data centers -- planning an IPO this fall at a few billion dollar valuation, banking on the AI memory shortage driving Micron up 214% and Sandisk up 575% this year; The Information Applied AI on traditional SaaS losing ground as enterprises adopt AI -- Sanofi using Claude Code to reduce ServiceNow usage, companies consolidating apps with Palantir, and new GitHub rivals including Cursor and Entire emerging; The Information AI Agenda on the accelerating brain drain of university AI professors -- 22 faculty from Stanford, Berkeley, Harvard, and USC joining OpenAI, Anthropic, Google, and Meta this year alone, threatening open-source AI development; NFX on the death of the AI wrapper and the rise of verticalization at early-stage startups -- three strategies for seed companies: defend against raw intelligence with data and relationships, remake the business with AI automation, or build the system of record -- drawing parallels to Tesla&apos;s full-stack approach; and Astral Codex Ten on Plan A, the AI Futures Project&apos;s roadmap from 2026 to 2040 for a best-case AI transition centered on a US-China joint regulatory regime with trustless chip supply controls.</description>
+      <pubDate>Thu, 10 Jul 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1783679306014-7e3b362b-b240-4843-b31b-c23220f01421-1783679295751-1.mp3" length="21069876" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Blue Origin raises $10B at $130B valuation -- Bezos&apos;s first outside capital; BofA $520M credit line to OpenAI; Anthropic clarifies China backdoor as anti-abuse mechanism; Grok 4.5 from SpaceXAI and Cursor; Lancium power deal talks at $7-10B; Cursor&apos;s &apos;Sand&apos; agent competes with Claude Cowork; PrismML&apos;s 27B parameter iPhone model backed by Khosla; ScaleFlux IPO plans amid AI memory chip boom; Traditional SaaS losing ground to AI tools; 22 university AI professors flee to labs; NFX on verticalization replacing the dead AI wrapper; and Plan A&apos;s US-China joint AI regulatory roadmap.</itunes:summary>
+      <itunes:duration>00:21:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7e3b362b-b240-4843-b31b-c23220f01421/20260710</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - July 9, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Marc Lore&apos;s Wonder raising at a $9 billion valuation tied to a future IPO; The Information exclusive on the DOJ warning staff that Binance will cooperate less on crypto cases, with Binance denying any changes; The Information exclusive on China planning to allow top AI firms to buy limited Nvidia H200 chips to offset AI compute shortages; The Information exclusive on Tesla&apos;s Robotaxi Miami launch testing a new lean-staffing blueprint for rapid expansion without safety monitors; The Information AM on SpaceXAI planning to launch a new model with Cursor as soon as Wednesday; The Information AI Agenda on OpenAI researcher saying GPT-5.6 is better at AI research than most human interns; The Information Finance on Trump&apos;s crypto legacy shifting to traditional finance; and the Startup Economist newsletter on why your startup can&apos;t raise money and the importance of customer discovery over premature pitching.</description>
