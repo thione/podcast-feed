@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 15 Jul 2026 10:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:13:44 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - July 16, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Astral Codex Ten by Scott Alexander on why AI chip regulation is not a dystopian surveillance state -- a careful analysis of Plan A, the AI Futures Project&apos;s regulatory framework for US-China AI governance, breaking down the proposed chip regulations, comparisons to pharmaceutical controlled substance regulations, the open-weights model ban, power diffusion vs. concentration, and the ironic point that we already live in a surveillance state with KYC banking regulations and OpenAI monitoring all chats -- arguing the actual costs of Plan A are moderate industry regulation changes, not Orwellian dystopia.</description>
+      <pubDate>Thu, 16 Jul 2026 10:11:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1784196711478-5751ac7c-9c93-4327-a79e-d293a2a76eab-1784196703050-1.mp3" length="16834696" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-16</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Scott Alexander (Astral Codex Ten) argues AI chip regulation under Plan A is not a dystopian surveillance state -- comparing chip factory inspections to pharmaceutical controlled substance regulations, analyzing the open-weights model ban, Plan A&apos;s power diffusion strategy, and noting the irony that we already live in a surveillance state via KYC banking regulations and OpenAI monitoring all chats. The actual costs are moderate: chip industry moves from 50th to 95th regulatory percentile, a temporary consumer hardware tax if needed, and a ban on new open-weights models.</itunes:summary>
+      <itunes:duration>00:17:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/5751ac7c-9c93-4327-a79e-d293a2a76eab/20260716</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - July 15, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information exclusive on DeepSeek&apos;s annualized revenue nearing $500 million, fueling a $7.4 billion fundraise at a $74 billion valuation and plans for a Shanghai IPO -- a Chinese open-source AI startup valued at 148x revenue; The Information exclusive on more startups turning away from AWS due to GPU capacity shortages, fueling a wave of neo-cloud upstarts including Nebius, RunPod, and Together AI; The Information op-ed on why Americans deserve a dividend from AI companies&apos; riches -- not equity parked with the government, but direct citizen stakes in the AI boom, using Indiana&apos;s AWS Project Rainier data center as a case study; The Information Applied AI on the subtle data threats from AI providers -- Microsoft CEO Satya Nadella, Palantir&apos;s Alex Karp, and Salesforce&apos;s Marc Benioff warning enterprises about how Anthropic and OpenAI could use customer data, while SpaceXAI backtracks on Grok code retention after developer backlash; The Information AI Agenda on why evaluating AI models is getting even harder -- models can now work for days or weeks, making evaluations as expensive as training, with ICML researchers warning about the limits of chain-of-thought monitoring for superhuman AI; The Information Dealmaker on FuriosaAI, Nuvacore, and D-Matrix joining the chip funding spree as VCs pour money into AI hardware startups, excited by Nvidia&apos;s $20 billion Groq deal; The Information AM on Meta doubling Louisiana data center capacity to five gigawatts with a $40 billion investment, smartphone shipments hitting a 13-year low, and LimX Dynamics closing a $2.2 billion pre-IPO round; PitchBook on OpenAI&apos;s trillion-dollar wait -- why delaying its IPO to 2027 signals leadership doubts about clearing the $1 trillion valuation today, and the Khosla family buying the Seattle Seahawks for a record $9.6 billion; Oncology CoPilot on why treating cancer is like fighting weeds -- how RNA transcriptomics and AI-guided combination therapy can map tumor bypass pathways before resistance emerges; and Ekam Bajwa on the end of a career and loss of identity -- a personal reflection on building one thing without being one thing.</description>
