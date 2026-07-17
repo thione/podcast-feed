@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 16 Jul 2026 10:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - July 17, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Valar Atomics, a nuclear fission startup in talks to raise at a $6 billion valuation -- the highest valuation yet for a next-generation nuclear startup -- amid surging demand for AI data center power; The Information on 160 enterprise software startups that could be for sale this year as PE firms and strategic acquirers eye the AI disruption opportunity; The Information AI Agenda on Andreessen Horowitz backing Runta, a startup aiming to &apos;parent&apos; and govern AI agents as enterprises struggle to manage fleets of autonomous agents; The Information Applied AI on nobody being immune from the GPU crunch as even major cloud providers face compute shortages; The Information Dealmaker on how demand for data software could drive an M&amp;A rebound as companies scramble for AI-ready data infrastructure; The Information AM on TSMC planning another $100 billion U.S. investment as AI demand surges, plus Stripe rejecting PayPal&apos;s acquisition offer and AWS executive changes; and NFX&apos;s deep dive on how the fastest AI-first companies really work -- the Mission Pod organizational structure, the traps that kill first-generation AI-first teams, and why 0 to 1 is solved but 1 to 2 is your real bottleneck.</description>
+      <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/1784283657997-a4a2c6c6-8e8d-49b5-8df0-16030aa8d6fe-1784283647444-1.mp3" length="21593579" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Valar Atomics nuclear fission startup in talks at $6B valuation amid AI power demand surge; 160 enterprise software startups for sale as PE eyes AI disruption; Andreessen Horowitz backs Runta to &apos;parent&apos; and govern AI agent fleets; GPU crunch hits even major cloud providers; data software M&amp;A rebound as companies scramble for AI-ready infrastructure; TSMC plans another $100B U.S. investment, Stripe rejects PayPal acquisition; and NFX on Mission Pods, the traps killing AI-first teams, and why 1-to-2 is the new bottleneck.</itunes:summary>
+      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a4a2c6c6-8e8d-49b5-8df0-16030aa8d6fe/20260717</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - July 16, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Astral Codex Ten by Scott Alexander on why AI chip regulation is not a dystopian surveillance state -- a careful analysis of Plan A, the AI Futures Project&apos;s regulatory framework for US-China AI governance, breaking down the proposed chip regulations, comparisons to pharmaceutical controlled substance regulations, the open-weights model ban, power diffusion vs. concentration, and the ironic point that we already live in a surveillance state with KYC banking regulations and OpenAI monitoring all chats -- arguing the actual costs of Plan A are moderate industry regulation changes, not Orwellian dystopia.</description>
