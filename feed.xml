@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 21 Jul 2026 10:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:22:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - July 22, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information Dealmaker on venture&apos;s AI fever going nuclear -- nuclear power startups raising VC money to power AI data centers; The Information exclusive on Meta&apos;s AAI Labs incubator developing Switchboard, an OpenRouter rival that routes AI coding tasks to cheaper models, among 200 projects in a new internal incubator; The Information Applied AI on where Anthropic models fall short in speed and cost compared to competitors; The Information AI Agenda exclusive on Anthropic&apos;s robotics ambitions and Nvidia ramping up Vera Rubin chip production; The Information exclusive on Mercor&apos;s fast growth -- $614M gross revenue in H1 2026, up 70% year-over-year -- but 91% concentrated among AI foundation model companies OpenAI, Anthropic, and Google DeepMind, as it discusses a $20 billion valuation; The Information AM on Alphabet stock jumping after The Information report of Google&apos;s new Frozen chip for efficient AI inference at scale; PitchBook on AI&apos;s true cost and what it means for the AI investment landscape; and Life, Death, All Of It -- Krista Berlincourt&apos;s philosophical essay on what it means to be human in the age of AI, as AI companions, displaced workers, and our cultural vertigo collide.</description>
+      <pubDate>Wed, 22 Jul 2026 10:22:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/7390BA07-AF34-4EC3-8FEC-DB4FB96E0F1A/audio-1c322fc79912ff55780cb8da0dbcac4712a27c5737e78fc6f5e8adcc19b0e8a1.mp3" length="21377076" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Nuclear power VC boom for AI data centers; Meta&apos;s AAI Labs builds Switchboard -- an OpenRouter rival to route cheap coding tasks away from expensive frontier models; Anthropic model speed and cost gaps vs. competitors; Anthropic&apos;s robotics ambitions and Nvidia Vera Rubin ramp-up; Mercor&apos;s explosive 70% revenue growth to $614M in H1 2026 with 91% customer concentration risk at $20B valuation; Alphabet stock surges on Google Frozen chip report; PitchBook on AI&apos;s true cost; and a philosophical essay on what it means to be human as AI companions and worker displacement collide.</itunes:summary>
+      <itunes:duration>00:22:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/4486af40-26ca-4f46-84e5-45aa27e00654/20260722</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - July 21, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on Kimi K3 -- China&apos;s Moonshot AI releasing the world&apos;s largest open-source model at 2.8 trillion parameters, outperforming OpenAI and Anthropic on key benchmarks in reasoning, coding, and math; The Information on Samsung&apos;s new memory chip opportunity as HBM4 production gaps at SK Hynix could make Samsung the underdog hero; The Information on Google&apos;s plans for a new &apos;frozen&apos; chip to run AI models more efficiently at scale; Good AI on the $0.50 barrel of intelligence -- what the commoditization of AI means for software companies, enterprise buyers, and the economy; Gary Marcus on whether China has truly caught up to the US in AI, and why the picture is more complicated than either side admits; The Information AM on Apple settling with the DOJ, Databricks approaching an IPO, and SpaceX&apos;s Starship setback; and PitchBook VC deal highlights for the week.</description>
