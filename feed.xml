@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 25 Jul 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - July 26, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information Weekend on AI workaholism and the 100 Corgi Cafes phenomenon in China, exploring how AI is reshaping work culture and social trends; Azeem Azhar&apos;s Exponential View on the curious case of AI distillation — how Chinese labs like Moonshot are training on outputs from US frontier models, the legal and competitive implications, and what it means for the US-China AI race; Trivium China&apos;s weekly recap on Xi Jinping&apos;s stance toward open-source AI and the evolving US-China tech and trade dynamics; PitchBook News on how AI comes at a cost — the real price of AI infrastructure build-out in private equity portfolios; The Credit Pitch by PitchBook on the private credit pressure gauge and where stress is building in the market; China Global South Podcast on what the Iran War reveals about China&apos;s power in the Persian Gulf — why China&apos;s commercial dominance hasn&apos;t translated into strategic influence; and Bay Area Founders Club&apos;s guide to 48 curated startup, AI, founder, and tech events happening across the Bay Area for the week of July 27.</description>
+      <pubDate>Sun, 26 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/5E77F2C4-795D-4D9A-9A65-73D9F3E673D3/audio-3e1e0c424f5de6e048b4b329f69b8ef85cc97b391af211c72d061fcf9544ca0a.mp3" length="19410578" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: The Information Weekend on AI workaholism and China&apos;s 100 Corgi Cafes; Exponential View on AI distillation controversy and Chinese labs training on US frontier model outputs; Trivium China on Xi&apos;s open-source AI stance and US-China trade; PitchBook on AI infrastructure costs in private equity; private credit pressure gauge; China Global South on why China&apos;s commercial Gulf dominance hasn&apos;t become strategic influence during the Iran War; and 48 Bay Area startup events for the week of July 27.</itunes:summary>
+      <itunes:duration>00:20:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/903cb267-a0c9-4603-9e5b-552c51e3962c/20260726</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - July 25, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information AM on Stripe in talks to buy OpenRouter for close to $10 billion -- the AI model routing startup last valued at $1.3 billion generating $50M ARR up 5x; OpenAI President Greg Brockman endorsing Elon Musk&apos;s proposal for industry AI safety meetings, saying discussions are already starting; Intel shares jumping 12% after reporting 25% revenue growth and $4.5 billion in free cash flow in Q2 with its data center unit up 59%; Amazon shutting its AGI Lab that developed Nova Act and was founded from the Adept acqui-hire; Google disclosing $94.1 billion in SpaceX shares representing the bulk of $99 billion in unrealized gains; BitMEX announcing it will shut down in September after 11 years; AMD partnering with Cerebras on disaggregated inference -- AMD GPUs for prefill, Cerebras for decode; The Information on Google&apos;s new Frozen chip to run AI models much more efficiently; The Information exclusive on Mercor&apos;s fast growth with $614M in H1 2026 revenue but 91% concentrated with OpenAI, Anthropic, and Google DeepMind at a $20 billion valuation; PitchBook Research on AI&apos;s new power brokers -- corporate VC concentration in AI, how Nvidia, Google, and Microsoft are using strategic investments to lock in AI infrastructure relationships and prevent defection, with the top 5 corporate investors deploying $47 billion in H1 2026; PitchBook Daily Pitch on AI cost-cutting startups and tokenomics -- whether managing AI spend is a durable VC-backable business or just a normal finance function; The Information on Nvidia shares being priced for everything to go wrong at 17x earnings versus its 36x five-year average, with AMD up 142% and Micron up 213% year-to-date; DeepLearning.AI on Kimi K3 redrawing the open frontier, Muse Spark 1.1 undercutting competitors, and Cloudflare blocking AI crawlers; and Andrew Yang&apos;s Substack on watching the Odyssey with his son and reflections on storytelling, mythology, and meaning.</description>
