@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 26 Jul 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:05:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - July 27, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information on AI Financing Gets Creative &#8212; dealmakers scouting public and private markets for creative financing structures for the AI buildout, with demand for capital outpacing traditional data center financing models; The Information on Crackdown on AI Lovers Ignites Heartbreak in China &#8212; ByteDance and other Chinese AI companies eliminating AI companion features, sparking backlash from passionate users who are organizing to push companies to restore them; and The Information Sunday Insights on How Google Is Using Wall Street Financing Techniques to Expand Chip Sales &#8212; Google adopting structured finance and off-balance-sheet techniques pioneered on Wall Street to expand its AI chip business without taking on all the risk itself.</description>
+      <pubDate>Mon, 27 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/5D757416-1CAD-4CD2-800B-5524AD7C0BA3/audio-d2b9562bc30761d839c74385c57fab8a4323a6121f9fc559942c3ee3fb423ce7.mp3" length="20291218" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: The Information on creative AI financing structures as demand for capital outpaces traditional data center financing; China cracking down on AI companion apps as ByteDance and others eliminate AI lover features, sparking user backlash; and Google using Wall Street structured finance techniques to expand chip sales without full balance sheet risk.</itunes:summary>
+      <itunes:duration>00:21:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/67dd386b-fad6-49bf-856d-7dbba3a1f75f/20260727</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - July 26, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information Weekend on AI workaholism and the 100 Corgi Cafes phenomenon in China, exploring how AI is reshaping work culture and social trends; Azeem Azhar&apos;s Exponential View on the curious case of AI distillation — how Chinese labs like Moonshot are training on outputs from US frontier models, the legal and competitive implications, and what it means for the US-China AI race; Trivium China&apos;s weekly recap on Xi Jinping&apos;s stance toward open-source AI and the evolving US-China tech and trade dynamics; PitchBook News on how AI comes at a cost — the real price of AI infrastructure build-out in private equity portfolios; The Credit Pitch by PitchBook on the private credit pressure gauge and where stress is building in the market; China Global South Podcast on what the Iran War reveals about China&apos;s power in the Persian Gulf — why China&apos;s commercial dominance hasn&apos;t translated into strategic influence; and Bay Area Founders Club&apos;s guide to 48 curated startup, AI, founder, and tech events happening across the Bay Area for the week of July 27.</description>
