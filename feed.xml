@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 28 Jul 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - July 29, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information exclusive on OpenAI&apos;s ChatGPT nearing 1 billion weekly active users &#8212; seven months past its target, with OpenAI doubling down on enterprise AI and expecting 50% of revenue from business customers; The Information on Anthropic&apos;s Claude Code reigning as the top AI coding tool despite rising interest in OpenAI Codex and open-source models; The Information AI Agenda on OpenAI and Anthropic quietly teaming up in Washington to shape AI policy and governance; The Information exclusive on Chinese AI startup Moonshot seeking more Nvidia Blackwell chips for its next model amid U.S. export controls; The Information AM on Nvidia making a multibillion-dollar investment in Ilya Sutskever&apos;s Safe Superintelligence (SSI); The Information Dealmaker on Jump Capital raising a $350 million fund focused on AI investments; The Information Applied AI on Cursor customers fighting price hikes in contract talks as the AI coding tool raises rates; The Information exclusive on Anthropic considering an unusual plan for employee stock sales ahead of its IPO; The Information exclusive on China beginning mass production of homegrown DUV chipmaking tools, advancing its domestic chip industry; and PitchBook on the Bain vs. Carlyle $7 billion wealth management fight and following AI capital across APAC.</description>
+      <pubDate>Wed, 29 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/AAD49072-5CD4-4EBA-8FA8-0DBCB6CA7CDC/audio-a1660da29c10c9590f84258e10d35d1a47b292958cf09c76ed10344fac1f5dcb.mp3" length="21199443" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: ChatGPT nears 1 billion weekly active users seven months past target; Anthropic&apos;s Claude Code leads AI coding despite Codex competition; OpenAI and Anthropic team up quietly in Washington; Moonshot AI seeks more Nvidia Blackwell chips; Nvidia invests multibillions in SSI; Jump Capital raises $350M AI fund; Cursor customers fight price hikes; Anthropic&apos;s unusual employee stock plan ahead of IPO; China begins mass production of homegrown DUV chip tools; and PitchBook on Bain vs. Carlyle $7B wealth fight and AI capital flows in APAC.</itunes:summary>
+      <itunes:duration>00:22:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1e6a0e69-08c7-4aae-a022-2afd8259b328/20260729</link>
+    </item>
     <item>
       <title>Lorenzo’s Daily Deep Dive - July 28, 2026</title>
       <description>Today’s AI and global news roundup covering: The Information on the Trump administration finalizing its AI governance framework — a voluntary model submission system drafted with OpenAI, Anthropic, and Google, due August 1, raising open-source vs. closed-source questions; Gary Marcus on the market’s growing skepticism of circular AI financing as Nvidia drops 4.5% after proposing a $250 billion data center backstop — Apple overtakes Nvidia in market cap; The Information on Nvidia’s next-generation AI servers offering early relief to cloud providers on data center setup challenges; The Information on flying taxi startups pivoting to Pentagon defense contracts as a new revenue source; The Information on robotics startup Tacta’s haptic glove for dexterous robot training; The Information AM on DeepSeek pausing its fundraising round, SpaceX completing its first post-IPO Starship test, and ChangXin Memory Technologies soaring 472% in its Shanghai debut; PitchBook on decacorns becoming the new unicorns as the $10B+ club expands; The Humanly Possible weekly AI roundup covering 15 major stories including OpenAI GPT-Live on desktop, Anthropic Claude Voice upgrades, Etched’s $300M raise at $10.3B, AMD–Anthropic 2GW chip deal, and Claude Fable 5 disproving an 87-year-old math conjecture; and Exponential View on AI market concentration, labor productivity signals, and the Bay Area’s 91% share of generative AI unicorn market cap.</description>
