@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 29 Jul 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - July 30, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Nvidia&apos;s bet on Reflection for open-source AI &amp;mdash; now the startup is in trouble; The Information on data center developers seeking bridge loans to speed AI buildout; The Information on why data labeling startups are paying HVAC companies $150,000 and more; The Information exclusive on Stripe&apos;s steep buyout price for OpenRouter amid multibillion-dollar acquisition talks; The Information on the silicon slump putting IPOs on ice; The Information on the Trump administration banning new humanoid robots from China; Gary Marcus on highlights from the discourse on the Hugging Face Incident and what AI misalignment really looks like in practice; and Gary Marcus on Dario Amodei taking it on the chin and what it reveals about the current state of AI safety debates.</description>
+      <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/7379A075-E06E-4994-9DF4-5336FB98CECF/audio-a7364d53b36f4b7f0a0de67fdfb55acb002c84c5aa8e9292585508cff642bf59.mp3" length="20827042" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-07-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Nvidia&apos;s bet on Reflection open-source AI startup falters; data center developers seek bridge loans to accelerate AI buildout; data labeling startups paying HVAC companies $150K+; Stripe&apos;s steep buyout price for OpenRouter; silicon slump chills IPO market; Trump bans new humanoid robots from China; Gary Marcus on the Hugging Face Incident and AI misalignment in practice; and Gary Marcus on Dario Amodei and the state of AI safety debates.</itunes:summary>
+      <itunes:duration>00:21:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/5b69b2ec-ff35-479c-83ca-2e9956c7d0fa/20260730</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - July 29, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information exclusive on OpenAI&apos;s ChatGPT nearing 1 billion weekly active users &#8212; seven months past its target, with OpenAI doubling down on enterprise AI and expecting 50% of revenue from business customers; The Information on Anthropic&apos;s Claude Code reigning as the top AI coding tool despite rising interest in OpenAI Codex and open-source models; The Information AI Agenda on OpenAI and Anthropic quietly teaming up in Washington to shape AI policy and governance; The Information exclusive on Chinese AI startup Moonshot seeking more Nvidia Blackwell chips for its next model amid U.S. export controls; The Information AM on Nvidia making a multibillion-dollar investment in Ilya Sutskever&apos;s Safe Superintelligence (SSI); The Information Dealmaker on Jump Capital raising a $350 million fund focused on AI investments; The Information Applied AI on Cursor customers fighting price hikes in contract talks as the AI coding tool raises rates; The Information exclusive on Anthropic considering an unusual plan for employee stock sales ahead of its IPO; The Information exclusive on China beginning mass production of homegrown DUV chipmaking tools, advancing its domestic chip industry; and PitchBook on the Bain vs. Carlyle $7 billion wealth management fight and following AI capital across APAC.</description>
