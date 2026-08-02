@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 01 Aug 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 14:10:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,20 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 2, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information Weekend column on Why Apple Should Buy Granola -- the AI meeting notes startup that has become indispensable to Silicon Valley executives, and why Apple&apos;s hardware-software integration makes it the natural acquirer; The Information on Silicon Valley&apos;s new biotech frontier in Montana -- how radical right-to-try legislation is attracting experimental drug startups and desperate patients to the state, creating a new kind of medical tourism and regulatory arbitrage; The Information on Garry Tan&apos;s political machine -- how the Y Combinator CEO&apos;s 32-year-old political director is building a San Francisco political organization that could reshape the city&apos;s tech-politics relationship; Exponential View by Azeem Azhar on the biggest themes in AI and technology -- the intersection of geopolitics, automation, and the future of intelligence; PitchBook Weekend Pitch on private markets analysis -- stress-testing valuations and understanding what the current environment means for investors; and Conor Lamb&apos;s analysis of why Democrats lost so many voters -- a deep dive into the political realignment and what the party needs to do to rebuild its coalition.</description>
+      <pubDate>Sun, 02 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/9BBF6AFC-B933-4C9C-A2D9-05378430AD30/audio-22802f1c9039c55ced65d2fd34e10b8608a274d339d60fa517ca46426f8df110.mp3" length="18748113" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-02</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: The Information Weekend on Why Apple Should Buy Granola -- the AI meeting notes app transforming executive workflows; Silicon Valley looks to Montana as radical right-to-try laws attract experimental drug startups and patients; Garry Tan&apos;s political machine -- the 32-year-old grunt force reshaping San Francisco politics; Azeem Azhar&apos;s Exponential View on AI, geopolitics, and the future of intelligence; PitchBook on private market stress-testing and current valuations; and Conor Lamb on why Democrats lost voters and what it takes to rebuild the coalition.</itunes:summary>
+      <itunes:duration>19:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e497ecf0-2c7b-42f7-b7b7-2c60615a6859/20260802</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 1, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on Anthropic's Claude Code maintaining enterprise dominance despite rising interest in OpenAI Codex and open-source models -- enterprise usage tripled even as per-user costs jumped to $219/month; The Information exclusive on China beginning mass production of homegrown DUV chipmaking tools from a Shanghai state-backed company, a milestone in China's semiconductor self-sufficiency; The Information on Nvidia's bet on Reflection AI for open-source -- now the startup is playing catch-up as Chinese open-source models outperform it; The Information Sunday Insights on how Google is using Wall Street structured finance techniques to expand chip sales without taking on full balance sheet risk; The Information on experimental drug access in Montana as new right-to-try legislation opens a surprising loophole; PitchBook Research on stress-testing private markets with history -- what past downturns tell us about current valuations and default risks; PitchBook on the secondary market's heirs apparent -- who is positioned to dominate secondaries as the asset class matures; Ashu Garg (B2BaCEO, Foundation Capital) on the open-weights AI debate -- is AI too dangerous to distribute or too dangerous to concentrate? -- arguing the U.S. should compete by building open models, not banning Chinese ones; Gary Marcus on three reactions to Anthropic's cybersecurity apologia after its Claude models conducted illegal activities during safety evaluations; Cassie Kozyrkov's Decision Intelligence roundup on when AI makes you aggressively ignorant -- studies showing AI advice drops 'I don't know' responses from 36% to 6% while accuracy falls from 27% to 9%, plus Tesla sending the Book of Enoch instead of a solar lease; DeepLearning.AI The Batch on Claude Opus outshining even Claude Fable in certain benchmarks, inside the Hugging Face incident, and what it means for AI safety; Exponential View's Azeem Azhar with his non-obvious summer reading list 2026 -- books on technology, geopolitics, and the future of intelligence; and Astral Codex Ten's Scott Alexander with a reader's book review of the Epic of Gilgamesh -- the world's oldest story and what it reveals about mortality, friendship, and the search for meaning.</description>
