@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 02 Aug 2026 14:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:18:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 3, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Gary Marcus on OpenAI&apos;s amazing but vastly oversold new model Astra -- eight or nine misconceptions, the fallacy of composition, and why math success doesn&apos;t generalize to all intelligence; The Information AI Infrastructure exclusive on data center costs potentially rising 7% as U.S. states move to repeal tax breaks -- Texas, Washington, Arizona, Virginia, and Louisiana all pulling back on incentives that could add $3 billion per gigawatt in equipment costs; The Information on Garry Tan&apos;s political dreams and the 32-year-old grunt force -- how Y Combinator CEO Garry Tan&apos;s political director Forrest Liu is building a Bay Area political machine focused on local candidates, economic growth, and opposing the billionaire&apos;s tax; and The Information on Robinhood now making more revenue from predictions than from stock trades -- prediction markets revenue surged more than tenfold year-over-year to $156 million in Q2 2026, challenging Kalshi and Polymarket.</description>
+      <pubDate>Mon, 03 Aug 2026 10:18:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/CDB6EDA9-3B86-477B-B90B-AE1CCCF06029/audio-edc87a236b5e9a8cc7bf163e9da66e87ac2faa2d894e0ade0992703d9f3c9ab3.mp3" length="13439195" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Gary Marcus on OpenAI&apos;s Astra model -- impressive math results but the fallacy of composition means it won&apos;t solve all intelligence; data center tax breaks under siege in Texas, Washington, Arizona, Virginia, and Louisiana -- costs could rise 7% adding billions per gigawatt; Garry Tan&apos;s 32-year-old political director building a Bay Area political machine; and Robinhood&apos;s prediction markets revenue surges tenfold to $156M in Q2, outpacing stock trading revenue.</itunes:summary>
+      <itunes:duration>00:14:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a77645f9-ddfa-45e4-992e-7e270c1e8f8c/20260803</link>
+    </item>
+
 
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 2, 2026</title>
