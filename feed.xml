@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 03 Aug 2026 10:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:20:43 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 4, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information Electric on why today&apos;s AI giants may not be the big winners -- Steve LeVine draws the electricity analogy, arguing AI is a general-purpose technology where the biggest fortunes go to product makers, not AI model creators, and both the US and China are making &quot;fortress&quot; mistakes with trade restrictions; The Information AI Agenda on Google DeepMind&apos;s chief strategy officer declaring recursive self-improvement (RSI) is the key investment thesis behind unprecedented AI capex -- plus Alphabet&apos;s true 2026 capex is closer to $85 billion, not the $75 billion guidance, and DeepSeek V4-Pro with 6x more parameters is imminent; The Information on the White House hosting OpenAI, Google, and Anthropic on Tuesday to review a completed voluntary AI oversight framework requiring model submission before public release; The Information exclusive on how Apple&apos;s iCloud policy accidentally gave more than 400 former employees -- now at OpenAI -- continued access to confidential Apple files, fueling the Apple vs. OpenAI trade secrets lawsuit; The Information AM briefings: OpenAI previews &apos;Astra&apos; model family with multi-agent long-running tasks demonstrated to DC policymakers; Amazon completes its full $50 billion OpenAI investment by putting in the remaining $35 billion; DeepSeek V4-Flash makes a splash with 60% lower costs than GPT-5.6 Luna; Alibaba&apos;s Qwen3.8-Max launches at lower prices than Kimi K3 with 2.4 trillion parameters; and SemiAnalysis&apos; Dylan Patel targets a $400 million VC fund; and Astral Codex Ten on whether AI forecasting has room at the top -- Scott Alexander argues 70-30 for &quot;ultraforecasting&quot; as AI surpasses human superforecasters, with geopolitical questions far more predictable than sports and non-miraculous AI gains still improving accuracy by 4-12 percentage points.</description>
+      <pubDate>Tue, 04 Aug 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/A4899410-8421-4BFC-860F-A84AD724BDBC/audio-5ddbcef219029f683df07647d66ab0d764c6467a0af7c687a738d546a9580cb1.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: The Information Electric -- AI is like electricity, the big winners will be product makers not AI creators, and US/China trade restrictions are both &quot;fortress&quot; mistakes; Google DeepMind&apos;s RSI thesis and Alphabet&apos;s $85B true capex; White House hosts AI companies to review completed voluntary oversight framework; Apple&apos;s iCloud policy accidentally gave 400+ OpenAI employees access to confidential files; OpenAI&apos;s new &apos;Astra&apos; multi-agent model; Amazon completes $50B OpenAI investment; DeepSeek V4-Flash with 60% cost savings; Alibaba Qwen3.8-Max vs. Kimi K3; SemiAnalysis Dylan Patel&apos;s $400M VC fund; and Scott Alexander on AI ultraforecasting -- 70-30 odds that AI will far surpass human superforecasters.</itunes:summary>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/294a3c6f-892a-435f-b4c1-101e6b82d3b3/20260804</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 3, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Gary Marcus on OpenAI&apos;s amazing but vastly oversold new model Astra -- eight or nine misconceptions, the fallacy of composition, and why math success doesn&apos;t generalize to all intelligence; The Information AI Infrastructure exclusive on data center costs potentially rising 7% as U.S. states move to repeal tax breaks -- Texas, Washington, Arizona, Virginia, and Louisiana all pulling back on incentives that could add $3 billion per gigawatt in equipment costs; The Information on Garry Tan&apos;s political dreams and the 32-year-old grunt force -- how Y Combinator CEO Garry Tan&apos;s political director Forrest Liu is building a Bay Area political machine focused on local candidates, economic growth, and opposing the billionaire&apos;s tax; and The Information on Robinhood now making more revenue from predictions than from stock trades -- prediction markets revenue surged more than tenfold year-over-year to $156 million in Q2 2026, challenging Kalshi and Polymarket.</description>
