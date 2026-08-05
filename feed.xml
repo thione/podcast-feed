@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 04 Aug 2026 10:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 5, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Palantir stock surges as U.S. enterprise sales jump 149% to $764 million in Q2; Microsoft closes up for 2026; Anthropic&apos;s Claude Code maintains enterprise dominance despite rising competition from OpenAI Codex and open-source models -- enterprise usage tripled even as per-user costs hit $219/month; TSMC develops Intel-like EMIB chip packaging technology to counter Intel&apos;s competitive threat; Nvidia&apos;s bet on Reflection open-source AI startup falters as Chinese models catch up; OpenRouter financials reveal steep price for potential acquirer Stripe -- $50M ARR at $1.3B valuation in acquisition talks; Exclusive: Airtable acquisition by Bending Spoons includes AI carveout run by founder Howie Liu; How firms like Coinbase are building coding agents -- Coinbase&apos;s Forge agent complements Anthropic&apos;s Claude Code; Exclusive: Customer feedback startup Listen Labs in talks for $125 million financing led by Anthropic investor; Why a SpaceX-Tesla merger could benefit shareholders in both companies; PitchBook on AI&apos;s hot new target -- cybersecurity funding hits inflection point, US manufacturing high, rise of super carry; and The New US Currency Paradigm -- the U.S. Treasury&apos;s coordinated yen intervention with Japan for the first time in 28 years, what it means for the global carry trade, and why Japan is the largest U.S. foreign creditor at $1.24 trillion in Treasuries.</description>
+      <pubDate>Wed, 05 Aug 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/3AA03B6F-447A-4AA9-9203-28B01F1810E5/audio-7f2d1d2902fcb18e5152e4ce2e32bd6f1c82285b448b09ff1083a58864ae6ba7.mp3" length="22600443" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Palantir Q2 U.S. enterprise sales surge 149%; Microsoft closes up for 2026; Claude Code dominates AI coding despite rising Codex and open-source competition; TSMC develops EMIB-like chip packaging to counter Intel; Nvidia&apos;s Reflection AI bet falters; OpenRouter in $50M ARR Stripe acquisition talks; Airtable acquired by Bending Spoons with AI carveout for founder; Coinbase&apos;s Forge coding agent; Listen Labs in talks for $125M Anthropic investor-led round; SpaceX-Tesla merger analysis; PitchBook on AI&apos;s hot new target in cybersecurity; and the U.S.-Japan coordinated yen intervention for the first time since 1998.</itunes:summary>
+      <itunes:duration>00:23:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/9e2035be-3f2f-4945-97d9-cabbe9b4524d/20260805</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 4, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information Electric on why today&apos;s AI giants may not be the big winners -- Steve LeVine draws the electricity analogy, arguing AI is a general-purpose technology where the biggest fortunes go to product makers, not AI model creators, and both the US and China are making &quot;fortress&quot; mistakes with trade restrictions; The Information AI Agenda on Google DeepMind&apos;s chief strategy officer declaring recursive self-improvement (RSI) is the key investment thesis behind unprecedented AI capex -- plus Alphabet&apos;s true 2026 capex is closer to $85 billion, not the $75 billion guidance, and DeepSeek V4-Pro with 6x more parameters is imminent; The Information on the White House hosting OpenAI, Google, and Anthropic on Tuesday to review a completed voluntary AI oversight framework requiring model submission before public release; The Information exclusive on how Apple&apos;s iCloud policy accidentally gave more than 400 former employees -- now at OpenAI -- continued access to confidential Apple files, fueling the Apple vs. OpenAI trade secrets lawsuit; The Information AM briefings: OpenAI previews &apos;Astra&apos; model family with multi-agent long-running tasks demonstrated to DC policymakers; Amazon completes its full $50 billion OpenAI investment by putting in the remaining $35 billion; DeepSeek V4-Flash makes a splash with 60% lower costs than GPT-5.6 Luna; Alibaba&apos;s Qwen3.8-Max launches at lower prices than Kimi K3 with 2.4 trillion parameters; and SemiAnalysis&apos; Dylan Patel targets a $400 million VC fund; and Astral Codex Ten on whether AI forecasting has room at the top -- Scott Alexander argues 70-30 for &quot;ultraforecasting&quot; as AI surpasses human superforecasters, with geopolitical questions far more predictable than sports and non-miraculous AI gains still improving accuracy by 4-12 percentage points.</description>
