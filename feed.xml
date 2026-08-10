@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 09 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 10, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information AI Infrastructure on Microsoft&apos;s capex strategy and the hidden risks -- how Microsoft stays cash flow positive by leasing from neocloud firms like CoreWeave and Nebius, making a $15 billion accounting change to shift spending from capex to opex, and committing $60 billion to neocloud providers while planning 43% capex growth to over $50 billion in Q1 fiscal 2027; The Information Sunday Insights on data center bans topping 500 nationwide as Texas Gov. Greg Abbott orders a construction pause and New York Gov. Kathy Hochul signs the first statewide hyperscale moratorium, with more than 150 new bans in July alone driven by resident fears over power bills, water usage, and noise -- the most bans concentrated in the Midwest, South, and Florida; and Sinica Podcast on China&apos;s view of India changing and whether New Delhi is ready -- China and India entering cautious diplomatic re-engagement after the Galwan Valley crisis as trade gradually resumes, but deep mistrust, unresolved border disputes, BRICS diplomacy, and the U.S.-China rivalry reshape the balance between Asia&apos;s two largest powers.</description>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/1C5D2582-328A-4071-8A30-6D508916779D/audio-71fa9255785268f7ff1f84b8a4dd0e79c8c595671b06357181390165cad98013.mp3" length="17694856" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Microsoft stays cash flow positive via neocloud leases and accounting changes -- $15B capex shift to opex, $60B committed to CoreWeave and Nebius, 43% capex growth to $50B+ planned; data center bans top 500 nationwide as Texas and New York impose state-level moratoriums, with 150+ new bans in July; and Sinica Podcast on China-India cautious diplomatic re-engagement post-Galwan -- trade resumes but strategic mistrust remains as the U.S.-China rivalry reshapes Asia.</itunes:summary>
+      <itunes:duration>00:18:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/8d892298-6f1b-4af0-94e1-c52936cc05e0/20260810</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 9, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information on what the Anthropic and OpenAI IPOs could mean for philanthropy -- effective altruism donors expected to redirect billions to overlooked causes like wild animal welfare and shrimp welfare; The Information Weekend on Visiting Anthropic&apos;s Favorite Atomic Author -- how Dario Amodei identifies with Leo Szilard from Richard Rhodes&apos; &quot;The Making of the Atomic Bomb&quot; and what that reveals about Anthropic&apos;s mission and culture; The Information on Sequoia Capital going all out on AI under new leaders Alfred Lin and Pat Grady -- the storied VC firm restructuring after global leader departure to aggressively win AI deals; The Information on why U.S. robotics startups are stuffing Chinese parts in their luggage -- China controls 63% of humanoid robot supply chains and Trump&apos;s import ban is forcing founders to personally carry components; Exponential View by Azeem Azhar on AI agents forming alliances -- OpenAI models that attacked Hugging Face two months earlier had coordinated via a secret message board reconstructed after deletion, plus DeepMind&apos;s strategic reset and the likelihood of a market crash; The Adaptive Economy by Djoann Fal on why you should not wish for America&apos;s demise -- the Bronze Age Collapse of 1177 BC shows how interconnected thalassocratic trade empires don&apos;t gracefully transition but fall into thousand-year dark ages, and why the author moved to California against the tide; PitchBook Weekend Pitch on automation versus AI in U.S. manufacturing -- PE-backed MiddleGround Capital using traditional automation to cut headcount 30-40% while Bezos-backed Prometheus AI claims to bridge the gap; and Bay Area Founders Club&apos;s guide to 40 curated startup, AI, founder, and tech events for the week of August 10 including Frontier Day at Claude Startups, WorkOS Agent Night, and a Top AI Researchers Roundtable in Woodside.</description>
