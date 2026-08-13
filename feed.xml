@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 12 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:21:34 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 13, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information AM on Google&apos;s Gemini App hitting 1 Billion Monthly Users, with full deep-dives on Sequoia Capital going all out on AI under new leaders Alfred Lin and Pat Grady, how Dario Amodei spread Anthropic&apos;s religion and stirred up Silicon Valley, Canva hitting an AI speedbump on costs and ChatGPT competition, and AWS telling engineers to cut CPU waste amid unprecedented compute crunch; The Information Electric on combat drones giving lithium-metal battery startups their first commercial demand; The Information Finance on whether Wall Street-style contracts can tame volatile AI token prices; The Information AI Agenda on OnlyFans investor saying the company will &apos;never&apos; use AI to replace creators; The Information on Hyperliquid and others looking for a path to U.S. market through federal agencies; PitchBook on why the best unicorns aren&apos;t the biggest; and Astral Codex Ten on the quest for caffeine you can have at night.</description>
+      <pubDate>Thu, 13 Aug 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/56A189CE-23B7-4116-B47E-46FED31DC96F/audio-062b4c59819acd5c98142803e76458105e35500d8b012c74018e1a00282ccbd8.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Google&apos;s Gemini App hits 1B monthly users; Sequoia all-out on AI under Alfred Lin and Pat Grady; Dario Amodei profile -- Anthropic&apos;s &apos;religious leader&apos; CEO stirs Silicon Valley; Canva hits AI cost speedbump and ChatGPT competition; AWS engineers face CPU crunch as AI agents overwhelm capacity; combat drones drive lithium-metal battery demand; Wall Street-style AI token price contracts explored; OnlyFans investor vows never to replace creators with AI; Hyperliquid seeks U.S. market path; PitchBook on the best unicorns not being the biggest; and Scott Alexander on nighttime caffeine alternatives.</itunes:summary>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/33ce6305-2341-41d6-9c46-b1649d44ce56/20260813</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 12, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information AM on Nvidia May Backstop Up To 25% Of Projects From a $500 Billion Alliance With Wall Street Giants; The Information Dealmaker on a New Israeli Fund Getting an Early Exit and $1.1 Billion for Anton Levy&apos;s Layer Global; The Information on Kalshi Topping $4 Billion In Annualized Revenue as it Seeks a $40 Billion Valuation; The Information Applied AI on the Agriculture Department Tapping C3 AI to Trim its Salesforce Footprint; The Information exclusive on Sacks&apos; Craft Targeting $1 Billion in its First Fund Since the White House Stint; The Information exclusive on OnlyFans&apos; New Investor Revealing Financials and IPO Ambitions; The Information AI Agenda exclusive on Trajectory, Founded by Ex-Google and Apple Researchers, Raising Funding From Sequoia in a Back-to-Back Round; The Information exclusive on Nvidia Doubling Down on Its Own Advanced Open-Source AI Models; PitchBook on when &apos;diversified&apos; means two companies; Passing the Torch Newsletter on the Important Reality of AVs; The full Sequoia Capital story on Going All Out on AI Under New Leaders Alfred Lin and Pat Grady; The Information profile on How Dario Amodei Spread Anthropic&apos;s Religion and Stirred Up Silicon Valley; The Information on Canva Hitting an AI Speedbump on Costs and ChatGPT Competition; and The Information on AWS Telling Engineers to Cut CPU Waste Amid Crunch.</description>
