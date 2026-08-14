@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 13 Aug 2026 10:21:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:11:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 14, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information AM on Sequoia and Wellington in talks to back Kalshi at a $4 billion valuation; The Information on why Anthropic&apos;s &apos;First Lady&apos; Camilla Clark – wife of CEO Dario Amodei – took a winding road to the top as the startup&apos;s most consequential informal adviser, from Leap Motion revenue head to Anthropic&apos;s de facto first lady with ties to Eric Schmidt and Ivanka Trump; The Information Dealmaker on Y Combinator startups getting a new backer in Robinhood, which is investing in YC-backed companies at demo day valuations; The Information Applied AI on when Anthropic and OpenAI become cheaper to use than Chinese models – a cost-per-task analysis at enterprise scale; The Information AI Agenda on why the AI compute crunch is hitting Neolabs especially hard and what it means for AI infrastructure startups; The Information on how AI agents are creating a booming market for old data on Slack, GitHub, and Asana as OpenAI and Anthropic compete for enterprise training datasets; NFX on why AI is trapped in software and what founders should build next – the case for physical-world AI that needs power, hands, and steel; Karthik from Cue Labs on the Dot-AI Bubble – how to identify which AI companies are real businesses versus product demos; PitchBook on smaller cities and superior returns – why the best venture deals are increasingly outside major tech hubs; Signum Growth&apos;s Angela Dalton on Roblox&apos;s new carrot and stick strategy; and Conor Lamb on looking back at 2022 and where Democrats go from here.</description>
+      <pubDate>Fri, 14 Aug 2026 10:11:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/016F3B72-67A9-4214-BF96-E7647B7C1A5D/audio-f0bdbb285ac3c859fd54696688d21363ee554ca08fb453970c42e9e895bac8db.mp3" length="20872181" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Sequoia and Wellington in talks to back Kalshi at $4B; Anthropic&apos;s &apos;First Lady&apos; Camilla Clark profile – Dario Amodei&apos;s wife goes from Leap Motion revenue head to Anthropic&apos;s most consequential informal adviser; Robinhood backing YC startups at demo day valuations; Anthropic and OpenAI cost analysis vs. Chinese models at enterprise scale; AI compute crunch hitting Neolabs hard; AI agents creating booming market for old Slack, GitHub, and Asana data; NFX on why AI needs power, hands, and steel; Karthik on the Dot-AI Bubble; PitchBook on smaller cities and superior VC returns; Roblox&apos;s new carrot and stick strategy; and Conor Lamb on where Democrats go from here.</itunes:summary>
+      <itunes:duration>00:21:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ae208978-79e8-4874-8f7a-5cf0f50247ee/20260814</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 13, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information AM on Google&apos;s Gemini App hitting 1 Billion Monthly Users, with full deep-dives on Sequoia Capital going all out on AI under new leaders Alfred Lin and Pat Grady, how Dario Amodei spread Anthropic&apos;s religion and stirred up Silicon Valley, Canva hitting an AI speedbump on costs and ChatGPT competition, and AWS telling engineers to cut CPU waste amid unprecedented compute crunch; The Information Electric on combat drones giving lithium-metal battery startups their first commercial demand; The Information Finance on whether Wall Street-style contracts can tame volatile AI token prices; The Information AI Agenda on OnlyFans investor saying the company will &apos;never&apos; use AI to replace creators; The Information on Hyperliquid and others looking for a path to U.S. market through federal agencies; PitchBook on why the best unicorns aren&apos;t the biggest; and Astral Codex Ten on the quest for caffeine you can have at night.</description>
