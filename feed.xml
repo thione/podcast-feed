@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 14 Aug 2026 10:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:17:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 15, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: PitchBook Research on no multiple expansion — buy the supplier, covering AI infrastructure investment opportunities and the current VC valuation landscape; The Information exclusive on Nvidia nearing a $100 billion credit deal to guarantee financing for OpenAI&apos;s massive Ohio data center campus — a $500 billion project requiring 10 gigawatts, backed by SB Energy; The Information exclusive on Tesla nearing the unveiling of its radical new flying Roadster with SpaceX cold gas thrusters, targeting a stunt demonstration at McGregor, Texas; PitchBook News on the great OpenAI exec exodus — key leadership departures and what they mean for the company; Exponential View by Azeem Azhar on why the market misread Google&apos;s AI exodus — Jeff Dean and Sanjay Ghemawat leaving after a quarter century signals a shift in AI capital allocation, not a talent crisis; and Astral Codex Ten&apos;s Book Review Contest finalist on The Escape Artist — the remarkable true story of one of the few Jews ever to break out of Auschwitz.</description>
+      <pubDate>Sat, 15 Aug 2026 10:17:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/268D406A-CE73-45C5-BE43-814733757DFD/audio-75afa34d122583a37ec624559fd0840e63533d0675c8143eb61d04b04726a990.mp3" length="20784828" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: PitchBook on AI infrastructure supplier investment thesis; Nvidia nears $100B credit deal for OpenAI&apos;s Ohio data center — $500B project, 10 gigawatts; Tesla flying Roadster unveiling imminent with SpaceX cold gas thrusters at McGregor; PitchBook on the OpenAI exec exodus; Exponential View — Jeff Dean and Sanjay Ghemawat leaving Google signals AI capital reallocation, not talent crisis; and Astral Codex Ten&apos;s Book Review finalist on The Escape Artist — breaking out of Auschwitz.</itunes:summary>
+      <itunes:duration>00:21:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/5ef8215b-120d-40c3-9d97-6d1390a6953a/20260815</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 14, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information AM on Sequoia and Wellington in talks to back Kalshi at a $4 billion valuation; The Information on why Anthropic&apos;s &apos;First Lady&apos; Camilla Clark – wife of CEO Dario Amodei – took a winding road to the top as the startup&apos;s most consequential informal adviser, from Leap Motion revenue head to Anthropic&apos;s de facto first lady with ties to Eric Schmidt and Ivanka Trump; The Information Dealmaker on Y Combinator startups getting a new backer in Robinhood, which is investing in YC-backed companies at demo day valuations; The Information Applied AI on when Anthropic and OpenAI become cheaper to use than Chinese models – a cost-per-task analysis at enterprise scale; The Information AI Agenda on why the AI compute crunch is hitting Neolabs especially hard and what it means for AI infrastructure startups; The Information on how AI agents are creating a booming market for old data on Slack, GitHub, and Asana as OpenAI and Anthropic compete for enterprise training datasets; NFX on why AI is trapped in software and what founders should build next – the case for physical-world AI that needs power, hands, and steel; Karthik from Cue Labs on the Dot-AI Bubble – how to identify which AI companies are real businesses versus product demos; PitchBook on smaller cities and superior returns – why the best venture deals are increasingly outside major tech hubs; Signum Growth&apos;s Angela Dalton on Roblox&apos;s new carrot and stick strategy; and Conor Lamb on looking back at 2022 and where Democrats go from here.</description>
