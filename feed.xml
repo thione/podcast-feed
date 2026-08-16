@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 15 Aug 2026 10:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:17:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 16, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Nvidia in talks to invest up to $3 billion in SB Energy, the SoftBank Group-backed developer of a massive planned Ohio data center project for OpenAI, with Nvidia also in talks to provide around $100 billion in credit support and SB Energy planning an IPO as soon as next month; Exponential View by Azeem Azhar on the curious economics of AI agents -- Amazon spent $1.8 million on a Claude project that ran unnoticed for five months, while AI agent costs are dropping dramatically from $500/day to $6/day even as capabilities improve, plus data centers raising neighboring towns&apos; bond spreads and cutting school funding; PitchBook Weekend Pitch on why VCs are chasing chips -- global semiconductor funding hit $14.1 billion in the first half of 2026, on track to surpass last year&apos;s total by 50%, as AI infrastructure demand exceeds data center capacity; Sinica Podcast on Huawei&apos;s bamboo cicada PR disaster -- how a cheap children&apos;s toy sparked China&apos;s biggest corporate censorship crisis of the year, reviving a 300-year-old Qing dynasty verse about abuse of power; and Bay Area Founders Club&apos;s guide to 62 curated startup, AI, founder, and tech events for the week of August 17 including the Physical AI Sprint Hackathon, Mistral&apos;s Vibe Hackathon, and Claude Code workshops.</description>
+      <pubDate>Sun, 16 Aug 2026 10:17:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/EBCEA16F-0221-46D5-B48B-3FE43F3B8A18/audio-b6d2e6e520b43d5a1131f45430c57475314ba5b08ed72759609ea416bc5525fe.mp3" length="19682251" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-16</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Nvidia in talks to invest $3B in SB Energy for OpenAI&apos;s Ohio data center as SB Energy plans IPO; Exponential View on AI agent costs dropping from $500/day to $6/day even as capabilities improve, plus data centers straining neighboring towns; PitchBook on semiconductor VC funding hitting $14.1B in H1 2026 on track for 50% growth; Sinica on Huawei&apos;s bamboo cicada PR disaster reviving 300-year-old censorship verse; and 62 Bay Area tech events for August 17 week.</itunes:summary>
+      <itunes:duration>20:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/29c5e905-b1d5-4fca-a7d0-fabc1183e429/20260816</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 15, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: PitchBook Research on no multiple expansion — buy the supplier, covering AI infrastructure investment opportunities and the current VC valuation landscape; The Information exclusive on Nvidia nearing a $100 billion credit deal to guarantee financing for OpenAI&apos;s massive Ohio data center campus — a $500 billion project requiring 10 gigawatts, backed by SB Energy; The Information exclusive on Tesla nearing the unveiling of its radical new flying Roadster with SpaceX cold gas thrusters, targeting a stunt demonstration at McGregor, Texas; PitchBook News on the great OpenAI exec exodus — key leadership departures and what they mean for the company; Exponential View by Azeem Azhar on why the market misread Google&apos;s AI exodus — Jeff Dean and Sanjay Ghemawat leaving after a quarter century signals a shift in AI capital allocation, not a talent crisis; and Astral Codex Ten&apos;s Book Review Contest finalist on The Escape Artist — the remarkable true story of one of the few Jews ever to break out of Auschwitz.</description>
