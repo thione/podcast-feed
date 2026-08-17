@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 16 Aug 2026 10:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 17, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: The Information Electric on the battery startup renaissance -- next-generation battery companies breaking out of the valley of death as drone demand from Ukraine and Iran wars drives revenue, with Form Energy raising $750 million, Base Power raising $1 billion, and Sila Nanotechnologies getting a $1.4 billion Pentagon loan, plus Archer Aviation buying Boeing&apos;s Insitu drone unit for $200 million and Joby Aviation acquiring Resonant Sciences for $500 million; The Information Sunday Insights on the cloud strategy debate -- Nebius and CoreWeave pitching investors on short-term AI compute contracts commanding $40-50 million per megawatt annualized (double the typical rate) as AWS doubles down on 6.4-year average contract lengths backed by $100 billion commitments from OpenAI and Anthropic, with CoreWeave raising a $2.6 billion loan backed by three-year deals; and Flaneries Libres by Oussama Ammar on what you can&apos;t buy with code -- OpenAI and Anthropic paying massive premiums to PE firms like TPG, Bain Capital, and Blackstone not for capital but for access and distribution, as AI makes building software nearly free while enterprise sales cycles and trust remain unchanged, with lessons from Abridge partnering with NEJM and UpToDate for 214 years of institutional credibility.</description>
+      <pubDate>Mon, 17 Aug 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://autocontentapi.blob.core.windows.net/audios/managed-products/4447FAC8-0977-4E83-834A-0994524AC9CB/audio-9cd939a3e958782671899ba38203a5f224a80765ca2d272db78f77c119f45b4b.mp3" length="10456638" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Battery startup renaissance as drone demand ends 3-year slump -- Form Energy $750M, Base Power $1B, Sila $1.4B Pentagon loan, Archer buys Boeing&apos;s Insitu drone unit; cloud strategy debate -- Nebius and CoreWeave short-term AI contracts at $40-50M/MW vs. AWS&apos;s 6.4-year average deal length backed by OpenAI and Anthropic $100B commitments; and Oussama Ammar on what AI can&apos;t buy -- OpenAI and Anthropic pay PE firms for access and distribution as code gets cheap but enterprise trust remains priceless.</itunes:summary>
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7bd33589-be63-47b2-a341-f3b69a5b4a94/20260817</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 16, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information exclusive on Nvidia in talks to invest up to $3 billion in SB Energy, the SoftBank Group-backed developer of a massive planned Ohio data center project for OpenAI, with Nvidia also in talks to provide around $100 billion in credit support and SB Energy planning an IPO as soon as next month; Exponential View by Azeem Azhar on the curious economics of AI agents -- Amazon spent $1.8 million on a Claude project that ran unnoticed for five months, while AI agent costs are dropping dramatically from $500/day to $6/day even as capabilities improve, plus data centers raising neighboring towns&apos; bond spreads and cutting school funding; PitchBook Weekend Pitch on why VCs are chasing chips -- global semiconductor funding hit $14.1 billion in the first half of 2026, on track to surpass last year&apos;s total by 50%, as AI infrastructure demand exceeds data center capacity; Sinica Podcast on Huawei&apos;s bamboo cicada PR disaster -- how a cheap children&apos;s toy sparked China&apos;s biggest corporate censorship crisis of the year, reviving a 300-year-old Qing dynasty verse about abuse of power; and Bay Area Founders Club&apos;s guide to 62 curated startup, AI, founder, and tech events for the week of August 17 including the Physical AI Sprint Hackathon, Mistral&apos;s Vibe Hackathon, and Claude Code workshops.</description>
