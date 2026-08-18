@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 17 Aug 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 18, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Tesla readying August launch of its Cybercab robotaxi service in Austin with 60 cars — exploring autonomous vehicle commercialization; debate between Dario Amodei and medical experts on whether AI will truly cure cancer in 5–10 years — Gary Marcus argues the claims are vastly oversold given current AI limitations; Exponential View by Azeem Azhar on AI economy data showing annualized revenue surpassing $210 billion with productivity gains and enterprise adoption trends; Andrew Yang&apos;s summer reflections including news of Anthropic&apos;s planned IPO and optimism about AI&apos;s societal potential; and an underreported stories roundup covering surprising market developments and emerging trends with significant but overlooked impact on tech and business.</description>
+      <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/06C5A2D0-A11A-483D-B605-E242DFCCAF46/audio-457a7dbf61956f4de648ce5226bc6b754f937d2e2d31895cd308080fd7b0c253.mp3" length="18803283" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Tesla launches Cybercab robotaxi in Austin with 60 cars; Gary Marcus vs. Dario Amodei on AI curing cancer — the claims are oversold; Exponential View on AI economy hitting $210B+ annualized revenue; Andrew Yang&apos;s summer reflections on Anthropic IPO and AI&apos;s societal potential; and underreported market stories with outsize impact.</itunes:summary>
+      <itunes:duration>19:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ca496bfc-e637-4e71-b189-6f40c2a47ace/20260818</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 17, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: The Information Electric on the battery startup renaissance -- next-generation battery companies breaking out of the valley of death as drone demand from Ukraine and Iran wars drives revenue, with Form Energy raising $750 million, Base Power raising $1 billion, and Sila Nanotechnologies getting a $1.4 billion Pentagon loan, plus Archer Aviation buying Boeing&apos;s Insitu drone unit for $200 million and Joby Aviation acquiring Resonant Sciences for $500 million; The Information Sunday Insights on the cloud strategy debate -- Nebius and CoreWeave pitching investors on short-term AI compute contracts commanding $40-50 million per megawatt annualized (double the typical rate) as AWS doubles down on 6.4-year average contract lengths backed by $100 billion commitments from OpenAI and Anthropic, with CoreWeave raising a $2.6 billion loan backed by three-year deals; and Flaneries Libres by Oussama Ammar on what you can&apos;t buy with code -- OpenAI and Anthropic paying massive premiums to PE firms like TPG, Bain Capital, and Blackstone not for capital but for access and distribution, as AI makes building software nearly free while enterprise sales cycles and trust remain unchanged, with lessons from Abridge partnering with NEJM and UpToDate for 214 years of institutional credibility.</description>
