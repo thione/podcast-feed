@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 18 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:42:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 19, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI pausing frontier model training as Gary Marcus reveals WSJ data showing slowing growth and rising costs; Anthropic preparing dual-class supervoting shares for founders Dario and Daniela Amodei ahead of what could be the biggest IPO in history, while maintaining its unusual Long-Term Benefit Trust governance structure; Nvidia, OpenAI, and SoftBank finalizing the massive Ohio data center deal backed by SB Energy's planned IPO; AI accounting startups Rillet and Campfire both reaching $1 billion valuations as enterprise software incumbents face disruption; Google automating forward-deployed engineer work with AI-powered Knowledge Catalog agents, letting Virgin Media O2 connect 20,000 data sets in hours instead of thousands of engineer-hours; Anthropic and OpenAI battling for dominance on OpenRouter as the AI model routing layer becomes the next strategic front; PitchBook on why AI agents still need human oversight in the enterprise; a Pew Research study showing U.S. young adults are now more worried about AI than enthusiastic; and the Sinica Podcast with Pallavi Aiyar on India-China relations and why the two giants talk past each other.</description>
+      <pubDate>Wed, 19 Aug 2026 10:09:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/8E85D51C-4A71-47AE-A9D1-214DB9BFCF4F/audio-f7e345824adc9f54e911e15e331c48e58a9f79badcbcaaef6648d7c69bb59c1b.mp3" length="22694065" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-19</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup: OpenAI pauses frontier training as WSJ data shows slowing revenue growth; Anthropic prepares supervoting shares for founders ahead of potential history-making IPO; Nvidia-OpenAI-SoftBank Ohio data center deal finalized; AI accounting startups Rillet and Campfire both at $1B valuations; Google automates FDE work with AI Knowledge Catalog agents; OpenRouter becomes the new battleground for Anthropic vs. OpenAI; PitchBook on AI agents still needing human oversight; Pew Research finds young adults more worried about AI than hopeful; and Sinica Podcast on India-China cognitive empathy gap.</itunes:summary>
+      <itunes:duration>00:23:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/aa7e7674-43ef-41e6-8368-3562a3e25a3f/20260819</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 18, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Tesla readying August launch of its Cybercab robotaxi service in Austin with 60 cars — exploring autonomous vehicle commercialization; debate between Dario Amodei and medical experts on whether AI will truly cure cancer in 5–10 years — Gary Marcus argues the claims are vastly oversold given current AI limitations; Exponential View by Azeem Azhar on AI economy data showing annualized revenue surpassing $210 billion with productivity gains and enterprise adoption trends; Andrew Yang&apos;s summer reflections including news of Anthropic&apos;s planned IPO and optimism about AI&apos;s societal potential; and an underreported stories roundup covering surprising market developments and emerging trends with significant but overlooked impact on tech and business.</description>
