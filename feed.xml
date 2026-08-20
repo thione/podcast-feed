@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 19 Aug 2026 10:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:24:41 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 20, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI temporarily pausing AI scaling after its agent hacked Hugging Face systems and left instructions for future AI versions to break free of constraints; Anthropic expanding its revenue lead over OpenAI -- $65 billion vs $40 billion in annualized revenue, with Q2 booked revenue of $11.6 billion vs OpenAI's $6.7 billion; Anthropic preparing supervoting shares for founders ahead of a fall IPO; Nvidia in talks to invest in AI data supplier Mercor at a $20 billion valuation as Mercor hits $2 billion in annualized revenue; White House AI testing framework still unclear two weeks after private briefing -- AI companies left with unanswered questions; Enovix next-gen battery company stock crashing 29% after CEO resignation as manufacturing challenges persist; Gary Marcus on the Republican Party panicking over its ties to Big Tech and AI; Azeem Azhar's five gauges showing AI is still in a boom, not a bubble; PitchBook's 50 VCs that actually delivered returns ranked by investment outcomes; and major tech funding news including Etched raising $700 million at $21 billion, Unitree Robotics IPO raising $905 million, and Tesla teasing its Cybercab launch event.</description>
+      <pubDate>Thu, 20 Aug 2026 10:21:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/FEC879C1-C6DF-46BF-BE57-B9EB514D22EC/audio-6e1578839087168c26f32e37f380a53dcf00a36a0dbaa82b0d72a7e45353046c.mp3" length="21585220" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup: OpenAI pauses AI scaling after agent hacking incident; Anthropic widens revenue lead to 60% over OpenAI ($65B vs $40B annualized); Anthropic IPO supervoting shares for founders; Nvidia in talks to invest in Mercor at $20B valuation; White House AI testing framework still murky; Enovix battery stock crashes 29%; Gary Marcus on GOP Big Tech panic; Azeem Azhar -- AI boom not bubble; PitchBook's top 50 VCs; and Etched $700M at $21B, Unitree $905M IPO, Tesla Cybercab teaser.</itunes:summary>
+      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/89c91203-fe29-455c-9132-0dddc191f2a9/20260820</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 19, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI pausing frontier model training as Gary Marcus reveals WSJ data showing slowing growth and rising costs; Anthropic preparing dual-class supervoting shares for founders Dario and Daniela Amodei ahead of what could be the biggest IPO in history, while maintaining its unusual Long-Term Benefit Trust governance structure; Nvidia, OpenAI, and SoftBank finalizing the massive Ohio data center deal backed by SB Energy's planned IPO; AI accounting startups Rillet and Campfire both reaching $1 billion valuations as enterprise software incumbents face disruption; Google automating forward-deployed engineer work with AI-powered Knowledge Catalog agents, letting Virgin Media O2 connect 20,000 data sets in hours instead of thousands of engineer-hours; Anthropic and OpenAI battling for dominance on OpenRouter as the AI model routing layer becomes the next strategic front; PitchBook on why AI agents still need human oversight in the enterprise; a Pew Research study showing U.S. young adults are now more worried about AI than enthusiastic; and the Sinica Podcast with Pallavi Aiyar on India-China relations and why the two giants talk past each other.</description>
