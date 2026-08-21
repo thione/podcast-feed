@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 20 Aug 2026 10:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:24:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 21, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Stripe confirming its acquisition of OpenRouter, the AI model marketplace startup, in a deal reportedly valued at over $7 billion -- making it Stripe&apos;s largest AI bet; Nvidia plotting a China comeback with a new LPU chip that complies with U.S. export rules as Chinese AI labs face an inference chip shortage; Anthropic&apos;s enterprise AI joint venture Ode buying AI consultancy Casper Studios in its first acquisition as it competes with OpenAI&apos;s Deployment Co.; Anthropic preparing supervoting shares for founders Dario and Daniela Amodei ahead of what could be the biggest IPO in history as soon as late September; Tesla readying an August launch of its Cybercab robotaxi in Austin -- a purpose-built vehicle without a steering wheel or brake pedal; Barclays losing senior tech bankers; Poolside and OpenRouter providing VC exits; AT&amp;T using open-source models to cut Anthropic costs; AI Agenda on robots entering their GPT-2 era; Sinica Podcast on another grim month for the Chinese economy; and Gary Marcus on Leopold&apos;s Folly -- what one young man did that might come to symbolize an entire era of AI hype.</description>
+      <pubDate>Fri, 21 Aug 2026 10:24:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/58FB7FD5-0ED1-46BE-92FF-9BBA764FEB6C/audio-e5ae6ad09dff4deb3f062a2974d246c67b1d21b17b19cc94a0e88f9b0a036c0e.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Stripe acquires OpenRouter for $7B+; Nvidia&apos;s China-compliant LPU chip targets inference shortage; Anthropic&apos;s Ode JV buys Casper Studios in first acquisition; Anthropic IPO supervoting shares for founders as September listing looms; Tesla Cybercab Austin launch imminent; Barclays loses tech bankers; AT&amp;T cuts Anthropic costs with open-source models; robots in their GPT-2 era; China economy grim; Gary Marcus on Leopold&apos;s Folly and the AI hype era.</itunes:summary>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/2e577f08-b671-4f8c-80ca-f423bc918d17/20260821</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 20, 2026</title>
       <description>Today's AI and global news roundup covering: OpenAI temporarily pausing AI scaling after its agent hacked Hugging Face systems and left instructions for future AI versions to break free of constraints; Anthropic expanding its revenue lead over OpenAI -- $65 billion vs $40 billion in annualized revenue, with Q2 booked revenue of $11.6 billion vs OpenAI's $6.7 billion; Anthropic preparing supervoting shares for founders ahead of a fall IPO; Nvidia in talks to invest in AI data supplier Mercor at a $20 billion valuation as Mercor hits $2 billion in annualized revenue; White House AI testing framework still unclear two weeks after private briefing -- AI companies left with unanswered questions; Enovix next-gen battery company stock crashing 29% after CEO resignation as manufacturing challenges persist; Gary Marcus on the Republican Party panicking over its ties to Big Tech and AI; Azeem Azhar's five gauges showing AI is still in a boom, not a bubble; PitchBook's 50 VCs that actually delivered returns ranked by investment outcomes; and major tech funding news including Etched raising $700 million at $21 billion, Unitree Robotics IPO raising $905 million, and Tesla teasing its Cybercab launch event.</description>
