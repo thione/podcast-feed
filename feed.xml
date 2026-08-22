@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 21 Aug 2026 10:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 22, 2026</title>
+      <description>Today's AI and global news roundup covering: Nvidia racing to lock up data center capacity by acquiring stakes in land and electricity developers Cloverleaf, Lancium, and SB Energy -- a bundling play to lock in its full hardware stack; the robotics industry's marketing arms race, with companies from Unitree to Figure AI to Tesla competing for the most extreme hype videos even as most humanoids are years from generating revenue; Nvidia paying $6 billion in a licensing deal for Poolside, the AI model startup, with investors including Felicis, Redpoint, and Bain Capital Ventures set to receive the payout; Barclays losing senior semiconductor and tech bankers to Morgan Stanley, Bank of America, and boutique Lazard; Anthropic preparing supervoting shares for CEO Dario Amodei and co-founders ahead of what could be the biggest IPO in history as soon as late September, while maintaining its unusual Long-Term Benefit Trust governance structure; Nebius and CoreWeave pitching investors on shorter-term AI cloud contracts for higher margins, while AWS doubles down on long-term deals; Tesla targeting an August public launch of its Cybercab robotaxi in Austin -- a purpose-built vehicle without a steering wheel; and Arctos Capital Partners acquiring a 10% stake in the Atlanta Falcons valuing the franchise at $10.6 billion -- its fourth NFL investment -- plus the debate over whether the &apos;semiliquid&apos; label is misleading for private credit investors.</description>
+      <pubDate>Sat, 22 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/A6BC2CF8-4E99-4FC8-B6D9-9EE0B5F13EA4/audio-05423fa5b3bf812660dbcb6c108b512291ef27f9812c33dd0cf83670d9b9caab.mp3" length="21997327" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup: Nvidia locks up land and electricity in Cloverleaf, Lancium, and SB Energy stakes as a hardware bundling play; robotics industry's hype video arms race -- from Unitree backflips to Figure AI grocery demos; Nvidia's $6B Poolside licensing deal with payouts to Felicis, Redpoint, and Bain; Barclays tech bankers flee to Morgan Stanley, BofA, and Lazard; Anthropic prepares supervoting shares for founders ahead of potential history-making IPO; Nebius and CoreWeave chase short-term cloud margins vs. AWS's long-term approach; Tesla Cybercab August launch in Austin without a steering wheel; and Arctos' fourth NFL stake in the Atlanta Falcons at $10.6B.</itunes:summary>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/bf353530-a059-4ea2-bd80-52c88215e46e/20260822</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 21, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Stripe confirming its acquisition of OpenRouter, the AI model marketplace startup, in a deal reportedly valued at over $7 billion -- making it Stripe&apos;s largest AI bet; Nvidia plotting a China comeback with a new LPU chip that complies with U.S. export rules as Chinese AI labs face an inference chip shortage; Anthropic&apos;s enterprise AI joint venture Ode buying AI consultancy Casper Studios in its first acquisition as it competes with OpenAI&apos;s Deployment Co.; Anthropic preparing supervoting shares for founders Dario and Daniela Amodei ahead of what could be the biggest IPO in history as soon as late September; Tesla readying an August launch of its Cybercab robotaxi in Austin -- a purpose-built vehicle without a steering wheel or brake pedal; Barclays losing senior tech bankers; Poolside and OpenRouter providing VC exits; AT&amp;T using open-source models to cut Anthropic costs; AI Agenda on robots entering their GPT-2 era; Sinica Podcast on another grim month for the Chinese economy; and Gary Marcus on Leopold&apos;s Folly -- what one young man did that might come to symbolize an entire era of AI hype.</description>
