@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 22 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:06:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 23, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Ethos Capital&apos;s Petra AI becoming the first PE firm to let AI run its entire business operations from deal sourcing to portfolio management; Nvidia AI chip prices set to rise 17% for Grace Blackwell 300 and Vera Rubin 200 systems, potentially adding $5 billion to the cost of a 1 gigawatt data center as memory and component costs surge; a stunning poll showing 75% of Americans now oppose data centers (up from 42% a year ago), with governors in Texas and Pennsylvania moving to restrict construction as Silicon Valley struggles to mount a coherent public defense; Azeem Azhar&apos;s Exponential View on why single AI agents dramatically outperform multi-agent systems -- groupthink and information loss in committee-style AI setups, when the Jevons paradox will kick in for AI economics, and how mathematics itself changes in an age of AI abundance; and Gary Marcus warning that Anthropic is using &apos;ARR&apos; to mean Annualized Run Rate (not Annual Recurring Revenue), a sleight-of-hand that inflates apparent growth metrics ahead of its IPO -- a critical distinction investors should understand.</description>
+      <pubDate>Sun, 23 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/F0B5872B-9ADA-4152-9F26-5CD771861473/audio-e4a6048d9ecc1e1fe6d3b949d59f9446cb9316376d1fd3d8d9431e3ef7b89915.mp3" length="20811577" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Ethos Capital&apos;s Petra AI runs an entire PE firm end-to-end; Nvidia chip prices rising 17% -- GB300 and Vera Rubin 200 hikes add $5B to 1GW data center costs; 75% of Americans now oppose data centers (up from 42%), Texas and Pennsylvania governors restrict construction; Azeem Azhar on why single AI agents beat multi-agent teams -- groupthink kills performance; and Gary Marcus on Anthropic&apos;s ARR metric sleight-of-hand ahead of its IPO.</itunes:summary>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7c57b671-2b58-42dd-af3f-74ed8dd1f7e2/20260823</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 22, 2026</title>
       <description>Today's AI and global news roundup covering: Nvidia racing to lock up data center capacity by acquiring stakes in land and electricity developers Cloverleaf, Lancium, and SB Energy -- a bundling play to lock in its full hardware stack; the robotics industry's marketing arms race, with companies from Unitree to Figure AI to Tesla competing for the most extreme hype videos even as most humanoids are years from generating revenue; Nvidia paying $6 billion in a licensing deal for Poolside, the AI model startup, with investors including Felicis, Redpoint, and Bain Capital Ventures set to receive the payout; Barclays losing senior semiconductor and tech bankers to Morgan Stanley, Bank of America, and boutique Lazard; Anthropic preparing supervoting shares for CEO Dario Amodei and co-founders ahead of what could be the biggest IPO in history as soon as late September, while maintaining its unusual Long-Term Benefit Trust governance structure; Nebius and CoreWeave pitching investors on shorter-term AI cloud contracts for higher margins, while AWS doubles down on long-term deals; Tesla targeting an August public launch of its Cybercab robotaxi in Austin -- a purpose-built vehicle without a steering wheel; and Arctos Capital Partners acquiring a 10% stake in the Atlanta Falcons valuing the franchise at $10.6 billion -- its fourth NFL investment -- plus the debate over whether the &apos;semiliquid&apos; label is misleading for private credit investors.</description>
