@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 23 Aug 2026 10:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:35:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 24, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Nvidia discussing a multi-billion-dollar investment in Perplexity at a $30 billion-plus valuation -- a shift from earlier licensing talks, as Perplexity&apos;s annualized revenue climbs to $750 million; prominent scientists pushing back on AI leaders&apos; claims about curing cancer, with cardiologist Eric Topol criticizing Demis Hassabis and Dario Amodei for &quot;dangerous overpromising&quot; and invoking the &quot;Andy Grove fallacy&quot;; China&apos;s Geely and SAIC advancing semisolid-state batteries with 440-mile EVs entering UK markets, while a congressionally mandated DOE report finds US startups producing &quot;negligible&quot; output and 106 Chinese companies dominating the supply chain; why Unitree&apos;s 460% IPO stock pop on China&apos;s A-share market wasn&apos;t unusual -- with mean first-day rises of 225% in 2025 driven by retail dominance, daily price caps, and scarcity of quality tech stocks; Beijing doubling down on long-term tech diffusion as its economic strategy rather than demand stimulus, as services consumption growth hits a two-year low; Evergrande founder Xu Jiayin sentenced to life in prison; first Nvidia H200 chips reaching ByteDance and Tencent ahead of Xi Jinping&apos;s September Washington visit; and Anthropic&apos;s flagship model struggling to attract users as cheaper AI alternatives thrive, raising questions ahead of a potential history-making IPO.</description>
+      <pubDate>Mon, 24 Aug 2026 10:35:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/4786F977-0E03-45F1-8477-CC69DC8D5BD6/audio-3d375bebef52fca37d7ee4e83681b1415de1fea1ff5a8b1fb2769689828fbe95.mp3" length="18684165" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-24</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Nvidia in talks to invest billions in Perplexity at $30B+ valuation (revenue up to $750M annualized); scientists call out AI leaders&apos; cancer cure claims as &quot;dangerous overpromising&quot; -- Topol vs. Hassabis and Amodei; China&apos;s Geely and SAIC advance semisolid-state batteries with 440-mile range EVs while US startups produce negligible output; why Unitree&apos;s 460% IPO pop is normal in China&apos;s A-share market; Beijing bets on tech diffusion, not stimulus; Evergrande founder sentenced to life; H200 chips reach ByteDance and Tencent ahead of Xi&apos;s September US visit; and Anthropic&apos;s best model struggles as cheaper AI tools thrive.</itunes:summary>
+      <itunes:duration>00:19:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/68d9fc8f-5901-48af-be26-02cf4778da0e/20260824</link>
+    </item>
+
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 23, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Ethos Capital&apos;s Petra AI becoming the first PE firm to let AI run its entire business operations from deal sourcing to portfolio management; Nvidia AI chip prices set to rise 17% for Grace Blackwell 300 and Vera Rubin 200 systems, potentially adding $5 billion to the cost of a 1 gigawatt data center as memory and component costs surge; a stunning poll showing 75% of Americans now oppose data centers (up from 42% a year ago), with governors in Texas and Pennsylvania moving to restrict construction as Silicon Valley struggles to mount a coherent public defense; Azeem Azhar&apos;s Exponential View on why single AI agents dramatically outperform multi-agent systems -- groupthink and information loss in committee-style AI setups, when the Jevons paradox will kick in for AI economics, and how mathematics itself changes in an age of AI abundance; and Gary Marcus warning that Anthropic is using &apos;ARR&apos; to mean Annualized Run Rate (not Annual Recurring Revenue), a sleight-of-hand that inflates apparent growth metrics ahead of its IPO -- a critical distinction investors should understand.</description>
