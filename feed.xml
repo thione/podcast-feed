@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 24 Aug 2026 10:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 25, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: Meta&apos;s upcoming &quot;Hatch&quot; AI agent platform launching in coming weeks with tiered pricing up to $199.99/month; Tim Cook&apos;s farewell at Apple Park as he hands the reins to John Ternus -- a rare personal moment with Cook acknowledging his partner; Elon Musk&apos;s first address to Cursor employees after SpaceX&apos;s $60B acquisition, telling staff that Grok is falling behind and needs to catch up with Anthropic; Amazon becoming increasingly vital for independent merchants as Google AI search reduces organic traffic and digital ad costs rise; Nvidia flagship chip prices rising 17% for Grace Blackwell 300 and Vera Rubin 200 systems -- adding $5B+ to gigawatt data center costs; Nvidia planning to lead a multibillion-dollar investment in Perplexity at $30B+ valuation; Gary Marcus on two ways the AI boom might fall apart -- gradually then suddenly; Andrew Yang on the collapse of institutional trust and why Gen Z&apos;s 13% trust rate signals a crisis; and Azeem Azhar&apos;s data showing AI agents now consuming 14x more tokens than humans.</description>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/F56061AA-A35F-4C87-BBA2-A828978F1732/audio-2a5dd5ce8e0277f48727473d88178ca7b72567b7e2e2a53f77b94e36821c98db.mp3" length="17519313" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Meta launches &quot;Hatch&quot; AI agent platform in coming weeks at up to $199.99/month; Tim Cook&apos;s farewell at Apple Park -- a rare personal moment as Ternus takes over; Musk tells Cursor staff Grok is falling behind Anthropic after $60B SpaceX acquisition; Amazon becomes vital for independent merchants as Google AI search cuts organic traffic; Nvidia chip prices rise 17% adding $5B+ to gigawatt data center costs; Nvidia leads Perplexity investment at $30B+; Gary Marcus on the gradual-then-sudden AI bubble collapse; Andrew Yang on Gen Z&apos;s 13% trust rate; and Azeem Azhar on AI agents consuming 14x more tokens than humans.</itunes:summary>
+      <itunes:duration>18:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a75fba26-73d2-40cb-8c37-7271cc66b419/20260825</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 24, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Nvidia discussing a multi-billion-dollar investment in Perplexity at a $30 billion-plus valuation -- a shift from earlier licensing talks, as Perplexity&apos;s annualized revenue climbs to $750 million; prominent scientists pushing back on AI leaders&apos; claims about curing cancer, with cardiologist Eric Topol criticizing Demis Hassabis and Dario Amodei for &quot;dangerous overpromising&quot; and invoking the &quot;Andy Grove fallacy&quot;; China&apos;s Geely and SAIC advancing semisolid-state batteries with 440-mile EVs entering UK markets, while a congressionally mandated DOE report finds US startups producing &quot;negligible&quot; output and 106 Chinese companies dominating the supply chain; why Unitree&apos;s 460% IPO stock pop on China&apos;s A-share market wasn&apos;t unusual -- with mean first-day rises of 225% in 2025 driven by retail dominance, daily price caps, and scarcity of quality tech stocks; Beijing doubling down on long-term tech diffusion as its economic strategy rather than demand stimulus, as services consumption growth hits a two-year low; Evergrande founder Xu Jiayin sentenced to life in prison; first Nvidia H200 chips reaching ByteDance and Tencent ahead of Xi Jinping&apos;s September Washington visit; and Anthropic&apos;s flagship model struggling to attract users as cheaper AI alternatives thrive, raising questions ahead of a potential history-making IPO.</description>
