@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 25 Aug 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:25:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 26, 2026</title>
+      <description>Today’s AI and global news roundup covering: DeepSeek’s revenue reaching $70 million in July as the fastest-growing AI company in history with 20,000 API customers and more monthly active users than OpenAI in China; Big Tech suddenly paying AI startups premium prices for access and distribution as code becomes nearly free while enterprise sales cycles remain unchanged; ClickHouse’s annual recurring revenue passing $400 million with a major Series C raise; Cursor officially entering the Musk era after SpaceX’s $60 billion acquisition as Elon tells staff Grok is falling behind and needs to catch up with Anthropic; Anthropic’s enterprise AI venture Ode buying AI consultancy in its first acquisition as it competes with OpenAI; Anthropic preparing supervoting shares for founders Dario and Daniela Amodei ahead of what could be the biggest IPO in history as soon as late September; Gary Marcus on Anthropic’s $30 trillion fantasy and whether AI can really deliver on its promises; and Scott Alexander on the highlights from AI safety and alignment research community debates.</description>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/122771AA-94FD-4544-BFA7-8DAEA51EFD39/audio-97ab5c81c86afd10b6105fdf46441906b747498e9a701fac529990de5344085b.mp3" length="24313657" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today’s AI and global news roundup: DeepSeek hits $70M monthly revenue with 20K API customers; Big Tech pays AI startups for access and distribution; ClickHouse ARR passes $400M; Cursor enters Musk era as SpaceX acquires for $60B; Anthropic’s Ode JV buys first consultancy; Anthropic prepares IPO supervoting shares for founders; Gary Marcus on Anthropic’s $30 trillion fantasy; and Scott Alexander on the AI alignment debate.</itunes:summary>
+      <itunes:duration>25:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3f6798cb-f656-49e3-b2f7-88e71590b5f0/20260826</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 25, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Meta&apos;s upcoming &quot;Hatch&quot; AI agent platform launching in coming weeks with tiered pricing up to $199.99/month; Tim Cook&apos;s farewell at Apple Park as he hands the reins to John Ternus -- a rare personal moment with Cook acknowledging his partner; Elon Musk&apos;s first address to Cursor employees after SpaceX&apos;s $60B acquisition, telling staff that Grok is falling behind and needs to catch up with Anthropic; Amazon becoming increasingly vital for independent merchants as Google AI search reduces organic traffic and digital ad costs rise; Nvidia flagship chip prices rising 17% for Grace Blackwell 300 and Vera Rubin 200 systems -- adding $5B+ to gigawatt data center costs; Nvidia planning to lead a multibillion-dollar investment in Perplexity at $30B+ valuation; Gary Marcus on two ways the AI boom might fall apart -- gradually then suddenly; Andrew Yang on the collapse of institutional trust and why Gen Z&apos;s 13% trust rate signals a crisis; and Azeem Azhar&apos;s data showing AI agents now consuming 14x more tokens than humans.</description>
