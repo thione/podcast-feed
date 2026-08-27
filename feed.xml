@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 26 Aug 2026 10:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:16:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 27, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: SoftBank in talks to buy a majority stake in humanoid robot maker 1X Technologies at a $6 billion valuation -- stepping back from a $10 billion target despite 10,000-plus pre-orders for its Neo robot; Nvidia agreeing to acquire Hugging Face, the open-source AI model repository, for $12.9 billion; Meta reaching an $18 billion settlement with 52 states and territories over alleged social media harm to children, closing one legal front while raising new risks for the broader tech industry; the Trump administration doubling down on silicon anodes by awarding Coreshell a grant to commercialize its silicon-coating technology for EV batteries; where investors are going to escape AI as the sector shows signs of saturation; how companies are using old-school software evaluation methods to benchmark AI agents; inside Nikesh Arora&apos;s deals hunt as Palo Alto Networks pursues major acquisitions under CEO Nikesh Arora; and Scott Alexander&apos;s 2026 ACX reader survey.</description>
+      <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/D3B60AF6-E6FF-41A0-821D-30E64C5B4D5F/audio-b203e7e05d4cd7ee39572da7174aacf21ca002bf3f5edde8e1ddb63329c01eec.mp3" length="21922095" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: SoftBank in talks for majority stake in humanoid maker 1X at $6B; Nvidia acquires Hugging Face for $12.9B; Meta settles with 52 states for $18B over social media harm to children; Trump admin grants Coreshell silicon anode funding; investor strategies to escape AI saturation; old-school software for AI agent evaluations; Palo Alto Networks&apos; M&amp;A hunt under Nikesh Arora; and Scott Alexander&apos;s 2026 reader survey.</itunes:summary>
+      <itunes:duration>22:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/dcca5fde-a1c6-4e30-b2e2-68d0d2c589fa/20260827</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 26, 2026</title>
       <description>Today’s AI and global news roundup covering: DeepSeek’s revenue reaching $70 million in July as the fastest-growing AI company in history with 20,000 API customers and more monthly active users than OpenAI in China; Big Tech suddenly paying AI startups premium prices for access and distribution as code becomes nearly free while enterprise sales cycles remain unchanged; ClickHouse’s annual recurring revenue passing $400 million with a major Series C raise; Cursor officially entering the Musk era after SpaceX’s $60 billion acquisition as Elon tells staff Grok is falling behind and needs to catch up with Anthropic; Anthropic’s enterprise AI venture Ode buying AI consultancy in its first acquisition as it competes with OpenAI; Anthropic preparing supervoting shares for founders Dario and Daniela Amodei ahead of what could be the biggest IPO in history as soon as late September; Gary Marcus on Anthropic’s $30 trillion fantasy and whether AI can really deliver on its promises; and Scott Alexander on the highlights from AI safety and alignment research community debates.</description>
