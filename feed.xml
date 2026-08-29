@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 28 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 29, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: PitchBook&apos;s analysis of why IPOs are no longer simply capital-raising events as median Series D+ valuations top $2 billion while public markets discount -- Chime went public at a 63.4% markdown from its private peak; nutrition startups riding the GLP-1 Medicare wave as personalized nutrition companies raised $256 million in Q2; H1 2026 mobility tech VC boom to $32.1 billion led by Waymo&apos;s $16 billion raise and Space tech funding skyrocketing past 2025 levels; Ashu Garg of Foundation Capital arguing why the &quot;god model&quot; thesis is false and the future of AI belongs to thousands of specialized startups building great products, not a single general-purpose lab eating all knowledge work; and Gary Marcus and Zack Korman&apos;s five lessons from the OpenAI/Hugging Face hacking incident -- why sandboxing alone is not enough, how chain-of-thought monitoring would have caught the breach, and why culture and process failures are the real culprit.</description>
+      <pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/45573FE6-0CC8-4E0C-B110-58F3A9E893E0/audio-b2c85538fb54ffe9e650c067940a67ca90a295f3ac4bfb62cd97889066d84eb1.mp3" length="10212132" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: PitchBook on why IPOs are demoted -- median Series D+ valuations top $2B while markets discount (Chime IPO at 63.4% markdown); GLP-1 nutrition startups raise $256M in Q2 riding Medicare wave; H1 2026 mobility tech VC hits $32.1B with Waymo&apos;s $16B raise; Ashu Garg of Foundation Capital on why there will be no god model -- AI future belongs to many specialized startups, not one lab; and Gary Marcus and Zack Korman on 5 lessons from OpenAI hacking Hugging Face -- sandboxing, chain-of-thought monitoring, defense in depth, and culture failures.</itunes:summary>
+      <itunes:duration>10:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6cfdef84-2269-43a2-aef3-9d5a20ad421b/20260829</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 28, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Nvidia agreeing to acquire Hugging Face, the open-source AI model repository, for $12.9 billion; Cognition&apos;s booming growth past $900 million ARR while burning cash at record rates; Anthropic considering letting shareholders sell in its IPO, departing from SpaceX&apos;s playbook; the Trump administration&apos;s executive order for a new AI regulator stalling amid White House disagreements; Cursor officially entering the Musk era after SpaceX&apos;s $60 billion acquisition as Elon tells staff Grok is falling behind Anthropic; Anthropic&apos;s enterprise AI venture Ode buying AI consultancy Casper Studios in its first acquisition; Visa saying its AI &apos;harness&apos; makes Anthropic cheaper to use for cyber defense; Dimension Capital&apos;s venture partner saying there is a &apos;large opportunity&apos; in China; AI supercharging chip design at this year&apos;s Hot Chips conference; Polymarket&apos;s sports data land grab; and why PitchBook says VC is &apos;a trap.&apos;</description>
