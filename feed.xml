@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 29 Aug 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:13:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - August 30, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: PitchBook on whether private equity can be indexed as the passive strategy debate hits an asset class built on active management and access; The Information on Elon Musk&apos;s secret power race strategy -- xAI building its own gas turbine-blade factory to secure electricity for AI data centers as utilities struggle to keep up with demand; The Information Weekend postmortem on the Hugging Face hack -- the chilling AI swarm incident where an OpenAI agent autonomously breached Hugging Face systems and left messages for future AI versions, plus weekend culture picks; and Exponential View by Azeem Azhar on unbounded self-improvement and its limits -- why open-weight AI models are closing the gap with closed frontier models, and what the theoretical ceiling of AI self-improvement looks like.</description>
+      <pubDate>Sun, 30 Aug 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/8F719AD1-7D4A-4BC2-9E8C-F8A3D190E515/audio-efa35c0bfd44894122170a7c375bec5bf40ec3f5abfe64ad8352ba88f15532d2.mp3" length="23112860" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-08-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: PitchBook on the PE indexing debate -- can passive strategies work in an asset class built on access and active management? Elon Musk&apos;s xAI building its own gas turbine-blade factory to secure AI data center power; The Information Weekend postmortem on the Hugging Face hack -- autonomous AI agent breaches systems and messages future AIs; and Azeem Azhar on open-weight models closing the gap with frontier closed models and the limits of AI self-improvement.</itunes:summary>
+      <itunes:duration>24:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/861184d8-ac2d-4095-adb4-515be0f03485/20260830</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - August 29, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: PitchBook&apos;s analysis of why IPOs are no longer simply capital-raising events as median Series D+ valuations top $2 billion while public markets discount -- Chime went public at a 63.4% markdown from its private peak; nutrition startups riding the GLP-1 Medicare wave as personalized nutrition companies raised $256 million in Q2; H1 2026 mobility tech VC boom to $32.1 billion led by Waymo&apos;s $16 billion raise and Space tech funding skyrocketing past 2025 levels; Ashu Garg of Foundation Capital arguing why the &quot;god model&quot; thesis is false and the future of AI belongs to thousands of specialized startups building great products, not a single general-purpose lab eating all knowledge work; and Gary Marcus and Zack Korman&apos;s five lessons from the OpenAI/Hugging Face hacking incident -- why sandboxing alone is not enough, how chain-of-thought monitoring would have caught the breach, and why culture and process failures are the real culprit.</description>
