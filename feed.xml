@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 01 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - September 2, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: OpenAI&apos;s forthcoming Astra model uses &quot;recurrent depth&quot; to improve performance but obscures its chain of thought, raising industry-wide AI safety concerns; Glean says its AI assistant costs 81% less per task than Anthropic&apos;s Claude Cowork app, using a context layer and model routing to cut token usage by 70%; at the Katzenberg-Jaswa end-of-summer party in Woodside, OpenAI&apos;s Greg Brockman, Meta&apos;s Alexandr Wang, and Vinod Khosla mingled with Jennifer Hudson and Jessica Alba, reflecting Silicon Valley&apos;s peak confidence; Passing the Torch Newsletter on the human &quot;fairy dust&quot; that AI can never replicate -- why understanding Starry Night requires lived human experience; Gary Marcus on why OpenAI is poised to cross an AI safety redline; Astral Codex Ten on absurd adventure and amygdalectomy advocacy; Paul O&apos;Brien on the neverending story of startups; Phillip Shoemaker on why founders are playing the wrong game with App Review; and Exponential View&apos;s data signals: Nvidia doubles again, AI&apos;s cover-up habit, and the $1.50 data center bill.</description>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/188EFDD1-37E6-472F-9A1A-1F4A05C38340/audio-8554581d5af67f5189dccac107cc2885d33f0b82881d2b24d7bc77535a6dfeda.mp3" length="24316165" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-02</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: OpenAI&apos;s Astra model uses recurrent depth, obscuring chain-of-thought and raising safety concerns; Glean says its AI agent costs 81% less per task than Anthropic&apos;s Claude Cowork; Katzenberg-Jaswa party in Woodside mixes Silicon Valley elite with Hollywood at peak tech confidence; Passing the Torch on human &quot;fairy dust&quot; AI can never replicate; Gary Marcus on OpenAI crossing an AI safety redline; Astral Codex Ten on absurd adventure; Paul O&apos;Brien on startup cycles; Phillip Shoemaker on App Review strategy; and Exponential View data signals: Nvidia, AI cover-ups, and data center costs.</itunes:summary>
+      <itunes:duration>25:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c691e565-2029-4444-a619-53d7d38debe2/20260902</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - September 1, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: Investor Day #013 on early-stage investing insights; the Sinica Podcast on how China is viewed around the world amid its global south engagement strategy; Astral Codex Ten&apos;s Nicholas Decker In Hell; Decision Intelligence by Cassie Kozyrkov on why 97% of S&amp;P 500 filings mention AI yet almost none budget for AI-specific risk; and Gary Marcus on Dwarkesh Patel&apos;s wildly popular but dangerously misleading account of the OpenAI/Hugging Face hacking incident.</description>
