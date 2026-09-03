@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 02 Sep 2026 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - September 3, 2026</title>
+      <description>Today&apos;s news roundup covering: PitchBook on the &quot;Biggest &amp; Baddest VCs&quot; -- tracking the most prolific venture firms; Astral Codex Ten on College EA Meetups Everywhere with 79 university effective altruism events across 15 countries in Fall 2026; Gary Marcus on Elon Musk&apos;s prediction rampage -- how Musk quietly moved his &quot;AI smarter than humans&quot; timeline from 2025 to 2027 without acknowledgment, and why the media fails to call him out (including a similar pattern with Sam Altman); The Free Press&apos; Big Read on The Devilish Legacy of Roy Cohn -- the infamous fixer for Joe McCarthy and Donald Trump who heralded a new kind of American politics; and The Free Press Front Page on the Pentagon &amp; Iran -- Army Secretary Dan Driscoll&apos;s resignation amid Hegseth&apos;s military purges, the Iran war heating up with new U.S. strikes, and the day&apos;s news including the Times Square stabbing, USPS mail-in voting whistleblower, Charlie Kirk murder trial, ICE&apos;s 2,100 arrests in NYC, and the Tupac Shakur murder conviction.</description>
+      <pubDate>Thu, 03 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/F4CE90A7-6E59-46C3-A09F-1894D91AFF6E/audio-6c62338f20ca8cceccf0649fbbc71ce80492acd12d0b55cb43739b26c36bade8.mp3" length="16265435" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: PitchBook on the &quot;Biggest &amp; Baddest VCs&quot;; Astral Codex Ten on 79 college EA meetups across 15 countries; Gary Marcus on Elon Musk&apos;s quietly-shifted AI prediction timelines and media complicity; The Free Press on Roy Cohn&apos;s devilish legacy -- fixer for McCarthy and Trump; and The Free Press Front Page on the Pentagon -- Hegseth firing generals, Iran war escalating with new U.S. strikes, Times Square stabbing, USPS whistleblower, Charlie Kirk trial, ICE NYC arrests, and Tupac murder conviction.</itunes:summary>
+      <itunes:duration>16:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/671af862-3ebb-4ace-9ea1-41350e9c1296/20260903</link>
+    </item>
 
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - September 2, 2026</title>
