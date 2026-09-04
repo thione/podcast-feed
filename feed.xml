@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 03 Sep 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:19:08 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 4, 2026</title>
+      <description>Today's newsletter roundup covering: NFX Fundraising Strategy, Gary Marcus on GPT-6 Astra, The Free Press on College &amp; AI in Education, Phillip Shoemaker on App Store Changes, Sanders-Casar AI Legislation, Signum Growth on SEC Crypto Regulation</description>
+      <pubDate>Fri, 04 Sep 2026 10:17:21 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/C2E390E2-EBDB-429E-80AA-366049D42BAD/audio-50787a6e57f85da41a5f2751f3adbc75a559244898667c8a2de0ac1e6c0970b7.mp3" length="20256945" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's newsletter roundup covering: NFX Fundraising Strategy, Gary Marcus on GPT-6 Astra, The Free Press on College &amp; AI in Education, Phillip Shoemaker on App Store Changes, Sanders-Casar AI Legislation, Signum Growth on SEC Crypto Regulation</itunes:summary>
+      <itunes:duration>00:21:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/5e9cde70-d7b0-437e-b399-c24bce3d9d96/20260904</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - September 3, 2026</title>
       <description>Today&apos;s news roundup covering: PitchBook on the &quot;Biggest &amp; Baddest VCs&quot; -- tracking the most prolific venture firms; Astral Codex Ten on College EA Meetups Everywhere with 79 university effective altruism events across 15 countries in Fall 2026; Gary Marcus on Elon Musk&apos;s prediction rampage -- how Musk quietly moved his &quot;AI smarter than humans&quot; timeline from 2025 to 2027 without acknowledgment, and why the media fails to call him out (including a similar pattern with Sam Altman); The Free Press&apos; Big Read on The Devilish Legacy of Roy Cohn -- the infamous fixer for Joe McCarthy and Donald Trump who heralded a new kind of American politics; and The Free Press Front Page on the Pentagon &amp; Iran -- Army Secretary Dan Driscoll&apos;s resignation amid Hegseth&apos;s military purges, the Iran war heating up with new U.S. strikes, and the day&apos;s news including the Times Square stabbing, USPS mail-in voting whistleblower, Charlie Kirk murder trial, ICE&apos;s 2,100 arrests in NYC, and the Tupac Shakur murder conviction.</description>
