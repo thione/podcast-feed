@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 04 Sep 2026 10:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:17:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 5, 2026</title>
+      <description>Today's newsletter roundup covering: OpenAI GPT-6 Astra Model security concerns, Coatue and MatX chip-financing venture, Andreessen Horowitz AI bets yielding $8B, Anthropic payments tech push, Fall 2026 tech preview, The Batch on coding agents, Gary Marcus on pausing OpenAI, The Free Press on the Lindsay Clancy case, Astral Codex Ten book review of The Tale of Genji, The Microdose on psychedelics FDA approval, and PitchBook on fundraising milestones and Oura pre-IPO buybacks.</description>
+      <pubDate>Sat, 05 Sep 2026 10:17:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/0722BF15-8316-477B-A6D4-29FB04FF8337/audio-c1abc6c307a93ebb9c83e5565b4c5a3ff9758f5ea7c42826a9c99fd782cddcca.mp3" length="21861909" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's newsletter roundup covering: OpenAI GPT-6 Astra Model security concerns, Coatue and MatX chip-financing venture, Andreessen Horowitz AI bets yielding $8B, Anthropic payments tech push, Fall 2026 tech preview, The Batch on coding agents, Gary Marcus on pausing OpenAI, The Free Press on the Lindsay Clancy case, Astral Codex Ten book review of The Tale of Genji, The Microdose on psychedelics FDA approval, and PitchBook on fundraising milestones and Oura pre-IPO buybacks.</itunes:summary>
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/14081c31-a086-4858-b9aa-e67f56cff079/20260905</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 4, 2026</title>
       <description>Today's newsletter roundup covering: NFX Fundraising Strategy, Gary Marcus on GPT-6 Astra, The Free Press on College &amp; AI in Education, Phillip Shoemaker on App Store Changes, Sanders-Casar AI Legislation, Signum Growth on SEC Crypto Regulation</description>
