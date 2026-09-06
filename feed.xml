@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 05 Sep 2026 10:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 6, 2026</title>
+      <description>Today's newsletter roundup covering: Exponential View EV#600 (GPT-6 Astra leads AI benchmarks), The Information Weekend (Hadi Partovi's Viking-themed wedding in Sweden), The Free Press (farewell to Gloria Steinem), The Adaptive Economy on robotaxis and the Machine Age, PitchBook Credit Pitch on software loans rebounding, and Bay Area tech events for the week.</description>
+      <pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/F352EE35-A7A3-4E3A-9D7B-D314BC1C2913/audio-8ff2068455464950695d9d019c41bbe50f56140c949e34386207af0bc0bf62b4.mp3" length="20515244" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-06</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's newsletter roundup covering: Exponential View EV#600 (GPT-6 Astra leads AI benchmarks), The Information Weekend (Hadi Partovi's Viking-themed wedding in Sweden), The Free Press (farewell to Gloria Steinem), The Adaptive Economy on robotaxis and the Machine Age, PitchBook Credit Pitch on software loans rebounding, and Bay Area tech events for the week.</itunes:summary>
+      <itunes:duration>00:21:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/55bd713b-1aaf-4f9f-b5c1-b1f49bac5cbb/20260906</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 5, 2026</title>
       <description>Today's newsletter roundup covering: OpenAI GPT-6 Astra Model security concerns, Coatue and MatX chip-financing venture, Andreessen Horowitz AI bets yielding $8B, Anthropic payments tech push, Fall 2026 tech preview, The Batch on coding agents, Gary Marcus on pausing OpenAI, The Free Press on the Lindsay Clancy case, Astral Codex Ten book review of The Tale of Genji, The Microdose on psychedelics FDA approval, and PitchBook on fundraising milestones and Oura pre-IPO buybacks.</description>
