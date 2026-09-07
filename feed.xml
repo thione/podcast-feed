@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 06 Sep 2026 11:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:57:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 7, 2026</title>
+      <description>Today's AI and global news roundup covering: Wayve/Tesla robotaxi launch in London, Anthropic's $517 billion in compute deals, The New Renaissance Human (future of work &amp; AI), Jensen Huang's AGI claims debunked by Gary Marcus, Startup Ecosystem trends, Astral Codex Ten Open Thread, and China's 'Western medicine works faster' viral moment</description>
+      <pubDate>Mon, 07 Sep 2026 10:57:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/1F2B34D5-83AE-4392-AFA9-D28750B02A1B/audio-d22d53f9b0a0c7410bf46f7b2bfacb7029bfece5e2ddd345a8b0a8b4b21e9094.mp3" length="21196518" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Wayve/Tesla robotaxi launch in London, Anthropic's $517 billion in compute deals, The New Renaissance Human (future of work and AI), Jensen Huang's AGI claims debunked by Gary Marcus, Startup Ecosystem trends, Astral Codex Ten Open Thread, and China's 'Western medicine works faster' viral moment</itunes:summary>
+      <itunes:duration>22:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/269e9f70-aaec-40e6-a84f-e2e5c5ba0699/20260907</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 6, 2026</title>
       <description>Today's newsletter roundup covering: Exponential View EV#600 (GPT-6 Astra leads AI benchmarks), The Information Weekend (Hadi Partovi's Viking-themed wedding in Sweden), The Free Press (farewell to Gloria Steinem), The Adaptive Economy on robotaxis and the Machine Age, PitchBook Credit Pitch on software loans rebounding, and Bay Area tech events for the week.</description>
