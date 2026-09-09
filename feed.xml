@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 07 Sep 2026 10:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:03:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 9, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information (China curbs humanoid IPOs, Gimlet AI funding, Hugging Face robotics, AWS Bedrock rebuild, ElevenLabs IPO plans, AI cybersecurity spending), Marcus on AI (Terence Tao dire warnings, OpenAI misconduct), Astral Codex Ten (mechanistic interpretability), Ekam Bajwa (philosophy)</description>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/77574F29-CEC5-43C5-8C4E-61CA749B89E9/audio-8c4d7f6404b71e2143ad8093314780ea639132d8a699659e2845d8760f6efab4.mp3" length="18918640" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information (China curbs humanoid IPOs, Gimlet AI funding, Hugging Face robotics, AWS Bedrock rebuild, ElevenLabs IPO plans, AI cybersecurity spending), Marcus on AI (Terence Tao dire warnings, OpenAI misconduct), Astral Codex Ten (mechanistic interpretability), Ekam Bajwa (philosophy)</itunes:summary>
+      <itunes:duration>00:19:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/01cc274e-63ba-4884-9351-7cd40ca6f2c2/20260909</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 7, 2026</title>
       <description>Today's AI and global news roundup covering: Wayve/Tesla robotaxi launch in London, Anthropic's $517 billion in compute deals, The New Renaissance Human (future of work &amp; AI), Jensen Huang's AGI claims debunked by Gary Marcus, Startup Ecosystem trends, Astral Codex Ten Open Thread, and China's 'Western medicine works faster' viral moment</description>
