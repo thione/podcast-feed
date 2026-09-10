@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 09 Sep 2026 11:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 10, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information exclusives on Jeffrey Katzenberg teaming with OpenAI Sora's former head on a new AI video startup, OpenAI restricting advertising for competing AI products in ChatGPT, White House AI whitelist confusion; Anthropic researcher's Terminator-style AI safety warning; Meta's launch of Muse AI agent; OpenAI math breakthrough; Ford vs. Trump official on EVs; Gary Marcus calling for an AI boycott; Joseph Gordon-Levitt on AI and human creativity; Senator Blumenthal demanding OpenAI transparency</description>
+      <pubDate>Thu, 10 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/613688D4-40FE-4795-82D6-5A0B667ED19E/audio-48150b9cf106b00cc5371832f455380e9907e0785998bec9d1d3bdf7adf2dafb.mp3" length="21876955" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information exclusives on Jeffrey Katzenberg teaming with OpenAI Sora's former head on a new AI video startup, OpenAI restricting advertising for competing AI products in ChatGPT, White House AI whitelist confusion; Anthropic researcher's Terminator-style AI safety warning; Meta's launch of Muse AI agent; OpenAI math breakthrough; Ford vs. Trump official on EVs; Gary Marcus calling for an AI boycott; Joseph Gordon-Levitt on AI and human creativity; Senator Blumenthal demanding OpenAI transparency</itunes:summary>
+      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3f15751a-d982-405e-af5a-74275831d1f4/20260910</link>
+    </item>
 
     <item>
       <title>Lorenzo's Daily Deep Dive - September 9, 2026</title>
