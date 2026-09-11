@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 10 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:25:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 11, 2026</title>
+      <description>Today's AI and global news roundup covering: Volition Capital's $950M bootstrapped founders fund (The Information Dealmaker), Instinct AI app compute crunch, Blackstone's AI financing bid, Salesforce vs Figma bets on the future of apps, Wall Street's new AI exit ramps, Anthropic researcher Jacob Coxon's AI safety warnings, SpaceX data center overhaul, Apple foldable iPhone launch (AM Briefing), China's Boxer Protocol history (Sinica), Ryan Hass on US-China strategic stalemate, AI safety debate: Gary Marcus vs Anderson Cooper's claims, Royce on San Francisco's future (Astral Codex Ten)</description>
+      <pubDate>Fri, 11 Sep 2026 10:25:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/C4B901F5-B34A-4D9F-9068-18E0E9DF47AF/audio-eeea70f4eb3c4fa2bde3199e1ef386b4bc84eef4a40a8bf8eae96d171823ba59.mp3" length="20890154" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-11</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Volition Capital's $950M bootstrapped founders fund (The Information Dealmaker), Instinct AI app compute crunch, Blackstone's AI financing bid, Salesforce vs Figma bets on the future of apps, Wall Street's new AI exit ramps, Anthropic researcher Jacob Coxon's AI safety warnings, SpaceX data center overhaul, Apple foldable iPhone launch (AM Briefing), China's Boxer Protocol history (Sinica), Ryan Hass on US-China strategic stalemate, AI safety debate: Gary Marcus vs Anderson Cooper's claims, Royce on San Francisco's future (Astral Codex Ten)</itunes:summary>
+      <itunes:duration>00:21:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d8ce77d3-6c8d-473f-aab9-8898cda1dc2c/20260911</link>
+    </item>
 
     <item>
       <title>Lorenzo's Daily Deep Dive - September 10, 2026</title>
