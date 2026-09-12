@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 11 Sep 2026 10:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:12:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 12, 2026</title>
+      <description>Today's AI and tech news roundup covering: The Information AM (Microsoft Azure expansion, Anthropic bioweapons report, SpaceX compute deals, OpenAI Astra pause, Oracle earnings, Amazon-ChatGPT ads, Chinese chip IPO, DOJ-Nvidia investigation, Hugging Face hack probe, Bending Spoons-Miro acquisition); DeepLearning.AI The Batch (AI Engineering skills for shaping the product build)</description>
+      <pubDate>Sat, 12 Sep 2026 10:10:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/FAA591D7-0957-43F5-8E1B-51A2D922CF93/audio-2b6e9cd507ec9a8b807400ab30732cc3534f71bf2c87d26f4c797536f783d1cb.mp3" length="20942398" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and tech news roundup covering: The Information AM (Microsoft Azure expansion, Anthropic bioweapons report, SpaceX compute deals, OpenAI Astra pause, Oracle earnings, Amazon-ChatGPT ads, Chinese chip IPO, DOJ-Nvidia investigation, Hugging Face hack probe, Bending Spoons-Miro acquisition); DeepLearning.AI The Batch (AI Engineering skills for shaping the product build)</itunes:summary>
+      <itunes:duration>00:21:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ae97dbb2-9496-464c-9d12-b82e3ef6cbf8/20260912</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 11, 2026</title>
       <description>Today's AI and global news roundup covering: Volition Capital's $950M bootstrapped founders fund (The Information Dealmaker), Instinct AI app compute crunch, Blackstone's AI financing bid, Salesforce vs Figma bets on the future of apps, Wall Street's new AI exit ramps, Anthropic researcher Jacob Coxon's AI safety warnings, SpaceX data center overhaul, Apple foldable iPhone launch (AM Briefing), China's Boxer Protocol history (Sinica), Ryan Hass on US-China strategic stalemate, AI safety debate: Gary Marcus vs Anderson Cooper's claims, Royce on San Francisco's future (Astral Codex Ten)</description>
