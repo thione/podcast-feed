@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 12 Sep 2026 10:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:12:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 13, 2026</title>
+      <description>Today's AI and tech news roundup covering: Exponential View #601 on the AI economy curve turning, OpenAI's Navier-Stokes breakthrough using 10,000 agents, and AI safety concerns with researchers departing Anthropic</description>
+      <pubDate>Sun, 13 Sep 2026 10:12:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/06C37116-4D97-47BC-A16D-62BA0D92AC2D/audio-f6799060257de8c7904ebe98cbf84a366d17015da20aa33252b2f85c3da0536b.mp3" length="20348060" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and tech news roundup covering: Exponential View #601 on the AI economy curve turning, OpenAI's Navier-Stokes breakthrough using 10,000 agents, and AI safety concerns with researchers departing Anthropic</itunes:summary>
+      <itunes:duration>00:21:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/bb4ad730-77f2-4b2c-abe4-b6bfa490c393/20260913</link>
+    </item>
 
     <item>
       <title>Lorenzo's Daily Deep Dive - September 12, 2026</title>
