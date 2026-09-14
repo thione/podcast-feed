@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 13 Sep 2026 10:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 14, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic's $13.7B compute deal with Rum Group, AI labs discussing a safety standards body, Amazon and Microsoft vs utilities over AI data centers, Nvidia's growing customer concentration, why Ford is right on Chinese batteries, Anthropic's $517B compute shopping list (Exponential View), Gary Marcus on Dario Amodei's AI pacing essay, and Passing the Torch weekly roundup.</description>
+      <pubDate>Mon, 14 Sep 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/7D5AB813-0B86-457F-AE73-EDEBDB2772AC/audio-798f120c771ce58894ed5d7ef6f2047fa3283bb5f4faab8261704edf04233f7b.mp3" length="20424965" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic's $13.7B compute deal with Rum Group, AI labs discussing a safety standards body, Amazon and Microsoft vs utilities over AI data centers, Nvidia's growing customer concentration, why Ford is right on Chinese batteries, Anthropic's $517B compute shopping list (Exponential View), Gary Marcus on Dario Amodei's AI pacing essay, and Passing the Torch weekly roundup.</itunes:summary>
+      <itunes:duration>00:21:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/065e8ad7-8d00-4e02-971b-7363ade621b1/20260914</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 13, 2026</title>
       <description>Today's AI and tech news roundup covering: Exponential View #601 on the AI economy curve turning, OpenAI's Navier-Stokes breakthrough using 10,000 agents, and AI safety concerns with researchers departing Anthropic</description>
