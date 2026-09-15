@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 14 Sep 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 15, 2026</title>
+      <description>Today's newsletter roundup covering: What would Adam Smith make of AI? (Exponential View by Azeem Azhar) and Why Innovation Was Never in the Urban Core (Startup Economist by Paul O'Brien)</description>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/7C43372D-B100-40BE-B91C-49F67AA0E634/audio-9632b752668a55b72272e330b8a2bf3fde2a02fdf57b6b3dc537f3ddb660c0be.mp3" length="22705768" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's newsletter roundup covering: What would Adam Smith make of AI? (Exponential View by Azeem Azhar) and Why Innovation Was Never in the Urban Core (Startup Economist by Paul O'Brien)</itunes:summary>
+      <itunes:duration>23:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c3a7e565-ca03-46ac-b95b-1f1adb99fe05/20260915</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 14, 2026</title>
       <description>Today's AI and global news roundup covering: Anthropic's $13.7B compute deal with Rum Group, AI labs discussing a safety standards body, Amazon and Microsoft vs utilities over AI data centers, Nvidia's growing customer concentration, why Ford is right on Chinese batteries, Anthropic's $517B compute shopping list (Exponential View), Gary Marcus on Dario Amodei's AI pacing essay, and Passing the Torch weekly roundup.</description>
