@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 15 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 16, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information: AI Agent Startup Instinct $10B Valuation; Meta Camera-Free Smart Glasses (Luna); ByteDance H1 Profit Drops; Erebor Bank Stablecoin Issues; AI Industry Pacing Movement; Anthropic Data Policy Drama; Claude Code Workarounds; Microsoft AI Kill Switches; PitchBook: AI Slowdown Impact</description>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/D4D8894F-EC2C-4BED-B5A9-68B773081331/audio-150a9b04de8dccee78672f87e6915a156a088bea760ceafd4990122cd115416e.mp3" length="21212400" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-16</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information: AI Agent Startup Instinct $10B Valuation; Meta Camera-Free Smart Glasses (Luna); ByteDance H1 Profit Drops; Erebor Bank Stablecoin Issues; AI Industry Pacing Movement; Anthropic Data Policy Drama; Claude Code Workarounds; Microsoft AI Kill Switches; PitchBook: AI Slowdown Impact</itunes:summary>
+      <itunes:duration>00:22:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7e4534c5-d049-4b1a-b0e0-7d2d68b26dde/20260916</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 15, 2026</title>
       <description>Today's newsletter roundup covering: What would Adam Smith make of AI? (Exponential View by Azeem Azhar) and Why Innovation Was Never in the Urban Core (Startup Economist by Paul O'Brien)</description>
