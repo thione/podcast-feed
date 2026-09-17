@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 16 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:14:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 17, 2026</title>
+      <description>Today's AI and global news roundup covering: Microsoft's AI chief on Anthropic's Claude Constitution, AI infrastructure financing, Apollo's AI hardware investments, Zipline's $20B valuation, Apple's server market return, AI superforecasting and the FDA, and AI safety debates</description>
+      <pubDate>Thu, 17 Sep 2026 10:14:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/9F18F7B0-D016-438D-91FC-1A9BC348587C/audio-66078301b40e8770eddf0a8d1a2e00692a59f3a1ab3be9a5e9b6e74061198818.mp3" length="19215391" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Microsoft's AI chief on Anthropic's Claude Constitution, AI infrastructure financing, Apollo's AI hardware investments, Zipline's $20B valuation, Apple's server market return, AI superforecasting and the FDA, and AI safety debates</itunes:summary>
+      <itunes:duration>00:20:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ca9e0e2d-4cca-43e5-b98e-69a2efe33903/20260917</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 16, 2026</title>
       <description>Today's AI and global news roundup covering: The Information: AI Agent Startup Instinct $10B Valuation; Meta Camera-Free Smart Glasses (Luna); ByteDance H1 Profit Drops; Erebor Bank Stablecoin Issues; AI Industry Pacing Movement; Anthropic Data Policy Drama; Claude Code Workarounds; Microsoft AI Kill Switches; PitchBook: AI Slowdown Impact</description>
