@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 17 Sep 2026 10:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 18, 2026</title>
+      <description>Today's AI and startup news: OpenAI's $1.2T+ valuation fundraise plans and why staying private makes sense; a critical security flaw found in four top AI coding agents (Claude Code, Codex, Gemini CLI, GitHub Copilot); NFX on why cybersecurity's future belongs to startups; PitchBook's 4 questions Anthropic's S-1 must answer (valued at $1.4T-$1.6T); Gary Marcus on why AI liability and regulation are not mutually exclusive; Azeem Azhar's warning about cognitive surrender to AI; Paul O'Brien on the Greatest American Hero as an entrepreneurship anthem; and Conor Lamb on Fetterman and Pennsylvania politics.</description>
+      <pubDate>Fri, 18 Sep 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/5DE12F88-1C1E-4DA6-9D05-98B5685E5D97/audio-cd13c9413f7d6aafccf578301afd32498c3e50195f324c039eb8573812a708eb.mp3" length="22950274" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and startup news: OpenAI's $1.2T+ valuation fundraise plans and why staying private makes sense; a critical security flaw found in four top AI coding agents (Claude Code, Codex, Gemini CLI, GitHub Copilot); NFX on why cybersecurity's future belongs to startups; PitchBook's 4 questions Anthropic's S-1 must answer (valued at $1.4T-$1.6T); Gary Marcus on why AI liability and regulation are not mutually exclusive; Azeem Azhar's warning about cognitive surrender to AI; Paul O'Brien on the Greatest American Hero as an entrepreneurship anthem; and Conor Lamb on Fetterman and Pennsylvania politics.</itunes:summary>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/208e17b3-2991-4616-b786-957d7fc48030/20260918</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 17, 2026</title>
       <description>Today's AI and global news roundup covering: Microsoft's AI chief on Anthropic's Claude Constitution, AI infrastructure financing, Apollo's AI hardware investments, Zipline's $20B valuation, Apple's server market return, AI superforecasting and the FDA, and AI safety debates</description>
