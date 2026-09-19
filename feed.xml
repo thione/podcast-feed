@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 18 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 19, 2026</title>
+      <description>Today's AI and global news roundup covering: Anthropic IPO timeline, AI safety watchdog groups, Chinese LLM startup Naive AI, OpenAI sales hires, building CEOs in PE (Alpine/Shore Capital), Ethan Mollick on the AI capability overhang, Gary Marcus on agentic AI hacking risks, Azeem Azhar on AI agent swarms, and Andrew Ng on responsible AI development.</description>
+      <pubDate>Sat, 19 Sep 2026 10:30:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/EFD04502-0682-4F02-B227-DCF5121E9E00/audio-e0d6e45cde27a1db33ec8cf2e63f85eeb68862f7587f6e7eb17df8c382165f97.mp3" length="21934216" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-19</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Anthropic IPO timeline, AI safety watchdog groups, Chinese LLM startup Naive AI, OpenAI sales hires, building CEOs in PE (Alpine/Shore Capital), Ethan Mollick on the AI capability overhang, Gary Marcus on agentic AI hacking risks, Azeem Azhar on AI agent swarms, and Andrew Ng on responsible AI development.</itunes:summary>
+      <itunes:duration>22:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/53f17a00-4f4d-452d-89c8-f7984292ca27/20260919</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 18, 2026</title>
       <description>Today's AI and startup news: OpenAI's $1.2T+ valuation fundraise plans and why staying private makes sense; a critical security flaw found in four top AI coding agents (Claude Code, Codex, Gemini CLI, GitHub Copilot); NFX on why cybersecurity's future belongs to startups; PitchBook's 4 questions Anthropic's S-1 must answer (valued at $1.4T-$1.6T); Gary Marcus on why AI liability and regulation are not mutually exclusive; Azeem Azhar's warning about cognitive surrender to AI; Paul O'Brien on the Greatest American Hero as an entrepreneurship anthem; and Conor Lamb on Fetterman and Pennsylvania politics.</description>
