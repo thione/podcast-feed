@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 19 Sep 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:30:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 20, 2026</title>
+      <description>Today's AI and global news roundup covering: PitchBook (Oura/wearables IPO &amp; data intelligence investing), The Information (Dario Amodei's tabloid era, AI safety debate, Tech's 50 Most Influential People), Gary Marcus on AI (Anthropic credibility concerns, Google Gemini security breach), Exponential View (AI politics, American attitudes toward AI, future of growth), STEINDER WEISEN (skincare routines for dry/sensitive skin), and The Substack Post Weekender (parenting, MrBeast, AI whistleblowers).</description>
+      <pubDate>Sun, 20 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/A141E912-244F-4462-93B5-8D6D554C86D3/audio-7fd30358c7cab0c34220a8b6dcd529c092d577b509a22a0bdbbd7278c9848f67.mp3" length="20059669" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: PitchBook (Oura/wearables IPO &amp; data intelligence investing), The Information (Dario Amodei's tabloid era, AI safety debate, Tech's 50 Most Influential People), Gary Marcus on AI (Anthropic credibility concerns, Google Gemini security breach), Exponential View (AI politics, American attitudes toward AI, future of growth), STEINDER WEISEN (skincare routines for dry/sensitive skin), and The Substack Post Weekender (parenting, MrBeast, AI whistleblowers).</itunes:summary>
+      <itunes:duration>20:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/eb8f1acf-885c-4b23-a2a6-42809e603aae/20260920</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 19, 2026</title>
       <description>Today's AI and global news roundup covering: Anthropic IPO timeline, AI safety watchdog groups, Chinese LLM startup Naive AI, OpenAI sales hires, building CEOs in PE (Alpine/Shore Capital), Ethan Mollick on the AI capability overhang, Gary Marcus on agentic AI hacking risks, Azeem Azhar on AI agent swarms, and Andrew Ng on responsible AI development.</description>
