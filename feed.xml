@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 20 Sep 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 21, 2026</title>
+      <description>Today's AI and global news roundup covering: Apple's foldable iPhone Duo bet ($27B first-year revenue projected), Pentagon drone competition winners backed by Eric Schmidt and the Trump family, Nvidia solving data center power bottlenecks, AI oversight and supervision emerging as funded operating layer, and Azeem Azhar's new AI Investment Brief.</description>
+      <pubDate>Mon, 21 Sep 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/4F8AE178-5ED2-4B70-85E4-53C5A4463808/audio-d132ad8a04c5ba86784037101f73a20d9515c4cbe91996f4f08e8d79a1a40592.mp3" length="20487241" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: Apple's foldable iPhone Duo bet ($27B first-year revenue projected), Pentagon drone competition winners backed by Eric Schmidt and the Trump family, Nvidia solving data center power bottlenecks, AI oversight and supervision emerging as funded operating layer, and Azeem Azhar's new AI Investment Brief.</itunes:summary>
+      <itunes:duration>00:21:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1bbc5a78-bb48-4316-8379-644c01b7be45/20260921</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 20, 2026</title>
       <description>Today's AI and global news roundup covering: PitchBook (Oura/wearables IPO &amp; data intelligence investing), The Information (Dario Amodei's tabloid era, AI safety debate, Tech's 50 Most Influential People), Gary Marcus on AI (Anthropic credibility concerns, Google Gemini security breach), Exponential View (AI politics, American attitudes toward AI, future of growth), STEINDER WEISEN (skincare routines for dry/sensitive skin), and The Substack Post Weekender (parenting, MrBeast, AI whistleblowers).</description>
