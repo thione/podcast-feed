@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 21 Sep 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:18:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 22, 2026</title>
+      <description>Today's AI and tech news roundup covering: Trump announces AI Force, OpenAI and Anthropic stress-test deal, OpenAI vs Grok Bot and Meta's Muse, DeepSeek bets on Huawei chips, CrowdStrike and Okta valuations, Luma AI world models, Gary Marcus at UN, Exponential View AI numbers</description>
+      <pubDate>Tue, 22 Sep 2026 10:18:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/E8DBA443-B146-431B-BF00-E45987E37A2D/audio-6de8623f65015fa12e1055b2f9d0f8ad40fd526753f59c98dc6d928cb546f7b4.mp3" length="22322500" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and tech news roundup covering: Trump announces AI Force, OpenAI and Anthropic stress-test deal, OpenAI vs Grok Bot and Meta's Muse, DeepSeek bets on Huawei chips, CrowdStrike and Okta valuations, Luma AI world models, Gary Marcus at UN, Exponential View AI numbers</itunes:summary>
+      <itunes:duration>00:23:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0b3d0e21-6921-4c5c-a648-a12dbe3511f3/20260922</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 21, 2026</title>
       <description>Today's AI and global news roundup covering: Apple's foldable iPhone Duo bet ($27B first-year revenue projected), Pentagon drone competition winners backed by Eric Schmidt and the Trump family, Nvidia solving data center power bottlenecks, AI oversight and supervision emerging as funded operating layer, and Azeem Azhar's new AI Investment Brief.</description>
