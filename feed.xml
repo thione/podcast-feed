@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 23 Sep 2026 10:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - September 24, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: DeepSeek revenue milestone and $7.5B fundraise; AI costs under control with open source models; Google Gemini 4 imminent release; GM battery cathode production bypassing China; AI Agenda Live highlights and Crusoe compute deal; Founders Fund and Khosla China visits; Meta Muse 500K users; Astral Codex Ten on Georgism five years later</description>
+      <pubDate>Thu, 24 Sep 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/E26A475E-CC9F-463B-86B1-C8CD06575EB5/audio-8eb0b156e834e05f75b82f40fe7436f077d01ec831e9269769668128fc7fd9e7.mp3" length="22179558" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-24</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: DeepSeek revenue milestone and $7.5B fundraise; AI costs under control with open source models; Google Gemini 4 imminent release; GM battery cathode production bypassing China; AI Agenda Live highlights and Crusoe compute deal; Founders Fund and Khosla China visits; Meta Muse 500K users; Astral Codex Ten on Georgism five years later</itunes:summary>
+      <itunes:duration>00:23:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e28b60d3-e879-4c45-968f-93a2764d50bb/20260924</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 23, 2026</title>
       <description>Today's AI and global news roundup covering: The Information (Anthropic data centers, Barrick Gold AI deal, GPU futures, AI eating software budgets, America&apos;s AI Dream, Erebor Bank/Syria, Software discounts, China probes DeepSeek), PitchBook (Oura IPO VCs), Substack: Astral Codex Ten (AI Generalization), Gary Marcus (Meta&apos;s Muse secret), Exponential View (AI cycle analysis)</description>
