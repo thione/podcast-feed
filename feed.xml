@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 24 Sep 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - September 25, 2026</title>
+      <description>Today&apos;s AI and global news roundup covering: DensityAI chip startup nears $10B valuation; Anthropic seeks Palantir-style voting control ahead of IPO; Google, OpenAI and Anthropic AI safety group; Tether bank partner asset seizure; Astral Codex Ten on neuralese recurrence in AI; Exponential View on AI revenue requirements; Applied AI, Finance, Dealmaker, and AI Agenda digests from The Information; PitchBook VC roundup</description>
+      <pubDate>Fri, 25 Sep 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/A2082777-7E3F-4607-8E26-6057F702810D/audio-f36336681557b9fca1ceee6b283ce0979c9b549293df3add7b9f26f6ebe62677.mp3" length="22313305" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup covering: DensityAI chip startup nears $10B valuation; Anthropic seeks Palantir-style voting control ahead of IPO; Google, OpenAI and Anthropic AI safety group; Tether bank partner asset seizure; Astral Codex Ten on neuralese recurrence in AI; Exponential View on AI revenue requirements; Applied AI, Finance, Dealmaker, and AI Agenda digests from The Information; PitchBook VC roundup</itunes:summary>
+      <itunes:duration>00:23:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/4d8ed8a0-f545-4160-9bd9-1899cd5d7dd9/20260925</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - September 24, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: DeepSeek revenue milestone and $7.5B fundraise; AI costs under control with open source models; Google Gemini 4 imminent release; GM battery cathode production bypassing China; AI Agenda Live highlights and Crusoe compute deal; Founders Fund and Khosla China visits; Meta Muse 500K users; Astral Codex Ten on Georgism five years later</description>
