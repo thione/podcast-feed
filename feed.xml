@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 25 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 26, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information (Fireworks/Fal inference demand, OpenAI biology contest drama, Tesla Optimus snags, AM briefing), PitchBook (Kalshi prediction markets), Exponential View (LLM safety/numbness, Meta Muse AI agents), Foundation Capital (AI safety as engineering), Astral Codex Ten (Lee Kuan Yew memoirs review), Marcus on AI (OpenAI security fiasco)</description>
+      <pubDate>Sat, 26 Sep 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/A8872451-A844-4B66-B488-C2ACB33AE2F8/audio-22728b9e53a739687e619242b314094ccc839645cb2012c2de6d6514b610bb24.mp3" length="20796113" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information (Fireworks/Fal inference demand, OpenAI biology contest drama, Tesla Optimus snags, AM briefing), PitchBook (Kalshi prediction markets), Exponential View (LLM safety/numbness, Meta Muse AI agents), Foundation Capital (AI safety as engineering), Astral Codex Ten (Lee Kuan Yew memoirs review), Marcus on AI (OpenAI security fiasco)</itunes:summary>
+      <itunes:duration>00:21:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d004fac3-4369-4b1e-9f42-b0cdb05f99cf/20260926</link>
+    </item>
     <item>
       <title>Lorenzo&apos;s Daily Deep Dive - September 25, 2026</title>
       <description>Today&apos;s AI and global news roundup covering: DensityAI chip startup nears $10B valuation; Anthropic seeks Palantir-style voting control ahead of IPO; Google, OpenAI and Anthropic AI safety group; Tether bank partner asset seizure; Astral Codex Ten on neuralese recurrence in AI; Exponential View on AI revenue requirements; Applied AI, Finance, Dealmaker, and AI Agenda digests from The Information; PitchBook VC roundup</description>
