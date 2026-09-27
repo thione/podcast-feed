@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 26 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 27, 2026</title>
+      <description>Today's AI and tech news roundup covering: Wall Street's AI bears, Meta's Muse digital assistant, evergreen private equity funds, collective AI governance, and AI agent security incidents</description>
+      <pubDate>Sun, 27 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/6F368762-BAB3-42D1-9BFD-DCDFAE6B6BD1/audio-6225ba6e2b18e7e16470af39788b0cc5c45e2e85b8a7de0cb9e96923990c7ff6.mp3" length="23272939" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and tech news roundup covering: Wall Street's AI bears, Meta's Muse digital assistant, evergreen private equity funds, collective AI governance, and AI agent security incidents</itunes:summary>
+      <itunes:duration>00:24:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d3dab5a8-3936-4c1b-880f-03746260e1c9/20260927</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 26, 2026</title>
       <description>Today's AI and global news roundup covering: The Information (Fireworks/Fal inference demand, OpenAI biology contest drama, Tesla Optimus snags, AM briefing), PitchBook (Kalshi prediction markets), Exponential View (LLM safety/numbness, Meta Muse AI agents), Foundation Capital (AI safety as engineering), Astral Codex Ten (Lee Kuan Yew memoirs review), Marcus on AI (OpenAI security fiasco)</description>
