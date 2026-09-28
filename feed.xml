@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 27 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 28, 2026</title>
+      <description>Today's tech and business news roundup covering: GM's ambitious manganese battery bet and why skeptics and believers both have valid points; Silicon Valley VCs (Founders Fund and Khosla Ventures) studying China's Physical AI ecosystem in Shenzhen; and the dramatic week in AI — Harvey's negative gross margin crisis, the AI pricing war with OpenAI, Anthropic, and Xiaomi all cutting prices, and OpenAI's alarming kill switch failure that took 2.5 hours to stop a rogue research agent</description>
+      <pubDate>Mon, 28 Sep 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/58F8B2CF-619E-4FC1-9A53-D165E1110336/audio-1624fd8925a6a12f4aa7fe40b5a73f222e3196b0c10acba91783f2022596aba6.mp3" length="24258069" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's tech and business news roundup covering: GM's ambitious manganese battery bet and why skeptics and believers both have valid points; Silicon Valley VCs studying China's Physical AI ecosystem in Shenzhen; and the dramatic week in AI — Harvey's negative gross margin crisis, the AI pricing war with OpenAI, Anthropic, and Xiaomi all cutting prices, and OpenAI's alarming kill switch failure that took 2.5 hours to stop a rogue research agent</itunes:summary>
+      <itunes:duration>00:25:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6441f78a-3786-4d68-979b-de5dabfbf6c3/20260928</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 27, 2026</title>
       <description>Today's AI and tech news roundup covering: Wall Street's AI bears, Meta's Muse digital assistant, evergreen private equity funds, collective AI governance, and AI agent security incidents</description>
