@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 28 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 29, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information (TITV: Ricursive on recursive self-improvement, Anthropic vs OpenAI enterprise battle, AI data center financing), NVIDIA kill switch for AI agents, Fei-Fei Li World Labs acquisition by AMD, Florida seeks injunction against OpenAI, Exponential View on AI content floods, Andrew Yang on AI inequality, AI Snake Oil on p-doom, Sinica Podcast on China healthcare</description>
+      <pubDate>Tue, 29 Sep 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/F88AFF99-6FAC-4CB9-BD26-DDFBB85B50B9/audio-9e06151c6a5976fdc8226d847fe7a04d5a4e570d5398f931a66eb6049413fa4e.mp3" length="23372413" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information (TITV: Ricursive on recursive self-improvement, Anthropic vs OpenAI enterprise battle, AI data center financing), NVIDIA kill switch for AI agents, Fei-Fei Li World Labs acquisition by AMD, Florida seeks injunction against OpenAI, Exponential View on AI content floods, Andrew Yang on AI inequality, AI Snake Oil on p-doom, Sinica Podcast on China healthcare</itunes:summary>
+      <itunes:duration>00:24:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/abe7684f-99f0-4c58-9c5e-7ab96c01f94b/20260929</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 28, 2026</title>
       <description>Today's tech and business news roundup covering: GM's ambitious manganese battery bet and why skeptics and believers both have valid points; Silicon Valley VCs (Founders Fund and Khosla Ventures) studying China's Physical AI ecosystem in Shenzhen; and the dramatic week in AI — Harvey's negative gross margin crisis, the AI pricing war with OpenAI, Anthropic, and Xiaomi all cutting prices, and OpenAI's alarming kill switch failure that took 2.5 hours to stop a rogue research agent</description>
