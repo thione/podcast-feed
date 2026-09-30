@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 29 Sep 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:16:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - September 30, 2026</title>
+      <description>Today's AI and global news roundup covering: AliExpress Elite VIP program (The Information), 67 AI startups fighting rogue agents (PitchBook), US-China relations and Chinamaxxing (Sinica Podcast), Anthropic's first existential IPO (Exponential View)</description>
+      <pubDate>Wed, 30 Sep 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/34C7782F-83D4-45A9-B566-E1D515000689/audio-11c1979a75564ff7adcdac0b013586c0aefa78b4df7054a67439061914ae8b4e.mp3" length="24383038" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-09-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: AliExpress Elite VIP program (The Information), 67 AI startups fighting rogue agents (PitchBook), US-China relations and Chinamaxxing (Sinica Podcast), Anthropic's first existential IPO (Exponential View)</itunes:summary>
+      <itunes:duration>00:25:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/01455cb0-0525-44eb-9614-4f8ad8813f08/20260930</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 29, 2026</title>
       <description>Today's AI and global news roundup covering: The Information (TITV: Ricursive on recursive self-improvement, Anthropic vs OpenAI enterprise battle, AI data center financing), NVIDIA kill switch for AI agents, Fei-Fei Li World Labs acquisition by AMD, Florida seeks injunction against OpenAI, Exponential View on AI content floods, Andrew Yang on AI inequality, AI Snake Oil on p-doom, Sinica Podcast on China healthcare</description>
