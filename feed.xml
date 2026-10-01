@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 30 Sep 2026 10:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:00:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 1, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information AM briefing (OpenAI in early talks to raise $30B before IPO), Wall Street vs Silicon Valley split over AI pricing and IPOs, cracks in AI data center boom, OpenAI DevDay recap, Factory vs Cognition talent dispute, Neros drone neutralizing Russia's jet-powered drones, legal accountability for AI companies (Gary Marcus on AI), and SF Tech Week networking highlights</description>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/3543C505-DF2A-4554-A7E6-31B6006B6CE5/audio-47c817a59cc7508a6ba727b7835e1b78b65e9e18a6299efaed4d01f4e077b022.mp3" length="21333190" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-01</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information AM briefing (OpenAI in early talks to raise $30B before IPO), Wall Street vs Silicon Valley split over AI pricing and IPOs, cracks in AI data center boom, OpenAI DevDay recap, Factory vs Cognition talent dispute, Neros drone neutralizing Russia's jet-powered drones, legal accountability for AI companies (Gary Marcus on AI), and SF Tech Week networking highlights</itunes:summary>
+      <itunes:duration>00:22:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1e893371-4daa-4a9b-8279-4d3722ea62fe/20261001</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - September 30, 2026</title>
       <description>Today's AI and global news roundup covering: AliExpress Elite VIP program (The Information), 67 AI startups fighting rogue agents (PitchBook), US-China relations and Chinamaxxing (Sinica Podcast), Anthropic's first existential IPO (Exponential View)</description>
