@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 02 Oct 2026 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 3, 2026</title>
+      <description>Today's AI and global news roundup covering: OpenAI hires Trump official for national security, Sean Parker's AI music push via Stability AI, cracks in AI data center debt financing, China's Anthropic gray market via token resellers, OpenAI fires three safety researchers, and AI-driven observability platforms replacing traditional DevOps tools.</description>
+      <pubDate>Sat, 03 Oct 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/752BA0AB-2A62-4964-9852-5F93F989678D/audio-f96fa556925f2ba061f957504e52f66f04679943f5d5318c75e33a08df92c9c7.mp3" length="23052256" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: OpenAI hires Trump official for national security, Sean Parker's AI music push via Stability AI, cracks in AI data center debt financing, China's Anthropic gray market via token resellers, OpenAI fires three safety researchers, and AI-driven observability platforms replacing traditional DevOps tools.</itunes:summary>
+      <itunes:duration>24:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a5f39ff3-904e-4070-96ac-f9858aa9b703/20261003</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - October 2, 2026</title>
       <description>Today's AI and global news roundup covering: SpaceX AI unit becomes a major AI cloud provider (Anthropic committed $84.5B), Google DeepMind's Android-style approach to robotics vs. Tesla's Apple approach, Vercel hits $600M ARR driven by AI coding agents, Apple's aggressive smart home push with October 13 launch, Meta's Muse agent reaches 3M+ weekly users, Micron's revenue quintuples on AI memory demand, and AIAS+ 2026 conference bringing together Fields Medalists and AI scientists to explore AI in scientific discovery.</description>
