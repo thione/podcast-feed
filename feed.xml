@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 03 Oct 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 4, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information on body language at the Trump AI Summit and who had power; The Big Read on AI agents going rogue and novel legal battles ahead; Sean Parker's quiet resurrection of Stability AI for music; Exponential View on electrification's hidden progress and the coming agentic bank run; PitchBook on the 401k dead-names scandal and private markets regulation</description>
+      <pubDate>Sun, 04 Oct 2026 10:20:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/0A2A81FF-6534-4ED3-A099-8CD7F2FB0BFF/audio-0c80e11037942392a40c1af31d88d2a0e55b77ce25ce1055038f6ad3f7a470a1.mp3" length="23408776" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information on body language at the Trump AI Summit and who had power; The Big Read on AI agents going rogue and novel legal battles ahead; Sean Parker's quiet resurrection of Stability AI for music; Exponential View on electrification's hidden progress and the coming agentic bank run; PitchBook on the 401k dead-names scandal and private markets regulation</itunes:summary>
+      <itunes:duration>00:24:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/cbfcd8b5-73be-4054-9836-047c104f4ce1/20261004</link>
+    </item>
 
     <item>
       <title>Lorenzo's Daily Deep Dive - October 3, 2026</title>
