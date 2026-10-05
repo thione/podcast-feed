@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 04 Oct 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:20:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 5, 2026</title>
+      <description>Today's AI and global news roundup covering: The Information (AI agents going rogue &amp; legal battles, Anthropic's big charity bill for shareholders, EV industry cash surge), AI Buzz! (space data centers, virtual try-on, open models), Ignite Insights (cybersecurity &amp; AI copying), Passing the Torch (tech IPO wealth advice), Marcus on AI (NYC AI hearing), Senator Cortez Masto on AI safety</description>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/B02EC2CC-7781-475A-A7F2-86898D0E3595/audio-e578c6204c963c204e20841dbee41fc1411d9935e18529bd181454b261272d31.mp3" length="22322500" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: The Information (AI agents going rogue &amp; legal battles, Anthropic's big charity bill for shareholders, EV industry cash surge), AI Buzz! (space data centers, virtual try-on, open models), Ignite Insights (cybersecurity &amp; AI copying), Passing the Torch (tech IPO wealth advice), Marcus on AI (NYC AI hearing), Senator Cortez Masto on AI safety</itunes:summary>
+      <itunes:duration>00:23:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f2709061-c996-40bf-8435-b4abd51b9f0f/20261005</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - October 4, 2026</title>
       <description>Today's AI and global news roundup covering: The Information on body language at the Trump AI Summit and who had power; The Big Read on AI agents going rogue and novel legal battles ahead; Sean Parker's quiet resurrection of Stability AI for music; Exponential View on electrification's hidden progress and the coming agentic bank run; PitchBook on the 401k dead-names scandal and private markets regulation</description>
