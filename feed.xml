@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 05 Oct 2026 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,18 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 6, 2026</title>
+      <description>Today's AI and global news roundup covering: AI alignment concerns from UC Berkeley's Stuart Russell on LLM safety risks; Meta and Microsoft reducing Claude usage by Anthropic; ChatGPT launching in-prompt advertising; Pentagon reportedly dropping Anthropic; and Anthropic's $100M plan to train 10,000 AI engineers.</description>
+      <pubDate>Tue, 06 Oct 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/FD1DBA25-ED17-4FCE-BB65-DB7A9AE126BD/audio-07dc9e2ed3653141c0580cf70d372516b2213ea18eae01b3bc9b17c836a87eac.mp3" length="16872312" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-06</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today's AI and global news roundup covering: AI alignment concerns from UC Berkeley's Stuart Russell on LLM safety risks; Meta and Microsoft reducing Claude usage by Anthropic; ChatGPT launching in-prompt advertising; Pentagon reportedly dropping Anthropic; and Anthropic's $100M plan to train 10,000 AI engineers.</itunes:summary>
+      <itunes:duration>00:17:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/bd931580-131f-49a6-93b4-c0156ac00d08/20261006</link>
+    </item>
     <item>
       <title>Lorenzo's Daily Deep Dive - October 5, 2026</title>
       <description>Today's AI and global news roundup covering: The Information (AI agents going rogue &amp; legal battles, Anthropic's big charity bill for shareholders, EV industry cash surge), AI Buzz! (space data centers, virtual try-on, open models), Ignite Insights (cybersecurity &amp; AI copying), Passing the Torch (tech IPO wealth advice), Marcus on AI (NYC AI hearing), Senator Cortez Masto on AI safety</description>
