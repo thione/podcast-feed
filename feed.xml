@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 06 Oct 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:26:46 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo&apos;s Daily Deep Dive - October 7, 2026</title>
+      <description>Today&apos;s AI and global news roundup: Microsoft and Workday&apos;s AI adoption and cost pressures; AI safety researchers and whistleblowers; Nvidia&apos;s cloud revenue-sharing plans; Megalith and D.E. Shaw&apos;s billion-dollar VC strategies; New York AI regulation, artificial intimacy, AI morality, climate and legacy themes, plus private-equity deal activity.</description>
+      <pubDate>Wed, 07 Oct 2026 10:26:46 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/327ED87A-184A-492C-8CF5-4B8C09E0A798/audio-588a76b9a428f8b8100d6eece01aa2e0a7dc8ad0f421d420e9796d298db8150f.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Today&apos;s AI and global news roundup: Microsoft and Workday&apos;s AI adoption and cost pressures; AI safety researchers and whistleblowers; Nvidia&apos;s cloud revenue-sharing plans; Megalith and D.E. Shaw&apos;s billion-dollar VC strategies; New York AI regulation, artificial intimacy, AI morality, climate and legacy themes, plus private-equity deal activity.</itunes:summary>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c8b2592d-ed81-46a8-9765-45a69f18de7a/20261007</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 6, 2026</title>
       <description>Today's AI and global news roundup covering: AI alignment concerns from UC Berkeley's Stuart Russell on LLM safety risks; Meta and Microsoft reducing Claude usage by Anthropic; ChatGPT launching in-prompt advertising; Pentagon reportedly dropping Anthropic; and Anthropic's $100M plan to train 10,000 AI engineers.</description>
