@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 08 Oct 2026 17:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:35:26 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 9, 2026</title>
+      <description>China’s crowded AI model race; Nvidia’s d-Matrix partnership and Eliyan takeover interest; infrastructure deals beyond AI; OpenAI revenue accounting and global M&amp;A; tech immigration and financing; OpenAI DevDay, Gemini 4, robotics, and agent-driven compute demand.</description>
+      <pubDate>Fri, 09 Oct 2026 18:35:26 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/DDA34FA1-E262-4454-9B81-C87B3C5DEF4E/audio-2b2cb95eaff1a0d7a636f39b8d7bd72a6141fafbf9b605f48d647344d180909f.mp3" length="19995721" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>China’s crowded AI model race; Nvidia’s d-Matrix partnership and Eliyan takeover interest; infrastructure deals beyond AI; OpenAI revenue accounting and global M&amp;A; tech immigration and financing; OpenAI DevDay, Gemini 4, robotics, and agent-driven compute demand.</itunes:summary>
+      <itunes:duration>00:20:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3d2c0d68-c76b-4637-8cea-afebac6533fe/20261009</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 8, 2026</title>
       <description>AI venture fundraising and Nvidia dealmaking; EV charging infrastructure powering AI; industrial robotics; OpenAI mathematics research; and Kalshi valuation.</description>
