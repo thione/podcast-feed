@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 09 Oct 2026 18:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:13:38 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 10, 2026</title>
+      <description>Voice-first AI agents and the future of screen time and office work, from Exponential View; Gary Marcus’s call to recall open-ended internet-connected AI agents over safety risks.</description>
+      <pubDate>Sat, 10 Oct 2026 10:13:38 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/2C83534D-C941-417C-B74C-CDEEE836A141/audio-0132083c364f678a74e583a7a6ae7fb34ea3efe9d7545b4dadb6dfac9139f107.mp3" length="22116446" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Voice-first AI agents and the future of screen time and office work, from Exponential View; Gary Marcus’s call to recall open-ended internet-connected AI agents over safety risks.</itunes:summary>
+      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/3ffcb456-9dd0-4d5a-b0ad-0a6fb99ec6c7/20261010</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 9, 2026</title>
       <description>China’s crowded AI model race; Nvidia’s d-Matrix partnership and Eliyan takeover interest; infrastructure deals beyond AI; OpenAI revenue accounting and global M&amp;A; tech immigration and financing; OpenAI DevDay, Gemini 4, robotics, and agent-driven compute demand.</description>
