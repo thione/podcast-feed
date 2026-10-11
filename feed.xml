@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 10 Oct 2026 10:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:12:55 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 11, 2026</title>
+      <description>AI-driven biotech and Zuckerberg’s ambitions; home GPU rigs and local AI ownership; secretive investor Zach Frankel’s network behind Cognition and Ramp; AI and Math 2.0, computing infrastructure, and Pakistan’s solar revolution, from The Information and Exponential View.</description>
+      <pubDate>Sun, 11 Oct 2026 10:12:55 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/DF28BB12-0B23-4C0F-B369-C6FC67917C70/audio-780310511be87ed196578f1d5aacf1e6dad3bdcec0ccef9d05930223c745b4dd.mp3" length="21887404" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-11</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI-driven biotech and Zuckerberg’s ambitions; home GPU rigs and local AI ownership; secretive investor Zach Frankel’s network behind Cognition and Ramp; AI and Math 2.0, computing infrastructure, and Pakistan’s solar revolution, from The Information and Exponential View.</itunes:summary>
+      <itunes:duration>00:22:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1b338a23-036e-4488-9f36-6ee50573156b/20261011</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 10, 2026</title>
       <description>Voice-first AI agents and the future of screen time and office work, from Exponential View; Gary Marcus’s call to recall open-ended internet-connected AI agents over safety risks.</description>
