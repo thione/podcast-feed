@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 11 Oct 2026 10:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:16:44 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 12, 2026</title>
+      <description>Anthropic’s potential Google-chip gross margins and data center economics; community opposition and oilfield-style benefit sharing for AI infrastructure; AI demos versus shipped capabilities and model pricing; climate coordination and planetary stabilization; Bay Area startup and AI events, from The Information, Ignite Insights, Cool Climate Collective, and Bay Area Founders Club.</description>
+      <pubDate>Mon, 12 Oct 2026 10:16:44 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/46370EE7-DBCD-4AAC-8493-1AFDBFB620D3/audio-9f6b1403ba389def3eb8c0a054af926bd67f7f057fe0105c8019426130ee0248.mp3" length="25346434" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Anthropic’s potential Google-chip gross margins and data center economics; community opposition and oilfield-style benefit sharing for AI infrastructure; AI demos versus shipped capabilities and model pricing; climate coordination and planetary stabilization; Bay Area startup and AI events, from The Information, Ignite Insights, Cool Climate Collective, and Bay Area Founders Club.</itunes:summary>
+      <itunes:duration>00:26:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/531b3e2f-d15c-4311-aae7-c31a5487e597/20261012</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 11, 2026</title>
       <description>AI-driven biotech and Zuckerberg’s ambitions; home GPU rigs and local AI ownership; secretive investor Zach Frankel’s network behind Cognition and Ramp; AI and Math 2.0, computing infrastructure, and Pakistan’s solar revolution, from The Information and Exponential View.</description>
