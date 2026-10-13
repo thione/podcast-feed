@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 12 Oct 2026 10:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:24:57 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 13, 2026</title>
+      <description>AI interpretability and Goodfire; White House AI testing oversight; venture firms securing startup compute; Microsoft Copilot and Anthropic; OpenAI’s possible Sora revival; rogue AI incidents, Meta and ByteDance, and Valar Atomics; hyperscaler chips and private-market liquidity; Gary Marcus’s frontier-lab valuation concerns; Shenzhen physical AI and Astral Codex Ten community updates. Sources: The Information, PitchBook, Dr. Paul Fang’s VC Signal, Marcus on AI, and Astral Codex Ten.</description>
+      <pubDate>Tue, 13 Oct 2026 10:24:57 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/9E4E7704-8402-4DDB-91E2-7B85052D972B/audio-7495d8ee47830c33379f1d25cf3c340ef5f0e04297c6c181702c563c02fef2d0.mp3" length="20450878" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI interpretability and Goodfire; White House AI testing oversight; venture firms securing startup compute; Microsoft Copilot and Anthropic; OpenAI’s possible Sora revival; rogue AI incidents, Meta and ByteDance, and Valar Atomics; hyperscaler chips and private-market liquidity; Gary Marcus’s frontier-lab valuation concerns; Shenzhen physical AI and Astral Codex Ten community updates. Sources: The Information, PitchBook, Dr. Paul Fang’s VC Signal, Marcus on AI, and Astral Codex Ten.</itunes:summary>
+      <itunes:duration>00:21:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6359e47f-157a-4b98-b521-5dee44cd15e1/20261013</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 12, 2026</title>
       <description>Anthropic’s potential Google-chip gross margins and data center economics; community opposition and oilfield-style benefit sharing for AI infrastructure; AI demos versus shipped capabilities and model pricing; climate coordination and planetary stabilization; Bay Area startup and AI events, from The Information, Ignite Insights, Cool Climate Collective, and Bay Area Founders Club.</description>
