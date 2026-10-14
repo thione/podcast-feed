@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 13 Oct 2026 10:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:17:27 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 14, 2026</title>
+      <description>OpenAI cybersecurity acquisition talks and model safety; Microsoft Azure reorganization, cost cuts and AI chips; Meta models and Anthropic’s Japan data center; Prime Intellect inference efficiency; Applied Intuition funding; AI valuations and measurable ROI; climate investing; media signals; Europe-China and India-China relations. Sources: The Information, PitchBook, Sustainable Media Center’s Signals, Sinica, and Marcus on AI.</description>
+      <pubDate>Wed, 14 Oct 2026 10:17:27 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/5E85995A-DAA6-4B8D-8D00-8EE7096436B3/audio-b703544d556ba2635747d662f55d4eb8cb59bc089677aeab7bf7f45fab5ed174.mp3" length="23002101" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>OpenAI cybersecurity acquisition talks and model safety; Microsoft Azure reorganization, cost cuts and AI chips; Meta models and Anthropic’s Japan data center; Prime Intellect inference efficiency; Applied Intuition funding; AI valuations and measurable ROI; climate investing; media signals; Europe-China and India-China relations. Sources: The Information, PitchBook, Sustainable Media Center’s Signals, Sinica, and Marcus on AI.</itunes:summary>
+      <itunes:duration>00:23:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/05794ad1-8b48-451d-a3f5-a87287f23010/20261014</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 13, 2026</title>
       <description>AI interpretability and Goodfire; White House AI testing oversight; venture firms securing startup compute; Microsoft Copilot and Anthropic; OpenAI’s possible Sora revival; rogue AI incidents, Meta and ByteDance, and Valar Atomics; hyperscaler chips and private-market liquidity; Gary Marcus’s frontier-lab valuation concerns; Shenzhen physical AI and Astral Codex Ten community updates. Sources: The Information, PitchBook, Dr. Paul Fang’s VC Signal, Marcus on AI, and Astral Codex Ten.</description>
