@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 14 Oct 2026 10:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:17:17 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 15, 2026</title>
+      <description>Anthropic growth and IPO valuation; nickel-zinc batteries for AI data centers; OpenAI math and cryptography; AI safety and human augmentation versus automation; publishing and AI at Frankfurt; consumer versus enterprise AI, children’s phones and European startup customers; AI tools and Substack feed controls. Sources: The Information, PitchBook, Signals, Marcus on AI, Astral Codex Ten, AI as Normal Technology, AI Buzz, and On Substack.</description>
+      <pubDate>Thu, 15 Oct 2026 10:17:17 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/B538F8A4-D885-4F7B-B992-B27D62E5E88D/audio-6531f563eb9271d08c6a219da2e0db6fc430de7fbc7c2b0624eea0bd9ce17937.mp3" length="25631900" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Anthropic growth and IPO valuation; nickel-zinc batteries for AI data centers; OpenAI math and cryptography; AI safety and human augmentation versus automation; publishing and AI at Frankfurt; consumer versus enterprise AI, children’s phones and European startup customers; AI tools and Substack feed controls. Sources: The Information, PitchBook, Signals, Marcus on AI, Astral Codex Ten, AI as Normal Technology, AI Buzz, and On Substack.</itunes:summary>
+      <itunes:duration>00:26:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e4e354d2-ecf7-48a6-bab7-5ef849b7ab60/20261015</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 14, 2026</title>
       <description>OpenAI cybersecurity acquisition talks and model safety; Microsoft Azure reorganization, cost cuts and AI chips; Meta models and Anthropic’s Japan data center; Prime Intellect inference efficiency; Applied Intuition funding; AI valuations and measurable ROI; climate investing; media signals; Europe-China and India-China relations. Sources: The Information, PitchBook, Sustainable Media Center’s Signals, Sinica, and Marcus on AI.</description>
