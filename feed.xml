@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 15 Oct 2026 10:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:16:06 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 17, 2026</title>
+      <description>DayOne’s TikTok-linked data-center IPO; Apple antitrust settlement concerns and Apple Intelligence in China; Tesla’s next-generation Roadster; independent Anthropic safety evaluations; tokenized-stock objections; OpenAI advertising expansion; Cognition token efficiency; safe AI-written software; Cursor–SpaceX data concerns; private-tech valuations; founder speed; Anthropic economics; AI and human creativity; Claude Haiku 5.5, Mistral Large 4, local models, and verifiable versus judgment-intensive AI tasks. Sources: The Information, NFX, Joseph Gordon-Levitt, Exponential View, and DeepLearning.AI’s The Batch.</description>
+      <pubDate>Sat, 17 Oct 2026 10:16:06 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/322713CB-0B87-4AFD-B915-C4583DB87E26/audio-762f37f5740ab713e3ef2ad02a7b1af41a75e2fbf6766045f1c67dbe82063335.mp3" length="21455234" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>DayOne’s TikTok-linked data-center IPO; Apple antitrust settlement concerns and Apple Intelligence in China; Tesla’s next-generation Roadster; independent Anthropic safety evaluations; tokenized-stock objections; OpenAI advertising expansion; Cognition token efficiency; safe AI-written software; Cursor–SpaceX data concerns; private-tech valuations; founder speed; Anthropic economics; AI and human creativity; Claude Haiku 5.5, Mistral Large 4, local models, and verifiable versus judgment-intensive AI tasks. Sources: The Information, NFX, Joseph Gordon-Levitt, Exponential View, and DeepLearning.AI’s The Batch.</itunes:summary>
+      <itunes:duration>00:22:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e5b80491-b3a5-4254-924a-1fe11a933ef8/20261017</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 15, 2026</title>
       <description>Anthropic growth and IPO valuation; nickel-zinc batteries for AI data centers; OpenAI math and cryptography; AI safety and human augmentation versus automation; publishing and AI at Frankfurt; consumer versus enterprise AI, children’s phones and European startup customers; AI tools and Substack feed controls. Sources: The Information, PitchBook, Signals, Marcus on AI, Astral Codex Ten, AI as Normal Technology, AI Buzz, and On Substack.</description>
