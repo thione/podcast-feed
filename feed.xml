@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 17 Oct 2026 10:16:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:14:07 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 18, 2026</title>
+      <description>Seed-stage competition and smaller VCs; larger private-equity funds moving down-market; secondary-market checks on GP valuations; LP reluctance to roll into continuation vehicles; corporate espionage and office surveillance risks; The Information Weekend’s cultural recommendations; diverse AI minds, the future of work and AI economics; Bay Area startup and AI events for October 19–25. Sources: PitchBook, The Information Weekend, Bay Area Founders Club, and Exponential View.</description>
+      <pubDate>Sun, 18 Oct 2026 10:14:07 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/8AEB7DEB-F2AC-4E32-AEFA-03FAD4E526A9/audio-0492595fab61c935decfd5b0eeade84c101bdcc5e73d5031e94034f76ea3cc06.mp3" length="18626487" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Seed-stage competition and smaller VCs; larger private-equity funds moving down-market; secondary-market checks on GP valuations; LP reluctance to roll into continuation vehicles; corporate espionage and office surveillance risks; The Information Weekend’s cultural recommendations; diverse AI minds, the future of work and AI economics; Bay Area startup and AI events for October 19–25. Sources: PitchBook, The Information Weekend, Bay Area Founders Club, and Exponential View.</itunes:summary>
+      <itunes:duration>00:19:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f57dd699-9cd6-4549-bd54-cb27748dd2fb/20261018</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 17, 2026</title>
       <description>DayOne’s TikTok-linked data-center IPO; Apple antitrust settlement concerns and Apple Intelligence in China; Tesla’s next-generation Roadster; independent Anthropic safety evaluations; tokenized-stock objections; OpenAI advertising expansion; Cognition token efficiency; safe AI-written software; Cursor–SpaceX data concerns; private-tech valuations; founder speed; Anthropic economics; AI and human creativity; Claude Haiku 5.5, Mistral Large 4, local models, and verifiable versus judgment-intensive AI tasks. Sources: The Information, NFX, Joseph Gordon-Levitt, Exponential View, and DeepLearning.AI’s The Batch.</description>
