@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 18 Oct 2026 10:14:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:14:11 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 19, 2026</title>
+      <description>Nyobolt batteries for Agility humanoid robots and fast-charging technology; potential neocloud overcapacity and Nvidia’s exposure; upstart banks’ capital requirements and fintech/crypto business models; a historical preview of Beijing’s 1929 streetcar riot and transport modernization. Sources: The Information Electric, AI Infrastructure, Finance, and Sinica.</description>
+      <pubDate>Mon, 19 Oct 2026 10:14:11 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/498F3F15-C5B0-4A50-B849-8A99A6A681F8/audio-fa2b3f953843855e8b9178372f99baf1877f5978945c2dd757f1cb1266c66c05.mp3" length="19742438" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-19</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nyobolt batteries for Agility humanoid robots and fast-charging technology; potential neocloud overcapacity and Nvidia’s exposure; upstart banks’ capital requirements and fintech/crypto business models; a historical preview of Beijing’s 1929 streetcar riot and transport modernization. Sources: The Information Electric, AI Infrastructure, Finance, and Sinica.</itunes:summary>
+      <itunes:duration>00:20:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/0d96b669-1766-448f-a1ef-572b5f887dc7/20261019</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 18, 2026</title>
       <description>Seed-stage competition and smaller VCs; larger private-equity funds moving down-market; secondary-market checks on GP valuations; LP reluctance to roll into continuation vehicles; corporate espionage and office surveillance risks; The Information Weekend’s cultural recommendations; diverse AI minds, the future of work and AI economics; Bay Area startup and AI events for October 19–25. Sources: PitchBook, The Information Weekend, Bay Area Founders Club, and Exponential View.</description>
