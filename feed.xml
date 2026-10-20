@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 19 Oct 2026 10:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:16:24 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 20, 2026</title>
+      <description>Physical AI and interpretability; Nikesh Arora’s daughter’s AI venture fund; Altman’s AI endgames and Pentagon export-control pressure; DeepSeek and Huawei chips; Anthropic’s upcoming model and public-benefit fund; Nscale power delays, CoreWeave financing and GI Partners leadership; ICBC and Chinese statecraft; tariff trade-war data. Sources: The Information, PitchBook, Sinica and Exponential View.</description>
+      <pubDate>Tue, 20 Oct 2026 10:16:24 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/2E610705-62EE-4C72-B613-52BE466DEF7C/audio-e82406e2c5ce086872dd35d4e0cc0d1e6955dd465a476cb1680e40e41a13c22c.mp3" length="21046052" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Physical AI and interpretability; Nikesh Arora’s daughter’s AI venture fund; Altman’s AI endgames and Pentagon export-control pressure; DeepSeek and Huawei chips; Anthropic’s upcoming model and public-benefit fund; Nscale power delays, CoreWeave financing and GI Partners leadership; ICBC and Chinese statecraft; tariff trade-war data. Sources: The Information, PitchBook, Sinica and Exponential View.</itunes:summary>
+      <itunes:duration>00:21:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/c650ec19-b1ec-4cff-8b1f-798ff0e6f5af/20261020</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 19, 2026</title>
       <description>Nyobolt batteries for Agility humanoid robots and fast-charging technology; potential neocloud overcapacity and Nvidia’s exposure; upstart banks’ capital requirements and fintech/crypto business models; a historical preview of Beijing’s 1929 streetcar riot and transport modernization. Sources: The Information Electric, AI Infrastructure, Finance, and Sinica.</description>
