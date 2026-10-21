@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 20 Oct 2026 10:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:17:08 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 21, 2026</title>
+      <description>Nvidia’s neocloud exposure and Firmus funding; CoreWeave’s debt reckoning; a potential Xbox buyout; OpenAI model pacing and security; Musk’s SpaceX share pledge; private-market returns versus the S&amp;P 500; VoiceBit restaurant AI; technology accountability and AI liability; Oussama Ammar on glory versus happiness.</description>
+      <pubDate>Wed, 21 Oct 2026 10:17:08 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/68B23F16-75B5-43EF-BEED-3D71FE281445/audio-09c0d3fdbd3166276c4745dd83579511a5234eff00a93d649ff6b41c01d5cf2e.mp3" length="22710366" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia’s neocloud exposure and Firmus funding; CoreWeave’s debt reckoning; a potential Xbox buyout; OpenAI model pacing and security; Musk’s SpaceX share pledge; private-market returns versus the S&amp;P 500; VoiceBit restaurant AI; technology accountability and AI liability; Oussama Ammar on glory versus happiness.</itunes:summary>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a575b3db-2d13-41a7-be2d-775d2bd38100/20261021</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 20, 2026</title>
       <description>Physical AI and interpretability; Nikesh Arora’s daughter’s AI venture fund; Altman’s AI endgames and Pentagon export-control pressure; DeepSeek and Huawei chips; Anthropic’s upcoming model and public-benefit fund; Nscale power delays, CoreWeave financing and GI Partners leadership; ICBC and Chinese statecraft; tariff trade-war data. Sources: The Information, PitchBook, Sinica and Exponential View.</description>
