@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 21 Oct 2026 10:17:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:17:54 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 22, 2026</title>
+      <description>Thoma Bravo’s cybersecurity bargain; Enovix drone batteries; AI-enabled bank attacks and defenses; AI safety advocates’ R&amp;D compute caps; a potential SpaceX–Tesla merger; OpenAI’s biotech acquisition; Salesforce–Braze; DeepSeek inference; Netflix growth; Meta leadership; GPU financing; consumer food-label scrutiny and indulgence; the history of trepanation.</description>
+      <pubDate>Thu, 22 Oct 2026 10:17:54 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/487D1DEF-9DDB-48F1-A9FC-17EB90B323B2/audio-bcb7cc9c94d8abf9280bf093e5dd826c134345990347670a4ef0db579b4713d2.mp3" length="26203669" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Thoma Bravo’s cybersecurity bargain; Enovix drone batteries; AI-enabled bank attacks and defenses; AI safety advocates’ R&amp;D compute caps; a potential SpaceX–Tesla merger; OpenAI’s biotech acquisition; Salesforce–Braze; DeepSeek inference; Netflix growth; Meta leadership; GPU financing; consumer food-label scrutiny and indulgence; the history of trepanation.</itunes:summary>
+      <itunes:duration>00:27:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/eecdcc45-bf5f-4401-9a0f-77b4819f9401/20261022</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 21, 2026</title>
       <description>Nvidia’s neocloud exposure and Firmus funding; CoreWeave’s debt reckoning; a potential Xbox buyout; OpenAI model pacing and security; Musk’s SpaceX share pledge; private-market returns versus the S&amp;P 500; VoiceBit restaurant AI; technology accountability and AI liability; Oussama Ammar on glory versus happiness.</description>
