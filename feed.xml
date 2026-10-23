@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 22 Oct 2026 10:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:15:46 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 23, 2026</title>
+      <description>AI project business value; Salesforce’s AI-agent fees; SB Energy’s possible IPO delay; Rick Rubin on AI and creativity; Datadog–Upwind acquisition talks; Utopai’s video-AI unicorn funding; Meta’s new share class and legal exposure; AI cybersecurity and regulation; Nvidia supply deals; OpenAI on Google Cloud; a16z’s crypto fund rebranding; melasma care; AI and children’s rights; CoreWeave risks; Epic Games and Unreal’s AI opportunities.</description>
+      <pubDate>Fri, 23 Oct 2026 10:15:46 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/60682FEF-E1DB-453F-86FC-A01576DC45EE/audio-dcdcc8b882b5e11088d9dcfdb4c39433154e60f18e0e300a172fa1d5fcc880c9.mp3" length="20174607" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI project business value; Salesforce’s AI-agent fees; SB Energy’s possible IPO delay; Rick Rubin on AI and creativity; Datadog–Upwind acquisition talks; Utopai’s video-AI unicorn funding; Meta’s new share class and legal exposure; AI cybersecurity and regulation; Nvidia supply deals; OpenAI on Google Cloud; a16z’s crypto fund rebranding; melasma care; AI and children’s rights; CoreWeave risks; Epic Games and Unreal’s AI opportunities.</itunes:summary>
+      <itunes:duration>00:21:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/954156cf-7e7c-454c-b6e3-38f0f9a3549a/20261023</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 22, 2026</title>
       <description>Thoma Bravo’s cybersecurity bargain; Enovix drone batteries; AI-enabled bank attacks and defenses; AI safety advocates’ R&amp;D compute caps; a potential SpaceX–Tesla merger; OpenAI’s biotech acquisition; Salesforce–Braze; DeepSeek inference; Netflix growth; Meta leadership; GPU financing; consumer food-label scrutiny and indulgence; the history of trepanation.</description>
