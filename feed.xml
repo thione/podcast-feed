@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 23 Oct 2026 10:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:29:09 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 24, 2026</title>
+      <description>Instacart sale talks; venture firms’ AI financing structures; Ramp–Airwallex rivalry; OpenAI and DeepSeek fundraising; China outbound-investment rules; Google grid incentives; Meta child-safety costs; fintech startups and private-market platforms; continuation funds; Meta Muse, ChatGPT education and Reflection–Nvidia; AI-driven cybersecurity risks.</description>
+      <pubDate>Sat, 24 Oct 2026 10:29:09 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/6B324287-15F6-4384-AA95-A327555FA2B8/audio-766a36282965241dfd4fa1a8ebe7aaa10264cbefc388bd7016a057d08a7956b5.mp3" length="21216998" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-24</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Instacart sale talks; venture firms’ AI financing structures; Ramp–Airwallex rivalry; OpenAI and DeepSeek fundraising; China outbound-investment rules; Google grid incentives; Meta child-safety costs; fintech startups and private-market platforms; continuation funds; Meta Muse, ChatGPT education and Reflection–Nvidia; AI-driven cybersecurity risks.</itunes:summary>
+      <itunes:duration>00:22:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a910d777-9d7b-46d9-9157-9406a49a0b15/20261024</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 23, 2026</title>
       <description>AI project business value; Salesforce’s AI-agent fees; SB Energy’s possible IPO delay; Rick Rubin on AI and creativity; Datadog–Upwind acquisition talks; Utopai’s video-AI unicorn funding; Meta’s new share class and legal exposure; AI cybersecurity and regulation; Nvidia supply deals; OpenAI on Google Cloud; a16z’s crypto fund rebranding; melasma care; AI and children’s rights; CoreWeave risks; Epic Games and Unreal’s AI opportunities.</description>
