@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 24 Oct 2026 10:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:16:18 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 25, 2026</title>
+      <description>OpenAI–Anthropic enterprise pricing; CoreWeave debt and AI infrastructure financing; AI-enabled cyberattacks; Ramp–Airwallex rivalry; private equity’s cash-pay healthcare pivot; inference-chip valuations and private markets; Bay Area AI events; generative AI’s risks; Oussama Ammar on work, play and judgment.</description>
+      <pubDate>Sun, 25 Oct 2026 10:16:18 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/983192BC-FC7F-4CAD-B54E-2FBDC15D793F/audio-0842f1c5617a2e28c2690a21ab387c25e014563ddf53927208b15412b2699afb.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-25</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>OpenAI–Anthropic enterprise pricing; CoreWeave debt and AI infrastructure financing; AI-enabled cyberattacks; Ramp–Airwallex rivalry; private equity’s cash-pay healthcare pivot; inference-chip valuations and private markets; Bay Area AI events; generative AI’s risks; Oussama Ammar on work, play and judgment.</itunes:summary>
+      <itunes:duration>00:17:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/6f320ae2-42ab-4a79-a210-e73ee38392c3/20261025</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 24, 2026</title>
       <description>Instacart sale talks; venture firms’ AI financing structures; Ramp–Airwallex rivalry; OpenAI and DeepSeek fundraising; China outbound-investment rules; Google grid incentives; Meta child-safety costs; fintech startups and private-market platforms; continuation funds; Meta Muse, ChatGPT education and Reflection–Nvidia; AI-driven cybersecurity risks.</description>
