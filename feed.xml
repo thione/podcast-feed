@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 25 Oct 2026 10:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:17:09 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 26, 2026</title>
+      <description>AI compute contracts and agent oversight; drone battery supply chains; data-center delay insurance; China’s growth and Europe trade; Maria Ressa on technology governance; Apple antitrust; Chinese AI micro-dramas; homeschooling advice.</description>
+      <pubDate>Mon, 26 Oct 2026 10:17:09 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/CD617C5F-32E8-4F97-99BD-A81CBDA6F547/audio-172664cff4d86eff744719ddb22729742a403ebbc7d9b892a18e9b2bc298ea3f.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI compute contracts and agent oversight; drone battery supply chains; data-center delay insurance; China’s growth and Europe trade; Maria Ressa on technology governance; Apple antitrust; Chinese AI micro-dramas; homeschooling advice.</itunes:summary>
+      <itunes:duration>00:24:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/83688348-f13c-4831-ae1c-5b38d19d00a8/20261026</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 25, 2026</title>
       <description>OpenAI–Anthropic enterprise pricing; CoreWeave debt and AI infrastructure financing; AI-enabled cyberattacks; Ramp–Airwallex rivalry; private equity’s cash-pay healthcare pivot; inference-chip valuations and private markets; Bay Area AI events; generative AI’s risks; Oussama Ammar on work, play and judgment.</description>
