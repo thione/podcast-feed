@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 26 Oct 2026 10:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:16:19 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 27, 2026</title>
+      <description>Anthropic IPO filings and compute commitments; tranched venture rounds; Stripe and agentic payments; AWS capacity and Kimi models; inference chips and neocloud finance; venture investing luck; AI science bottlenecks; community updates.</description>
+      <pubDate>Tue, 27 Oct 2026 10:16:19 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/0B489C7E-400F-468A-9081-8FDE224ED37D/audio-94bf041048205a40a13b5dc681a1fd75191a2d84dd644a81b5f8740c9b47fe5f.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-27</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Anthropic IPO filings and compute commitments; tranched venture rounds; Stripe and agentic payments; AWS capacity and Kimi models; inference chips and neocloud finance; venture investing luck; AI science bottlenecks; community updates.</itunes:summary>
+      <itunes:duration>00:22:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/de7d6c24-e42f-470f-9e9a-7e21416cebfc/20261027</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 26, 2026</title>
       <description>AI compute contracts and agent oversight; drone battery supply chains; data-center delay insurance; China’s growth and Europe trade; Maria Ressa on technology governance; Apple antitrust; Chinese AI micro-dramas; homeschooling advice.</description>
