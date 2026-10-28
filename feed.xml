@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 27 Oct 2026 10:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:15:00 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 28, 2026</title>
+      <description>Anthropic IPO economics and governance; AI chips and enterprise competition; Anduril valuation and power; Bumble take-private; Ray Kurzweil's AI replica; credit markets; AI and democracy.</description>
+      <pubDate>Wed, 28 Oct 2026 10:15:00 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/20812DB5-9A99-40A8-99DD-31FF986CCC31/audio-1fd82060d569edd6d589522589aeedb0ffcb24f1072f9709aa59d7d5271fcf43.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Anthropic IPO economics and governance; AI chips and enterprise competition; Anduril valuation and power; Bumble take-private; Ray Kurzweil's AI replica; credit markets; AI and democracy.</itunes:summary>
+      <itunes:duration>00:24:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/aafabb23-b9bd-4ee6-a795-603d97d9f16c/20261028</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 27, 2026</title>
       <description>Anthropic IPO filings and compute commitments; tranched venture rounds; Stripe and agentic payments; AWS capacity and Kimi models; inference chips and neocloud finance; venture investing luck; AI science bottlenecks; community updates.</description>
