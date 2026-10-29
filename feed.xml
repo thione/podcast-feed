@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 28 Oct 2026 10:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:16:23 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 29, 2026</title>
+      <description>AI investment divides and model distillation; cybersecurity; Amazon shopping agents; autonomous factories; sodium-ion batteries; claimed cryptography breakthroughs; CBS journalism; Anthropic business quality; Advent fundraising; AI-native services business models.</description>
+      <pubDate>Thu, 29 Oct 2026 10:16:23 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/F04117BF-5FBF-452B-BB49-7F7B03BDE339/audio-e3d49f19d6967e466b9fbd1c7985d3797d2884f266546917b5846c95c875e2ae.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-29</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI investment divides and model distillation; cybersecurity; Amazon shopping agents; autonomous factories; sodium-ion batteries; claimed cryptography breakthroughs; CBS journalism; Anthropic business quality; Advent fundraising; AI-native services business models.</itunes:summary>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/b29394a9-08ba-475e-ba5e-7e6afb344955/20261029</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 28, 2026</title>
       <description>Anthropic IPO economics and governance; AI chips and enterprise competition; Anduril valuation and power; Bumble take-private; Ray Kurzweil's AI replica; credit markets; AI and democracy.</description>
