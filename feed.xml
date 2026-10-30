@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 29 Oct 2026 10:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:14:58 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 30, 2026</title>
+      <description>DeepSeek funding; Nvidia credit support and AI infrastructure; legal AI adoption and assets; Dulo engineering AI; private equity fundraising; DoorDash and Instacart; invisible ads for AI agents; cryptography claims; earnings and Gemini; venture secondaries and UK startup policy; startup idea patterns; Substack lists; Signals; Astral Codex Ten; Exponential View; Andrew Yang.</description>
+      <pubDate>Fri, 30 Oct 2026 10:14:58 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/020C4509-F720-41AA-8D45-2323F6997980/audio-c39115e0302dc4dae5f64aacddf127dcfe0b99c64728ecdc8aafc3b76b5ed050.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-30</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>DeepSeek funding; Nvidia credit support and AI infrastructure; legal AI adoption and assets; Dulo engineering AI; private equity fundraising; DoorDash and Instacart; invisible ads for AI agents; cryptography claims; earnings and Gemini; venture secondaries and UK startup policy; startup idea patterns; Substack lists; Signals; Astral Codex Ten; Exponential View; Andrew Yang.</itunes:summary>
+      <itunes:duration>00:20:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/dbe4cade-5530-4c0e-8129-5dad7fd4f113/20261030</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 29, 2026</title>
       <description>AI investment divides and model distillation; cybersecurity; Amazon shopping agents; autonomous factories; sodium-ion batteries; claimed cryptography breakthroughs; CBS journalism; Anthropic business quality; Advent fundraising; AI-native services business models.</description>
