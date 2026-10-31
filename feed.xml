@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 30 Oct 2026 10:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:13:09 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - October 31, 2026</title>
+      <description>Private equity paper gains versus LP cash distributions; the VC IPO backlog and midterm election policy; potential public pension gains from Anthropic; Binance and Polymarket security incidents; Kalshi funding; DoorDash and Instacart; Cyera; Microsoft bonds; Thrive and ADT; Intel and Coinbase earnings.</description>
+      <pubDate>Sat, 31 Oct 2026 10:13:09 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/C5B81C33-F29D-46D7-856B-827D946BA1F0/audio-9b2bc6ac96248cca742c4688ac43be7d3e048fc6967276399f439013da8e637f.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-10-31</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Private equity paper gains versus LP cash distributions; the VC IPO backlog and midterm election policy; potential public pension gains from Anthropic; Binance and Polymarket security incidents; Kalshi funding; DoorDash and Instacart; Cyera; Microsoft bonds; Thrive and ADT; Intel and Coinbase earnings.</itunes:summary>
+      <itunes:duration>00:18:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/d2a3aec3-5c34-4cc4-82ff-9653f0189bf0/20261031</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - October 30, 2026</title>
       <description>DeepSeek funding; Nvidia credit support and AI infrastructure; legal AI adoption and assets; Dulo engineering AI; private equity fundraising; DoorDash and Instacart; invisible ads for AI agents; cryptography claims; earnings and Gemini; venture secondaries and UK startup policy; startup idea patterns; Substack lists; Signals; Astral Codex Ten; Exponential View; Andrew Yang.</description>
