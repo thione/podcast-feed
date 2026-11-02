@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 01 Nov 2026 11:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:16:03 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 2, 2026</title>
+      <description>US-China AI competition in the Global South: affordability, open-weight models, infrastructure and digital sovereignty; Astral Codex Ten community updates; Jon Ossoff's attributed campaign commentary.</description>
+      <pubDate>Mon, 02 Nov 2026 11:16:03 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/CDF6C49C-09D7-47F2-81D7-793B2DB25C02/audio-3ecda0a70c77c74e23bc27e3a8d767ef2a4bad1658bd72822a0adf56b009c860.mp3" length="19023130" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-02</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>US-China AI competition in the Global South: affordability, open-weight models, infrastructure and digital sovereignty; Astral Codex Ten community updates; Jon Ossoff's attributed campaign commentary.</itunes:summary>
+      <itunes:duration>00:19:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/779ca44f-f85e-4c1a-9aea-59df4a4d7a08/20261102</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 1, 2026</title>
       <description>Meta's home-robot prototype and China supply-chain constraints; California's billionaire-tax debate; AI longevity research and agent advertising; DoorDash and Instacart; OpenAI's chip diversification; PE-backed CEO pressures and AI infrastructure credit; Anthropic's IPO economics; Europe's industrial strategy; China's anti-involution policy; AI ethics from the Vatican; solo biotech and cheaper solar.</description>
