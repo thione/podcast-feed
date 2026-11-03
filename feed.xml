@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 02 Nov 2026 11:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:14:04 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 3, 2026</title>
+      <description>AI contract renewals and Anthropic IPO pricing; AI monitoring and safety; chip smuggling and Apple robotics; Binance security, technology financing and data-center politics; biopharma recovery.</description>
+      <pubDate>Tue, 03 Nov 2026 11:14:04 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/43A1D9F3-5AB4-4BAD-A48D-3899CFAFCB68/audio-ea579cf446fec33fa231c9ea8baae0e682ce05d0378d86a42ca4f82afa3a6733.mp3" length="14487855" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-03</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI contract renewals and Anthropic IPO pricing; AI monitoring and safety; chip smuggling and Apple robotics; Binance security, technology financing and data-center politics; biopharma recovery.</itunes:summary>
+      <itunes:duration>00:15:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/63af7d8f-973c-4ea9-b78e-85e45a68cd02/20261103</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 2, 2026</title>
       <description>US-China AI competition in the Global South: affordability, open-weight models, infrastructure and digital sovereignty; Astral Codex Ten community updates; Jon Ossoff's attributed campaign commentary.</description>
