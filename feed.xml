@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 03 Nov 2026 11:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:16:20 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 4, 2026</title>
+      <description>Nvidia influence and AI chip competition; Anthropic chip design and IPO economics; OpenAI leadership and enterprise AI costs; venture IPO liquidity and data-center investment; technology and democracy.</description>
+      <pubDate>Wed, 04 Nov 2026 11:16:20 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/84458591-4496-4DDE-831F-832DCF569A6C/audio-672c8ee2cd99558f30832d348a3ffb459cb0582a270989631289f828d164c018.mp3" length="20407411" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-04</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia influence and AI chip competition; Anthropic chip design and IPO economics; OpenAI leadership and enterprise AI costs; venture IPO liquidity and data-center investment; technology and democracy.</itunes:summary>
+      <itunes:duration>00:21:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/aa03a0a3-d2a5-4527-8948-9464528e753d/20261104</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 3, 2026</title>
       <description>AI contract renewals and Anthropic IPO pricing; AI monitoring and safety; chip smuggling and Apple robotics; Binance security, technology financing and data-center politics; biopharma recovery.</description>
