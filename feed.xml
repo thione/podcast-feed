@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 04 Nov 2026 11:16:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:15:46 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 5, 2026</title>
+      <description>Post-election AI and data-center policy; AI-agent cybersecurity and banking access; Apollo chip financing and Lumentum; Neros drones and China critical minerals; innovation infrastructure, Chinese consumer brands, and creativity.</description>
+      <pubDate>Thu, 05 Nov 2026 11:15:46 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/0D0EC8E1-DA82-46AB-9F75-46FBF2F871A4/audio-7bb982d160110124be65fe1459526d3ea048f079b1a84efd2118aff37ccd9c8b.mp3" length="24930147" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-05</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Post-election AI and data-center policy; AI-agent cybersecurity and banking access; Apollo chip financing and Lumentum; Neros drones and China critical minerals; innovation infrastructure, Chinese consumer brands, and creativity.</itunes:summary>
+      <itunes:duration>00:25:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/359d8072-6936-4d4b-b501-7a01e32aa251/20261105</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 4, 2026</title>
       <description>Nvidia influence and AI chip competition; Anthropic chip design and IPO economics; OpenAI leadership and enterprise AI costs; venture IPO liquidity and data-center investment; technology and democracy.</description>
