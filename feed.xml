@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 05 Nov 2026 11:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:14:36 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 6, 2026</title>
+      <description>AI infrastructure constraints and falling inference costs; Nvidia telecom-building retrofits; Microsoft and Iren delays; Chesky’s AI startup; Cyera funding; AI safety policy; OpenAI’s Pierre acquisition; China and SoftBank robotics; Sequoia and market news.</description>
+      <pubDate>Fri, 06 Nov 2026 11:14:36 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/BB9907D1-F94F-41BD-8840-82D34D036436/audio-ba9c270717e3bdf90932427b2a4108e0271eb9b87ac50970852f4ea61a3dd3ef.mp3" length="22648926" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-06</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI infrastructure constraints and falling inference costs; Nvidia telecom-building retrofits; Microsoft and Iren delays; Chesky’s AI startup; Cyera funding; AI safety policy; OpenAI’s Pierre acquisition; China and SoftBank robotics; Sequoia and market news.</itunes:summary>
+      <itunes:duration>00:23:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/bfc37d6e-5707-42f5-be08-18ccb677a572/20261106</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 5, 2026</title>
       <description>Post-election AI and data-center policy; AI-agent cybersecurity and banking access; Apollo chip financing and Lumentum; Neros drones and China critical minerals; innovation infrastructure, Chinese consumer brands, and creativity.</description>
