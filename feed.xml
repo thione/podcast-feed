@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 06 Nov 2026 11:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:14:48 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 7, 2026</title>
+      <description>TSMC’s possible 3D DRAM expansion; Claude personal finance and AI research acceleration; AI market correction and valuations; data center community benefits; prediction markets and European VC; developer tools and world models; Andrew Yang’s political commentary; skincare science.</description>
+      <pubDate>Sat, 07 Nov 2026 11:14:48 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/3FCFB1E2-81E6-431B-809D-F7D11892F229/audio-6864ae682cccb9429a14be6bca0fdb78135deb4899e8ce88b55b19f668b147c1.mp3" length="24063300" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-07</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>TSMC’s possible 3D DRAM expansion; Claude personal finance and AI research acceleration; AI market correction and valuations; data center community benefits; prediction markets and European VC; developer tools and world models; Andrew Yang’s political commentary; skincare science.</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/fffea7de-122c-40d6-95f1-3b05f6dc95af/20261107</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 6, 2026</title>
       <description>AI infrastructure constraints and falling inference costs; Nvidia telecom-building retrofits; Microsoft and Iren delays; Chesky’s AI startup; Cyera funding; AI safety policy; OpenAI’s Pierre acquisition; China and SoftBank robotics; Sequoia and market news.</description>
