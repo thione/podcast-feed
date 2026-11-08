@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 07 Nov 2026 11:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:13:14 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 8, 2026</title>
+      <description>VCs combining investing and operating roles; pressures on PE-backed CEOs; university endowments and SpaceX returns; Apollo’s private-market transparency push; private equity’s Gulf expansion; Europe’s industrial future and China’s integrated manufacturing system.</description>
+      <pubDate>Sun, 08 Nov 2026 11:13:14 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/1B385A1A-E78B-4471-89C6-E146F22D4C73/audio-8ad2ad6cd628434c373dd7a35386af33fb4395414cee701d7d354b5dec3405ad.mp3" length="21965563" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-08</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>VCs combining investing and operating roles; pressures on PE-backed CEOs; university endowments and SpaceX returns; Apollo’s private-market transparency push; private equity’s Gulf expansion; Europe’s industrial future and China’s integrated manufacturing system.</itunes:summary>
+      <itunes:duration>00:22:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/18b59045-5e92-4938-a938-8564cb9ef3d1/20261108</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 7, 2026</title>
       <description>TSMC’s possible 3D DRAM expansion; Claude personal finance and AI research acceleration; AI market correction and valuations; data center community benefits; prediction markets and European VC; developer tools and world models; Andrew Yang’s political commentary; skincare science.</description>
