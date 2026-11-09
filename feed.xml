@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 08 Nov 2026 11:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:13:08 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 9, 2026</title>
+      <description>The Information’s Sunday Insights: AI’s $300 billion stock issuance wave; roughly $100 billion in potential additional share sales; at-the-market offerings, shareholder dilution and financing costs; Iren’s delayed AI capital spending.</description>
+      <pubDate>Mon, 09 Nov 2026 11:13:08 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/CFD70085-B202-4210-B073-FA268903D56C/audio-2bf49b2e2404183dc2a26e6fd726dda435eb4ad0055f1f82be05f32e3ca2f1df.mp3" length="18324302" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-09</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>The Information’s Sunday Insights: AI’s $300 billion stock issuance wave; roughly $100 billion in potential additional share sales; at-the-market offerings, shareholder dilution and financing costs; Iren’s delayed AI capital spending.</itunes:summary>
+      <itunes:duration>00:19:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f6da02a8-fdb6-4339-a352-006e295d5aa8/20261109</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 8, 2026</title>
       <description>VCs combining investing and operating roles; pressures on PE-backed CEOs; university endowments and SpaceX returns; Apollo’s private-market transparency push; private equity’s Gulf expansion; Europe’s industrial future and China’s integrated manufacturing system.</description>
