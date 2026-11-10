@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 09 Nov 2026 11:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:17:25 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 10, 2026</title>
+      <description>Nvidia’s leadership investigation and China chip exports; AI security and Fireworks’ breach; Meta’s enterprise AI strategy; Anthropic and OpenAI financing; AI wearables, jagged AGI, social-media polarization and global signals.</description>
+      <pubDate>Tue, 10 Nov 2026 11:17:25 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/FD4E0238-2273-4397-983C-078946FB01E0/audio-dcd04bc1e7babee7b9a9135a57104fb7de0022f7c982e2f948f7b23fa9246507.mp3" length="21433918" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-10</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia’s leadership investigation and China chip exports; AI security and Fireworks’ breach; Meta’s enterprise AI strategy; Anthropic and OpenAI financing; AI wearables, jagged AGI, social-media polarization and global signals.</itunes:summary>
+      <itunes:duration>00:22:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/5151eacc-f69b-44af-8b9e-b69faf546d2a/20261110</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 9, 2026</title>
       <description>The Information’s Sunday Insights: AI’s $300 billion stock issuance wave; roughly $100 billion in potential additional share sales; at-the-market offerings, shareholder dilution and financing costs; Iren’s delayed AI capital spending.</description>
