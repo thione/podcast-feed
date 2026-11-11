@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 10 Nov 2026 11:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:16:14 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 11, 2026</title>
+      <description>OpenAI and Anthropic revenues, valuations and IPO risks; enterprise AI spending and Nvidia’s Nemotron; Google’s advertising transition and new TPUs; robotic surgery funding; venture valuations and European investing; youth politics, platform safety and engaging with criticism.</description>
+      <pubDate>Wed, 11 Nov 2026 11:16:14 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/E87E5BFE-2B58-4969-B4D6-43444D7A022F/audio-2aa23aed521c740b9e09c15d9dbf718e54985c174c094d832bff33e4b25b7fe0.mp3" length="20205536" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-11</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>OpenAI and Anthropic revenues, valuations and IPO risks; enterprise AI spending and Nvidia’s Nemotron; Google’s advertising transition and new TPUs; robotic surgery funding; venture valuations and European investing; youth politics, platform safety and engaging with criticism.</itunes:summary>
+      <itunes:duration>00:21:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/dd877618-4541-4ae4-928f-5de1e1903539/20261111</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 10, 2026</title>
       <description>Nvidia’s leadership investigation and China chip exports; AI security and Fireworks’ breach; Meta’s enterprise AI strategy; Anthropic and OpenAI financing; AI wearables, jagged AGI, social-media polarization and global signals.</description>
