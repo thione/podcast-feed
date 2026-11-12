@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 11 Nov 2026 11:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:16:59 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 12, 2026</title>
+      <description>AI chip export and remote-access rules; Sequoia’s AI roll-up investing; data-center backup power and inference infrastructure; Anthropic’s private-equity venture, IPO and cloud commitments; accelerating AI capabilities and safety; promising startups; consumer AI investment; Nvidia leadership commentary and Southern US politics.</description>
+      <pubDate>Thu, 12 Nov 2026 11:16:59 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/DF5AC9A4-C96A-446F-B310-905FCE555F1E/audio-df52681c937537e62065a0dd7d194526848bec786cb83568d54b5324753df524.mp3" length="19752887" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-12</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI chip export and remote-access rules; Sequoia’s AI roll-up investing; data-center backup power and inference infrastructure; Anthropic’s private-equity venture, IPO and cloud commitments; accelerating AI capabilities and safety; promising startups; consumer AI investment; Nvidia leadership commentary and Southern US politics.</itunes:summary>
+      <itunes:duration>00:20:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/7c073c56-56df-43eb-ab42-458ce6a23f06/20261112</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 11, 2026</title>
       <description>OpenAI and Anthropic revenues, valuations and IPO risks; enterprise AI spending and Nvidia’s Nemotron; Google’s advertising transition and new TPUs; robotic surgery funding; venture valuations and European investing; youth politics, platform safety and engaging with criticism.</description>
