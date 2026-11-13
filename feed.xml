@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 12 Nov 2026 11:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:15:51 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 13, 2026</title>
+      <description>Nvidia’s leadership upheaval, investigations, investment commitments and inference ecosystem; ByteDance’s share buyback; Anthropic valuation and AI capability limits; SES AI drone economics; AI worker unionization, medical claims and social-media impacts; writing craft; and The Free Press’s AI, culture and political commentary.</description>
+      <pubDate>Fri, 13 Nov 2026 11:15:51 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/E53116C6-876A-4774-9B82-2AB6438ED0A4/audio-987c44368c556ee97953bb8b5514b676bb3401b43fefe99adf8d89bd5787e399.mp3" length="14698924" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-13</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia’s leadership upheaval, investigations, investment commitments and inference ecosystem; ByteDance’s share buyback; Anthropic valuation and AI capability limits; SES AI drone economics; AI worker unionization, medical claims and social-media impacts; writing craft; and The Free Press’s AI, culture and political commentary.</itunes:summary>
+      <itunes:duration>00:15:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/db02dc73-acb6-4fb3-9f42-f8da094bfe1f/20261113</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 12, 2026</title>
       <description>AI chip export and remote-access rules; Sequoia’s AI roll-up investing; data-center backup power and inference infrastructure; Anthropic’s private-equity venture, IPO and cloud commitments; accelerating AI capabilities and safety; promising startups; consumer AI investment; Nvidia leadership commentary and Southern US politics.</description>
