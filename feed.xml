@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 13 Nov 2026 11:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:21:17 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 14, 2026</title>
+      <description>Grok video-generation layoffs and AI product economics; Nvidia investigations and leadership fallout; SpaceX-Tesla merger discussions; Microsoft outages and HubSpot leadership changes; the economics of human versus digital workers; Gary Marcus’s infrastructure-risk commentary; and The Batch’s agent harnesses, AI cybersecurity, model editing, search and document retrieval research.</description>
+      <pubDate>Sat, 14 Nov 2026 11:21:17 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/2A38E197-AD6F-4702-92E4-A55788C802A3/audio-47c8893f16e6a58ec67e688bb8be49f51fa14c7ee06af0739cd62c10a9c6a9ed.mp3" length="21002585" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-14</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Grok video-generation layoffs and AI product economics; Nvidia investigations and leadership fallout; SpaceX-Tesla merger discussions; Microsoft outages and HubSpot leadership changes; the economics of human versus digital workers; Gary Marcus’s infrastructure-risk commentary; and The Batch’s agent harnesses, AI cybersecurity, model editing, search and document retrieval research.</itunes:summary>
+      <itunes:duration>00:21:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ae9ac7c6-bb7d-47eb-a6e9-6cc9c5930175/20261114</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 13, 2026</title>
       <description>Nvidia’s leadership upheaval, investigations, investment commitments and inference ecosystem; ByteDance’s share buyback; Anthropic valuation and AI capability limits; SES AI drone economics; AI worker unionization, medical claims and social-media impacts; writing craft; and The Free Press’s AI, culture and political commentary.</description>
