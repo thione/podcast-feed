@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 14 Nov 2026 11:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:15:07 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 15, 2026</title>
+      <description>Nvidia’s leadership and governance crisis, the timeline of Jensen Huang’s departure and chip export controls; Nvidia’s role in AI venture funding; aerospace, defense and consumer investment trends; AI self-improvement and renewable energy economics from Exponential View; and Oussama Ammar on self-knowledge, criticism and genuine collaboration.</description>
+      <pubDate>Sun, 15 Nov 2026 11:15:07 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/FAC77215-648B-49FC-A1F6-8204E50EF400/audio-a45c537e2c011e74cc7ee6090f251b4d0004e8063fca8a8967ba530bfa9b8c89.mp3" length="21828054" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-15</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia’s leadership and governance crisis, the timeline of Jensen Huang’s departure and chip export controls; Nvidia’s role in AI venture funding; aerospace, defense and consumer investment trends; AI self-improvement and renewable energy economics from Exponential View; and Oussama Ammar on self-knowledge, criticism and genuine collaboration.</itunes:summary>
+      <itunes:duration>00:22:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/93fd5ad0-b3fd-4c90-a6c8-5ac8d663a6ba/20261115</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 14, 2026</title>
       <description>Grok video-generation layoffs and AI product economics; Nvidia investigations and leadership fallout; SpaceX-Tesla merger discussions; Microsoft outages and HubSpot leadership changes; the economics of human versus digital workers; Gary Marcus’s infrastructure-risk commentary; and The Batch’s agent harnesses, AI cybersecurity, model editing, search and document retrieval research.</description>
