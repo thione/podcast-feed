@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 15 Nov 2026 11:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:14:26 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 16, 2026</title>
+      <description>Zeromatter’s AI simulation tools for autonomous cars and robots; Envision Energy’s 800-volt AI data-center power systems and China’s infrastructure advantage; and Djoann Fal’s framework for world-order transitions, geopolitical risks and portfolio positioning.</description>
+      <pubDate>Mon, 16 Nov 2026 11:14:26 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/1F6EC721-92E7-480C-A1CC-F2203D35E27C/audio-eb931e800994d7d8e43b66ba0973d176dd9a28abb245f20817b1f08c6f1fc890.mp3" length="20530709" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-16</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Zeromatter’s AI simulation tools for autonomous cars and robots; Envision Energy’s 800-volt AI data-center power systems and China’s infrastructure advantage; and Djoann Fal’s framework for world-order transitions, geopolitical risks and portfolio positioning.</itunes:summary>
+      <itunes:duration>00:21:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/a3740081-a711-4279-9458-8b9b98f89471/20261116</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 15, 2026</title>
       <description>Nvidia’s leadership and governance crisis, the timeline of Jensen Huang’s departure and chip export controls; Nvidia’s role in AI venture funding; aerospace, defense and consumer investment trends; AI self-improvement and renewable energy economics from Exponential View; and Oussama Ammar on self-knowledge, criticism and genuine collaboration.</description>
