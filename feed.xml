@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 16 Nov 2026 11:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:15:29 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 17, 2026</title>
+      <description>OpenAI’s Astra and robotics; Claude versus Copilot adoption in Office; Goodfire and AI interpretability; trust and safety inside Big Tech; Nvidia’s leadership and venture ecosystem; space launches, climate-tech investment and AI-native legal services.</description>
+      <pubDate>Tue, 17 Nov 2026 11:15:29 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/77ABEA26-D58B-424E-BC97-0EB5782608D2/audio-846e7df568342765e6a939d708a0629651ffdc7c1c4f008eac287b7ebf113b30.mp3" length="22211323" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-17</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>OpenAI’s Astra and robotics; Claude versus Copilot adoption in Office; Goodfire and AI interpretability; trust and safety inside Big Tech; Nvidia’s leadership and venture ecosystem; space launches, climate-tech investment and AI-native legal services.</itunes:summary>
+      <itunes:duration>00:23:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/4b5b2785-2df3-4aff-a516-53fb11de53e9/20261117</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 16, 2026</title>
       <description>Zeromatter’s AI simulation tools for autonomous cars and robots; Envision Energy’s 800-volt AI data-center power systems and China’s infrastructure advantage; and Djoann Fal’s framework for world-order transitions, geopolitical risks and portfolio positioning.</description>
