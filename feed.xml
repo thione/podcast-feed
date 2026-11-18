@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Tue, 17 Nov 2026 11:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:14:40 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 18, 2026</title>
+      <description>Nvidia’s export controls and leadership fallout; AMD and Google chip competition; Anthropic IPO venture returns; OpenAI cybersecurity and personalized agents; browser-hosting startups; Panasonic and Sila Nano batteries; Revolut valuation and private-market returns; protein product economics; discourse-writing and China-policy analysis.</description>
+      <pubDate>Wed, 18 Nov 2026 11:14:40 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/73217C54-6664-489A-B9ED-07F3A4DED97B/audio-1fc9973f5005869fd83e007e4052476fab84ed172960bd95aba49e0e2fbe11c0.mp3" length="20424129" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-18</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia’s export controls and leadership fallout; AMD and Google chip competition; Anthropic IPO venture returns; OpenAI cybersecurity and personalized agents; browser-hosting startups; Panasonic and Sila Nano batteries; Revolut valuation and private-market returns; protein product economics; discourse-writing and China-policy analysis.</itunes:summary>
+      <itunes:duration>00:21:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/1e34567f-b544-447b-9bf5-e2b9dba5dfb2/20261118</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 17, 2026</title>
       <description>OpenAI’s Astra and robotics; Claude versus Copilot adoption in Office; Goodfire and AI interpretability; trust and safety inside Big Tech; Nvidia’s leadership and venture ecosystem; space launches, climate-tech investment and AI-native legal services.</description>
