@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 19 Nov 2026 11:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:16:44 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 20, 2026</title>
+      <description>Anthropic IPO fundraising, venture investors and employee retention; Nvidia's Inception acquisition talks; Meta Muse Charm hardware; ServiceNow AI competition; Bending Spoons financing; sustainable data-center infrastructure; AI forecasting; China and African development.</description>
+      <pubDate>Fri, 20 Nov 2026 11:16:44 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/88512FCB-9483-48CB-9965-F1128076400C/audio-3ccfbf16c16af90430c8a539b00d79aeacd64adfc7079e45803b035a01fdef92.mp3" length="23105337" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-20</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Anthropic IPO fundraising, venture investors and employee retention; Nvidia's Inception acquisition talks; Meta Muse Charm hardware; ServiceNow AI competition; Bending Spoons financing; sustainable data-center infrastructure; AI forecasting; China and African development.</itunes:summary>
+      <itunes:duration>00:24:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/ccc55518-a68b-4297-84d4-4a83534c5193/20261120</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 19, 2026</title>
       <description>China AI chip export controls and Moonshot; Microsoft and ByteDance AI negotiations; Sierra valuation; blood-testing startup Helios; Anthropic IPO and AI-safety philanthropy; Nvidia leadership and investment strategy; AI workplace tools; venture valuations; China-Africa perspectives; psychedelic therapy regulation and research.</description>
