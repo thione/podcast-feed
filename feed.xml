@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Fri, 20 Nov 2026 11:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:13:57 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 21, 2026</title>
+      <description>SoftBank's proposed SK Hynix buyout; Anthropic IPO roadshow and investor timeline; private-market fees; hard-asset infrastructure; chip export restrictions; Apple AI agents; World Labs Atlas; adaptive memory research.</description>
+      <pubDate>Sat, 21 Nov 2026 11:13:57 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/1E86E99A-77C9-4242-B4E5-DA00C627AEB1/audio-b6206d53afa58c393647d3a4dd6d33353b9d8dc5a495ef34a3289701cc719778.mp3" length="16291767" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-21</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>SoftBank's proposed SK Hynix buyout; Anthropic IPO roadshow and investor timeline; private-market fees; hard-asset infrastructure; chip export restrictions; Apple AI agents; World Labs Atlas; adaptive memory research.</itunes:summary>
+      <itunes:duration>00:16:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/f16a5870-359c-4e06-8268-f2438551a310/20261121</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 20, 2026</title>
       <description>Anthropic IPO fundraising, venture investors and employee retention; Nvidia's Inception acquisition talks; Meta Muse Charm hardware; ServiceNow AI competition; Bending Spoons financing; sustainable data-center infrastructure; AI forecasting; China and African development.</description>
