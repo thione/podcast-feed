@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sat, 21 Nov 2026 11:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:13:34 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 22, 2026</title>
+      <description>Nvidia governance and Jensen Huang's proposed return; chip export-control investigations; OpenAI management and cybersecurity; Helios blood-test claims; AI-generated venture fundraising pitches; legal AI and software lending; private equity hold periods; human-made digital culture; Anthropic business models; Riemann proof claims; grid and solar constraints.</description>
+      <pubDate>Sun, 22 Nov 2026 11:13:34 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/780EAF5B-1AEF-40CE-9499-F4AF7429C659/audio-0c08aab7dc2c43073ec34fbc0cedc1fcd1f5307cfc36e38f863d9757c55eeb42.mp3" length="21505807" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-22</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia governance and Jensen Huang's proposed return; chip export-control investigations; OpenAI management and cybersecurity; Helios blood-test claims; AI-generated venture fundraising pitches; legal AI and software lending; private equity hold periods; human-made digital culture; Anthropic business models; Riemann proof claims; grid and solar constraints.</itunes:summary>
+      <itunes:duration>00:22:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/73e21b83-5777-47ff-a26e-a53a6f6831b3/20261122</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 21, 2026</title>
       <description>SoftBank's proposed SK Hynix buyout; Anthropic IPO roadshow and investor timeline; private-market fees; hard-asset infrastructure; chip export restrictions; Apple AI agents; World Labs Atlas; adaptive memory research.</description>
