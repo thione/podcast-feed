@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Sun, 22 Nov 2026 11:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:15:18 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 23, 2026</title>
+      <description>Robotaxi service depots and battery supply chains; Amazon's long-term data center advantage over neoclouds; Apple's exposure to Google's search advertising slowdown; Anthropic employee liquidity and angel investing; AI benchmarks, mathematical proof claims, funding and Chinese regulation.</description>
+      <pubDate>Mon, 23 Nov 2026 11:15:18 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/14AE6871-E81F-43A2-B0E9-7CC7EC8B57EA/audio-1ab21e88c9c34f57e11fa269e4b60e3dc31497aa40f5d2688ce14e5d2336271e.mp3" length="19821014" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-23</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Robotaxi service depots and battery supply chains; Amazon's long-term data center advantage over neoclouds; Apple's exposure to Google's search advertising slowdown; Anthropic employee liquidity and angel investing; AI benchmarks, mathematical proof claims, funding and Chinese regulation.</itunes:summary>
+      <itunes:duration>00:20:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/898baa61-c772-4d72-be87-9ffb4311edc9/20261123</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 22, 2026</title>
       <description>Nvidia governance and Jensen Huang's proposed return; chip export-control investigations; OpenAI management and cybersecurity; Helios blood-test claims; AI-generated venture fundraising pitches; legal AI and software lending; private equity hold periods; human-made digital culture; Anthropic business models; Riemann proof claims; grid and solar constraints.</description>
