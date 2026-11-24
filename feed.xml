@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Mon, 23 Nov 2026 11:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:13:13 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 24, 2026</title>
+      <description>Nvidia reinstates Jensen Huang and Trump's role; AI power demand and geothermal energy; AMD valuation; Anthropic math claims and AI development limits; cybersecurity deals and AI financing; hardware and defense tech; youth mental health; App Store enforcement; turbulence data; AI forecasting; Andrew Yang on AI market risk.</description>
+      <pubDate>Tue, 24 Nov 2026 11:13:13 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/4E6C2E25-7E29-49DC-A104-702B5E556A9F/audio-231545930e1dd86b1322eca79451e199412fc2c1bbfc349c41c5c31ad87ecb65.mp3" length="22296586" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-24</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia reinstates Jensen Huang and Trump's role; AI power demand and geothermal energy; AMD valuation; Anthropic math claims and AI development limits; cybersecurity deals and AI financing; hardware and defense tech; youth mental health; App Store enforcement; turbulence data; AI forecasting; Andrew Yang on AI market risk.</itunes:summary>
+      <itunes:duration>00:23:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/9dd68fc6-4e99-472f-861e-5e9c437137d9/20261124</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 23, 2026</title>
       <description>Robotaxi service depots and battery supply chains; Amazon's long-term data center advantage over neoclouds; Apple's exposure to Google's search advertising slowdown; Anthropic employee liquidity and angel investing; AI benchmarks, mathematical proof claims, funding and Chinese regulation.</description>
