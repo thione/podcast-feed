@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Wed, 25 Nov 2026 11:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 11:19:32 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 26, 2026</title>
+      <description>AI safety advocates and Anthropic; U.S. restrictions on Chinese AI chips and model distillation; battery funding under the incoming Congress; Wall Street financing amid tech volatility; Nvidia leadership and AI markets; fintech investment; consciousness, identity and the future of human creativity.</description>
+      <pubDate>Thu, 26 Nov 2026 11:19:32 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/93D9C076-C48F-48D4-B45E-68AFC2FF5F48/audio-f99edb42f5e39a7a7a3a2f8dd5190e692bd050e2003ca6d05614676a23ac434a.mp3" length="13401579" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-26</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>AI safety advocates and Anthropic; U.S. restrictions on Chinese AI chips and model distillation; battery funding under the incoming Congress; Wall Street financing amid tech volatility; Nvidia leadership and AI markets; fintech investment; consciousness, identity and the future of human creativity.</itunes:summary>
+      <itunes:duration>00:13:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/dab8f95c-0f8e-4d6c-b27e-740c0cf73f3d/20261126</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 25, 2026</title>
       <description>Concentrated startup fundraising and the IPO market; OpenAI Athena enterprise data tools and cybersecurity plans; Nvidia leadership, export controls and AI financing; Grubhub losses; the joy economy and work culture; nuclear energy startups and AI power demand; Sustainable Media Center signals and the day's technology briefings.</description>
