@@ -11,7 +11,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lorenzo Thione</copyright>
     <managingEditor>lorenzo@gaingels.com (Lorenzo Thione)</managingEditor>
-    <lastBuildDate>Thu, 26 Nov 2026 11:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:14:45 +0000</lastBuildDate>
     <atom:link href="https://thione.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
     <itunes:author>Lorenzo Thione</itunes:author>
@@ -37,6 +37,19 @@
     </image>
 
     <!-- Episodes will be added here by automation -->
+    <item>
+      <title>Lorenzo's Daily Deep Dive - November 28, 2026</title>
+      <description>Nvidia governance and credit risks; Singapore AI-chip access; AI companion safety; Blackwell economics; Google Orchestrator, llama.cpp 1.0, language token costs and agent messaging; holiday gift guides; beauty, career and creative attention.</description>
+      <pubDate>Sat, 28 Nov 2026 11:14:45 +0000</pubDate>
+      <enclosure url="https://data.autocontentapi.com/managed-products/82A55B77-A290-4643-A7D0-B69EAC9CE1F4/audio-3544cadbc9e7a46845009dde1a0d34d04019eab55b9d9a1cb523873595c2398a.mp3" length="21203205" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2026-11-28</guid>
+      <itunes:author>Lorenzo Thione</itunes:author>
+      <itunes:summary>Nvidia governance and credit risks; Singapore AI-chip access; AI companion safety; Blackwell economics; Google Orchestrator, llama.cpp 1.0, language token costs and agent messaging; holiday gift guides; beauty, career and creative attention.</itunes:summary>
+      <itunes:duration>00:22:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://autocontentapi.com/share/podcast/e178102e-6ddd-4247-9d6c-a48c97777ca8/20261128</link>
+    </item>
+
     <item>
       <title>Lorenzo's Daily Deep Dive - November 26, 2026</title>
       <description>AI safety advocates and Anthropic; U.S. restrictions on Chinese AI chips and model distillation; battery funding under the incoming Congress; Wall Street financing amid tech volatility; Nvidia leadership and AI markets; fintech investment; consciousness, identity and the future of human creativity.</description>
